@@ -10,6 +10,7 @@
     --navy: #0F2A38; --navy-mid: #1B3A4B; --teal: #1A6B8A;
     --sand: #F7F4EE; --white: #FFFFFF; --border: #DDD8CE;
     --text: #1A1A2E; --text-light: #5C6470;
+    --green: #2E7D32; --red: #C0392B; --amber: #D4830A;
     --radius: 8px; --shadow: 0 2px 8px rgba(0,0,0,0.08);
     --shadow-hover: 0 6px 20px rgba(0,0,0,0.13);
   }
@@ -17,19 +18,30 @@
 
   /* HEADER */
   .site-header { background: var(--navy); color: white; padding: 16px 24px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 12px rgba(0,0,0,0.25); }
-  .header-top { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .header-top { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
   .site-logo { font-size: 22px; font-weight: 800; color: white; flex-shrink: 0; }
   .site-logo span { color: #5BC4E0; }
   .recipe-count { background: rgba(255,255,255,0.12); padding: 3px 10px; border-radius: 20px; font-size: 12px; color: rgba(255,255,255,0.7); flex-shrink: 0; }
+  .mode-badge { padding: 3px 10px; border-radius: 20px; font-size: 11px; font-weight: 700; letter-spacing: 0.3px; flex-shrink: 0; }
+  .mode-badge.locked { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.5); }
+  .mode-badge.unlocked { background: var(--amber); color: white; }
   .header-status { display: flex; align-items: center; gap: 8px; font-size: 11px; color: rgba(255,255,255,0.45); flex-shrink: 0; }
   .status-dot { width: 7px; height: 7px; border-radius: 50%; background: #4CAF50; flex-shrink: 0; }
   .status-dot.offline { background: #FF9800; }
   .status-dot.error   { background: #f44336; }
   .status-dot.loading { background: #5BC4E0; animation: pulse 1s infinite; }
+  .status-dot.saving  { background: #5BC4E0; animation: pulse 1s infinite; }
   @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
   .header-actions { display: flex; gap: 6px; margin-left: auto; align-items: center; }
   .icon-btn { width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.75); cursor: pointer; font-size: 15px; display: flex; align-items: center; justify-content: center; transition: all 0.15s; flex-shrink: 0; }
   .icon-btn:hover { background: rgba(255,255,255,0.18); color: white; }
+  .hbtn { padding: 6px 14px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.85); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; white-space: nowrap; flex-shrink: 0; }
+  .hbtn:hover { background: rgba(255,255,255,0.18); }
+  .hbtn.hbtn-add { background: rgba(91,196,224,0.18); color: #5BC4E0; border-color: rgba(91,196,224,0.35); }
+  .hbtn.hbtn-add:hover { background: rgba(91,196,224,0.28); }
+  .hbtn.hbtn-save { background: var(--green); color: white; border-color: var(--green); }
+  .hbtn.hbtn-save:hover { background: #1b5e20; }
+  .hbtn.hbtn-save:disabled { background: #555; border-color: #555; cursor: default; opacity: 0.7; }
   .search-box { flex: 1; position: relative; max-width: 400px; }
   .search-box input { width: 100%; padding: 9px 16px 9px 40px; border-radius: 24px; border: none; background: rgba(255,255,255,0.13); color: white; font-size: 14px; outline: none; transition: background 0.2s; }
   .search-box input::placeholder { color: rgba(255,255,255,0.5); }
@@ -70,6 +82,9 @@
   .badge-loc { background: var(--loc-color, #1A6B8A); color: white; }
   .badge-cat { background: var(--sand); color: var(--text-light); border: 1px solid var(--border); font-weight: 500; }
   .badge-sub { background: #EEF7FF; color: #2066A8; border: 1px solid #C8DFEF; font-weight: 500; }
+  .badge-master { background: #F1E4BE; color: #5A4A1A; border: 1px solid #E0CD8A; }
+  .badge-modified { background: #FFF3E0; color: #E65100; border: 1px solid #FFCC80; }
+  .badge-new { background: #E8F5E9; color: #1B5E20; border: 1px solid #A5D6A7; }
 
   /* RECIPE MODAL */
   .modal-backdrop { display: none; position: fixed; inset: 0; background: rgba(10,22,30,0.65); z-index: 500; align-items: center; justify-content: center; padding: 20px; backdrop-filter: blur(3px); }
@@ -79,14 +94,20 @@
   .modal-header { padding: 20px 24px 16px; border-bottom: 1px solid var(--border); border-left: 5px solid var(--loc-color, #1A6B8A); display: flex; align-items: flex-start; gap: 16px; flex-shrink: 0; }
   .modal-header-text { flex: 1; min-width: 0; }
   .modal-title { font-size: 18px; font-weight: 800; color: var(--text); line-height: 1.3; margin-bottom: 8px; }
+  .modal-title input { font-size: 18px; font-weight: 800; color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 6px 10px; width: 100%; outline: none; font-family: inherit; }
+  .modal-title input:focus { border-color: var(--teal); }
   .modal-close { flex-shrink: 0; width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border); background: var(--sand); cursor: pointer; font-size: 18px; display: flex; align-items: center; justify-content: center; color: var(--text-light); transition: all 0.15s; }
   .modal-close:hover { background: #fee; border-color: #f99; color: #c00; }
   .modal-body { padding: 20px 24px; overflow-y: auto; flex: 1; }
-  .modal-footer { padding: 14px 24px; border-top: 1px solid var(--border); display: flex; gap: 10px; background: var(--sand); flex-shrink: 0; }
+  .modal-footer { padding: 14px 24px; border-top: 1px solid var(--border); display: flex; gap: 10px; background: var(--sand); flex-shrink: 0; flex-wrap: wrap; }
   .action-btn { padding: 6px 14px; border-radius: 6px; border: 1px solid var(--border); background: white; font-size: 12px; font-weight: 600; cursor: pointer; color: var(--text-light); transition: all 0.15s; }
   .action-btn:hover { border-color: var(--teal); color: var(--teal); }
+  .action-btn.primary { background: var(--teal); color: white; border-color: var(--teal); }
+  .action-btn.primary:hover { background: #12516A; }
+  .action-btn.danger { background: #FDEDEC; color: var(--red); border-color: #F1948A; }
+  .action-btn.danger:hover { background: #FADADD; }
 
-  /* RECIPE DETAIL */
+  /* RECIPE DETAIL (view mode) */
   .detail-section { margin-bottom: 16px; }
   .detail-section:last-child { margin-bottom: 0; }
   .detail-heading { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.7px; color: var(--text-light); margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
@@ -107,31 +128,83 @@
   .meta-pill { display: flex; align-items: center; gap: 4px; }
   .meta-pill strong { color: var(--text); }
 
-  /* SETUP MODAL */
-  .setup-modal { background: var(--white); border-radius: 12px; box-shadow: 0 24px 60px rgba(0,0,0,0.4); width: 100%; max-width: 560px; padding: 32px; animation: modalIn 0.2s ease-out; }
-  .setup-title { font-size: 20px; font-weight: 800; color: var(--text); margin-bottom: 8px; }
-  .setup-subtitle { font-size: 14px; color: var(--text-light); margin-bottom: 24px; line-height: 1.5; }
+  /* EDIT FORM (inside modal) */
+  .fs { margin-bottom: 22px; }
+  .fs-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.7px; color: var(--text-light); margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+  .fg2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .fg3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .ff { display: flex; flex-direction: column; gap: 4px; }
+  .ff label { font-size: 12px; font-weight: 600; color: var(--text); }
+  .ff input, .ff select, .ff textarea { padding: 8px 11px; border-radius: 6px; border: 1px solid var(--border); font-size: 13px; color: var(--text); outline: none; font-family: inherit; transition: border-color 0.15s; background: white; }
+  .ff input:focus, .ff select:focus, .ff textarea:focus { border-color: var(--teal); }
+  .ff textarea { resize: vertical; min-height: 66px; line-height: 1.5; }
+  .full { grid-column: 1/-1; }
+  .ing-t { width: 100%; border-collapse: collapse; margin-bottom: 8px; }
+  .ing-t th { text-align: left; font-size: 11px; font-weight: 700; color: var(--text-light); padding: 4px 6px; border-bottom: 1px solid var(--border); }
+  .ing-t td { padding: 3px 3px; vertical-align: middle; }
+  .ing-t input { padding: 6px 8px; border-radius: 5px; border: 1px solid var(--border); font-size: 13px; color: var(--text); outline: none; width: 100%; font-family: inherit; }
+  .ing-t input:focus { border-color: var(--teal); }
+  .delbtn { background: none; border: none; color: var(--text-light); cursor: pointer; font-size: 16px; padding: 2px 6px; border-radius: 4px; line-height: 1; }
+  .delbtn:hover { background: #fee; color: var(--red); }
+  .addbtn { padding: 6px 14px; border-radius: 6px; border: 1px dashed var(--border); background: var(--sand); color: var(--text-light); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+  .addbtn:hover { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
+  .steps-ed { display: flex; flex-direction: column; gap: 5px; margin-bottom: 8px; }
+  .step-row { display: flex; gap: 6px; align-items: flex-start; }
+  .step-n { flex-shrink: 0; width: 22px; height: 34px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; color: var(--text-light); }
+  .step-row textarea { flex: 1; padding: 6px 10px; border-radius: 6px; border: 1px solid var(--border); font-size: 13px; color: var(--text); font-family: inherit; resize: none; outline: none; min-height: 34px; line-height: 1.4; overflow: hidden; }
+  .step-row textarea:focus { border-color: var(--teal); }
+
+  /* MASTER LINK BANNER (edit mode) */
+  .link-banner { display: flex; align-items: center; gap: 10px; background: #FBF6E8; border: 1px solid #E8D9A8; border-radius: 8px; padding: 10px 14px; margin-bottom: 18px; font-size: 12px; color: #5A4A1A; }
+  .link-banner-text { flex: 1; line-height: 1.5; }
+  .link-banner-text b { font-weight: 700; }
+  .link-banner-locs { color: #7A6530; }
+  .link-unlink-btn { flex-shrink: 0; padding: 5px 12px; border-radius: 6px; border: 1px solid #E0CD8A; background: white; color: #7A6530; font-size: 11px; font-weight: 700; cursor: pointer; white-space: nowrap; }
+  .link-unlink-btn:hover { background: #FDF9EC; border-color: #C9AE5C; }
+  .copy-row { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+  .copy-row select { flex: 1; padding: 7px 10px; border-radius: 6px; border: 1px solid var(--border); font-size: 12px; color: var(--text); outline: none; background: var(--sand); }
+  .copy-row select:focus { border-color: var(--teal); }
+  .copy-row button { padding: 7px 14px; border-radius: 6px; border: 1px solid var(--border); background: white; font-size: 12px; font-weight: 600; cursor: pointer; color: var(--teal); white-space: nowrap; }
+  .copy-row button:hover { background: #EBF5FA; border-color: var(--teal); }
+  .copy-row button:disabled { color: var(--text-light); cursor: default; background: white; }
+
+  /* PASSWORD MODAL */
+  .pw-modal { background: var(--white); border-radius: 12px; box-shadow: 0 24px 60px rgba(0,0,0,0.4); width: 100%; max-width: 380px; padding: 28px; animation: modalIn 0.2s ease-out; text-align: center; }
+  .pw-icon { font-size: 36px; margin-bottom: 10px; }
+  .pw-title { font-size: 17px; font-weight: 800; color: var(--text); margin-bottom: 6px; }
+  .pw-sub { font-size: 13px; color: var(--text-light); margin-bottom: 18px; }
+  .pw-input { width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid var(--border); font-size: 14px; color: var(--text); outline: none; margin-bottom: 10px; text-align: center; letter-spacing: 2px; }
+  .pw-input:focus { border-color: var(--teal); }
+  .pw-error { font-size: 12px; color: var(--red); margin-bottom: 10px; display: none; }
+  .pw-error.visible { display: block; }
+  .pw-btn { width: 100%; padding: 10px; border-radius: 8px; border: none; background: var(--teal); color: white; font-size: 14px; font-weight: 700; cursor: pointer; margin-bottom: 8px; }
+  .pw-btn:hover { background: #12516A; }
+  .pw-cancel { width: 100%; padding: 9px; border-radius: 8px; border: 1px solid var(--border); background: white; color: var(--text-light); font-size: 13px; font-weight: 600; cursor: pointer; }
+  .pw-cancel:hover { border-color: var(--text); color: var(--text); }
+
+  /* SETTINGS MODAL */
+  .setup-modal { background: var(--white); border-radius: 12px; box-shadow: 0 24px 60px rgba(0,0,0,0.4); width: 100%; max-width: 520px; padding: 30px; animation: modalIn 0.2s ease-out; }
+  .setup-title { font-size: 18px; font-weight: 800; color: var(--text); margin-bottom: 8px; }
+  .setup-sub { font-size: 13px; color: var(--text-light); margin-bottom: 18px; line-height: 1.5; }
   .setup-label { font-size: 12px; font-weight: 700; color: var(--text); margin-bottom: 6px; display: block; }
   .setup-input { width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid var(--border); font-size: 13px; color: var(--text); outline: none; transition: border-color 0.2s; margin-bottom: 8px; }
   .setup-input:focus { border-color: var(--teal); }
-  .setup-hint { font-size: 12px; color: var(--text-light); margin-bottom: 20px; line-height: 1.7; }
-  .setup-hint code { background: var(--sand); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
-  .setup-steps { margin-bottom: 24px; }
-  .setup-step { display: flex; gap: 12px; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 13px; color: var(--text-light); line-height: 1.5; }
-  .setup-step:last-child { border-bottom: none; }
-  .setup-step-num { flex-shrink: 0; width: 22px; height: 22px; border-radius: 50%; background: var(--navy); color: white; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
   .setup-btn { width: 100%; padding: 11px; border-radius: 8px; border: none; background: var(--teal); color: white; font-size: 14px; font-weight: 700; cursor: pointer; transition: background 0.15s; margin-bottom: 10px; }
   .setup-btn:hover { background: #155a75; }
   .setup-btn.secondary { background: var(--sand); color: var(--text-light); border: 1px solid var(--border); font-weight: 600; }
   .setup-btn.secondary:hover { border-color: var(--teal); color: var(--teal); background: white; }
-  .setup-error { background: #FDEDEC; border: 1px solid #F1948A; border-radius: 6px; padding: 10px 14px; font-size: 12px; color: #922B21; margin-bottom: 14px; display: none; }
-  .setup-error.visible { display: block; }
 
   /* EMPTY STATE */
   .empty-state { text-align: center; padding: 80px 20px; color: var(--text-light); }
   .empty-state .emoji { font-size: 48px; margin-bottom: 16px; }
   .empty-state h3 { font-size: 18px; color: var(--text); margin-bottom: 8px; }
   .empty-state p { font-size: 14px; margin-bottom: 20px; }
+
+  /* TOAST */
+  .toast { position: fixed; bottom: 24px; right: 24px; background: var(--navy); color: white; padding: 12px 20px; border-radius: 8px; font-size: 13px; font-weight: 600; box-shadow: 0 8px 24px rgba(0,0,0,0.2); z-index: 999; opacity: 0; transform: translateY(10px); transition: all 0.25s; pointer-events: none; max-width: 380px; line-height: 1.4; }
+  .toast.show { opacity: 1; transform: translateY(0); }
+  .toast.ok  { background: var(--green); }
+  .toast.err { background: var(--red); }
 
   /* LOCATION COLORS */
   .loc-nb   { --loc-color: #1A6B8A; }
@@ -155,13 +228,16 @@
   <div class="header-top">
     <div class="site-logo">🦀 Crabby's <span>Recipe Hub</span></div>
     <div class="recipe-count" id="headerCount">Loading…</div>
+    <div class="mode-badge locked" id="modeBadge">🔒 Staff View</div>
     <div class="header-status">
       <div class="status-dot loading" id="statusDot"></div>
       <span id="statusText">Fetching recipes…</span>
     </div>
     <div class="header-actions">
+      <button class="hbtn hbtn-add" id="addBtn" onclick="addNewRecipe()" style="display:none;">＋ Add Recipe</button>
+      <button class="hbtn hbtn-save" id="saveGhBtn" onclick="pushToGithub()" style="display:none;" disabled>☁ Save to GitHub</button>
+      <button class="icon-btn" id="lockBtn" onclick="toggleLock()" title="Unlock editing">🔒</button>
       <button class="icon-btn" id="refreshBtn" onclick="refreshData()" title="Refresh from source">↻</button>
-      <button class="icon-btn" onclick="openSettings()" title="Configure data source">⚙</button>
     </div>
     <div class="search-box">
       <svg class="search-icon" width="16" height="16" fill="none" stroke="white" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -203,11 +279,10 @@
     <div class="emoji" id="emptyEmoji">⏳</div>
     <h3 id="emptyTitle">Loading recipes…</h3>
     <p id="emptyMsg">Please wait</p>
-    <button class="setup-btn" id="emptyAction" style="max-width:220px;margin:0 auto;display:none;" onclick="openSettings()">Configure data source</button>
   </div>
 </main>
 
-<!-- RECIPE MODAL -->
+<!-- RECIPE MODAL (view + edit) -->
 <div class="modal-backdrop" id="modalBackdrop" onclick="handleBackdropClick(event)">
   <div class="modal">
     <div class="modal-header" id="modalHeader">
@@ -218,191 +293,307 @@
       <button class="modal-close" onclick="closeModal()">&#x2715;</button>
     </div>
     <div class="modal-body" id="modalBody"></div>
-    <div class="modal-footer">
-      <button class="action-btn" onclick="window.print()">🖨 Print</button>
-      <button class="action-btn" style="margin-left:auto" onclick="closeModal()">Close</button>
-    </div>
+    <div class="modal-footer" id="modalFooter"></div>
   </div>
 </div>
 
-<!-- SETUP / SETTINGS MODAL -->
+<!-- PASSWORD MODAL -->
+<div class="modal-backdrop" id="pwBackdrop">
+  <div class="pw-modal">
+    <div class="pw-icon">🔒</div>
+    <div class="pw-title">Enter Edit Password</div>
+    <div class="pw-sub">Ask a manager if you don't have this.</div>
+    <input class="pw-input" type="password" id="pwInput" placeholder="••••••••" autocomplete="off">
+    <div class="pw-error" id="pwError">Incorrect password</div>
+    <button class="pw-btn" onclick="checkPassword()">Unlock Editing</button>
+    <button class="pw-cancel" onclick="closePwModal()">Cancel</button>
+  </div>
+</div>
+
+<!-- SETTINGS MODAL (data source override) -->
 <div class="modal-backdrop" id="setupBackdrop">
   <div class="setup-modal">
-    <div class="setup-title" id="setupTitle">👋 Welcome to Recipe Hub</div>
-    <div class="setup-subtitle" id="setupSubtitle">
-      This viewer loads recipes from a central <strong>recipes.json</strong> file on SharePoint or OneDrive.
-      Set the link once — every time anyone opens this file it will automatically pull the latest recipes.
-    </div>
-    <div class="setup-steps" id="setupSteps">
-      <div class="setup-step"><div class="setup-step-num">1</div><div>Upload <code>recipes.json</code> to a SharePoint document library or OneDrive folder.</div></div>
-      <div class="setup-step"><div class="setup-step-num">2</div><div>Right-click the file → <strong>Share</strong> → set to <em>Anyone with the link can view</em> → <strong>Copy link</strong>.</div></div>
-      <div class="setup-step"><div class="setup-step-num">3</div><div>Paste the link below and click <strong>Save &amp; Load</strong>. This is remembered — staff won't need to do this again.</div></div>
-    </div>
-    <label class="setup-label" for="urlInput">SharePoint / OneDrive sharing link</label>
-    <input class="setup-input" type="url" id="urlInput" placeholder="https://…sharepoint.com/…" autocomplete="off">
-    <div class="setup-hint">
-      Works with SharePoint sharing links, OneDrive sharing links, or a direct URL to the raw JSON file.<br>
-      To update recipes: edit <code>recipes.json</code> and re-upload — everyone gets the new version on next open.
-    </div>
-    <div class="setup-error" id="setupError"></div>
-    <button class="setup-btn" onclick="saveAndLoad()">Save &amp; Load Recipes</button>
-    <button class="setup-btn secondary" id="setupCancelBtn" onclick="closeSettings()" style="display:none;">Cancel</button>
+    <div class="setup-title">⚙ Data Source Settings</div>
+    <div class="setup-sub">Override the recipe data source. Leave as-is unless you know you need to change it.</div>
+    <label class="setup-label" for="urlInput">Recipe data URL</label>
+    <input class="setup-input" type="url" id="urlInput" placeholder="https://…">
+    <button class="setup-btn" onclick="saveAndLoad()">Save &amp; Load</button>
+    <button class="setup-btn secondary" onclick="closeSettings()">Cancel</button>
   </div>
 </div>
 
+<div class="toast" id="toast"></div>
+
 <script>
-const STORAGE_KEY  = 'crabbys_source_url';
-const CACHE_KEY    = 'crabbys_recipe_cache';
-const CACHE_TS_KEY = 'crabbys_cache_time';
+// ─── CONFIG ──────────────────────────────────────────────────────────────────
+const STORAGE_KEY   = 'crabbys_source_url';
+const CACHE_KEY     = 'crabbys_recipe_cache';
+const CACHE_TS_KEY  = 'crabbys_cache_time';
 
-// Embedded default data source — no setup needed on first open
-const DEFAULT_SOURCE_URL = 'https://gist.githubusercontent.com/Lw00d/232752c70d29f243dce12dacb4b7e125/raw/gistfile1.txt';
+// Public read source — no secrets here, safe to publish.
+const CFG = {
+  rawUrl: 'https://gist.githubusercontent.com/Lw00d/232752c70d29f243dce12dacb4b7e125/raw/gistfile1.txt'
+};
 
+// Cloudflare Worker endpoint that handles saves — holds the real GitHub
+// token and validates the password server-side. Set this after deploying
+// the Worker (see worker.js). Example: 'https://recipe-hub-save.yourname.workers.dev'
+const WORKER_URL = 'https://recipe-hub-save.jbodzak.workers.dev';
+
+// The password typed at unlock time is kept in memory only (never persisted)
+// so it can be sent along with each save request for server-side verification.
+let enteredPassword = null;
+
+const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island"];
+const CATS = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
 const LOC_CLASS = { 'Salty Crab North Beach':'loc-nb','CDS':'loc-cds','Palm':'loc-palm','CBG':'loc-cbg',"Salty's Island":'loc-si' };
 const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'Palm','CBG':'CBG',"Salty's Island":"Salty's Island" };
 
-let RECIPES = [], SUBMENUS = {};
-let activeLoc='all', activeCat='', activeSub='', searchQuery='';
+// ─── STATE ───────────────────────────────────────────────────────────────────
+let RECIPES = [];
+let SUBMENUS = {};
+let activeLoc = 'all', activeCat = '', activeSub = '', searchQuery = '';
+let unlocked = false;
+let pending = false;          // unsaved changes not yet pushed to GitHub
+let currentModalId = null;
+let modalMode = 'view';       // 'view' | 'edit'
+let editSnapshot = null;      // JSON snapshot for Cancel/Revert
 
-// Convert sharing links to direct download URLs
-function normaliseUrl(raw) {
+// ─── PASSWORD / LOCK ─────────────────────────────────────────────────────────
+function toggleLock(){
+  if (unlocked) { lockEditing(); }
+  else { openPwModal(); }
+}
+
+function openPwModal(){
+  document.getElementById('pwInput').value='';
+  document.getElementById('pwError').classList.remove('visible');
+  document.getElementById('pwBackdrop').classList.add('open');
+  document.body.style.overflow='hidden';
+  setTimeout(()=>document.getElementById('pwInput').focus(),50);
+}
+function closePwModal(){
+  document.getElementById('pwBackdrop').classList.remove('open');
+  document.body.style.overflow='';
+}
+
+async function checkPassword(){
+  const val = document.getElementById('pwInput').value;
+  const btn = document.querySelector('.pw-btn');
+  const errEl = document.getElementById('pwError');
+  errEl.classList.remove('visible');
+  btn.disabled = true; btn.textContent = 'Checking…';
+  try{
+    const res = await fetch(WORKER_URL + '/verify', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ password: val })
+    });
+    if (res.ok) {
+      enteredPassword = val;
+      unlockEditing();
+      closePwModal();
+      toast('Editing unlocked ✓','ok');
+    } else {
+      errEl.textContent = 'Incorrect password';
+      errEl.classList.add('visible');
+    }
+  }catch(err){
+    errEl.textContent = 'Could not reach the server — check your connection';
+    errEl.classList.add('visible');
+  }finally{
+    btn.disabled = false; btn.textContent = 'Unlock Editing';
+  }
+}
+document.getElementById('pwInput').addEventListener('keydown', e=>{ if(e.key==='Enter') checkPassword(); });
+
+function unlockEditing(){
+  unlocked = true;
+  updateLockUI();
+}
+function lockEditing(){
+  unlocked = false;
+  enteredPassword = null;
+  updateLockUI();
+  if (modalMode === 'edit') closeModal();
+}
+function updateLockUI(){
+  const badge = document.getElementById('modeBadge');
+  const lockBtn = document.getElementById('lockBtn');
+  const addBtn = document.getElementById('addBtn');
+  const saveBtn = document.getElementById('saveGhBtn');
+  if (unlocked){
+    badge.textContent = '🔓 Edit Mode'; badge.className = 'mode-badge unlocked';
+    lockBtn.textContent = '🔓'; lockBtn.title = 'Lock editing';
+    addBtn.style.display = 'inline-block';
+    saveBtn.style.display = 'inline-block';
+  } else {
+    badge.textContent = '🔒 Staff View'; badge.className = 'mode-badge locked';
+    lockBtn.textContent = '🔒'; lockBtn.title = 'Unlock editing';
+    addBtn.style.display = 'none';
+    saveBtn.style.display = 'none';
+  }
+  render();
+}
+
+// ─── MASTER RECIPE LINKING ───────────────────────────────────────────────────
+function getLinkedSiblings(r){ if(!r||!r.masterId) return []; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id); }
+function getLinkedLocations(r){ return getLinkedSiblings(r).map(o=>o.location); }
+function shareContentFields(r){ const { id, masterId, location, _modified, _new, ...content } = r; return content; }
+function propagateToLinked(r){
+  const siblings = getLinkedSiblings(r);
+  if(!siblings.length) return 0;
+  const content = shareContentFields(r);
+  siblings.forEach(s => { Object.assign(s, content); s._modified = true; });
+  return siblings.length;
+}
+function newUid(){ return 'm-'+Date.now().toString(36)+Math.random().toString(36).slice(2,8); }
+
+// ─── URL NORMALISATION (for optional data-source override) ──────────────────
+function normaliseUrl(raw){
   const url = raw.trim();
-  if (url.includes('1drv.ms') || url.includes('onedrive.live.com')) {
-    return url + (url.includes('?') ? '&' : '?') + 'download=1';
-  }
-  if (url.includes('sharepoint.com') && /\/:.:\//.test(url)) {
-    return url + (url.includes('?') ? '&' : '?') + 'download=1';
-  }
+  if (url.includes('1drv.ms') || url.includes('onedrive.live.com')) return url + (url.includes('?')?'&':'?') + 'download=1';
+  if (url.includes('sharepoint.com') && /\/:.:\//.test(url)) return url + (url.includes('?')?'&':'?') + 'download=1';
   return url;
 }
 
-function setStatus(state, text) {
-  document.getElementById('statusDot').className = 'status-dot ' + (state === 'online' ? '' : state);
-  document.getElementById('statusText').textContent = text;
-}
-
-async function loadRecipes(url, useCache=true) {
-  setStatus('loading', 'Fetching latest recipes…');
-  document.getElementById('emptyState').style.display = 'none';
-  try {
-    const res = await fetch(normaliseUrl(url), { cache: 'no-cache' });
-    if (!res.ok) throw new Error(`Server returned ${res.status}`);
+// ─── DATA LOADING ────────────────────────────────────────────────────────────
+async function loadRecipes(url, useCache=true){
+  setStatus('loading','Fetching latest recipes…');
+  try{
+    const res = await fetch(normaliseUrl(url), { cache:'no-cache' });
+    if(!res.ok) throw new Error(`Server returned ${res.status}`);
     const data = await res.json();
-    if (!Array.isArray(data)) throw new Error('File does not contain a recipe list');
+    if(!Array.isArray(data)) throw new Error('File does not contain a recipe list');
     RECIPES = data;
     buildSubmenus();
-    try { localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); } catch(e){}
-    const ts = new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
-    setStatus('online', `Updated ${ts}`);
+    try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
+    setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     render();
-  } catch(err) {
+  }catch(err){
     console.warn('Fetch failed:', err.message);
     const cached = localStorage.getItem(CACHE_KEY);
-    if (useCache && cached) {
-      try {
+    if(useCache && cached){
+      try{
         RECIPES = JSON.parse(cached);
         buildSubmenus();
         const ts = localStorage.getItem(CACHE_TS_KEY);
-        setStatus('offline', `Offline — cached ${ts ? new Date(ts).toLocaleDateString() : 'data'}`);
+        setStatus('offline', `Offline — cached ${ts?new Date(ts).toLocaleDateString():'data'}`);
         render(); return;
-      } catch(e) {}
+      }catch(e){}
     }
-    setStatus('error', 'Could not load recipes');
-    showEmpty('⚠️', 'Could not load recipes', err.message.includes('fetch') ? 'Check your connection or the source URL.' : err.message, true);
+    setStatus('error','Could not load recipes');
+    showEmpty('⚠️','Could not load recipes', err.message.includes('fetch')?'Check your connection.':err.message);
   }
 }
+function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); }
+function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
-function buildSubmenus() {
-  SUBMENUS = {};
-  RECIPES.forEach(r => { if (!SUBMENUS[r.category]) SUBMENUS[r.category] = new Set(); if (r.submenu) SUBMENUS[r.category].add(r.submenu); });
-}
-
-async function init() {
-  const url = localStorage.getItem(STORAGE_KEY) || DEFAULT_SOURCE_URL;
+async function init(){
+  const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
 }
-
-async function refreshData() {
-  const url = localStorage.getItem(STORAGE_KEY) || DEFAULT_SOURCE_URL;
+async function refreshData(){
+  const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   const btn = document.getElementById('refreshBtn');
   btn.style.transform='rotate(360deg)'; btn.style.transition='transform 0.5s';
   setTimeout(()=>{ btn.style.transform=''; btn.style.transition=''; },600);
   await loadRecipes(url, false);
 }
 
-// Settings
-function openSetup() {
-  const existing = localStorage.getItem(STORAGE_KEY) || DEFAULT_SOURCE_URL;
-  document.getElementById('setupTitle').textContent = '⚙ Data Source Settings';
-  document.getElementById('setupSubtitle').style.display = 'none';
-  document.getElementById('setupSteps').style.display = 'none';
-  document.getElementById('setupCancelBtn').style.display = 'block';
-  document.getElementById('urlInput').value = existing;
-  document.getElementById('setupError').classList.remove('visible');
+// ─── SETTINGS (data source override) ────────────────────────────────────────
+function openSettings(){
+  document.getElementById('urlInput').value = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   document.getElementById('setupBackdrop').classList.add('open');
-  document.body.style.overflow = 'hidden';
+  document.body.style.overflow='hidden';
 }
-function openSettings() { openSetup(); }
-function closeSettings() { document.getElementById('setupBackdrop').classList.remove('open'); document.body.style.overflow=''; }
-
-async function saveAndLoad() {
+function closeSettings(){ document.getElementById('setupBackdrop').classList.remove('open'); document.body.style.overflow=''; }
+async function saveAndLoad(){
   const raw = document.getElementById('urlInput').value.trim();
-  const errEl = document.getElementById('setupError');
-  if (!raw) { errEl.textContent='Please enter a URL.'; errEl.classList.add('visible'); return; }
-  if (!raw.startsWith('http')) { errEl.textContent='URL must start with https://'; errEl.classList.add('visible'); return; }
-  errEl.classList.remove('visible');
+  if(!raw.startsWith('http')) return;
   localStorage.setItem(STORAGE_KEY, raw);
   closeSettings();
   await loadRecipes(raw, false);
 }
 
-// Rendering
-function getFiltered() {
+// ─── SAVE (via Cloudflare Worker — token stays server-side) ────────────────
+async function pushToGithub(){
+  if (!enteredPassword) { toast('Please unlock editing again to save','err'); openPwModal(); return; }
+  const btn = document.getElementById('saveGhBtn');
+  btn.disabled = true; btn.textContent = '☁ Saving…';
+  setStatus('saving','Saving…');
+  const clean = RECIPES.map(({_modified,_new,...r})=>r);
+  try{
+    const res = await fetch(WORKER_URL + '/save', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ password: enteredPassword, recipes: clean })
+    });
+    if (res.status === 401) throw new Error('Password rejected — please unlock again.');
+    if (!res.ok) throw new Error(`Save failed (${res.status})`);
+    RECIPES.forEach(r=>{ delete r._modified; delete r._new; });
+    pending = false;
+    setUnsaved(false);
+    render();
+    setStatus('online', `Saved ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
+    toast(`${clean.length} recipes saved — live for everyone ✓`,'ok');
+  }catch(err){
+    setStatus('error','Save failed');
+    toast('Save failed: '+err.message,'err');
+  }finally{
+    btn.disabled = !pending;
+    btn.textContent = '☁ Save to GitHub';
+  }
+}
+function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'); btn.disabled = !v; }
+
+// ─── FILTER / SEARCH ─────────────────────────────────────────────────────────
+function getFiltered(){
   const q = searchQuery.trim().toLowerCase();
-  return RECIPES.filter(r => {
-    if (activeLoc !== 'all' && r.location !== activeLoc) return false;
-    if (activeCat && r.category !== activeCat) return false;
-    if (activeSub && r.submenu !== activeSub) return false;
-    if (q) {
+  return RECIPES.filter(r=>{
+    if (activeLoc!=='all' && r.location!==activeLoc) return false;
+    if (activeCat && r.category!==activeCat) return false;
+    if (activeSub && r.submenu!==activeSub) return false;
+    if (q){
       const inName = r.name.toLowerCase().includes(q);
       const inIng  = r.ingredients.some(i=>i.name.toLowerCase().includes(q));
       const inStep = r.steps.some(s=>s.toLowerCase().includes(q));
-      if (!inName && !inIng && !inStep) return false;
+      if(!inName && !inIng && !inStep) return false;
     }
     return true;
   });
 }
-
-function hl(str) {
+function hl(str){
   const q = searchQuery.trim().toLowerCase();
-  if (!q) return str;
+  if(!q) return str;
   const idx = str.toLowerCase().indexOf(q);
-  if (idx===-1) return str;
+  if(idx===-1) return str;
   return str.slice(0,idx)+'<mark>'+str.slice(idx,idx+q.length)+'</mark>'+str.slice(idx+q.length);
 }
-function isSection(s)   { return s.endsWith(':') && s.length<60 && !s.includes('|'); }
-function isHighlight(s) { return s.startsWith('*') || s.startsWith('Note') || s.startsWith('**'); }
+function isSection(s){ return s.endsWith(':') && s.length<60 && !s.includes('|'); }
+function isHighlight(s){ return s.startsWith('*') || s.startsWith('Note') || s.startsWith('**'); }
+function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
-function showEmpty(emoji, title, msg, showCfg=false) {
+function showEmpty(emoji,title,msg){
   document.getElementById('recipeGrid').style.display='none';
-  document.getElementById('emptyState').style.display='block';
+  const es = document.getElementById('emptyState');
+  es.style.display='block';
   document.getElementById('emptyEmoji').textContent=emoji;
   document.getElementById('emptyTitle').textContent=title;
   document.getElementById('emptyMsg').textContent=msg;
-  document.getElementById('emptyAction').style.display=showCfg?'block':'none';
 }
 
-function render() {
-  if (!RECIPES.length) return;
+function render(){
+  if(!RECIPES.length) return;
   const filtered = getFiltered();
   const grid = document.getElementById('recipeGrid');
   const hasFilters = activeLoc!=='all'||activeCat||activeSub||searchQuery.trim();
   document.getElementById('clearBtn').classList.toggle('visible', hasFilters);
-  if (!filtered.length) { showEmpty('🔍','No recipes found','Try adjusting your search or filters'); return; }
+  if(!filtered.length){ showEmpty('🔍','No recipes found','Try adjusting your search or filters'); return; }
   document.getElementById('emptyState').style.display='none';
   grid.style.display='grid';
   const frag = document.createDocumentFragment();
-  filtered.forEach(r => frag.appendChild(renderCard(r)));
+  filtered.forEach(r=>frag.appendChild(renderCard(r)));
   grid.innerHTML=''; grid.appendChild(frag);
   const total = filtered.length;
   document.getElementById('resultsText').innerHTML = hasFilters
@@ -411,36 +602,46 @@ function render() {
   document.getElementById('headerCount').textContent = `${total.toLocaleString()} recipe${total!==1?'s':''}`;
 }
 
-function getLinkedCount(recipe){
-  if (!recipe.masterId) return 0;
-  return RECIPES.filter(r => r.masterId===recipe.masterId && r.id!==recipe.id).length;
-}
+function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id).length; }
 
-function renderCard(recipe) {
+function renderCard(recipe){
   const lc = LOC_CLASS[recipe.location]||'';
   const card = document.createElement('div');
   card.className = `recipe-card ${lc}`;
   const sub = recipe.submenu ? `<span class="badge badge-sub">${recipe.submenu}</span>` : '';
   const n = getLinkedCount(recipe);
-  const master = n ? `<span class="badge" style="background:#F1E4BE;color:#5A4A1A;border:1px solid #E0CD8A">&#x1F517; ${n+1} stores</span>` : '';
+  const master = n ? `<span class="badge badge-master">🔗 ${n+1} stores</span>` : '';
+  const modFlag = unlocked && recipe._modified ? `<span class="badge badge-modified">edited</span>` : '';
+  const newFlag = unlocked && recipe._new ? `<span class="badge badge-new">new</span>` : '';
   card.innerHTML = `<div class="card-header" onclick="openModal('${recipe.id}')">
     <div class="card-name">${hl(recipe.name)}</div>
     <div class="card-meta">
       <span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span>
-      <span class="badge badge-cat">${recipe.category}</span>${sub}${master}
+      <span class="badge badge-cat">${recipe.category}</span>${sub}${master}${modFlag}${newFlag}
     </div></div>`;
   return card;
 }
 
-function openModal(id) {
-  const recipe = RECIPES.find(r=>r.id===id); if (!recipe) return;
+// ─── MODAL: VIEW MODE ────────────────────────────────────────────────────────
+function openModal(id){
+  currentModalId = id;
+  modalMode = 'view';
+  renderModalView();
+  document.getElementById('modalBackdrop').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function getCurrentRecipe(){ return RECIPES.find(r=>r.id===currentModalId); }
+
+function renderModalView(){
+  const recipe = getCurrentRecipe(); if(!recipe) return;
   const lc = LOC_CLASS[recipe.location]||'';
-  document.getElementById('modalHeader').className=`modal-header ${lc}`;
-  document.getElementById('modalTitle').textContent=recipe.name;
-  const sub = recipe.submenu?`<span class="badge badge-sub">${recipe.submenu}</span>`:'';
+  document.getElementById('modalHeader').className = `modal-header ${lc}`;
+  document.getElementById('modalTitle').textContent = recipe.name;
+
+  const sub = recipe.submenu ? `<span class="badge badge-sub">${recipe.submenu}</span>` : '';
   const n = getLinkedCount(recipe);
-  const master = n ? `<span class="badge" style="background:#F1E4BE;color:#5A4A1A;border:1px solid #E0CD8A">&#x1F517; ${n+1} stores</span>` : '';
-  document.getElementById('modalMeta').innerHTML=`<span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span><span class="badge badge-cat">${recipe.category}</span>${sub}${master}`;
+  const master = n ? `<span class="badge badge-master">🔗 ${n+1} stores</span>` : '';
+  document.getElementById('modalMeta').innerHTML = `<span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span><span class="badge badge-cat">${recipe.category}</span>${sub}${master}`;
 
   const metas=[];
   if(recipe.yield)     metas.push(`<div class="meta-pill">⚖️ <strong>Yield:</strong> ${recipe.yield}</div>`);
@@ -456,11 +657,11 @@ function openModal(id) {
 
   let stepsHTML='';
   if(recipe.steps&&recipe.steps.length){
-    let n=0;
+    let n2=0;
     const items=recipe.steps.map(s=>{
-      if(isSection(s))   return `<div class="step-section-label">${s.slice(0,-1)}</div>`;
-      if(isHighlight(s)){n++;return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`;}
-      n++;return `<div class="step-item"><div class="step-num">${n}</div><div class="step-text">${hl(s)}</div></div>`;
+      if(isSection(s)) return `<div class="step-section-label">${s.slice(0,-1)}</div>`;
+      if(isHighlight(s)){ n2++; return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`; }
+      n2++; return `<div class="step-item"><div class="step-num">${n2}</div><div class="step-text">${hl(s)}</div></div>`;
     }).join('');
     stepsHTML=`<div class="detail-section"><div class="detail-heading">Preparation</div><div class="steps-list">${items}</div></div>`;
   }
@@ -468,17 +669,203 @@ function openModal(id) {
   let notesHTML='';
   if(recipe.notes&&recipe.notes.trim()) notesHTML=`<div class="detail-section"><div class="detail-heading">Notes</div><div style="font-size:13px;color:var(--text-light);font-style:italic">${recipe.notes}</div></div>`;
 
-  document.getElementById('modalBody').innerHTML=metaHTML+ingHTML+stepsHTML+notesHTML;
-  document.getElementById('modalBody').scrollTop=0;
-  document.getElementById('modalBackdrop').classList.add('open');
-  document.body.style.overflow='hidden';
+  document.getElementById('modalBody').innerHTML = metaHTML+ingHTML+stepsHTML+notesHTML;
+  document.getElementById('modalBody').scrollTop = 0;
+
+  const editBtn = unlocked ? `<button class="action-btn primary" onclick="enterEditMode()">✏️ Edit</button>` : '';
+  document.getElementById('modalFooter').innerHTML = `
+    <button class="action-btn" onclick="window.print()">🖨 Print</button>
+    ${editBtn}
+    <button class="action-btn" style="margin-left:auto" onclick="closeModal()">Close</button>`;
 }
 
-function closeModal() { document.getElementById('modalBackdrop').classList.remove('open'); document.body.style.overflow=''; }
-function handleBackdropClick(e) { if(e.target===document.getElementById('modalBackdrop')) closeModal(); }
-document.addEventListener('keydown', e=>{ if(e.key==='Escape'){closeModal();closeSettings();} });
+// ─── MODAL: EDIT MODE ────────────────────────────────────────────────────────
+function enterEditMode(){
+  const recipe = getCurrentRecipe(); if(!recipe) return;
+  editSnapshot = JSON.stringify(recipe);
+  modalMode = 'edit';
+  renderModalEdit();
+}
 
-function clearFilters() {
+function renderModalEdit(){
+  const r = getCurrentRecipe(); if(!r) return;
+  const lc = LOC_CLASS[r.location]||'';
+  document.getElementById('modalHeader').className = `modal-header ${lc}`;
+  document.getElementById('modalTitle').innerHTML = `<input type="text" id="editNameInput" value="${esc(r.name)}" placeholder="Recipe name" oninput="uF('name',this.value)">`;
+  document.getElementById('modalMeta').innerHTML = '';
+
+  const locOpts = LOCS.map(l=>`<option${l===r.location?' selected':''}>${l}</option>`).join('');
+  const catOpts = CATS.map(c=>`<option${c===r.category?' selected':''}>${c}</option>`).join('');
+  const ings = r.ingredients?.length ? r.ingredients : [{qty:'',unit:'',name:''}];
+  const ingRows = ings.map((g,i)=>`<tr>
+    <td><input type="text" value="${esc(g.qty)}" placeholder="Qty" data-i="${i}" data-f="qty" oninput="uIng(this)" style="width:70px"></td>
+    <td><input type="text" value="${esc(g.unit)}" placeholder="Unit" data-i="${i}" data-f="unit" oninput="uIng(this)" style="width:130px"></td>
+    <td><input type="text" value="${esc(g.name)}" placeholder="Ingredient name" data-i="${i}" data-f="name" oninput="uIng(this)"></td>
+    <td style="width:32px;text-align:center"><button class="delbtn" onclick="delIng(${i})">&#xD7;</button></td></tr>`).join('');
+  const steps = r.steps?.length ? r.steps : [''];
+  const stepRows = steps.map((s,i)=>`<div class="step-row">
+    <div class="step-n">${i+1}</div>
+    <textarea rows="1" placeholder="Step ${i+1}…" data-s="${i}" oninput="uStep(this)" onkeydown="stepKey(event,this)">${esc(s)}</textarea>
+    <button class="delbtn" style="margin-top:5px" onclick="delStep(${i})">&#xD7;</button></div>`).join('');
+
+  const linked = getLinkedLocations(r);
+  const linkBanner = linked.length
+    ? `<div class="link-banner">
+        <div class="link-banner-text"><b>🔗 Master recipe — ${linked.length+1} stores linked.</b><br>
+        <span class="link-banner-locs">Also at: ${linked.map(l=>LOC_SHORT[l]||l).join(', ')}</span><br>
+        Saving here updates the shared recipe everywhere except location.</div>
+        <button class="link-unlink-btn" onclick="unlinkRecipe()">Unlink this store</button>
+      </div>`
+    : '';
+  const unlinkedLocations = LOCS.filter(l=>l!==r.location && !linked.includes(l));
+  const copyLocOpts = unlinkedLocations.length
+    ? unlinkedLocations.map(l=>`<option value="${l}">${LOC_SHORT[l]||l}</option>`).join('')
+    : '';
+
+  document.getElementById('modalBody').innerHTML = `
+    ${linkBanner}
+    <div class="fs"><div class="fs-title">Basic Info</div>
+      <div class="fg2">
+        <div class="ff"><label>Location</label><select onchange="uF('location',this.value)">${locOpts}</select></div>
+        <div class="ff"><label>Category</label><select onchange="uF('category',this.value)">${catOpts}</select></div>
+        <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label><input type="text" value="${esc(r.submenu)}" placeholder="e.g. Soups…" oninput="uF('submenu',this.value)"></div>
+      </div></div>
+    <div class="fs"><div class="fs-title">Details</div>
+      <div class="fg3">
+        <div class="ff"><label>Yield</label><input type="text" value="${esc(r.yield)}" placeholder="e.g. 1 quart" oninput="uF('yield',this.value)"></div>
+        <div class="ff"><label>Shelf Life</label><input type="text" value="${esc(r.shelfLife)}" placeholder="e.g. 3 days" oninput="uF('shelfLife',this.value)"></div>
+        <div class="ff"><label>Smallware</label><input type="text" value="${esc(r.smallware)}" placeholder="e.g. 4qt pan" oninput="uF('smallware',this.value)"></div>
+      </div></div>
+    <div class="fs"><div class="fs-title">Ingredients</div>
+      <table class="ing-t"><thead><tr><th style="width:76px">Qty</th><th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th></tr></thead>
+      <tbody id="ingBody">${ingRows}</tbody></table>
+      <button class="addbtn" onclick="addIng()">＋ Add ingredient</button></div>
+    <div class="fs"><div class="fs-title">Preparation Steps <span style="font-size:11px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--text-light)">— Enter to add next step</span></div>
+      <div class="steps-ed" id="stepsEd">${stepRows}</div>
+      <button class="addbtn" onclick="addStep()">＋ Add step</button></div>
+    <div class="fs"><div class="fs-title">Notes</div>
+      <div class="ff"><textarea placeholder="Additional notes…" oninput="uF('notes',this.value)">${esc(r.notes)}</textarea></div></div>
+    <div class="fs"><div class="fs-title">Sync to Another Store</div>
+      <div style="font-size:12px;color:var(--text-light);margin-bottom:2px;">Create a linked copy at another location.</div>
+      <div class="copy-row">
+        <select id="copyLocSelect" ${!copyLocOpts?'disabled':''}>${copyLocOpts || '<option>All locations already linked</option>'}</select>
+        <button onclick="copyToLocation()" ${!copyLocOpts?'disabled':''}>+ Copy &amp; Link</button>
+      </div></div>`;
+  document.getElementById('modalBody').querySelectorAll('textarea').forEach(autoH);
+
+  document.getElementById('modalFooter').innerHTML = `
+    <button class="action-btn primary" onclick="saveEdit()">✓ Apply Changes</button>
+    <button class="action-btn" onclick="cancelEdit()">Cancel</button>
+    <button class="action-btn danger" style="margin-left:auto" onclick="deleteRecipe()">🗑 Delete</button>`;
+}
+
+// ─── EDIT FORM HELPERS ───────────────────────────────────────────────────────
+function markMod(){ const r=getCurrentRecipe(); if(!r) return; r._modified=true; setUnsaved(true); }
+function uF(field,val){ const r=getCurrentRecipe(); if(!r) return; r[field]=val; markMod();
+  if(field==='location'){ const lc=LOC_CLASS[val]||''; document.getElementById('modalHeader').className=`modal-header ${lc}`; }
+}
+function uIng(inp){ const r=getCurrentRecipe(); if(!r) return; const i=+inp.dataset.i; if(!r.ingredients[i]) r.ingredients[i]={qty:'',unit:'',name:''}; r.ingredients[i][inp.dataset.f]=inp.value; markMod(); }
+function addIng(){ const r=getCurrentRecipe(); if(!r) return; if(!r.ingredients)r.ingredients=[]; r.ingredients.push({qty:'',unit:'',name:''}); markMod(); renderModalEdit(); const ins=document.querySelectorAll('#ingBody input[data-f="name"]'); if(ins.length)ins[ins.length-1].focus(); }
+function delIng(i){ const r=getCurrentRecipe(); if(!r) return; r.ingredients.splice(i,1); markMod(); renderModalEdit(); }
+function uStep(ta){ const r=getCurrentRecipe(); if(!r) return; r.steps[+ta.dataset.s]=ta.value; markMod(); autoH(ta); }
+function stepKey(e,ta){ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); const i=+ta.dataset.s; const r=getCurrentRecipe(); if(!r)return; r.steps.splice(i+1,0,''); markMod(); renderModalEdit(); const tas=document.querySelectorAll('#stepsEd textarea'); if(tas[i+1])tas[i+1].focus(); } }
+function addStep(){ const r=getCurrentRecipe(); if(!r) return; if(!r.steps)r.steps=[]; r.steps.push(''); markMod(); renderModalEdit(); const tas=document.querySelectorAll('#stepsEd textarea'); if(tas.length)tas[tas.length-1].focus(); }
+function delStep(i){ const r=getCurrentRecipe(); if(!r) return; r.steps.splice(i,1); if(!r.steps.length)r.steps=['']; markMod(); renderModalEdit(); }
+function autoH(ta){ ta.style.height='auto'; ta.style.height=ta.scrollHeight+'px'; }
+
+function unlinkRecipe(){
+  const r=getCurrentRecipe(); if(!r) return;
+  if(!confirm('Unlink this recipe? Future edits will no longer sync to other stores.')) return;
+  r.masterId = newUid();
+  markMod();
+  renderModalEdit();
+  toast('Recipe unlinked from other stores');
+}
+function copyToLocation(){
+  const r=getCurrentRecipe(); if(!r) return;
+  const sel=document.getElementById('copyLocSelect');
+  const targetLoc=sel.value; if(!targetLoc) return;
+  const content = shareContentFields(r);
+  const copy = { ...content, id:newUid(), masterId:r.masterId||newUid(), location:targetLoc, _new:true };
+  if(!r.masterId){ r.masterId=copy.masterId; markMod(); }
+  RECIPES.unshift(copy);
+  setUnsaved(true);
+  render();
+  currentModalId = copy.id;
+  editSnapshot = JSON.stringify(copy);
+  renderModalEdit();
+  toast(`Copied to ${LOC_SHORT[targetLoc]||targetLoc} — now linked as a master recipe`);
+}
+
+function saveEdit(){
+  const r=getCurrentRecipe(); if(!r) return;
+  if(!r.name?.trim()){ toast('Recipe name is required','err'); return; }
+  delete r._new;
+  const n = propagateToLinked(r);
+  setUnsaved(true);
+  render();
+  modalMode='view';
+  renderModalView();
+  toast(n ? `Changes applied and synced to ${n} linked store${n>1?'s':''} — click "Save to GitHub" to push live` : 'Changes applied — click "Save to GitHub" to push live');
+}
+
+function cancelEdit(){
+  const r=getCurrentRecipe(); if(!r) return;
+  if (r._new){
+    // brand-new recipe never saved — remove it entirely
+    const idx=RECIPES.findIndex(x=>x.id===r.id);
+    RECIPES.splice(idx,1);
+    closeModal();
+    render();
+    return;
+  }
+  if (editSnapshot){
+    const original = JSON.parse(editSnapshot);
+    Object.keys(r).forEach(k=>delete r[k]);
+    Object.assign(r, original);
+  }
+  modalMode='view';
+  renderModalView();
+  render();
+}
+
+function deleteRecipe(){
+  const r=getCurrentRecipe(); if(!r) return;
+  if(!confirm(`Delete "${r.name}"? This cannot be undone.`)) return;
+  const idx=RECIPES.findIndex(x=>x.id===r.id);
+  RECIPES.splice(idx,1);
+  setUnsaved(true);
+  closeModal();
+  render();
+  toast('Recipe deleted — click "Save to GitHub" to push live');
+}
+
+function addNewRecipe(){
+  const id = newUid();
+  const recipe = { id, masterId:id, name:'', location:'Salty Crab North Beach', category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], _new:true };
+  RECIPES.unshift(recipe);
+  setUnsaved(true);
+  render();
+  currentModalId = id;
+  editSnapshot = JSON.stringify(recipe);
+  modalMode = 'edit';
+  document.getElementById('modalBackdrop').classList.add('open');
+  document.body.style.overflow='hidden';
+  renderModalEdit();
+  setTimeout(()=>{ const n=document.getElementById('editNameInput'); if(n)n.focus(); },50);
+}
+
+function closeModal(){
+  document.getElementById('modalBackdrop').classList.remove('open');
+  document.body.style.overflow='';
+  currentModalId = null;
+  modalMode = 'view';
+}
+function handleBackdropClick(e){ if(e.target===document.getElementById('modalBackdrop')) closeModal(); }
+document.addEventListener('keydown', e=>{ if(e.key==='Escape'){ closeModal(); closePwModal(); closeSettings(); } });
+
+// ─── FILTERS ─────────────────────────────────────────────────────────────────
+function clearFilters(){
   activeLoc='all'; activeCat=''; activeSub=''; searchQuery='';
   document.getElementById('searchInput').value='';
   document.getElementById('catFilter').value='';
@@ -487,7 +874,6 @@ function clearFilters() {
   document.querySelectorAll('#locationFilters .filter-btn').forEach(b=>b.classList.toggle('active',b.dataset.loc==='all'));
   render();
 }
-
 document.querySelectorAll('#locationFilters .filter-btn').forEach(btn=>{
   btn.addEventListener('click',()=>{
     activeLoc=btn.dataset.loc;
@@ -495,7 +881,6 @@ document.querySelectorAll('#locationFilters .filter-btn').forEach(btn=>{
     btn.classList.add('active'); render();
   });
 });
-
 document.getElementById('catFilter').addEventListener('change',e=>{
   activeCat=e.target.value; activeSub='';
   const sf=document.getElementById('subFilter');
@@ -506,14 +891,22 @@ document.getElementById('catFilter').addEventListener('change',e=>{
   } else { sf.style.display='none'; sf.value=''; }
   render();
 });
-document.getElementById('subFilter').addEventListener('change',e=>{activeSub=e.target.value;render();});
-
+document.getElementById('subFilter').addEventListener('change',e=>{ activeSub=e.target.value; render(); });
 let searchTimer;
 document.getElementById('searchInput').addEventListener('input',e=>{
   clearTimeout(searchTimer);
-  searchTimer=setTimeout(()=>{searchQuery=e.target.value;render();},200);
+  searchTimer=setTimeout(()=>{ searchQuery=e.target.value; render(); },200);
 });
-document.getElementById('urlInput').addEventListener('keydown',e=>{if(e.key==='Enter')saveAndLoad();});
+
+// ─── TOAST ───────────────────────────────────────────────────────────────────
+let toastT;
+function toast(msg,type=''){
+  const el=document.getElementById('toast');
+  el.textContent=msg; el.className='toast show'+(type?' '+type:'');
+  clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove('show'),4000);
+}
+
+window.addEventListener('beforeunload', e=>{ if(pending){ e.preventDefault(); e.returnValue=''; } });
 
 init();
 </script>
