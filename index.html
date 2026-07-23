@@ -869,32 +869,38 @@ function compressImage(file, maxDim=1600, quality=0.8){
 
 async function handlePhotoUpload(input){
   const file = input.files[0]; if(!file) return;
-  if (!enteredPassword) { toast('Please unlock editing again to upload photos','err'); openPwModal(); return; }
-  const r = getCurrentRecipe(); if(!r) return;
-
   const btn = document.getElementById('photoUploadBtn');
-  btn.classList.add('uploading');
-  btn.querySelector('span:last-child').textContent = 'Uploading…';
 
   try{
+    if (!enteredPassword) { toast('Please unlock editing again to upload photos','err'); openPwModal(); return; }
+    const r = getCurrentRecipe(); if(!r) return;
+
+    if (btn) { btn.classList.add('uploading'); const lbl=btn.querySelector('span:last-child'); if(lbl) lbl.textContent='Uploading…'; }
+
     const base64 = await compressImage(file);
     const res = await fetch(WORKER_URL + '/upload', {
       method: 'POST',
       headers: {'Content-Type':'application/json'},
       body: JSON.stringify({ password: enteredPassword, filename: file.name, dataBase64: base64 })
     });
+
+    const rawText = await res.text();
+    let data;
+    try { data = JSON.parse(rawText); } catch(e) { data = null; }
+
     if (res.status === 401) throw new Error('Password rejected — please unlock again.');
-    if (!res.ok) throw new Error(`Upload failed (${res.status})`);
-    const data = await res.json();
+    if (!res.ok) throw new Error(data?.error || data?.detail || `Upload failed (${res.status}): ${rawText.slice(0,200)}`);
+    if (!data || !data.url) throw new Error('Worker did not return an image URL — response: ' + rawText.slice(0,200));
+
     if(!r.images) r.images = [];
     r.images.push(data.url);
     markMod();
     renderModalEdit();
     toast('Photo uploaded ✓','ok');
   }catch(err){
+    console.error('Photo upload error:', err);
     toast('Upload failed: '+err.message,'err');
-    btn.classList.remove('uploading');
-    btn.querySelector('span:last-child').textContent = 'Add Photo';
+    if (btn) { btn.classList.remove('uploading'); const lbl=btn.querySelector('span:last-child'); if(lbl) lbl.textContent='Add Photo'; }
   }
   input.value = '';
 }
