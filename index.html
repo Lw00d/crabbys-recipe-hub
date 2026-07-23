@@ -561,7 +561,7 @@ function getFiltered(){
       if(!inName && !inIng && !inStep) return false;
     }
     return true;
-  });
+  }).sort((a,b)=> (a.name||'').localeCompare(b.name||'', undefined, {sensitivity:'base'}));
 }
 function hl(str){
   const q = searchQuery.trim().toLowerCase();
