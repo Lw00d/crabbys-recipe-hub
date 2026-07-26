@@ -262,7 +262,6 @@
   <div class="filters">
     <span class="filter-label">Location</span>
     <div class="filter-group" id="locationFilters">
-      <button class="filter-btn active" data-loc="all">All</button>
       <button class="filter-btn" data-loc="Salty Crab North Beach">North Beach</button>
       <button class="filter-btn" data-loc="CDS">CDS</button>
       <button class="filter-btn" data-loc="Palm">Palm</button>
@@ -271,16 +270,20 @@
     </div>
     <div class="divider"></div>
     <span class="filter-label">Category</span>
-    <select class="filter-select" id="catFilter">
-      <option value="">All Categories</option>
-      <option>Breakfast Menu</option><option>Breakfast Prep</option>
-      <option>Coffee Drinks</option><option>Dinner Menu</option>
-      <option>Dinner Prep</option><option>Drink Menu</option>
-      <option>Ice Cream</option><option>Line Prep</option><option>Smoothies</option>
-    </select>
-    <select class="filter-select" id="subFilter" style="display:none;">
-      <option value="">All Submenus</option>
-    </select>
+    <div class="filter-group" id="catFilters">
+      <button class="filter-btn" data-cat="Breakfast Menu">Breakfast Menu</button>
+      <button class="filter-btn" data-cat="Breakfast Prep">Breakfast Prep</button>
+      <button class="filter-btn" data-cat="Coffee Drinks">Coffee Drinks</button>
+      <button class="filter-btn" data-cat="Dinner Menu">Dinner Menu</button>
+      <button class="filter-btn" data-cat="Dinner Prep">Dinner Prep</button>
+      <button class="filter-btn" data-cat="Drink Menu">Drink Menu</button>
+      <button class="filter-btn" data-cat="Ice Cream">Ice Cream</button>
+      <button class="filter-btn" data-cat="Line Prep">Line Prep</button>
+      <button class="filter-btn" data-cat="Smoothies">Smoothies</button>
+    </div>
+    <div class="divider"></div>
+    <span class="filter-label">Submenu</span>
+    <div class="filter-group" id="subFilters"></div>
   </div>
 </header>
 
@@ -372,7 +375,7 @@ const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'P
 // ─── STATE ───────────────────────────────────────────────────────────────────
 let RECIPES = [];
 let SUBMENUS = {};
-let activeLoc = 'all', activeCat = '', activeSub = '', searchQuery = '';
+let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), searchQuery = '';
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
 let currentModalId = null;
@@ -506,7 +509,7 @@ async function loadRecipes(url, useCache=true){
     showEmpty('⚠️','Could not load recipes', err.message.includes('fetch')?'Check your connection.':err.message);
   }
 }
-function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); }
+function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
 async function init(){
@@ -571,9 +574,9 @@ function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'
 function getFiltered(){
   const q = searchQuery.trim().toLowerCase();
   return RECIPES.filter(r=>{
-    if (activeLoc!=='all' && r.location!==activeLoc) return false;
-    if (activeCat && r.category!==activeCat) return false;
-    if (activeSub && r.submenu!==activeSub) return false;
+    if (activeLocs.size && !activeLocs.has(r.location)) return false;
+    if (activeCats.size && !activeCats.has(r.category)) return false;
+    if (activeSubs.size && !activeSubs.has(r.submenu)) return false;
     if (q){
       const inName = r.name.toLowerCase().includes(q);
       const inIng  = r.ingredients.some(i=>i.name.toLowerCase().includes(q));
@@ -607,7 +610,7 @@ function render(){
   if(!RECIPES.length) return;
   const filtered = getFiltered();
   const grid = document.getElementById('recipeGrid');
-  const hasFilters = activeLoc!=='all'||activeCat||activeSub||searchQuery.trim();
+  const hasFilters = activeLocs.size||activeCats.size||activeSubs.size||searchQuery.trim();
   document.getElementById('clearBtn').classList.toggle('visible', hasFilters);
   if(!filtered.length){ showEmpty('🔍','No recipes found','Try adjusting your search or filters'); return; }
   document.getElementById('emptyState').style.display='none';
@@ -990,33 +993,50 @@ function closeLightbox(){
 document.addEventListener('keydown', e=>{ if(e.key==='Escape'){ closeLightbox(); closeModal(); closePwModal(); closeSettings(); } });
 
 // ─── FILTERS ─────────────────────────────────────────────────────────────────
+function updateSubmenuOptions(){
+  const cats = activeCats.size ? Array.from(activeCats) : Object.keys(SUBMENUS);
+  const allSubs = new Set();
+  cats.forEach(c=>{ if(SUBMENUS[c]) SUBMENUS[c].forEach(s=>allSubs.add(s)); });
+  // prune any selected submenus that are no longer valid given the category selection
+  Array.from(activeSubs).forEach(s=>{ if(!allSubs.has(s)) activeSubs.delete(s); });
+  const sorted = Array.from(allSubs).sort();
+  const container = document.getElementById('subFilters');
+  container.innerHTML = sorted.map(s=>`<button class="filter-btn${activeSubs.has(s)?' active':''}" data-sub="${s}">${s}</button>`).join('');
+  container.querySelectorAll('.filter-btn').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const s = btn.dataset.sub;
+      if(activeSubs.has(s)) activeSubs.delete(s); else activeSubs.add(s);
+      btn.classList.toggle('active');
+      render();
+    });
+  });
+}
+
 function clearFilters(){
-  activeLoc='all'; activeCat=''; activeSub=''; searchQuery='';
+  activeLocs.clear(); activeCats.clear(); activeSubs.clear(); searchQuery='';
   document.getElementById('searchInput').value='';
-  document.getElementById('catFilter').value='';
-  document.getElementById('subFilter').value='';
-  document.getElementById('subFilter').style.display='none';
-  document.querySelectorAll('#locationFilters .filter-btn').forEach(b=>b.classList.toggle('active',b.dataset.loc==='all'));
+  document.querySelectorAll('#locationFilters .filter-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('#catFilters .filter-btn').forEach(b=>b.classList.remove('active'));
+  updateSubmenuOptions();
   render();
 }
 document.querySelectorAll('#locationFilters .filter-btn').forEach(btn=>{
   btn.addEventListener('click',()=>{
-    activeLoc=btn.dataset.loc;
-    document.querySelectorAll('#locationFilters .filter-btn').forEach(b=>b.classList.remove('active'));
-    btn.classList.add('active'); render();
+    const loc = btn.dataset.loc;
+    if(activeLocs.has(loc)) activeLocs.delete(loc); else activeLocs.add(loc);
+    btn.classList.toggle('active');
+    render();
   });
 });
-document.getElementById('catFilter').addEventListener('change',e=>{
-  activeCat=e.target.value; activeSub='';
-  const sf=document.getElementById('subFilter');
-  if(activeCat&&SUBMENUS[activeCat]){
-    const subs=Array.from(SUBMENUS[activeCat]).sort();
-    sf.innerHTML='<option value="">All Submenus</option>'+subs.map(s=>`<option>${s}</option>`).join('');
-    sf.style.display='inline-block';
-  } else { sf.style.display='none'; sf.value=''; }
-  render();
+document.querySelectorAll('#catFilters .filter-btn').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    const cat = btn.dataset.cat;
+    if(activeCats.has(cat)) activeCats.delete(cat); else activeCats.add(cat);
+    btn.classList.toggle('active');
+    updateSubmenuOptions();
+    render();
+  });
 });
-document.getElementById('subFilter').addEventListener('change',e=>{ activeSub=e.target.value; render(); });
 let searchTimer;
 document.getElementById('searchInput').addEventListener('input',e=>{
   clearTimeout(searchTimer);
