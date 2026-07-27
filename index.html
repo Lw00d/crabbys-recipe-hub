@@ -203,6 +203,8 @@
   .photo-upload-btn { width: 100px; height: 100px; border-radius: 8px; border: 2px dashed var(--border); background: var(--sand); color: var(--text-light); font-size: 12px; font-weight: 600; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; flex-shrink: 0; transition: all 0.15s; }
   .photo-upload-btn:hover { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
   .photo-upload-btn.uploading { pointer-events: none; opacity: 0.6; }
+  .photo-grid.drag-over { outline: 2px dashed var(--teal); outline-offset: 4px; border-radius: 10px; background: #EBF5FA; }
+  .photo-grid.drag-over .photo-upload-btn { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
   .photo-view-grid { display: flex; flex-wrap: wrap; gap: 10px; }
   .photo-view-grid img { width: 140px; height: 140px; object-fit: cover; border-radius: 8px; cursor: pointer; border: 1px solid var(--border); }
   .lightbox { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 700; align-items: center; justify-content: center; padding: 30px; cursor: zoom-out; }
@@ -789,11 +791,11 @@ function renderModalEdit(){
         <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label><input type="text" value="${esc(r.submenu)}" placeholder="e.g. Soups…" oninput="uF('submenu',this.value)"></div>
       </div></div>
     <div class="fs"><div class="fs-title">Photos</div>
-      <div class="photo-grid" id="photoGrid">
+      <div class="photo-grid" id="photoGrid" ondragover="handlePhotoDragOver(event)" ondragleave="handlePhotoDragLeave(event)" ondrop="handlePhotoDrop(event)">
         ${photoThumbs}
         <label class="photo-upload-btn" id="photoUploadBtn">
           <span style="font-size:22px;">＋</span><span>Add Photo</span>
-          <input type="file" accept="image/*" style="display:none" onchange="handlePhotoUpload(this)">
+          <input type="file" accept="image/*" multiple style="display:none" onchange="handlePhotoUpload(this)">
         </label>
       </div></div>
     <div class="fs"><div class="fs-title">Details</div>
@@ -893,9 +895,32 @@ function compressImage(file, maxDim=1600, quality=0.8){
 }
 
 async function handlePhotoUpload(input){
-  const file = input.files[0]; if(!file) return;
-  const btn = document.getElementById('photoUploadBtn');
+  const files = Array.from(input.files || []);
+  for (const file of files) {
+    await uploadPhotoFile(file);
+  }
+  input.value = '';
+}
 
+function handlePhotoDragOver(e){
+  e.preventDefault();
+  e.currentTarget.classList.add('drag-over');
+}
+function handlePhotoDragLeave(e){
+  if (e.target === e.currentTarget) e.currentTarget.classList.remove('drag-over');
+}
+async function handlePhotoDrop(e){
+  e.preventDefault();
+  e.currentTarget.classList.remove('drag-over');
+  const files = Array.from(e.dataTransfer.files || []).filter(f => f.type.startsWith('image/'));
+  if (!files.length) { toast('Please drop an image file','err'); return; }
+  for (const file of files) {
+    await uploadPhotoFile(file);
+  }
+}
+
+async function uploadPhotoFile(file){
+  const btn = document.getElementById('photoUploadBtn');
   try{
     if (!enteredPassword) { toast('Please unlock editing again to upload photos','err'); openPwModal(); return; }
     const r = getCurrentRecipe(); if(!r) return;
@@ -927,7 +952,6 @@ async function handlePhotoUpload(input){
     toast('Upload failed: '+err.message,'err');
     if (btn) { btn.classList.remove('uploading'); const lbl=btn.querySelector('span:last-child'); if(lbl) lbl.textContent='Add Photo'; }
   }
-  input.value = '';
 }
 
 function delPhoto(i){
