@@ -70696,5 +70696,81 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Shrimp_for_Salad_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Shrimp_for_Salad_2.jpg"
     ]
+  },
+  {
+    "id": "dm-cds-117",
+    "masterId": "dm-cds-117-m",
+    "name": "Peanut Butter Pie",
+    "location": "CDS",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pie Peanut Butter Reese's",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove the Pie from the freezer to thaw according to the store's daily needs",
+      "Remove the piece of pie with a pie server for the best result. Be sure to get all of the pie crust.",
+      "Placing the piece of Pie on the dessert plate",
+      "Garnish: None, just the pie",
+      "Plateware: Dessert plate, Spoon"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Peanut_Butter_Pie_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cds-118",
+    "masterId": "dm-key-lime-pie-m",
+    "name": "Key Lime Pie",
+    "location": "CDS",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pie Key Lime",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Raspberry Sauce",
+        "qty": "Drizzle",
+        "unit": "On the plate"
+      },
+      {
+        "name": "Whipped Cream (dollop)",
+        "qty": "0.75",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Limes (1/2 Moon Shaped)",
+        "qty": "0.15",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Note: Locations that use Raspberry Sauce - On a dessert plate, drizzle Raspberry sauce on the plate in a zig-zag motion.",
+      "Remove the Pie from the freezer to thaw according to the store's daily needs",
+      "Place a slice of Key Lime Pie on a dessert plate. Make sure that you get the entire crust. (For best results, use a pie server.)",
+      "Top with a dollop of Whipped Cream and a halfmoon slice of Lime.",
+      "Serve with a spoon.",
+      "Garnish: Topping Whipped (on Top), Halfmoon slice of Lime",
+      "Plateware: Dessert plate, Spoon"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_1.jpg"
+    ]
   }
 ]
