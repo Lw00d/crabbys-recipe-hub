@@ -280,6 +280,7 @@
       <button class="hbtn hbtn-add" id="addBtn" onclick="addNewRecipe()" style="display:none;">＋ Add Recipe</button>
       <button class="hbtn hbtn-save" id="saveGhBtn" onclick="pushToGithub()" style="display:none;" disabled>☁ Save to GitHub</button>
       <button class="icon-btn" id="lockBtn" onclick="toggleLock()" title="Unlock editing">🔒</button>
+      <button class="icon-btn" id="logoutBtn" onclick="logoutUser()" title="Log out" style="display:none;">⏻</button>
       <button class="icon-btn" id="refreshBtn" onclick="refreshData()" title="Refresh from source">↻</button>
     </div>
     <div class="search-box">
@@ -396,6 +397,9 @@ let enteredPassword = null;
 // Viewed directly via GitHub Pages (no login), it stays unreplaced — unrestricted.
 const ASSIGNED_LOCATION = 'ASSIGNED_LOCATION_PLACEHOLDER';
 const IS_LOCATION_RESTRICTED = (ASSIGNED_LOCATION !== 'all' && ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
+// True whenever this page was served through the Worker's login gate (any user,
+// including "all" access) — false only when viewed directly via the raw GitHub Pages link.
+const IS_AUTHENTICATED_SESSION = (ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
 
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island"];
 const CATS = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
@@ -543,12 +547,27 @@ function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.categ
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
 async function init(){
+  if (IS_AUTHENTICATED_SESSION) {
+    document.getElementById('logoutBtn').style.display = 'flex';
+  }
   if (IS_LOCATION_RESTRICTED) {
     activeLocs.add(ASSIGNED_LOCATION);
     applyLocationRestrictionUI();
   }
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
+}
+async function logoutUser(){
+  if (!confirm('Log out? You\'ll need to sign back in to view this site.')) return;
+  try {
+    // Sending a deliberately-wrong credential invalidates the browser's cached
+    // valid one for this origin, since there's no true "log out" for HTTP Basic Auth.
+    await fetch(window.location.href, {
+      headers: { 'Authorization': 'Basic ' + btoa('logout:'+Math.random()) },
+      cache: 'no-store'
+    });
+  } catch(e) { /* ignore — we're logging out either way */ }
+  window.location.reload();
 }
 function applyLocationRestrictionUI(){
   // Hide the location filter entirely — there's nothing to choose from — and
