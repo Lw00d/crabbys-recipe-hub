@@ -70202,7 +70202,11 @@
       "Plateware: Pasta bowl"
     ],
     "notes": "Served plain, w/ Chicken, or w/ Shrimp",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_2.jpg"
+    ]
   },
   {
     "id": "dm-cds-108",
@@ -70242,7 +70246,9 @@
       "Plateware: Small bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Small_0.jpg"
+    ]
   },
   {
     "id": "dm-cds-109",
@@ -70310,7 +70316,9 @@
       "Plateware: Pasta bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Calamari_Caesar_0.jpg"
+    ]
   },
   {
     "id": "dm-cds-110",
@@ -70342,7 +70350,9 @@
       "Plateware: Soup Bowl, Lined dessert plate, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Clam_Chowder_Bowl_0.jpg"
+    ]
   },
   {
     "id": "dm-cds-111",
@@ -70407,7 +70417,10 @@
       "Plateware: Large Pasta Bowl"
     ],
     "notes": "Note: Not tossed, the dressing is served on the side",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Large_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Large_1.jpg"
+    ]
   },
   {
     "id": "dm-cds-112",
@@ -70471,7 +70484,10 @@
       "Plateware: Small Bowl"
     ],
     "notes": "Note: Not tossed, the dressing is served on the side",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Small_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Small_1.jpg"
+    ]
   },
   {
     "id": "dm-cds-113",
@@ -70509,7 +70525,10 @@
       "Plateware: App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Chicken_for_Salad_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Chicken_for_Salad_1.jpg"
+    ]
   },
   {
     "id": "dm-cds-114",
@@ -70549,7 +70568,10 @@
       "Plateware: App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Grouper_for_Salad_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Grouper_for_Salad_1.jpg"
+    ]
   },
   {
     "id": "dm-cds-115",
@@ -70589,7 +70611,9 @@
       "Plateware: App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Mahi_for_Salad_0.jpg"
+    ]
   },
   {
     "id": "dm-cds-116",
@@ -70633,6 +70657,10 @@
       "Plateware: App Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Shrimp_for_Salad_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Shrimp_for_Salad_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Protein_Shrimp_for_Salad_2.jpg"
+    ]
   }
 ]
