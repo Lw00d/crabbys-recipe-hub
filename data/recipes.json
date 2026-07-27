@@ -17239,26 +17239,44 @@
     "name": "Oysters Baked",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
       {
-        "name": "Baked Oysters (Prepped)",
-        "qty": "6 or 12",
+        "name": "Oysters - half shell Frozen",
+        "qty": "6",
         "unit": "Each"
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "brush",
+        "unit": "oysters"
+      },
+      {
+        "name": "Cheese Parmesan Grated",
+        "qty": "fill",
+        "unit": "oysters"
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "Dust",
+        "unit": "Tops of oysters"
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "Drizzle",
+        "unit": "Over cheese"
       }
     ],
     "steps": [
-      "Drizzle 12 prepared oysters with melted garlic butter, then sprinkle with Old Bay.",
+      "Be sure the mussel is cut away from the Oyster shell",
+      "Drizzle the prepared oysters with melted garlic butter, cover with Parmesan cheese, then sprinkle with Old Bay Seasoning.",
       "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
       "Transfer to a lined 1/4 tray",
-      "Expo:",
-      "6ct -1 Lemon wedges",
-      "12ct - 2 Lemon wedges",
-      "Plateware:",
-      "1/4 sheet tray lined"
+      "Expo: Lemon wedges, chopped parsley, Cocktail fork",
+      "Plateware: lined1/8 sheet tray"
     ],
     "notes": "",
     "images": [
@@ -17272,26 +17290,44 @@
     "name": "Oysters Baked",
     "location": "CBG",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
       {
-        "name": "Baked Oysters (Prepped)",
-        "qty": "6 or 12",
+        "name": "Oysters - half shell Frozen",
+        "qty": "6",
         "unit": "Each"
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "brush",
+        "unit": "oysters"
+      },
+      {
+        "name": "Cheese Parmesan Grated",
+        "qty": "fill",
+        "unit": "oysters"
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "Dust",
+        "unit": "Tops of oysters"
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "Drizzle",
+        "unit": "Over cheese"
       }
     ],
     "steps": [
-      "Drizzle 12 prepared oysters with melted garlic butter, then sprinkle with Old Bay.",
+      "Be sure the mussel is cut away from the Oyster shell",
+      "Drizzle the prepared oysters with melted garlic butter, cover with Parmesan cheese, then sprinkle with Old Bay Seasoning.",
       "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
       "Transfer to a lined 1/4 tray",
-      "Expo:",
-      "6ct -1 Lemon wedges",
-      "12ct - 2 Lemon wedges",
-      "Plateware:",
-      "1/4 sheet tray lined"
+      "Expo: Lemon wedges, chopped parsley, Cocktail fork",
+      "Plateware: lined1/8 sheet tray"
     ],
     "notes": "",
     "images": [
@@ -31338,7 +31374,7 @@
     "name": "Oyster 3-Way",
     "location": "CBG",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -31368,11 +31404,9 @@
       "Sprinkle with Parmesan cheese.",
       "Place on a baking pan, 4 of each Crabbyfellars, Baked, and New Orleans oysters.",
       "Baked in a 450°F oven for about 6 to 8 minutes or until all are cooked thoroughly.",
-      "Transfer to a lined 1/4 tray",
-      "Expo:",
-      "1oz ladle of Beurre Blanc on Crabbyfellars only",
-      "Plateware:",
-      "1/4 sheet tray lined"
+      "Place onto a lined 1/4 tray",
+      "Expo: Lemon wedges, chopped parsley, Cocktail fork, Drizzle Beurre Blanc on top of the Crabbyfellars only",
+      "Plateware: 1/4 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -63781,7 +63815,7 @@
     "name": "Jonah Claw App",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -63826,7 +63860,7 @@
     "name": "Oyster 3-Way",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -63872,7 +63906,7 @@
     "name": "Oysters Crabbyfellars 6",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -63924,7 +63958,7 @@
     "name": "Oysters Baked",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -63975,7 +64009,7 @@
     "name": "Oysters New Orleans 6",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -64015,7 +64049,7 @@
     "name": "Oysters Raw 12",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
