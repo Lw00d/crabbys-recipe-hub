@@ -391,6 +391,12 @@ const WORKER_URL = 'https://recipes.jbodzak.workers.dev';
 // so it can be sent along with each save request for server-side verification.
 let enteredPassword = null;
 
+// If this page is served through the Worker's login gate, it replaces the
+// placeholder below with the logged-in user's assigned store (or "all").
+// Viewed directly via GitHub Pages (no login), it stays unreplaced — unrestricted.
+const ASSIGNED_LOCATION = 'ASSIGNED_LOCATION_PLACEHOLDER';
+const IS_LOCATION_RESTRICTED = (ASSIGNED_LOCATION !== 'all' && ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
+
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island"];
 const CATS = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
 const LOC_CLASS = { 'Salty Crab North Beach':'loc-nb','CDS':'loc-cds','Palm':'loc-palm','CBG':'loc-cbg',"Salty's Island":'loc-si' };
@@ -537,8 +543,20 @@ function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.categ
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
 async function init(){
+  if (IS_LOCATION_RESTRICTED) {
+    activeLocs.add(ASSIGNED_LOCATION);
+    applyLocationRestrictionUI();
+  }
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
+}
+function applyLocationRestrictionUI(){
+  // Hide the location filter entirely — there's nothing to choose from — and
+  // show a small fixed badge instead so it's clear which store this login is for.
+  const wrap = document.getElementById('locationFilters').parentElement;
+  const label = wrap.querySelector('.filter-label');
+  if (label) label.style.display = 'none';
+  document.getElementById('locationFilters').outerHTML = `<span class="mode-badge unlocked" style="background:rgba(255,255,255,0.12);color:rgba(255,255,255,0.85)">📍 ${LOC_SHORT[ASSIGNED_LOCATION]||ASSIGNED_LOCATION}</span>`;
 }
 async function refreshData(){
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
@@ -782,11 +800,22 @@ function renderModalEdit(){
       <button class="photo-del" onclick="delPhoto(${i})" title="Remove photo">&#xD7;</button>
     </div>`).join('');
 
+  const locField = IS_LOCATION_RESTRICTED
+    ? `<div class="ff"><label>Location</label><input type="text" value="${esc(r.location)}" disabled style="background:var(--sand);color:var(--text-light)"></div>`
+    : `<div class="ff"><label>Location</label><select onchange="uF('location',this.value)">${locOpts}</select></div>`;
+  const syncSection = IS_LOCATION_RESTRICTED ? '' : `
+    <div class="fs"><div class="fs-title">Sync to Another Store</div>
+      <div style="font-size:12px;color:var(--text-light);margin-bottom:2px;">Create a linked copy at another location.</div>
+      <div class="copy-row">
+        <select id="copyLocSelect" ${!copyLocOpts?'disabled':''}>${copyLocOpts || '<option>All locations already linked</option>'}</select>
+        <button onclick="copyToLocation()" ${!copyLocOpts?'disabled':''}>+ Copy &amp; Link</button>
+      </div></div>`;
+
   document.getElementById('modalBody').innerHTML = `
     ${linkBanner}
     <div class="fs"><div class="fs-title">Basic Info</div>
       <div class="fg2">
-        <div class="ff"><label>Location</label><select onchange="uF('location',this.value)">${locOpts}</select></div>
+        ${locField}
         <div class="ff"><label>Category</label><select onchange="uF('category',this.value)">${catOpts}</select></div>
         <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label><input type="text" value="${esc(r.submenu)}" placeholder="e.g. Soups…" oninput="uF('submenu',this.value)"></div>
       </div></div>
@@ -813,12 +842,7 @@ function renderModalEdit(){
       <button class="addbtn" onclick="addStep()">＋ Add step</button></div>
     <div class="fs"><div class="fs-title">Notes</div>
       <div class="ff"><textarea placeholder="Additional notes…" oninput="uF('notes',this.value)">${esc(r.notes)}</textarea></div></div>
-    <div class="fs"><div class="fs-title">Sync to Another Store</div>
-      <div style="font-size:12px;color:var(--text-light);margin-bottom:2px;">Create a linked copy at another location.</div>
-      <div class="copy-row">
-        <select id="copyLocSelect" ${!copyLocOpts?'disabled':''}>${copyLocOpts || '<option>All locations already linked</option>'}</select>
-        <button onclick="copyToLocation()" ${!copyLocOpts?'disabled':''}>+ Copy &amp; Link</button>
-      </div></div>`;
+    ${syncSection}`;
   document.getElementById('modalBody').querySelectorAll('textarea').forEach(autoH);
 
   document.getElementById('modalFooter').innerHTML = `
@@ -1007,7 +1031,8 @@ function deleteRecipe(){
 
 function addNewRecipe(){
   const id = newUid();
-  const recipe = { id, masterId:id, name:'', location:'Salty Crab North Beach', category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], _new:true };
+  const defaultLoc = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : 'Salty Crab North Beach';
+  const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], _new:true };
   RECIPES.unshift(recipe);
   setUnsaved(true);
   render();
