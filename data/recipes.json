@@ -52581,7 +52581,7 @@
   },
   {
     "id": "bm-cbg-2",
-    "masterId": "bm-avocado-toast-m",
+    "masterId": "m-ms4s9sr3e3yb7w",
     "name": "Avocado Toast",
     "location": "CBG",
     "category": "Breakfast Menu",
@@ -52647,7 +52647,7 @@
   },
   {
     "id": "bm-si-5",
-    "masterId": "bm-avocado-toast-m",
+    "masterId": "m-ms4s9atiyj71a8",
     "name": "Avocado Toast",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
@@ -58889,7 +58889,7 @@
     "name": "Add On & Sides",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
-    "submenu": "",
+    "submenu": "Sides",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
