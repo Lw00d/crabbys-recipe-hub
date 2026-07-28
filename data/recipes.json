@@ -15403,12 +15403,12 @@
   {
     "id": "bp-si-9",
     "masterId": "bp-french-toast-batter-m",
-    "name": "French Toast Batter 1",
+    "name": "French Toast Batter",
     "location": "Salty's Island",
     "category": "Breakfast Prep",
     "yield": "",
-    "shelfLife": "1 day",
-    "smallware": "whisk, mixing bowl,",
+    "shelfLife": "1 day toss at the end of the shift",
+    "smallware": "whisk, medium mixing bowl, or 1 SS 4\" 1/3 pan",
     "ingredients": [
       {
         "name": "Liquid eggs",
@@ -15437,19 +15437,21 @@
       }
     ],
     "steps": [
-      "In a 4\" third pan, or a stainless steel mixing bowl.",
+      "In a 4\"- 1/3 pan or stainless steel bowl.",
       "Whisk together, mix thoroughly",
       "Place in Reach-In cooler till needed",
       "Stir before each use",
       "Toss at the end of the breakfast, write on the waste sheet",
-      "In a medium stainless steel mixing bowl.",
-      "Whisk together to mix thoroughly",
+      "In a medium-sized stainless steel bowl.",
+      "Add eggs and whisk,",
+      "Add all ingredients and whisk again, mix thoroughly",
       "Place in Reach-In cooler till needed",
       "Stir before each use",
       "Toss at the end of the breakfast, write on the waste sheet"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-si-10",
