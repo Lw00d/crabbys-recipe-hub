@@ -1,5 +1,55 @@
 [
   {
+    "name": "Benedict Eggs",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "English Muffin",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Eggs",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Ham",
+        "qty": "1",
+        "unit": "Portion cut in half"
+      },
+      {
+        "name": "Spinach",
+        "qty": "10-15 ea.",
+        "unit": "Leaves on a muffin"
+      },
+      {
+        "name": "Beurre Blanc",
+        "qty": "1",
+        "unit": "2oz ladle"
+      }
+    ],
+    "steps": [
+      "First, place a toasted English muffin down(open-faced)",
+      "Cut the Ham slice into two pieces and grill each side for 2 minutes",
+      "Place ham on spinach",
+      "Poached eggs to requested temp. placed on ham",
+      "Top with hot Bruere Blanc sauce",
+      "Expo:",
+      "Bruere Blanc if it's on the expo,",
+      "Plateware:"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4spflzrelefz",
+    "masterId": "bm-benedict-eggs-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Bacon",
     "category": "Breakfast Menu",
     "submenu": "Sides",
@@ -58196,7 +58246,8 @@
       "Top with hot beurre-blanc sauce"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-si-14",
