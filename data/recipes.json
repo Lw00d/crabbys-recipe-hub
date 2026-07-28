@@ -1,5 +1,75 @@
 [
   {
+    "name": "Biscuits & Gravy",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter AA",
+        "qty": "",
+        "unit": "Brush Egg Pan"
+      },
+      {
+        "name": "Eggs (as requested)",
+        "qty": "2",
+        "unit": "each"
+      },
+      {
+        "name": "Buttermilk Biscuit",
+        "qty": "2",
+        "unit": "each (4 halves)"
+      },
+      {
+        "name": "Sausage Gravy",
+        "qty": "2",
+        "unit": "4oz ladle"
+      }
+    ],
+    "steps": [
+      "Reheat 2 precooked biscuits in the microwave for 10 seconds.",
+      "Pour sausage gravy on top of the biscuits, cover evenly",
+      "Cook two eggs as requested.",
+      "Plate the eggs next to the biscuits."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4sy9eur0xqac",
+    "masterId": "bm-nb-34-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Biscuit & Gravy",
+    "category": "Breakfast Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Buttermilk Biscuit",
+        "qty": "1",
+        "unit": "each - split"
+      },
+      {
+        "name": "Sausage Gravy",
+        "qty": "1",
+        "unit": "4oz ladle"
+      }
+    ],
+    "steps": [
+      "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
+      "Poor sausage gravy on top of the biscuit, cover evenly"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4sxsmwg3vfoz",
+    "masterId": "bm-biscuit-gravy-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Benedict Eggs",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -54787,16 +54857,6 @@
         "name": "Beurre Blanc",
         "qty": "1",
         "unit": "2oz ladle"
-      },
-      {
-        "qty": "sprinkle",
-        "unit": "top",
-        "name": "Old Bay"
-      },
-      {
-        "qty": ".5",
-        "unit": "oz",
-        "name": "Green Onion"
       }
     ],
     "steps": [
@@ -54864,16 +54924,6 @@
         "name": "Beurre Blanc",
         "qty": "1",
         "unit": "2oz ladle"
-      },
-      {
-        "qty": "sprinkle",
-        "unit": "top",
-        "name": "Old Bay"
-      },
-      {
-        "qty": ".5",
-        "unit": "oz",
-        "name": "Green Onion"
       }
     ],
     "steps": [
@@ -56346,7 +56396,8 @@
       "Gravy - if on the expo side"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-cbg-38",
@@ -58634,7 +58685,8 @@
       "Place eggs next to biscuits, so they're on top of the gravy on the plate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-si-20",
