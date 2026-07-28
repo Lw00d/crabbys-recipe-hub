@@ -30983,7 +30983,8 @@
       "Lined oval basket or on a rectangular plate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-cbg-21",
@@ -67067,7 +67068,8 @@
       "Plateware: Lined round basket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-cbg-66",
@@ -68669,9 +68671,9 @@
   },
   {
     "id": "dm-cbg-93",
-    "masterId": "dm-cds-54-m",
+    "masterId": "m-ms4rfx8t7hfhsv",
     "name": "Ribs & Tail 8oz",
-    "location": "CBG",
+    "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
