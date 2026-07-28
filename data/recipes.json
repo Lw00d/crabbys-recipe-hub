@@ -27530,8 +27530,7 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Fish_Spread_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Fish_Spread_1.jpg"
-    ],
-    "active": false
+    ]
   },
   {
     "id": "dm-pl-25",
@@ -30411,8 +30410,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-8",
@@ -30690,8 +30688,7 @@
       "Plateware: Lined Round basket"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-14",
@@ -30740,8 +30737,7 @@
       "Plateware: Lined Round basket"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-15",
@@ -30815,8 +30811,7 @@
       "12oz Oval rare bit"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-17",
@@ -30935,8 +30930,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-20",
@@ -30983,8 +30977,7 @@
       "Lined oval basket or on a rectangular plate"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-21",
@@ -31258,8 +31251,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-28",
@@ -31518,8 +31510,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-35",
@@ -31559,8 +31550,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-36",
@@ -31640,8 +31630,7 @@
       "Plateware:"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-38",
@@ -67068,8 +67057,7 @@
       "Plateware: Lined round basket"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-cbg-66",
@@ -67187,8 +67175,7 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Turkey_Burger__Bar___Grill__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Turkey_Burger__Bar___Grill__1.jpg"
-    ],
-    "active": false
+    ]
   },
   {
     "id": "dm-cbg-68",
@@ -68671,9 +68658,9 @@
   },
   {
     "id": "dm-cbg-93",
-    "masterId": "m-ms4rfx8t7hfhsv",
+    "masterId": "dm-cds-54-m",
     "name": "Ribs & Tail 8oz",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -70971,5 +70958,201 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_1.jpg"
     ]
+  },
+  {
+    "id": "dm-cbg-98",
+    "masterId": "dm-cbg-98-m",
+    "name": "Peanut Butter Pie",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pie Peanut Butter Reese's",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove Pie from freezer to thaw according to the store's daily needs",
+      "Remove the piece of pie with a pie server for the best result. Be sure to get all of the pie crust.",
+      "Placing the piece of Pie on the dessert plate",
+      "Garnish: None, just the pie",
+      "Plateware: Dessert plate, Spoon"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/PB_Pie_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-99",
+    "masterId": "dm-key-lime-pie-m",
+    "name": "Key Lime Pie",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pie Key Lime",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Whipped Cream (dollop)",
+        "qty": "0.75",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Limes (1/2 Moon Shaped)",
+        "qty": "0.15",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove the Pie from the freezer to thaw according to the store's daily needs",
+      "On a small app/dessert plate, place a slice of Key Lime Pie, making sure that you get the entire crust. (For best results, use a pie server.)",
+      "Top with a dollop of Whipped Cream and a slice of Lime.",
+      "Serve with a spoon.",
+      "Garnish: Topping Whipped (on Top), Slice of Lime",
+      "Plateware: Dessert plate, Spoon"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-100",
+    "masterId": "dm-cbg-100-m",
+    "name": "Banana Fosters",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Banana Fosters Cake",
+        "qty": "1",
+        "unit": "Slice"
+      }
+    ],
+    "steps": [
+      "Remove Pie from freezer to thaw according to the store's daily needs (served thawed)",
+      "Plate the slice vertically on the plate",
+      "No whip cream",
+      "Serve with a fork",
+      "Plateware: Small Dessert Plate, fork",
+      "Garnish: none"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Banana_Fosters_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-101",
+    "masterId": "dm-cbg-101-m",
+    "name": "Chocolate Cake",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "3 Layer Chocolate Cake",
+        "qty": "1",
+        "unit": "Slice"
+      }
+    ],
+    "steps": [
+      "Remove Cake from freezer to thaw according to the store's daily needs (served thawed)",
+      "Take a slice of cake and place it on a dessert plate",
+      "No whipped cream",
+      "Serve with a fork",
+      "Garnish: none",
+      "Plateware: Square Dessert Plate, Forks"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chocolate_Cake_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chocolate_Cake_CBG_1.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-102",
+    "masterId": "dm-cbg-102-m",
+    "name": "Beignets",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Beignets",
+        "qty": "6",
+        "unit": "Each"
+      },
+      {
+        "name": "Powder Sugar",
+        "qty": "2",
+        "unit": "Shakes for dusting"
+      },
+      {
+        "name": "Raspberry Sauce",
+        "qty": "1",
+        "unit": "2oz cup"
+      }
+    ],
+    "steps": [
+      "If the beignets are frozen, the cook time will be increased by a minute or 2",
+      "Place thawed beignets in a fry basket",
+      "Place another fry basket over the top, so the beignets stay submerged in the oil",
+      "Cook in a 300-325°F fryer for approximately 3 to 4 minutes or until golden brown",
+      "Remove from fryer and place in a Save-A-Day to remove excess oil",
+      "Plateware: Lined oval basket",
+      "Garnish: Powder sugar, 2oz Raspberry sauce"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Beignets_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-103",
+    "masterId": "dm-cbg-103-m",
+    "name": "Ice Cream",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Soup / Salad / Dessert",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ice cream Tub (any flavor)",
+        "qty": "3.5",
+        "unit": "Weight oz"
+      }
+    ],
+    "steps": [
+      "Put 2 (each) 2oz scoops of ice cream into a single service cup",
+      "Serve with a soup spoon",
+      "Plateware: Serve on a small plate with a Black napkin & a soup spoon"
+    ],
+    "notes": "",
+    "images": []
   }
 ]
