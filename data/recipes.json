@@ -1,5 +1,49 @@
 [
   {
+    "name": "Bacon",
+    "category": "Breakfast Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "With plate 2 pieces",
+      "As a solo side 3 pieces",
+      "Should be pre-cooked. Just heat on the flat top and serve",
+      "Plateware:",
+      "Entrée -on the plate",
+      "Solo Side-on App plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4sez6py1uabj",
+    "masterId": "bm-bacon-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Bacon",
+    "category": "Breakfast Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "With plate 2 pieces",
+      "As a solo side 3 pieces",
+      "Should be pre-cooked. Just heat on the flat top and serve",
+      "Plateware:",
+      "Entrée -on the plate",
+      "Solo Side-on App plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4seug9tygego",
+    "masterId": "bm-bacon-m",
+    "location": "Palm"
+  },
+  {
     "name": "Avocado Toast",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -53287,6 +53331,16 @@
         "name": "Beignets",
         "qty": "6",
         "unit": "each"
+      },
+      {
+        "qty": "1.5",
+        "unit": "oz",
+        "name": "Powdered Sugar"
+      },
+      {
+        "qty": "2",
+        "unit": "oz",
+        "name": "Raspberry Sauce"
       }
     ],
     "steps": [
@@ -53315,6 +53369,16 @@
         "name": "Beignets",
         "qty": "6",
         "unit": "each"
+      },
+      {
+        "qty": "1.5",
+        "unit": "oz",
+        "name": "Powdered Sugar"
+      },
+      {
+        "qty": "2",
+        "unit": "oz",
+        "name": "Raspberry Sauce"
       }
     ],
     "steps": [
