@@ -1,5 +1,32 @@
 [
   {
+    "name": "Sausage Gravy",
+    "category": "Breakfast Prep",
+    "yield": "15 to 16 / 4-oz portions",
+    "shelfLife": "1.5 days if in SS pan, 5 days in deli containers",
+    "smallware": "1- 4\" SS 1/3 pan, or 16 - 8oz deli containers & lids",
+    "ingredients": [
+      {
+        "name": "Sausage Gravy (Frozen)",
+        "qty": "1",
+        "unit": "Each/ 4 # bag"
+      }
+    ],
+    "steps": [
+      "Frozen product with sausage already included.",
+      "Thaw under refrigeration or cold running water,",
+      "If underwater, place in a bus tub or a 6\" half pan",
+      "Heat up using microwave, sous vid, or stove.",
+      "**Slower Stores can and pre-portion this. Take 4oz ladle in a small deli container, label and date, rotate",
+      "In High Temp Microwave for 1 minute"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4piuyez4oa9a",
+    "masterId": "bp-sausage-gravy-m",
+    "location": "CBG"
+  },
+  {
     "id": "dp-nb-1",
     "masterId": "dp-aafish-vacuumed-packed-thawing-procedure-m",
     "name": "Fish Vacuumed Packed Thawing Procedure",
@@ -15223,7 +15250,8 @@
       "Heat to 165°F and place on the side of the flat top."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-si-9",
@@ -16144,7 +16172,8 @@
       "**Slower stores can thaw under refrigeration or in cold running water and pre-portion 4oz ladle sizes to microwave as needed**"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-cbg-15",
