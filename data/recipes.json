@@ -15554,7 +15554,8 @@
       "Once mixed, it can be placed in squeeze bottles or portioned into 2-oz cups with a lid and returned to a cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-cbg-6",
@@ -15596,7 +15597,8 @@
       "Once mixed, it can be placed in squeeze bottles or portioned into 2-oz cups with a lid and returned to a cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-si-12",
