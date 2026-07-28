@@ -36,6 +36,47 @@
     ],
     "notes": "",
     "images": [],
+    "id": "m-ms4t01qqf7ysb3",
+    "masterId": "bm-nb-34-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Biscuits & Gravy",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter AA",
+        "qty": "",
+        "unit": "Brush Egg Pan"
+      },
+      {
+        "name": "Eggs (as requested)",
+        "qty": "2",
+        "unit": "each"
+      },
+      {
+        "name": "Buttermilk Biscuit",
+        "qty": "2",
+        "unit": "each (4 halves)"
+      },
+      {
+        "name": "Sausage Gravy",
+        "qty": "2",
+        "unit": "4oz ladle"
+      }
+    ],
+    "steps": [
+      "Reheat 2 precooked biscuits in the microwave for 10 seconds.",
+      "Pour sausage gravy on top of the biscuits, cover evenly",
+      "Cook two eggs as requested.",
+      "Plate the eggs next to the biscuits."
+    ],
+    "notes": "",
+    "images": [],
     "id": "m-ms4sy9eur0xqac",
     "masterId": "bm-nb-34-m",
     "location": "Salty's Island"
