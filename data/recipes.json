@@ -1,5 +1,43 @@
 [
   {
+    "name": "Cuban Bread Sandwich",
+    "category": "Breakfast Prep",
+    "yield": "3 orders per loaf",
+    "shelfLife": "1 to 2 days",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "Trim off just the ends of each loaf",
+      "Buns and slices will need to be cut separately",
+      "For buns, cut the loaf into equal 3rds, then each 3rd in half down the middle to open it up like a sandwich bun",
+      "For slices, hold the knife at a 45°angle to the loaf and make 1-inch deep cuts"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4qdzwqwn1wvx",
+    "masterId": "bp-nb-8-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Cuban Bread Sandwich",
+    "category": "Breakfast Prep",
+    "yield": "3 orders per loaf",
+    "shelfLife": "1 to 2 days",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "Trim off just the ends of each loaf",
+      "Buns and slices will need to be cut separately",
+      "For buns, cut the loaf into equal 3rds, then each 3rd in half down the middle to open it up like a sandwich bun",
+      "For slices, hold the knife at a 45°angle to the loaf and make 1-inch deep cuts"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4qdug7t87yab",
+    "masterId": "bp-nb-8-m",
+    "location": "CBG"
+  },
+  {
     "name": "Belgian Waffles",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -15715,7 +15753,8 @@
       "For slices, hold the knife at a 45° angle to the loaf and make 1-inch deep cuts"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-cbg-9",
@@ -15734,7 +15773,8 @@
       "For slices, hold the knife at a 45° angle to the loaf and make 1-inch deep cuts"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-nb-6",
