@@ -1,5 +1,31 @@
 [
   {
+    "name": "Avocados (fresh) (bar & grill)",
+    "category": "Breakfast Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "Received:",
+      "When received, check the Avocados to make sure they are ripe enough to sell.",
+      "If they are soft and a darker green to black color, then they should be ripe.",
+      "If they are ripe, set them in the cooler with the receiving date on them.",
+      "If the case is not ripe, then it is best to leave them out of the cooler in a safe, clean place. With the receiving date on them. Once they start to ripen, place them in the WI cooler.",
+      "Cutting instructions:",
+      "Take a sharp knife and carefully cut into the avocado long ways until you hit the pit.",
+      "Start to spin the avocado, keeping the blade on the pit.",
+      "Take the knife out and split the avocado in half.",
+      "Remove the pit with a spoon.",
+      "Pick the knife up and carefully cut the avocado while holding the skin side in your hand (or peel the avocado with a spoon and then cut into slices). Once cut, use a spoon to pull out the pieces or slices."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4pkbytshw8aa",
+    "masterId": "bp-cbg-17-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Sausage Gravy",
     "category": "Breakfast Prep",
     "yield": "15 to 16 / 4-oz portions",
