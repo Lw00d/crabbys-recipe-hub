@@ -869,8 +869,14 @@ function renderModalEdit(){
     <div class="fs"><div class="fs-title">Basic Info</div>
       <div class="fg2">
         ${locField}
-        <div class="ff"><label>Category</label><select onchange="uF('category',this.value)">${catOpts}</select></div>
-        <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label><input type="text" value="${esc(r.submenu)}" placeholder="e.g. Soups…" oninput="uF('submenu',this.value)"></div>
+        <div class="ff"><label>Category</label><select onchange="uF('category',this.value); renderModalEdit();">${catOpts}</select></div>
+        <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label>
+          <select id="submenuSelect" onchange="handleSubmenuSelect(this.value)">
+            <option value=""${!r.submenu?' selected':''}>— No submenu —</option>
+            ${getSubmenuOptions(r.category, r.submenu).map(s=>`<option value="${esc(s)}"${s===r.submenu?' selected':''}>${esc(s)}</option>`).join('')}
+            <option value="__new__">➕ New submenu…</option>
+          </select>
+          <input type="text" id="submenuNewInput" placeholder="New submenu name…" style="display:none;margin-top:6px" oninput="uF('submenu',this.value)"></div>
       </div></div>
     <div class="fs"><div class="fs-title">Photos</div>
       <div class="photo-grid" id="photoGrid" ondragover="handlePhotoDragOver(event)" ondragleave="handlePhotoDragLeave(event)" ondrop="handlePhotoDrop(event)">
@@ -917,6 +923,26 @@ function toggleActiveStatus(){
 }
 
 // ─── EDIT FORM HELPERS ───────────────────────────────────────────────────────
+function getSubmenuOptions(cat, current){
+  const set = new Set(SUBMENUS[cat] ? Array.from(SUBMENUS[cat]) : []);
+  if(current) set.add(current);
+  return Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
+}
+function handleSubmenuSelect(val){
+  const r = getCurrentRecipe(); if(!r) return;
+  const newInput = document.getElementById('submenuNewInput');
+  if(val === '__new__'){
+    newInput.style.display = 'block';
+    newInput.value = '';
+    r.submenu = '';
+    markMod();
+    newInput.focus();
+  } else {
+    newInput.style.display = 'none';
+    r.submenu = val;
+    markMod();
+  }
+}
 function markMod(){ const r=getCurrentRecipe(); if(!r) return; r._modified=true; setUnsaved(true); }
 function uF(field,val){ const r=getCurrentRecipe(); if(!r) return; r[field]=val; markMod();
   if(field==='location'){ const lc=LOC_CLASS[val]||''; document.getElementById('modalHeader').className=`modal-header ${lc}`; }
