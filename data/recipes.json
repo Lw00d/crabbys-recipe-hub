@@ -1,5 +1,49 @@
 [
   {
+    "name": "Two Egg Breakfast",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Bread & Egg Pan"
+      },
+      {
+        "name": "Eggs",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Choice of Meat",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Texas / Cuban Toast",
+        "qty": "1",
+        "unit": "Slice (halved)"
+      }
+    ],
+    "steps": [
+      "Place bread on the flat top",
+      "Heat the choice of meat on the flat top",
+      "In a clean buttered 8\" pan",
+      "Cook 2 eggs as requested",
+      "Place the choice of meat alongside the eggs",
+      "Place the toast to the side of the eggs",
+      "Expo: Meat option, toast, side"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4q2dy4hx5wew",
+    "masterId": "bm-two-egg-breakfast-m",
+    "location": "CBG"
+  },
+  {
     "name": "Avocados (fresh) (bar & grill)",
     "category": "Breakfast Prep",
     "yield": "",
@@ -55807,7 +55851,8 @@
       "Garnish:"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-cbg-35",
