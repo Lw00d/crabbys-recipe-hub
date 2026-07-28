@@ -54787,6 +54787,16 @@
         "name": "Beurre Blanc",
         "qty": "1",
         "unit": "2oz ladle"
+      },
+      {
+        "qty": "sprinkle",
+        "unit": "top",
+        "name": "Old Bay"
+      },
+      {
+        "qty": ".5",
+        "unit": "oz",
+        "name": "Green Onion"
       }
     ],
     "steps": [
@@ -54854,6 +54864,16 @@
         "name": "Beurre Blanc",
         "qty": "1",
         "unit": "2oz ladle"
+      },
+      {
+        "qty": "sprinkle",
+        "unit": "top",
+        "name": "Old Bay"
+      },
+      {
+        "qty": ".5",
+        "unit": "oz",
+        "name": "Green Onion"
       }
     ],
     "steps": [
