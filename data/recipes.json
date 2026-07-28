@@ -54385,8 +54385,18 @@
       },
       {
         "name": "Powder Sugar",
+        "qty": "1.5",
+        "unit": "oz"
+      },
+      {
         "qty": "2",
-        "unit": "Shakes for dusting"
+        "unit": "oz",
+        "name": "Raspberry Sauce"
+      },
+      {
+        "qty": "1",
+        "unit": "Each",
+        "name": "Fruit Cup"
       }
     ],
     "steps": [
