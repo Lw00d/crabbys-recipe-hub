@@ -59,6 +59,7 @@
   select.filter-select { padding: 4px 28px 4px 10px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.07) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='rgba(255,255,255,0.5)'/%3E%3C/svg%3E") no-repeat right 10px center; color: rgba(255,255,255,0.75); font-size: 12px; cursor: pointer; -webkit-appearance: none; appearance: none; outline: none; }
   select.filter-select:focus { border-color: #5BC4E0; }
   select.filter-select option { background: #1B3A4B; color: #FFFFFF; }
+  .filter-btn.inactive-toggle.on { background: var(--amber); color: white; border-color: var(--amber); font-weight: 600; }
 
   /* MULTI-SELECT DROPDOWN FILTERS */
   .dropdown-filter { position: relative; }
@@ -101,6 +102,7 @@
   /* CARD */
   .recipe-card { background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow); border-left: 4px solid var(--loc-color, #1A6B8A); overflow: hidden; transition: box-shadow 0.2s, transform 0.15s; cursor: pointer; }
   .recipe-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+  .recipe-card.recipe-card-inactive { opacity: 0.65; filter: grayscale(35%); }
   .card-header { padding: 14px 16px; display: flex; flex-direction: column; gap: 6px; }
   .card-name { font-size: 14px; font-weight: 700; color: var(--text); line-height: 1.3; }
   .card-meta { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
@@ -309,6 +311,8 @@
       <button class="dropdown-btn" id="subDropdownBtn" onclick="toggleDropdown('sub')">All Submenus <span class="dd-arrow">▾</span></button>
       <div class="dropdown-panel" id="subDropdownPanel"></div>
     </div>
+    <div class="divider"></div>
+    <button class="filter-btn inactive-toggle" id="inactiveToggleBtn" onclick="toggleInactiveView()">🗄 Inactive</button>
   </div>
 </header>
 
@@ -410,6 +414,7 @@ const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'P
 let RECIPES = [];
 let SUBMENUS = {};
 let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), searchQuery = '';
+let viewMode = 'active'; // 'active' | 'inactive' — which shelf of recipes is being browsed
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
 let currentModalId = null;
@@ -635,6 +640,8 @@ function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'
 function getFiltered(){
   const q = searchQuery.trim().toLowerCase();
   return RECIPES.filter(r=>{
+    const isInactive = r.active === false;
+    if (viewMode==='inactive' ? !isInactive : isInactive) return false;
     if (activeLocs.size && !activeLocs.has(r.location)) return false;
     if (activeCats.size && !activeCats.has(r.category)) return false;
     if (activeSubs.size && !activeSubs.has(r.submenu)) return false;
@@ -669,21 +676,47 @@ function showEmpty(emoji,title,msg){
 
 function render(){
   if(!RECIPES.length) return;
+  updateInactiveToggleUI();
   const filtered = getFiltered();
   const grid = document.getElementById('recipeGrid');
   const hasFilters = activeLocs.size||activeCats.size||activeSubs.size||searchQuery.trim();
   document.getElementById('clearBtn').classList.toggle('visible', hasFilters);
-  if(!filtered.length){ showEmpty('🔍','No recipes found','Try adjusting your search or filters'); return; }
+  if(!filtered.length){
+    if(viewMode==='inactive') showEmpty('📦','No inactive recipes','Recipes marked inactive will show up here');
+    else showEmpty('🔍','No recipes found','Try adjusting your search or filters');
+    return;
+  }
   document.getElementById('emptyState').style.display='none';
   grid.style.display='grid';
   const frag = document.createDocumentFragment();
   filtered.forEach(r=>frag.appendChild(renderCard(r)));
   grid.innerHTML=''; grid.appendChild(frag);
   const total = filtered.length;
-  document.getElementById('resultsText').innerHTML = hasFilters
-    ? `Showing <strong>${total.toLocaleString()}</strong> of ${RECIPES.length.toLocaleString()} recipes`
-    : `Showing all <strong>${total.toLocaleString()}</strong> recipes`;
-  document.getElementById('headerCount').textContent = `${total.toLocaleString()} recipe${total!==1?'s':''}`;
+  if(viewMode==='inactive'){
+    document.getElementById('resultsText').innerHTML = `Showing <strong>${total.toLocaleString()}</strong> inactive recipe${total!==1?'s':''}`;
+    document.getElementById('headerCount').textContent = `${total.toLocaleString()} inactive`;
+  } else {
+    document.getElementById('resultsText').innerHTML = hasFilters
+      ? `Showing <strong>${total.toLocaleString()}</strong> of ${RECIPES.filter(r=>r.active!==false).length.toLocaleString()} recipes`
+      : `Showing all <strong>${total.toLocaleString()}</strong> recipes`;
+    document.getElementById('headerCount').textContent = `${total.toLocaleString()} recipe${total!==1?'s':''}`;
+  }
+}
+
+function toggleInactiveView(){
+  viewMode = viewMode==='inactive' ? 'active' : 'inactive';
+  document.querySelectorAll('#locationFilters .filter-btn').forEach(b=>b.classList.remove('active'));
+  activeLocs.clear(); activeCats.clear(); activeSubs.clear();
+  searchQuery=''; document.getElementById('searchInput').value='';
+  renderCatDropdown(); updateSubmenuOptions();
+  render();
+}
+function updateInactiveToggleUI(){
+  const btn = document.getElementById('inactiveToggleBtn');
+  if(!btn) return;
+  const n = RECIPES.filter(r=>r.active===false).length;
+  btn.classList.toggle('on', viewMode==='inactive');
+  btn.innerHTML = viewMode==='inactive' ? '◀ Back to Active Recipes' : `🗄 Inactive${n?` (${n})`:''}`;
 }
 
 function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id).length; }
@@ -691,17 +724,18 @@ function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o
 function renderCard(recipe){
   const lc = LOC_CLASS[recipe.location]||'';
   const card = document.createElement('div');
-  card.className = `recipe-card ${lc}`;
+  card.className = `recipe-card ${lc}${recipe.active===false?' recipe-card-inactive':''}`;
   const sub = recipe.submenu ? `<span class="badge badge-sub">${recipe.submenu}</span>` : '';
   const n = getLinkedCount(recipe);
   const master = n ? `<span class="badge badge-master">🔗 ${n+1} stores</span>` : '';
   const modFlag = unlocked && recipe._modified ? `<span class="badge badge-modified">edited</span>` : '';
   const newFlag = unlocked && recipe._new ? `<span class="badge badge-new">new</span>` : '';
+  const inactiveFlag = recipe.active===false ? `<span class="badge badge-modified">inactive</span>` : '';
   card.innerHTML = `<div class="card-header" onclick="openModal('${recipe.id}')">
     <div class="card-name">${hl(recipe.name)}</div>
     <div class="card-meta">
       <span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span>
-      <span class="badge badge-cat">${recipe.category}</span>${sub}${master}${modFlag}${newFlag}
+      <span class="badge badge-cat">${recipe.category}</span>${sub}${master}${modFlag}${newFlag}${inactiveFlag}
     </div></div>`;
   return card;
 }
@@ -864,10 +898,22 @@ function renderModalEdit(){
     ${syncSection}`;
   document.getElementById('modalBody').querySelectorAll('textarea').forEach(autoH);
 
+  const activeToggleLabel = r.active===false ? '♻ Restore to Active' : '🗄 Mark Inactive';
   document.getElementById('modalFooter').innerHTML = `
     <button class="action-btn primary" onclick="saveEdit()">✓ Apply Changes</button>
     <button class="action-btn" onclick="cancelEdit()">Cancel</button>
+    <button class="action-btn" onclick="toggleActiveStatus()">${activeToggleLabel}</button>
     <button class="action-btn danger" style="margin-left:auto" onclick="deleteRecipe()">🗑 Delete</button>`;
+}
+
+function toggleActiveStatus(){
+  const r = getCurrentRecipe(); if(!r) return;
+  const wasInactive = r.active === false;
+  r.active = wasInactive ? true : false;
+  markMod();
+  closeModal();
+  render();
+  toast(wasInactive ? 'Recipe restored to active — click "Save to GitHub" to push live' : 'Recipe marked inactive — click "Save to GitHub" to push live');
 }
 
 // ─── EDIT FORM HELPERS ───────────────────────────────────────────────────────
@@ -1051,7 +1097,7 @@ function deleteRecipe(){
 function addNewRecipe(){
   const id = newUid();
   const defaultLoc = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : 'Salty Crab North Beach';
-  const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], _new:true };
+  const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], active:true, _new:true };
   RECIPES.unshift(recipe);
   setUnsaved(true);
   render();
