@@ -1,5 +1,44 @@
 [
   {
+    "name": "Belgian Waffles",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Waffle Belgium",
+        "qty": "2",
+        "unit": "Waffles"
+      },
+      {
+        "name": "Choice of Meat",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Fresh Fruit cup",
+        "qty": "1",
+        "unit": "dish"
+      }
+    ],
+    "steps": [
+      "Cook 2 waffles by placing them in a 450-500°F oven for 3-4 minutes or until hot",
+      "DO NOT BURN OR OVERCOOK",
+      "Place the choice of meat on the grill till hot",
+      "Layer the waffles in an overlapping fashion",
+      "Place the meat next to the Waffle on the plate.",
+      "Expo: Powder Sugar, & fruit cup, if No fruit cup, a substituted",
+      "Server: Syrup, Butter chip,"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms4q3pw80pewbp",
+    "masterId": "bm-belgian-waffles-m",
+    "location": "CBG"
+  },
+  {
     "name": "Two Egg Breakfast",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -54263,7 +54302,8 @@
       "Server: Butter pack, Fruit cup & Syrup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-cbg-14",
