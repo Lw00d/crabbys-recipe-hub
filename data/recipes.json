@@ -53548,7 +53548,7 @@
   {
     "id": "bm-pl-15",
     "masterId": "bm-kid-waffle-m",
-    "name": "Kid Waffle",
+    "name": "Belgian Waffle Kids",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -53569,15 +53569,17 @@
       {
         "name": "Fresh Fruit cup",
         "qty": "1",
-        "unit": "On Plate"
+        "unit": "dish"
       }
     ],
     "steps": [
       "Cook waffles by placing them in the oven for 3-4 minutes or until hot",
       "DO NOT BURN OR OVERCOOK",
       "Place the choice of meat on the grill till heated",
+      "Cut the waffle in 1/2 to give you 2 pieces",
+      "Layer the waffle halves in an overlapping fashion",
       "Place the meat next to the Waffle on a plate.",
-      "Expo: Powder Sugar, Fruit, and 1 slice choice of meat",
+      "Expo: Powder Sugar, & Fruit cup, or 1 choice of meat",
       "Server: Syrup, 1 Butter cup, powder sugar"
     ],
     "notes": "",
@@ -54576,7 +54578,7 @@
   {
     "id": "bm-cbg-15",
     "masterId": "bm-kid-waffle-m",
-    "name": "Kids Waffles",
+    "name": "Belgian Waffle Kids",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -54601,13 +54603,14 @@
       }
     ],
     "steps": [
-      "Cook waffles by placing them in a 450-500°F oven for 3-4 minutes or until hot",
-      "DO NOT BURN OR Overcook",
+      "Cook waffles by placing them in the oven for 3-4 minutes or until hot",
+      "DO NOT BURN OR OVERCOOK",
       "Place the choice of meat on the grill till heated",
       "Cut the waffle in 1/2 to give you 2 pieces",
       "Layer the waffle halves in an overlapping fashion",
-      "Expo: Powder Sugar, & 1 choice of meat",
-      "Server: - Butter cup, syrup, & fruit cup"
+      "Place the meat next to the Waffle on a plate.",
+      "Expo: Powder Sugar, & Fruit cup, or 1 choice of meat",
+      "Server: Syrup, 1 Butter cup, powder sugar"
     ],
     "notes": "",
     "images": []
@@ -59869,7 +59872,7 @@
   {
     "id": "bm-nb-39",
     "masterId": "bm-kid-waffle-m",
-    "name": "Belgian Waffle",
+    "name": "Belgian Waffle Kids",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
