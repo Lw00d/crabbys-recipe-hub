@@ -74989,5 +74989,93 @@
     ],
     "notes": "",
     "images": []
+  },
+  {
+    "id": "dm-cbg-180",
+    "masterId": "dm-cbg-180-m",
+    "name": "Tuna",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tuna Steak (Prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Baste"
+      },
+      {
+        "name": "Seasoning Requested",
+        "qty": "dust",
+        "unit": "Seasoning"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Baste",
+        "unit": "Finished"
+      }
+    ],
+    "steps": [
+      "Baste the Tuna with garlic spread",
+      "Season as requested",
+      "Place on a flat top",
+      "Cook 2 minutes, baste and flip",
+      "Cook another 1.5-2 minutes",
+      "Brush the Tuna with garlic spread to moisten before plating",
+      "Place on the correct plateware",
+      "Expo: lemon wedge",
+      "Plateware: App Plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Tuna_Offshore_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-181",
+    "masterId": "dm-cbg-181-m",
+    "name": "Steam Shrimp plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp Steamed (Prep)",
+        "qty": "1",
+        "unit": "Bag"
+      },
+      {
+        "name": "Old Bay seasoning",
+        "qty": "sprinkle",
+        "unit": "On top"
+      }
+    ],
+    "steps": [
+      "Hot: Place the mesh bag portion of the uncooked shrimp into the boiling Old Bay water",
+      "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not been warped. A warped shell means that they are overcooked. The shell color should be bright orange, and the meat should be white in color.",
+      "Remove cooked shrimp from the mesh bag and arrange evenly on a plate.",
+      "Sprinkle shrimp with Old Bay seasoning",
+      "Expo: 2oz drawn butter",
+      "Plateware: On a lined aluminum tray with crab or lobster",
+      "Cold: Place the mesh bag portion of the uncooked shrimp into the boiling Old Bay water",
+      "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that the shrimp are overcooked. The shell color should be bright orange, and the meat should be white in color.",
+      "Immediately remove shrimp from boiling water and place in a bath of ice water. Let the shrimp stand in ice water until completely chilled.",
+      "Remove cooked shrimp from the mesh bag and arrange evenly on a plate.",
+      "Sprinkle shrimp with Old Bay seasoning",
+      "Expo: Lemon wedge, 2oz melted butter",
+      "Plateware: On the lined aluminum tray with crab or lobster"
+    ],
+    "notes": "",
+    "images": []
   }
 ]
