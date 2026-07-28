@@ -1,6 +1,6 @@
 [
   {
-    "name": "Avocado Toast (SCNB)",
+    "name": "Avocado Toast",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
     "yield": "",
@@ -46,7 +46,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Avocado Toast (SCNB)",
+    "name": "Avocado Toast",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
     "yield": "",
@@ -52608,7 +52608,7 @@
   {
     "id": "bm-pl-5",
     "masterId": "bm-avocado-toast-m",
-    "name": "Avocado Toast",
+    "name": "Avocado Toast (Pavilion)",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -52735,7 +52735,8 @@
       "Sprinkle queso evenly over top bread"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-si-5",
@@ -52801,7 +52802,8 @@
       "Sprinkle queso evenly over top bread"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-pl-6",
@@ -59370,7 +59372,7 @@
   {
     "id": "bm-nb-31",
     "masterId": "bm-nb-31-m",
-    "name": "Avocado Toast (SCNB)",
+    "name": "Avocado Toast",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
