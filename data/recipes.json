@@ -74111,5 +74111,883 @@
     ],
     "notes": "",
     "images": []
+  },
+  {
+    "id": "dm-cbg-160",
+    "masterId": "dm-cbg-160-m",
+    "name": "Crab and Shrimp Boil",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 3/4 (prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Steamed Shrimp (prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Sauté: Place steam shrimp portion, and crab portion in the boiling Old Bay water for 2-3 minutes",
+      "Pour the ladle of Cajun/Garlic sauce into the skillet with shrimp, corn, and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add crab & shrimp to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large beer tray",
+      "If using cream separately, it is 2 oz of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of scampi sauce",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Blue Oyster plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Shrimp_Boil_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Shrimp_Boil_CBG_1.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-161",
+    "masterId": "dm-cbg-161-m",
+    "name": "Crab Boil 1.5",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 3/4 (prep)",
+        "qty": "2",
+        "unit": "portion"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Sauté: Place crab portion in boiling Old Bay water for 2-3 minutes",
+      "Pour the ladle of Cajun/Garlic sauce into the skillet with corn and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add crab to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large beer tray",
+      "If using cream separately it's a 2-oz cup of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of scampi sauce",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Blue Oyster plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_15_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_15_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_15_CBG_2.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-162",
+    "masterId": "dm-cbg-162-m",
+    "name": "Crab Boil 3/4",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 3/4 (prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Note: If using cream, separate it is a 2-oz cup of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of Scampi sauce",
+      "Sauté: Place crab portion in boiling Old Bay water for 2-3 minutes",
+      "Put 1-10-oz ladle of Cajun or Garlic sauce in a skillet with corn and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add the heated, drained crab to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large blue tray",
+      "Hand off to the expo to be completed",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Blue Oyster tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_3.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-163",
+    "masterId": "dm-cbg-163-m",
+    "name": "Seafood Feast",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 3/4 (prep)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Steamed Shrimp (prep)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Sausage Smoked",
+        "qty": "8",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "3",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "2",
+        "unit": "10oz ladles"
+      }
+    ],
+    "steps": [
+      "Sauté: Place crab portions in boiling Old Bay water for 2-3 minutes",
+      "Pour 2-10-oz ladles of Cajun/Garlic sauce in a skillet with shrimp, corn, and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add crab to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a large beer tray and sell to expo",
+      "If using cream, separately it is a 2 oz cup of cream with either 2 yellow scoops of Cajun butter or 1-8oz ladle of scampi sauce",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Oyster tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seafood_Feast_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seafood_Feast_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seafood_Feast_CBG_2.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-164",
+    "masterId": "dm-cbg-164-m",
+    "name": "Shrimp Boil",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steamed Shrimp (prep)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "Halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Sauté: Pour 1-10oz ladle of Cajun/Garlic sauce in the skillet to get hot",
+      "Add shrimp, corn, and sausage",
+      "Cook for 3 to 4 minutes, stirring occasionally",
+      "If using cream, separate it is a 2-oz cup of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of scampi sauce",
+      "If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large beer tray and sell to expo when called for",
+      "Expo: Put the side on the tray, 2 lemon wedges",
+      "Plateware: Lined Oyster plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_2.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-165",
+    "masterId": "dm-cbg-165-m",
+    "name": "Bairdi 1.5",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Bairdi 3/4lb (Prep)",
+        "qty": "2",
+        "unit": "Portions"
+      }
+    ],
+    "steps": [
+      "Steamed: Place crab portions into a boiling pot or steamer.",
+      "Cook for approximately 5 minutes.",
+      "Drain before plating onto a 1/4 lined tray",
+      "Grilled: Place drained boiled crab on a large sizzler pan.",
+      "Coat generously with garlic spread and Old Bay,",
+      "Place in a salamander or 450°F oven for 2 to 3 minutes or until seasoning is golden brown.",
+      "Place the crab on the lined 1/4 tray",
+      "Expo: Lemon wedge, 4oz of butter",
+      "Plateware: Lined 1/4 Aluminum sheet tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_15_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_15_CBG_1.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-166",
+    "masterId": "dm-cbg-166-m",
+    "name": "Bairdi 3/4",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Bairdi 3/4lb (Prep)",
+        "qty": "1",
+        "unit": "Portions"
+      }
+    ],
+    "steps": [
+      "Steamed: Place crab portions into a boiling pot or steamer.",
+      "Cook for approximately 5 minutes.",
+      "Drain before plating onto a lined 1/4 tray",
+      "Grilled/Fire Roasted: Place drained boiled crab on a large sizzler pan",
+      "Coat generously with garlic spread and Old Bay",
+      "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
+      "Place on a lined 1/4 tray",
+      "Garnish: Lemon wedge, 2oz of butter",
+      "Plateware: Lined 1/4 Aluminum sheet tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_34_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_34_CBG_1.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-167",
+    "masterId": "dm-cbg-167-m",
+    "name": "Calamari plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Calamari (Prep)",
+        "qty": "1",
+        "unit": "6oz portion"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Flour",
+        "qty": "",
+        "unit": "Dusting"
+      },
+      {
+        "name": "Seasoning House",
+        "qty": "lightly",
+        "unit": "dust"
+      },
+      {
+        "name": "Peppers Cherry Hot Sliced",
+        "qty": "1",
+        "unit": "2oz cup"
+      }
+    ],
+    "steps": [
+      "Place a 6-oz portion of calamari into the milk wash and drain excess.",
+      "Transfer calamari and cherry peppers to the flour and coat evenly and thoroughly.",
+      "Once calamari is covered, shake off excess.",
+      "Place in a 350°F fryer for approx. 3 minutes or until golden brown",
+      "Transfer to a Sav-a-Day to drain excess oil.",
+      "Sprinkle with house spice",
+      "Expo: Lemon wedge, 2oz lemon aioli",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Calamari_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-168",
+    "masterId": "dm-cbg-168-m",
+    "name": "Baked Oyster plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oysters baked (prep)",
+        "qty": "6",
+        "unit": "Each"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "sprinkle",
+        "unit": "On top"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "drizzle",
+        "unit": "melted"
+      }
+    ],
+    "steps": [
+      "Place 6 prepped baked oysters on a pan, drizzle with garlic butter, then sprinkle with Old Bay.",
+      "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
+      "Place oysters in the food tray.",
+      "Garnish: Lemon wedge",
+      "Plateware: Plaid food tray, Cocktail fork"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Baked_Oyster_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-169",
+    "masterId": "dm-cbg-169-m",
+    "name": "Chicken Strips plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "7",
+        "unit": "Each"
+      },
+      {
+        "name": "Milkwash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Place 7 chicken strips into the milk wash and drain the excess.",
+      "Transfer chicken to the breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a Save-a-Day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-170",
+    "masterId": "dm-cbg-170-m",
+    "name": "Coconut Shrimp plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp Coconut Prebreaded",
+        "qty": "5",
+        "unit": "Shrimp"
+      }
+    ],
+    "steps": [
+      "Place pre-breaded shrimp into a 325°F fryer for approximately 4-5 minutes or until golden brown.",
+      "Transfer to a Sav-a-Day to drain excess oil.",
+      "Expo: Lemon wedge, 2 oz Pepper jam",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Coconut_Shrimp_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-171",
+    "masterId": "dm-cbg-171-m",
+    "name": "Cod plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cod (Prep)",
+        "qty": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "Milkwash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Flour",
+        "qty": "",
+        "unit": "Dusting"
+      },
+      {
+        "name": "Panko",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Vinegar Malt Table Top",
+        "qty": "light",
+        "unit": "spray"
+      },
+      {
+        "name": "Kosher salt",
+        "qty": "light",
+        "unit": "sprinkle"
+      }
+    ],
+    "steps": [
+      "Dip 1 cod filet into milk wash, then flour, milk wash, then panko",
+      "Drop in a 350°F fryer for 5 minutes or until golden brown",
+      "Transfer to a Sav-a-day to drain excess grease",
+      "Spray malt vinegar twice on each side of the fish and sprinkle with kosher salt",
+      "Expo: Lemon wedge",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Cod_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-172",
+    "masterId": "dm-cbg-172-m",
+    "name": "Crab Cake plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Cake (Prep)",
+        "qty": "1",
+        "unit": "Ivory Scoop"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "light",
+        "unit": "sprinkle"
+      }
+    ],
+    "steps": [
+      "Fried: Portion 1 crab cake using the ivory handled scoop.",
+      "Place the crab cake directly into the flour and lightly dust.",
+      "Do not over-handle crab cake, it should not look like a perfect circle or ball",
+      "Transfer to 350°F fryer. Cook for about 2 minutes or until cakes have a rich golden brown color",
+      "Transfer to a Save A Day to drain off excess oil",
+      "Grilled: Portion 1 crab cake using ivory handled scoop",
+      "Do not over-handle crab cake; it should not look like a perfect circle or ball",
+      "Baste with garlic spread and Old Bay onto the crab cake, and place on a flat top.",
+      "Now, baste and season the top side of the crab cake while on the flat top.",
+      "Grill 1 side for 2 minutes, then turn over and grill the other side for 2 minutes",
+      "Brush with garlic spread to moisten before plating",
+      "Expo: Lemon, Pepper jam",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Cake_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-173",
+    "masterId": "dm-cbg-173-m",
+    "name": "Fried Shrimp plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp P&D (Prep)",
+        "qty": "8",
+        "unit": "Shrimp P&D"
+      },
+      {
+        "name": "Milk wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Italian Breading",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Bread 8 P&D shrimp by dipping in milk wash, draining, and coating in Italian breading. Shake off excess.",
+      "Place breaded shrimp in a 350°F fryer and cook for approximately 4 minutes or until golden brown. Shrimp will float when cooked.",
+      "Transfer to a Sav-a-Day to drain excess oil.",
+      "Expo: Lemon wedge",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Fried_Shrimp_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-174",
+    "masterId": "dm-cbg-174-m",
+    "name": "Garlic Clams plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Clams (Portioning)",
+        "qty": "1",
+        "unit": "Portions"
+      },
+      {
+        "name": "Sauce Scampi",
+        "qty": "1",
+        "unit": "6oz ladle"
+      }
+    ],
+    "steps": [
+      "Place clams in the crab pot",
+      "Simmer 6oz ladle of scampi sauce while clams are heating up",
+      "Take clams out of the crab pot and mesh bag, then place in scampi sauce and cook for another minute or 2",
+      "Place the opened clams in a bowl, making sure that no shells are empty. (There must be a clam in each shell)",
+      "Pour scampi sauce over clams",
+      "Expo: Lemon wedge",
+      "Plateware: Soup bowl"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Garlic_Clams_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-175",
+    "masterId": "dm-cbg-175-m",
+    "name": "Grilled Shrimp plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp Skewers",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "brush",
+        "unit": "On melted"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "lightly",
+        "unit": "Dust"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Brush",
+        "unit": "Finished"
+      }
+    ],
+    "steps": [
+      "Baste skewers with garlic spread and dust evenly with Old Bay.",
+      "Place skewers on the flat top.",
+      "Flip skewers after approx. 2 minutes.",
+      "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
+      "Baste shrimp with garlic spread before plating.",
+      "Place skewers on the correct plateware.",
+      "Expo: Lemon wedge",
+      "Plateware: Lined 1/4 tray with crab or lobster"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grilled_Shrimp_Plus_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grilled_Shrimp_Plus_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grilled_Shrimp_Plus_CBG_2.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-176",
+    "masterId": "dm-cbg-176-m",
+    "name": "Grouper plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Sandwich (Prep)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Fried: Place the grouper into the milk wash and drain the excess.",
+      "Transfer to breading and shake off the excess, making sure to cover the Grouper thoroughly.",
+      "Transfer Grouper to a 350°F fryer for approx. 4 minutes or until golden brown and cooked thoroughly.",
+      "Transfer to a Sav-a-Day to drain excess oil.",
+      "Place Grouper on 1# Plaid Food Tray and serve.",
+      "Grilled/Blackened: Baste grouper with garlic spread, then lightly and evenly dust with the Requested Seasoning.",
+      "Place on a flat top. Cook for 4 minutes, flip, and cook for approximately 3 minutes.",
+      "Brush with garlic butter",
+      "Place grouper in a plaid food tray and serve.",
+      "Broiled: Place Grouper on a broil pan, add water to the pan to keep from burning.",
+      "Baste with garlic spread and lightly dust with Old Bay or Blackening seasoning.",
+      "Place in oven for approx. 5 minutes.",
+      "Brush with garlic spread to moisten and plating.",
+      "Place Grouper on plaid food tray and serve.",
+      "Expo: Lemon wedge",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Plus_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-177",
+    "masterId": "dm-cbg-177-m",
+    "name": "Jonah Claws",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Dinner knife, Mallet",
+    "ingredients": [
+      {
+        "name": "Jonah Claws",
+        "qty": "1 or 2",
+        "unit": "1 Lb. portions"
+      }
+    ],
+    "steps": [
+      "Serve: 1# for appetizer and 2# for dinner",
+      "Cold: Crab is fully cooked and will be ideally served cold",
+      "Arrange neatly on the correct plateware",
+      "Hot: Place crab portions into a pot of water or a steamer.",
+      "Cook for approximately 3-4 minutes.",
+      "Drain before plating",
+      "Arrange neatly on the correct plateware.",
+      "Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.",
+      "Expo: 2 lemons, 4oz cup Stone Mustard Sauce",
+      "Plateware: Lined 1/4 Tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_CBG_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-178",
+    "masterId": "dm-cbg-178-m",
+    "name": "Lobster Tail (8 & 16oz)",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Tails (Pull Thaw)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "Brush on",
+        "unit": "melted"
+      },
+      {
+        "name": "Seasoning Seafood Old Bay",
+        "qty": "lightly",
+        "unit": "dust"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "Brush on",
+        "unit": "Finished"
+      }
+    ],
+    "steps": [
+      "Cutting the Tail: Cut the shell from front to rear, being careful that you do not cut too deeply.",
+      "Pop open the bottom segment closest to the tail.",
+      "Pull meat out of the shell, still leaving the tail attached. Neatly place the lobster meat on top of the shell.",
+      "Make a 1/2'' incision down the center of the lobster tail.",
+      "Fan the lobster's tail fins out",
+      "Cooking: Place the lobster tail on a broil pan and fill with water to above where the tail fin stops",
+      "Baste the top with garlic spread",
+      "Place in a 450-500°F oven for approximately 6 minutes",
+      "Remove from the oven and re-baste with garlic spread, lightly dust with Old Bay",
+      "With a knife, make a (2) 1/2 inch incision running lengthwise with the tail across the meat to let the heat get in and speed up the cooking process.",
+      "Return to oven for approximately 5 minutes until lobster tail is cooked",
+      "When finished cooking, brush with garlic spread to moisten before plating onto the correct plateware.",
+      "Expo: Lemon wedge, 4oz drawn butter, Steak Knife",
+      "Plateware: Lined 1/4 Aluminum sheet tray/dinner plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Tail_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Tail_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Tail_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Tail_CBG_3.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-179",
+    "masterId": "dm-cbg-179-m",
+    "name": "Mahi plus",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi Portions 6oz (Pull Thaw)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Grilled/Blackened: Baste Mahi with garlic spread and then lightly and evenly dust with the requested seasoning.",
+      "Place on a flat top. After 4 minutes, flip and cook for approximately 4 minutes.",
+      "When Mahi is finished cooking, brush with garlic spread to moisten before plating.",
+      "Broiled: Place Mahi on a broil pan and cover with water.",
+      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "Place in a 450°F oven for approx. 5 minutes.",
+      "When finished cooking, brush with garlic spread to moisten before plating.",
+      "Fried: Place Mahi into the milk wash and drain the excess.",
+      "Transfer to the breading and shake off the excess, making sure to cover the Mahi thoroughly.",
+      "Transfer Mahi to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
+      "Transfer from fryer to Sav-A-Day to drain excess oil.",
+      "Expo: Lemon",
+      "Plateware: Plaid food tray"
+    ],
+    "notes": "",
+    "images": []
   }
 ]
