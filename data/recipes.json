@@ -1,5 +1,240 @@
 [
   {
+    "name": "Chicken Wings",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "qty": "8",
+        "unit": "Each"
+      },
+      {
+        "name": "Sauce Requested",
+        "qty": "3",
+        "unit": "Ounces"
+      }
+    ],
+    "steps": [
+      "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
+      "Fry wings for 6 to 12 minutes until hot to the bone",
+      "Place in Sav-A-Day to soak up excess oil",
+      "Toss in the requested sauce",
+      "Place on a lined oval basket",
+      "Plateware:",
+      "Garnish:",
+      "**Datil pepper sauce- 2 parts datil bloody Mary mix & 1 part BBQ sauce**",
+      "Bourbon St Shrimp (All stores)"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Chicken_Wings_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Chicken_Wings_1.jpg"
+    ],
+    "id": "m-ms67leo0obg443",
+    "masterId": "dm-cbg-26-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Chicken Tender App (All stores)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "7",
+        "unit": "Chicken Strips"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Place 7 chicken strips into the milk wash and drain the excess.",
+      "Transfer the strips to the chicken breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a save-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Expo:",
+      "Plateware:",
+      "Plated 7 count- Nashville"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms67kk6zo4uauu",
+    "masterId": "dm-cbg-25-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Chicken Tender App (All stores)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "7",
+        "unit": "Chicken Strips"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Place 7 chicken strips into the milk wash and drain the excess.",
+      "Transfer the strips to the chicken breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a save-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Expo:",
+      "Plateware:",
+      "Plated 7 count- Nashville"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms67kdgdwp5l2q",
+    "masterId": "dm-cbg-25-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Chicken Tender App (All stores)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "7",
+        "unit": "Chicken Strips"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Place 7 chicken strips into the milk wash and drain the excess.",
+      "Transfer the strips to the chicken breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a save-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Expo:",
+      "Plateware:",
+      "Plated 7 count- Nashville"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms67k7w11ke3ud",
+    "masterId": "dm-cbg-25-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Crab Cake (New)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Cake (Prep)",
+        "qty": "1",
+        "unit": "Ivory scoop"
+      },
+      {
+        "name": "Requested Seasoning",
+        "qty": "Lightly",
+        "unit": "Season"
+      }
+    ],
+    "steps": [
+      "Grilled:",
+      "Use an ivory scoop and season the crab cake with a sprinkle of Old Bay on both sides.",
+      "Place a little garlic spread on the flat top",
+      "Sear the crab cake for 30 seconds to 1 minute",
+      "Flip the crab cake to the seared side up, and place it on a pizza tray",
+      "Bake for 6 minutes at 450°F",
+      "Put it on a small plate and give it to the expo.",
+      "Use an ivory scoop and place the crab cake directly into the flour and lightly dust it.",
+      "Put into the fryer and cook for about 2 minutes or until cakes have a rich, golden brown color",
+      "Place in a save-a-day to drain off excess oil",
+      "Put it on a small plate and give it to the expo."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms67en5k0u149z",
+    "masterId": "dm-nb-11-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Crab & Spinach Dip (All stores)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab & Spin Dip (Pull Thaw)",
+        "qty": "1",
+        "unit": "White handle scoop"
+      },
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "Sprinkled",
+        "unit": "Across the top"
+      }
+    ],
+    "steps": [
+      "Tim Daniele at 6/16/2025 12:13 PM",
+      "Place 1 white handled scoop of crab and spinach dip bulk loosely into an 8-oz rarebit. Make sure that the dip is not packed into the dish.",
+      "Sprinkle lightly with cheddar jack cheese (make sure there is not too much cheese).",
+      "Place into a 450°F oven for approximately 7 minutes or until the cheese is a light golden brown and the dip is heated thoroughly.",
+      "Place the dish on a lined round basket.",
+      "Place the unbroken chips next to the dish.",
+      "Expo:",
+      "Plateware:"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Crab_and_Spinach_Dip_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Crab_and_Spinach_Dip_1.jpg"
+    ],
+    "id": "m-ms67cu9lxq23er",
+    "masterId": "dm-cbg-29-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Boom-Boom Shrimp",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -16872,7 +17107,8 @@
       "Expo: Lemon wedge, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-nb-2",
@@ -22687,7 +22923,8 @@
       "Expo: BBQ, Nashville hot, or Ranch"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-si-8",
@@ -22874,7 +23111,7 @@
   {
     "id": "dm-si-11",
     "masterId": "dm-grilled-wings-m",
-    "name": "Grilled Wings",
+    "name": "Chicken Wings Grilled Fresh",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -22905,7 +23142,7 @@
   },
   {
     "id": "dm-pl-10",
-    "masterId": "dm-grilled-wings-m",
+    "masterId": "m-ms67m1zf8s7dxg",
     "name": "Grilled Wings",
     "location": "Palm",
     "category": "Dinner Menu",
@@ -22933,7 +23170,8 @@
       "Plate the wings on a rectangular plate and drizzle a little more sauce on them"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-si-12",
@@ -64030,13 +64268,14 @@
     ],
     "steps": [
       "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
-      "Place wings in a 350°F fryer for 8 to 12 minutes until hot to the bone",
+      "Fry wings for 6 to 12 minutes until hot to the bone",
       "Place in Sav-A-Day to soak up excess oil",
       "Toss in the requested sauce",
-      "Place on correct plateware",
-      "Plateware: Rectangular Plate",
-      "Garnish: chopped parsley, 2oz. Dipping sauce",
-      "**Datil Pepper Sauce- 2 parts datil bloody Mary mix & 1 part BBQ sauce**"
+      "Place on a lined oval basket",
+      "Plateware:",
+      "Garnish:",
+      "**Datil pepper sauce- 2 parts datil bloody Mary mix & 1 part BBQ sauce**",
+      "Bourbon St Shrimp (All stores)"
     ],
     "notes": "",
     "images": [
@@ -64103,7 +64342,7 @@
   {
     "id": "dm-cds-28",
     "masterId": "dm-cds-28-m",
-    "name": "Crab Cake (New App)",
+    "name": "Crab Cake App (2 in oven)",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -64164,13 +64403,14 @@
       }
     ],
     "steps": [
+      "Tim Daniele at 6/16/2025 12:13 PM",
       "Place 1 white handled scoop of crab and spinach dip bulk loosely into an 8-oz rarebit. Make sure that the dip is not packed into the dish.",
       "Sprinkle lightly with cheddar jack cheese (make sure there is not too much cheese).",
       "Place into a 450°F oven for approximately 7 minutes or until the cheese is a light golden brown and the dip is heated thoroughly.",
       "Place the dish on a lined round basket.",
       "Place the unbroken chips next to the dish.",
-      "Expo: chopped parsley, Soup Spoon, Tortilla Chips",
-      "Plateware: Rectangular plate, rarebit, napkin, & Soup spoon"
+      "Expo:",
+      "Plateware:"
     ],
     "notes": "",
     "images": [
