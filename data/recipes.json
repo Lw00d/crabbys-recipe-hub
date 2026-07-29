@@ -64549,7 +64549,7 @@
   {
     "id": "dm-cds-33",
     "masterId": "dm-cds-33-m",
-    "name": "Grouper Nuggets",
+    "name": "Grouper Nuggets w/ Onion Straws",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -65257,16 +65257,26 @@
         "name": "Shrimp P&D (Prep)",
         "qty": "8",
         "unit": "Shrimp P&D"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Baste",
+        "unit": "Both Proteins"
+      },
+      {
+        "name": "Old Bay Or Blackening Mix",
+        "qty": "Lightly",
+        "unit": "Seasoned"
       }
     ],
     "steps": [
       "BLACKENED/GRILLED:",
-      "Baste grouper and shrimp with garlic butter and season evenly with blackened seasoning",
+      "Baste grouper and shrimp with garlic butter and season evenly with requested seasoning",
       "Cook on each side for 2 to 3 minutes until cooked through",
       "Baste with garlic butter to moisten before serving",
       "FRIED:",
       "Place the grouper and shrimp into the milk wash and drain the excess.",
-      "Transfer to Italian breading, making sure to cover the grouper and shrimp evenly and thoroughly, and shake off the excess.",
+      "Transfer to Italian breading and shake off the excess, making sure to cover the grouper and shrimp evenly and thoroughly.",
       "Transfer to a 350°F fryer for approximately 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "BROILED:",
@@ -65274,8 +65284,8 @@
       "Baste with garlic spread and lightly and evenly dust with Old Bay.",
       "Place in a 450°F oven for approx. 5 minutes or until fully cooked.",
       "Brush with garlic spread to moisten before plating.",
-      "Expo: Lemon wedge, chopped parsley, requested sides",
-      "Plateware: 9\" Dinner platter"
+      "Expo: Lemon wedge, 2 sides",
+      "Plateware: Broil/Blacken - Dinner plate, Fried - Lined round basket"
     ],
     "notes": "",
     "images": [
@@ -67921,7 +67931,7 @@
   {
     "id": "dm-cbg-70",
     "masterId": "dm-cds-47-m",
-    "name": "Grouper & Shrimp (All stores)",
+    "name": "Grouper & Shrimp",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -68533,7 +68543,8 @@
       "Plateware: Lined 1/4 tray, app plate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-cbg-81",
