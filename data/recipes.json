@@ -1,5 +1,115 @@
 [
   {
+    "name": "Ribs & Shrimp Steamed (3/4#)",
+    "category": "Dinner Menu",
+    "submenu": "Combos",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ribs (Pull Thaw)",
+        "qty": ".5",
+        "unit": "portion"
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "Baste",
+        "unit": "Rib"
+      },
+      {
+        "name": "Shrimp EZ Peel 3/4 (prep)",
+        "qty": "1",
+        "unit": "Red Mesh Bag"
+      },
+      {
+        "name": "Scampi Sauce",
+        "qty": "1",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "Dust",
+        "unit": "Top"
+      }
+    ],
+    "steps": [
+      "Ribs:",
+      "Unwrap the ribs and glaze them with BBQ sauce",
+      "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through. Once the ribs are hot, and place them on the platter",
+      "Steam Shrimp:",
+      "Take a portion of EZ Peel shrimp, place it in the crab water pot.",
+      "Cook for 4-6 minutes, till cooked and hot throughout.",
+      "Remove and drain the water.",
+      "HOT/Scampi: In a sauté pan heat up the Scampi sauce, add the drained shrimp, while flipping the shrimp cook for 3 minutes to coat the shrimp",
+      "Place on the appropriate plateware.",
+      "COLD: Submerge in an ice bath to completely chill and stop the cooking process.",
+      "Drain the shrimp, and place them on the correct plateware.",
+      "Once the Shrimp are done, place them on a lined 1/4 tray, alongside the Ribs",
+      "Expo: chopped parsley, 2oz BBQ sauce, requested sides, lemon wedge, steak knife",
+      "Plateware: White Combo Plate, small bowl"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms69uyz4r0ajd7",
+    "masterId": "dm-cds-53-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Ribs & Shrimp Fried",
+    "category": "Dinner Menu",
+    "submenu": "Combos",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ribs (Pull Thaw)",
+        "qty": ".5",
+        "unit": "portion"
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "Baste",
+        "unit": "Rib"
+      },
+      {
+        "name": "Shrimp P&D",
+        "qty": "8",
+        "unit": "each"
+      },
+      {
+        "name": "Milk wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Italian Breader",
+        "qty": "",
+        "unit": "Coating"
+      }
+    ],
+    "steps": [
+      "Ribs:",
+      "Unwrap ribs and glaze with BBQ sauce",
+      "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through.",
+      "Place on a lined 1/4 tray",
+      "Fried Shrimp:",
+      "Take 8 P&D shrimp, place in milk wash, drain",
+      "Place in the Italian breader and coat evenly, shake off excess",
+      "Place in 350°F fryer 4-5 minutes until golden brown.",
+      "Place in a Sav a Day to drain excess oil",
+      "Once the Ribs are done, place them on a lined 1/4 tray, and place the Shrimp alongside the Ribs",
+      "Garnish: 2oz BBQ sauce, requested sides, lemon wedge",
+      "Plateware: Lined 1/4 tray"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms69tw4ex244am",
+    "masterId": "dm-pl-57-m",
+    "location": "CBG"
+  },
+  {
     "name": "Grouper & Shrimp (key west)",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -67974,7 +68084,8 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs___Shrimp_Steamed_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs___Shrimp_Steamed_1.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cbg-70",
@@ -68724,7 +68835,8 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs___Shrimp_Fried_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs___Shrimp_Fried_1.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cbg-83",
