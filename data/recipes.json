@@ -17282,9 +17282,9 @@
   },
   {
     "id": "dm-nb-10",
-    "masterId": "dm-calamari-m",
-    "name": "Calamari",
-    "location": "Salty Crab North Beach",
+    "masterId": "m-ms676161xiil3i",
+    "name": "Calamari from Steaks",
+    "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -17337,63 +17337,8 @@
   },
   {
     "id": "dm-si-1",
-    "masterId": "dm-calamari-m",
-    "name": "Calamari",
-    "location": "Salty's Island",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Calamari Strips",
-        "qty": "1",
-        "unit": "Portion"
-      },
-      {
-        "name": "Flour",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Milk Wash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breader",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "House Spice",
-        "qty": "Light",
-        "unit": "Dusting"
-      },
-      {
-        "name": "Marinara",
-        "qty": "1",
-        "unit": "2-ounce cup"
-      }
-    ],
-    "steps": [
-      "Place calamari in flour shake off excess, then milk wash, drain",
-      "Then coat with Chicken Breader, shake off excess",
-      "Place in a 350°F fryer for 2-3 minutes",
-      "Transfer to a save-a-day to drain off excess oil",
-      "Dust with house spice",
-      "Place calamari on an app plate",
-      "Expo: Marinara 2oz, Lemon wedge",
-      "Plateware: 7\" Round plate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dm-pl-1",
-    "masterId": "dm-calamari-m",
-    "name": "Calamari",
+    "masterId": "m-ms676raj51hbdf",
+    "name": "Calamari from Steaks",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -17443,7 +17388,64 @@
       "Plateware: 7\" Round plate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
+  },
+  {
+    "id": "dm-pl-1",
+    "masterId": "dm-calamari-m",
+    "name": "Calamari from Steaks",
+    "location": "Palm",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Calamari Strips",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Flour",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "House Spice",
+        "qty": "Light",
+        "unit": "Dusting"
+      },
+      {
+        "name": "Marinara",
+        "qty": "1",
+        "unit": "2-ounce cup"
+      }
+    ],
+    "steps": [
+      "Place calamari in flour shake off excess, then milk wash, drain",
+      "Then coat with Chicken Breader, shake off excess",
+      "Place in a 350°F fryer for 2-3 minutes",
+      "Transfer to a save-a-day to drain off excess oil",
+      "Dust with house spice",
+      "Place calamari on an app plate",
+      "Expo: Marinara 2oz, Lemon wedge",
+      "Plateware: 7\" Round plate"
+    ],
+    "notes": "",
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-nb-11",
@@ -31170,8 +31172,8 @@
   },
   {
     "id": "dm-cbg-17",
-    "masterId": "dm-cbg-17-m",
-    "name": "Calamari (All stores)",
+    "masterId": "m-ms678fu5oph2e0",
+    "name": "Calamari w/ Onion Straws",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -31219,7 +31221,8 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Calamari_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Calamari_1.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cbg-18",
@@ -63953,7 +63956,7 @@
   {
     "id": "dm-cds-25",
     "masterId": "dm-cbg-17-m",
-    "name": "Calamari (All stores)",
+    "name": "Calamari w/ Onion Straws",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -63973,8 +63976,8 @@
       },
       {
         "name": "Peppers Cherry Hot Sliced",
-        "qty": "1",
-        "unit": "4 oz cup"
+        "qty": "2",
+        "unit": "Vol oz"
       },
       {
         "name": "Flour",
@@ -63985,22 +63988,17 @@
         "name": "House Spice",
         "qty": "",
         "unit": "Sprinkle"
-      },
-      {
-        "name": "Onion Straws",
-        "qty": "1",
-        "unit": "4oz cup"
       }
     ],
     "steps": [
       "Place a 6-oz portion of calamari into the milk wash and drain excess.",
-      "Transfer calamari and add cherry peppers to the flour and coat evenly and thoroughly. Be sure that the rings are separated",
+      "Transfer calamari and add cherry peppers to the flour and coat evenly and thoroughly.",
       "Once calamari is covered, shake off excess.",
-      "Place in a 350°F fryer for approx. 2.5 minutes or until light golden brown",
+      "Place in a 350°F fryer for approx. 2.5 minutes or until golden brown",
       "Transfer to a save-a-day to drain excess oil.",
       "Sprinkle with house spice",
-      "Expo: Lemon wedge, chopped parsley, Lemon Aioli",
-      "Plateware: App Plate"
+      "Expo:",
+      "Plateware:"
     ],
     "notes": "",
     "images": [
