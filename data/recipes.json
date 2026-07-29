@@ -23567,7 +23567,7 @@
   {
     "id": "dm-si-22",
     "masterId": "dm-ahi-tuna-m",
-    "name": "Ahi Tuna",
+    "name": "Bowl Ahi Tuna",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -23646,11 +23646,11 @@
   },
   {
     "id": "dm-si-23",
-    "masterId": "dm-ahi-tuna-m",
-    "name": "Ahi Tuna",
+    "masterId": "m-ms66u4eznmqp2i",
+    "name": "Ahi Tuna Bowl",
     "location": "Salty's Island",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Tacos / Bowls",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -23722,15 +23722,16 @@
       "Plateware: Medium Square Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-pl-12",
-    "masterId": "dm-ahi-tuna-m",
-    "name": "Ahi Tuna",
+    "masterId": "m-ms66vf0sz3dkv3",
+    "name": "Ahi Tuna Bowl",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Tacos / Bowls",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -23802,7 +23803,8 @@
       "Plateware: Medium Square Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-si-24",
@@ -28958,7 +28960,7 @@
   {
     "id": "dm-pl-46",
     "masterId": "dm-pl-46-m",
-    "name": "Ahi Tuna Bowl",
+    "name": "Bowl Ahi Tuna ",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
