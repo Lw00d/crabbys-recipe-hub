@@ -1,5 +1,56 @@
 [
   {
+    "name": "Boom-Boom Shrimp",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp Pieces",
+        "qty": "1",
+        "unit": "Portion or yellow spoodle"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "For Dipping"
+      },
+      {
+        "name": "Italian Breading",
+        "qty": "",
+        "unit": "For Coating"
+      },
+      {
+        "name": "Sauce Boom-Boom",
+        "qty": "3",
+        "unit": "oz. for Coating"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      }
+    ],
+    "steps": [
+      "Place 6oz of Shrimp pieces in milk wash, drain off excess",
+      "Transfer to Italian breading and coat evenly.",
+      "Place shrimp into 350°F fryer for about 2-3 minutes or until light golden brown in color and cooked thoroughly",
+      "Transfer to a Sav-a-Day to drain off excess oil",
+      "Place in the sauce bowl and toss a few times in Boom-Boom sauce to evenly coat all the shrimp",
+      "In a large (12-14oz) Oval Au Gratin dish, place a small amount of cabbage in the bottom to cover",
+      "Pour the Shrimp and sauce on top",
+      "Expo: Green Onion, Lemon wedge,",
+      "Plateware: Large Oval Au Gratin Dish"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms671scofb01gn",
+    "masterId": "dm-nb-12-m",
+    "location": "CBG"
+  },
+  {
     "name": "Biscuits & Gravy",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -31323,8 +31374,8 @@
   {
     "id": "dm-cbg-22",
     "masterId": "dm-cbg-22-m",
-    "name": "Boom-Boom Shrimp (All stores)",
-    "location": "CBG",
+    "name": "Boom-Boom Shrimp w/ Onion Straws",
+    "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -31694,7 +31745,7 @@
     "id": "dm-cbg-31",
     "masterId": "dm-cbg-31-m",
     "name": "Avocado Egg Rolls",
-    "location": "CBG",
+    "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -63804,7 +63855,7 @@
   },
   {
     "id": "dm-cds-23",
-    "masterId": "dm-cbg-22-m",
+    "masterId": "m-ms6719r2nj9mma",
     "name": "Boom-Boom Shrimp (All stores)",
     "location": "CDS",
     "category": "Dinner Menu",
@@ -63840,16 +63891,16 @@
       "Place shrimp into a 350°F fryer for about 3 minutes or until light golden brown in color and cooked thoroughly",
       "Transfer to a save-a-day to drain off excess oil",
       "Place in the sauce bowl and toss in Boom-Boom sauce",
-      "Place the onion straws in the basket, place the shrimp on top",
-      "Expo: chopped parsley, Lemon wedge, Remoulade",
-      "Plateware: App Plate"
+      "Expo:",
+      "Plateware:"
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Boom-Boom_Shrimp_Bites_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Boom-Boom_Shrimp_Bites_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Boom-Boom_Shrimp_Bites_2.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cds-24",
