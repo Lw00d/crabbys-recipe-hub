@@ -1,5 +1,127 @@
 [
   {
+    "name": "Crab Roll (Cold) Alaskan",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brioche Roll Lobster",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Brush",
+        "unit": "Roll"
+      },
+      {
+        "name": "Crab Roll (Prep)",
+        "qty": "1",
+        "unit": "Portions"
+      },
+      {
+        "name": "Scallions (prep)",
+        "qty": "12",
+        "unit": "1/8\" rings"
+      },
+      {
+        "name": "Seasoning Old Bay",
+        "qty": "Light",
+        "unit": "Dusting"
+      }
+    ],
+    "steps": [
+      "Baste the hot dog bun on both sides of the bun with garlic butter",
+      "Place it on the grill, flipping after 30 seconds, and cook 30 seconds more. Remove",
+      "Pull one container of prepped crab meat and place it on top of the bun. Spreading it out end to end on the bun.",
+      "Expo:",
+      "Plateware:"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Roll__Cold__Alaskan_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Roll__Cold__Alaskan_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Roll__Cold__Alaskan_2.jpg"
+    ],
+    "id": "m-ms6a05lpinlwf0",
+    "masterId": "dm-pl-38-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Add-Ons for Sandwiches",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jalapeno",
+        "qty": "4 slices each",
+        "unit": "raw"
+      },
+      {
+        "name": "Fried Cherry peppers",
+        "qty": "",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Sauté mushrooms",
+        "qty": "",
+        "unit": "4oz cup on the grill"
+      },
+      {
+        "name": "Sauté (Diced) onions",
+        "qty": "",
+        "unit": "4oz cup on the grill"
+      },
+      {
+        "name": "Sautéed (rings) onions",
+        "qty": "3 to 4",
+        "unit": "Depending on size"
+      },
+      {
+        "name": "Bacon",
+        "qty": "2 pieces",
+        "unit": "On the grill"
+      },
+      {
+        "name": "Mango salsa",
+        "qty": "Sunflower spoodle",
+        "unit": ""
+      },
+      {
+        "name": "Mac & Cheese",
+        "qty": ".5 ivory scoop",
+        "unit": "By expo"
+      },
+      {
+        "name": "Avocado salsa",
+        "qty": "Green scoop",
+        "unit": ""
+      },
+      {
+        "name": "Fresh Avocado",
+        "qty": ".5 sliced",
+        "unit": "(5 to 6 slices)"
+      },
+      {
+        "name": "Chipotle topper",
+        "qty": "Sunflower scoop",
+        "unit": "Melted on the sandwich"
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "id": "m-ms69yjd6z6ppek",
+    "masterId": "dm-cbg-66-m",
+    "location": "CDS"
+  },
+  {
     "name": "Ribs & Shrimp Steamed (3/4#)",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -22303,7 +22425,8 @@
       "Plateware: Lined Oval Basket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-nb-84",
@@ -66462,7 +66585,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Add-On_for_sandwiches_0.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cds-64",
@@ -67237,9 +67361,9 @@
     "steps": [
       "Baste the hot dog bun on both sides of the bun with garlic butter",
       "Place it on the grill, flipping after 30 seconds, and cook 30 seconds more. Remove",
-      "Pull one container of prepped crab meat and place it on top of the bun.",
-      "Expo: Old Bay, Green Onions, Lemon Wedge, Requested side",
-      "Plateware: Rectangular Plate"
+      "Pull one container of prepped crab meat and place it on top of the bun. Spreading it out end to end on the bun.",
+      "Expo:",
+      "Plateware:"
     ],
     "notes": "",
     "images": [
