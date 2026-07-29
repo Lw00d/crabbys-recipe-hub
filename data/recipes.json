@@ -1,5 +1,52 @@
 [
   {
+    "name": "Grouper & Shrimp (key west)",
+    "category": "Dinner Menu",
+    "submenu": "Combos",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper filet",
+        "qty": "1",
+        "unit": "Sandwich portion"
+      },
+      {
+        "name": "Shrimp Skewers",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "",
+        "unit": "Dusting"
+      },
+      {
+        "name": "Honey Mustard",
+        "qty": "",
+        "unit": "Basting"
+      }
+    ],
+    "steps": [
+      "Brush (2) Shrimp skewers, and Grouper with garlic butter, add Old Bay lightly.",
+      "Place on flat top after 4 minutes flip skewers and Grouper.",
+      "Brush with honey mustard and finish cooking",
+      "Place both Grouper and Shrimp on the plate, but not overlapping",
+      "Expo: Lemon wedge, requested 2 sides"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms69qh27sz10qx",
+    "masterId": "dm-si-46-m",
+    "location": "Palm"
+  },
+  {
     "name": "Chicken Wings",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -25158,7 +25205,7 @@
   {
     "id": "dm-si-46",
     "masterId": "dm-si-46-m",
-    "name": "Grouper & Shrimp",
+    "name": "Grouper & Shrimp (key west)",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -29706,7 +29753,8 @@
       "Plateware: Round Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-pl-55",
