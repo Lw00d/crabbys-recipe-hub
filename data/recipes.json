@@ -15829,7 +15829,7 @@
   {
     "id": "bp-si-2",
     "masterId": "bp-bacon-m",
-    "name": "Bacon",
+    "name": "Bacon Prep",
     "location": "Salty's Island",
     "category": "Breakfast Prep",
     "yield": "",
@@ -15853,7 +15853,7 @@
   {
     "id": "bp-nb-1",
     "masterId": "bp-bacon-m",
-    "name": "Bacon",
+    "name": "Bacon Prep",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Prep",
     "yield": "",
@@ -15877,7 +15877,7 @@
   {
     "id": "bp-cbg-1",
     "masterId": "bp-bacon-m",
-    "name": "Bacon",
+    "name": "Bacon Prep",
     "location": "CBG",
     "category": "Breakfast Prep",
     "yield": "",
