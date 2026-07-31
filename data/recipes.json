@@ -23015,7 +23015,7 @@
     "name": "Fish/Crab/Chicken Cooking Method",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
-    "submenu": "Kid's Meals",
+    "submenu": "",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -23066,7 +23066,7 @@
     "name": "Fish/Crab/Chicken Cooking Method",
     "location": "Salty's Island",
     "category": "Dinner Menu",
-    "submenu": "Sides",
+    "submenu": "",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -25148,10 +25148,10 @@
   {
     "id": "dm-si-40",
     "masterId": "dm-fried-shrimp-m",
-    "name": "Fried Shrimp",
+    "name": "Kids Fried Shrimp",
     "location": "Salty's Island",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Kid's Meals",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -25185,7 +25185,7 @@
   {
     "id": "dm-si-41",
     "masterId": "dm-fried-shrimp-m",
-    "name": "Fried Shrimp",
+    "name": "Kids Fried Shrimp",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25222,10 +25222,10 @@
   {
     "id": "dm-pl-14",
     "masterId": "dm-fried-shrimp-m",
-    "name": "Fried Shrimp",
+    "name": "Kids Fried Shrimp",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Kid's Meals",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -25909,7 +25909,7 @@
   {
     "id": "dm-si-55",
     "masterId": "dm-fried-chicken-m",
-    "name": "Fried Chicken",
+    "name": "Kids Fried Chicken",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25959,10 +25959,10 @@
   {
     "id": "dm-cds-1",
     "masterId": "dm-fried-chicken-m",
-    "name": "Fried Chicken",
+    "name": "Kids Fried Chicken",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Mainland",
+    "submenu": "Kid's Meals",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -26009,7 +26009,7 @@
   {
     "id": "dm-si-56",
     "masterId": "dm-si-56-m",
-    "name": "Fried Fish",
+    "name": "Kids Fried Fish",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26047,7 +26047,7 @@
   {
     "id": "dm-si-57",
     "masterId": "dm-si-57-m",
-    "name": "Grilled Fish",
+    "name": "Kids Grilled Fish",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26083,7 +26083,7 @@
   {
     "id": "dm-si-58",
     "masterId": "dm-si-58-m",
-    "name": "Grilled Chicken",
+    "name": "Kids Grilled Chicken",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26147,7 +26147,7 @@
   {
     "id": "dm-si-60",
     "masterId": "dm-si-60-m",
-    "name": "Burger",
+    "name": "Kids Burger",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26177,7 +26177,7 @@
   {
     "id": "dm-si-61",
     "masterId": "dm-si-61-m",
-    "name": "Cheeseburger",
+    "name": "Kids Cheeseburger",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -67152,7 +67152,7 @@
   {
     "id": "dm-cbg-50",
     "masterId": "dm-si-58-m",
-    "name": "Grilled Chicken",
+    "name": "Kids Grilled Chicken",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -67161,7 +67161,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Chicken strip (prep)",
+        "name": "Chicken Tenders",
         "qty": "4",
         "unit": "Each"
       },
@@ -67172,16 +67172,14 @@
       },
       {
         "name": "Old Bay Seasoning",
-        "qty": "Lightly",
-        "unit": "Dust"
+        "qty": "",
+        "unit": "Lightly dusting"
       }
     ],
     "steps": [
-      "Baste 4 chicken tenders with garlic spread",
-      "Lightly dust with Old Bay seasoning",
-      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken's internal temperature reaches 165°F.",
-      "Expo: Put the side in the basket",
-      "Plateware: Lined oval basket"
+      "Place the chicken on grill, with the buttered side down",
+      "Cook for 4 minutes",
+      "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F ."
     ],
     "notes": "",
     "images": [
