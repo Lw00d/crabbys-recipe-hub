@@ -1,5 +1,48 @@
 [
   {
+    "name": "Crab Cake Prep CDS",
+    "category": "Dinner Prep",
+    "yield": "12 lbs. batch = 48 - 4oz Ivory Scoop portions",
+    "shelfLife": "3 days",
+    "smallware": "perforated pan or colander, 4\" full Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
+    "ingredients": [
+      {
+        "name": "Crab Meat Canned",
+        "qty": "4",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Crab Meat Jumbo Lump Frozen",
+        "qty": "3",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Crab Cake Base",
+        "qty": "5",
+        "unit": "Lbs."
+      },
+      {
+        "qty": "1",
+        "unit": "Lbs.",
+        "name": "Panko"
+      }
+    ],
+    "steps": [
+      "Thaw crab cake base and crab meat in the refrigerator.",
+      "Mix 1 tub (5 lbs.) Crab Cake Base and 4 lbs. of Jumbo Lump and 3 lbs. Special Lump crab meat.",
+      "Drain crab meat, but do not squeeze the crab meat.",
+      "Be careful not to overmix and do not break up the crab meat pieces.",
+      "Place into a half pan",
+      "For best results, store under refrigeration for at least 2 hours before serving.",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms8zsyki79qpkf",
+    "masterId": "dp-nb-25-m",
+    "location": "CBG"
+  },
+  {
     "name": "Ribeye Steak (SI)",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -3520,27 +3563,32 @@
   {
     "id": "dp-nb-25",
     "masterId": "dp-nb-25-m",
-    "name": "Crab Cake",
-    "location": "Salty Crab North Beach",
+    "name": "Crab Cake Prep CDS",
+    "location": "CDS",
     "category": "Dinner Prep",
     "yield": "12 lbs. batch = 48 - 4oz Ivory Scoop portions",
     "shelfLife": "3 days",
     "smallware": "perforated pan or colander, 4\" full Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
     "ingredients": [
       {
-        "name": "Crab Meat Lump Frozen",
-        "qty": "3",
+        "name": "Crab Meat Canned",
+        "qty": "4",
         "unit": "Lbs."
       },
       {
         "name": "Crab Meat Jumbo Lump Frozen",
-        "qty": "4",
+        "qty": "3",
         "unit": "Lbs."
       },
       {
         "name": "Crab Cake Base",
         "qty": "5",
         "unit": "Lbs."
+      },
+      {
+        "qty": "1",
+        "unit": "Lbs.",
+        "name": "Panko"
       }
     ],
     "steps": [
@@ -4864,12 +4912,12 @@
   {
     "id": "dp-nb-40",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cake Mix (New SI)",
+    "name": "Crab Cakes Prep SI",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "Mixing bowl, 4\" Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
+    "smallware": "",
     "ingredients": [
       {
         "name": "Eggs",
@@ -4892,11 +4940,6 @@
         "unit": "Cups"
       },
       {
-        "name": "Garlic Powder",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
         "name": "Old Bay",
         "qty": ".75",
         "unit": "Tablespoons"
@@ -4912,28 +4955,36 @@
         "unit": "Teaspoon"
       },
       {
-        "name": "Crab Meat Super Lump",
-        "qty": "7",
-        "unit": "Cans"
-      },
-      {
         "name": "Panko",
         "qty": "1",
         "unit": "Cups"
+      },
+      {
+        "name": "Garlic Powder",
+        "qty": ".5",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Crab Meat Super Lump",
+        "qty": "3.5",
+        "unit": "Cans"
       }
     ],
     "steps": [
-      "Thaw crab meat in the refrigerator.",
+      "Thaw crab cake base and crab meat in the refrigerator.",
       "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Add the crab meat and panko, and gently mix without shredding the crab meat.",
+      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
+      "Weigh 4 oz cakes and place them on a sheet tray.",
       "For best results, store under refrigeration for at least 2 hours before serving.",
       "Cover, label, date, and refrigerate",
-      "Thaw crab meat in the refrigerator.",
-      "Add all ingredients into a mixing bowl, except the crab and panko.",
-      "Add the crab meat and panko, and gently mix without shredding the crab meat.",
-      "For best results, store in the refrigerator for at least 2 hours before serving.",
+      "Yields: 15-17/ 4-oz cakes",
+      "Thaw crab cake base and crab meat in the refrigerator overnight.",
+      "Mix all ingredients except crab and panko in a large mixing bowl.",
+      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
+      "Weigh 4 oz cakes and place them on a sheet tray.",
+      "For best results, store under refrigeration for at least 2 hours before serving.",
       "Cover, label, date, and refrigerate",
-      "Portioned on the line"
+      "Yields: 32-34/ 4-oz cakes"
     ],
     "notes": "",
     "images": []
@@ -10259,7 +10310,7 @@
   {
     "id": "dp-pl-78",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes",
+    "name": "Crab Cakes Prep SI",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -10334,12 +10385,13 @@
       "Yields: 32-34/ 4-oz cakes"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-79",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes",
+    "name": "Crab Cakes Prep SI",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -10418,7 +10470,7 @@
   },
   {
     "id": "dp-cds-51",
-    "masterId": "dp-crab-cakes-m",
+    "masterId": "m-ms8zvyxntxl9if",
     "name": "Crab Cakes",
     "location": "CDS",
     "category": "Dinner Prep",
@@ -10494,11 +10546,12 @@
       "Yields: 32-34/ 4-oz cakes"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cbg-46",
-    "masterId": "dp-crab-cakes-m",
+    "masterId": "m-ms8zvd1coa0a5s",
     "name": "Crab Cakes",
     "location": "CBG",
     "category": "Dinner Prep",
@@ -10574,7 +10627,8 @@
       "Yields: 32-34/ 4-oz cakes"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-80",
@@ -11567,7 +11621,7 @@
   {
     "id": "dp-pl-91",
     "masterId": "dp-finished-product-m",
-    "name": "Finished Product",
+    "name": "Polenta Cakes",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "20 squares = 10 portions",
@@ -11617,7 +11671,7 @@
   {
     "id": "dp-cds-61",
     "masterId": "dp-finished-product-m",
-    "name": "Finished Product",
+    "name": "Polenta Cakes",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "20 squares = 10 portions",
@@ -15666,7 +15720,7 @@
   {
     "id": "dp-si-42",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes SI",
+    "name": "Crab Cakes Prep SI",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "",
