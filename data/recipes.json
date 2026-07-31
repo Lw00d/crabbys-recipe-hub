@@ -1,5 +1,128 @@
 [
   {
+    "name": "Island Slaw(Pineapple)",
+    "category": "Dinner Prep",
+    "yield": "2 Lemon bags/ 7# per bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cabbage Shredded (5# bag)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Pina Colada Sauce",
+        "qty": "1",
+        "unit": "4# bag"
+      },
+      {
+        "name": "Pineapple tidbits (Drain Juice)",
+        "qty": "2",
+        "unit": "cans"
+      }
+    ],
+    "steps": [
+      "In a colander, drain Pineapple Tidbits for 2 minutes",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "Fold together until fully mixed",
+      "Split into 2 lemon bags",
+      "Suppress all air out of the bag, and tie the bag off",
+      "Place the bag inside another lemon bag, and tie the bag",
+      "Label, date, rotate, and refrigerate",
+      "Double Bag the slaw",
+      "Label, date, refrigerate & rotate",
+      "Drain the Pineapple Juice (save)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms9188iphu7mjd",
+    "masterId": "dp-cbg-78-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Island Slaw(Pineapple)",
+    "category": "Dinner Prep",
+    "yield": "2 Lemon bags/ 7# per bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cabbage Shredded (5# bag)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Pina Colada Sauce",
+        "qty": "1",
+        "unit": "4# bag"
+      },
+      {
+        "name": "Pineapple tidbits (Drain Juice)",
+        "qty": "2",
+        "unit": "cans"
+      }
+    ],
+    "steps": [
+      "In a colander, drain Pineapple Tidbits for 2 minutes",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "Fold together until fully mixed",
+      "Split into 2 lemon bags",
+      "Suppress all air out of the bag, and tie the bag off",
+      "Place the bag inside another lemon bag, and tie the bag",
+      "Label, date, rotate, and refrigerate",
+      "Double Bag the slaw",
+      "Label, date, refrigerate & rotate",
+      "Drain the Pineapple Juice (save)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms9178m642rom5",
+    "masterId": "dp-cbg-78-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Island Slaw(Pineapple)",
+    "category": "Dinner Prep",
+    "yield": "2 Lemon bags/ 7# per bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cabbage Shredded (5# bag)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Pina Colada Sauce",
+        "qty": "1",
+        "unit": "4# bag"
+      },
+      {
+        "name": "Pineapple tidbits (Drain Juice)",
+        "qty": "2",
+        "unit": "cans"
+      }
+    ],
+    "steps": [
+      "In a colander, drain Pineapple Tidbits for 2 minutes",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "Fold together until fully mixed",
+      "Split into 2 lemon bags",
+      "Suppress all air out of the bag, and tie the bag off",
+      "Place the bag inside another lemon bag, and tie the bag",
+      "Label, date, rotate, and refrigerate",
+      "Double Bag the slaw",
+      "Label, date, refrigerate & rotate",
+      "Drain the Pineapple Juice (save)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms9172gh5k6mcy",
+    "masterId": "dp-cbg-78-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Crab Cake Prep CDS",
     "category": "Dinner Prep",
     "yield": "12 lbs. batch = 48 - 4oz Ivory Scoop portions",
@@ -3910,7 +4033,8 @@
       "Label, date and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-12",
@@ -3950,7 +4074,8 @@
       "Label, date and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-13",
@@ -3990,7 +4115,8 @@
       "Label, date and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cds-11",
@@ -4030,7 +4156,8 @@
       "Label, date and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-nb-29",
@@ -14370,7 +14497,8 @@
       "Double bagged and tied"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cbg-70",
@@ -14403,7 +14531,8 @@
       "Double bagged and tied"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cds-101",
