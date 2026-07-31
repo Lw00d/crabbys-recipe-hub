@@ -13773,7 +13773,7 @@
   {
     "id": "dp-cds-84",
     "masterId": "dp-cds-84-m",
-    "name": "into the meat of the oyster",
+    "name": "Oyster Prep Frozen",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -14671,7 +14671,7 @@
     "id": "dp-cds-103",
     "masterId": "dp-cds-103-m",
     "name": "Crab Bairdi (1lb.+) prep BW",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
