@@ -1,5 +1,259 @@
 [
   {
+    "name": "Ribeye Steak (SI)",
+    "category": "Dinner Menu",
+    "submenu": "Mainland",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ribeye (14oz Cut)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Steak Seasoning (SI)",
+        "qty": "",
+        "unit": "Season"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      }
+    ],
+    "steps": [
+      "Generously top with steak seasoning",
+      "Cook on a char grill to the desired temperature.",
+      "Brush finished steak with room temperature garlic spread.",
+      "Make sure the spread is melted before serving",
+      "Rare - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - a warm red center, otherwise pink 130–140°F",
+      "Medium - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - Brown throughout with no sign of pink >160°F",
+      "Expo: Steak knife, requested sides"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms8s18md5m4zzx",
+    "masterId": "dm-si-43-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Chicken Strips",
+    "category": "Dinner Menu",
+    "submenu": "Mainland",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "9",
+        "unit": "Chicken Strip"
+      },
+      {
+        "name": "Milkwash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "Light",
+        "unit": "Dusting"
+      }
+    ],
+    "steps": [
+      "Fried: Place 9 chicken strips into the milk wash and drain the excess.",
+      "Transfer chicken to the breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a sav-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
+      "Char-Grill - Just Lightly season w/ Requested Seasoning",
+      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "Expo: Requested Sides, Dipping sauce, if requested",
+      "Plateware: Lined round basket"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+    ],
+    "id": "m-ms8s0dxarwhvqj",
+    "masterId": "dm-cbg-152-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Chicken Strips",
+    "category": "Dinner Menu",
+    "submenu": "Mainland",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "9",
+        "unit": "Chicken Strip"
+      },
+      {
+        "name": "Milkwash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "Light",
+        "unit": "Dusting"
+      }
+    ],
+    "steps": [
+      "Fried: Place 9 chicken strips into the milk wash and drain the excess.",
+      "Transfer chicken to the breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a sav-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
+      "Char-Grill - Just Lightly season w/ Requested Seasoning",
+      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "Expo: Requested Sides, Dipping sauce, if requested",
+      "Plateware: Lined round basket"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+    ],
+    "id": "m-ms8s09qgd6y773",
+    "masterId": "dm-cbg-152-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Chicken Strips",
+    "category": "Dinner Menu",
+    "submenu": "Mainland",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "9",
+        "unit": "Chicken Strip"
+      },
+      {
+        "name": "Milkwash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "Light",
+        "unit": "Dusting"
+      }
+    ],
+    "steps": [
+      "Fried: Place 9 chicken strips into the milk wash and drain the excess.",
+      "Transfer chicken to the breading and shake off excess.",
+      "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Transfer to a sav-a-day to drain excess oil.",
+      "Toss in desired sauce if applicable.",
+      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
+      "Char-Grill - Just Lightly season w/ Requested Seasoning",
+      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "Expo: Requested Sides, Dipping sauce, if requested",
+      "Plateware: Lined round basket"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+    ],
+    "id": "m-ms8s0184goubjj",
+    "masterId": "dm-cbg-152-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Filet Mignon (SI)",
+    "category": "Dinner Menu",
+    "submenu": "Mainland",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Filet Mignon (8oz center cut)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Steak Seasoning (SI)",
+        "qty": "",
+        "unit": "Season"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      }
+    ],
+    "steps": [
+      "Generously top with steak seasoning",
+      "Place on chargrill for 2 minutes",
+      "Rotate the steak 90degrees and cook for 2 minutes to make cross marks",
+      "Flip the steak and grill for 2 minutes",
+      "Place the steak on a pizza tray and place it in 450°F oven",
+      "Follow the time guide below for cooking times",
+      "Brush finished steak with room temperature garlic spread.",
+      "Make sure the spread is melted before serving",
+      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130–140°F",
+      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Note: Times may vary on the cut of the steak. Steaks ordered med-well and well will be butterflied unless the guest does not want it.",
+      "Expo: Steak knife, requested sides"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-ms8rzeodg36hbj",
+    "masterId": "dm-si-45-m",
+    "location": "Palm"
+  },
+  {
     "name": "Crab Roll (Cold) Alaskan",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -18390,7 +18644,7 @@
     "name": "Oysters Crabbyfellars",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -23456,7 +23710,7 @@
   {
     "id": "dm-si-12",
     "masterId": "dm-raw-oyster-m",
-    "name": "Raw Oyster",
+    "name": "Oysters Raw",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -27840,7 +28094,7 @@
     "name": "Ribs",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -28029,7 +28283,7 @@
     "name": "Filet Mignon",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -28104,7 +28358,7 @@
   {
     "id": "dm-pl-20",
     "masterId": "dm-raw-oyster-m",
-    "name": "Oyster Raw",
+    "name": "Oysters Raw",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -28136,11 +28390,10 @@
     "steps": [
       "Take 12 shucked raw oysters and place them on ice in a silver bucket tray",
       "Arrange the oysters neatly with the big part around the outside of the tray",
-      "Add the horseradish, cocktail, cups to the center of the tray",
+      "Add the horseradish, cocktail, and mignonette cups to the center of the tray",
       "Stab a lemon wedge with a cocktail fork and place on the oyster tray",
-      "Expo: 2 lemon wedges, Cocktail, Horseradish, & Cocktail fork",
-      "Plateware: Oyster tray, cocktail fork",
-      "Served ON Crushed Ice"
+      "Expo: 2 lemon wedges, Cocktail, Horseradish, Mignonette & Cocktail fork w/ 6packs of Crackers",
+      "Plateware: Aluminum Oyster tray"
     ],
     "notes": "",
     "images": []
@@ -29623,7 +29876,7 @@
     "name": "Chicken Strips",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -29800,7 +30053,7 @@
     "name": "Ribeye Steak",
     "location": "Palm",
     "category": "Dinner Menu",
-    "submenu": "Offshore",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -31291,7 +31544,7 @@
     "name": "Oysters New Orleans",
     "location": "CBG",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -31319,7 +31572,7 @@
     "name": "Oysters Crabbyfellar",
     "location": "CBG",
     "category": "Dinner Menu",
-    "submenu": "Appetizers",
+    "submenu": "Shell Bar",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -74522,16 +74775,12 @@
       "Unwrap the ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven temp.) until heated through.",
       "Once done, place on a lined 1/4 tray",
-      "Add-on: Nashville tender app, place next to ribs in combo",
-      "Add-on: 8 fried shrimp, place next to ribs if combo",
-      "Plateware: Lined 1/4 tray, Steak knife",
-      "Garnish: 2oz BBQ"
+      "**Add-on Nashville tender app, place next to ribs in combo",
+      "**Add-on 8 fried shrimp, place next to ribs if combo",
+      "Plateware: 1/4 lined Alum Tray, Steak knife"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs_CBG_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Ribs_CBG_1.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-cbg-156",
