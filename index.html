@@ -296,12 +296,12 @@
     </div>
   </div>
   <div class="filters">
-    <span class="filter-label">Group</span>
+    <span class="filter-label" id="groupLabel">Group</span>
     <div class="filter-group" id="groupFilters">
       <button class="group-btn" data-group="BSHGRP" onclick="switchGroup('BSHGRP')">BSHGRP</button>
       <button class="group-btn" data-group="BSHGRP2" onclick="switchGroup('BSHGRP2')">BSHGRP2</button>
     </div>
-    <div class="divider"></div>
+    <div class="divider" id="groupDivider"></div>
     <span class="filter-label">Location</span>
     <div class="filter-group" id="locationFilters"></div>
     <div class="divider"></div>
@@ -587,6 +587,14 @@ async function logoutUser(){
   window.location.reload();
 }
 function applyLocationRestrictionUI(){
+  // Hide the Group toggle entirely — a single-store login never needs to switch
+  // groups, and clicking it could confusingly filter results by the wrong group.
+  const groupLabel = document.getElementById('groupLabel');
+  const groupFilters = document.getElementById('groupFilters');
+  const groupDivider = document.getElementById('groupDivider');
+  if (groupLabel) groupLabel.style.display = 'none';
+  if (groupFilters) groupFilters.style.display = 'none';
+  if (groupDivider) groupDivider.style.display = 'none';
   // Hide the location filter entirely — there's nothing to choose from — and
   // show a small fixed badge instead so it's clear which store this login is for.
   const wrap = document.getElementById('locationFilters').parentElement;
