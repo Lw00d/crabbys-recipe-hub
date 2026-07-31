@@ -257,6 +257,11 @@
   .loc-palm { --loc-color: #D4830A; }
   .loc-cbg  { --loc-color: #2E7D32; }
   .loc-si   { --loc-color: #C0392B; }
+  .loc-mv   { --loc-color: #0E7C7B; }
+  .loc-sb   { --loc-color: #B8860B; }
+  .loc-bh   { --loc-color: #6A4C93; }
+  .group-btn { padding:8px 16px; border-radius:8px; border:1px solid var(--border); background:var(--surface); font-weight:600; font-size:13px; cursor:pointer; color:var(--text-light); }
+  .group-btn.active { background:var(--teal); color:white; border-color:var(--teal); }
 
   mark { background: #FFF59D; border-radius: 2px; padding: 0 1px; }
 
@@ -291,14 +296,14 @@
     </div>
   </div>
   <div class="filters">
-    <span class="filter-label">Location</span>
-    <div class="filter-group" id="locationFilters">
-      <button class="filter-btn" data-loc="Salty Crab North Beach">North Beach</button>
-      <button class="filter-btn" data-loc="CDS">CDS</button>
-      <button class="filter-btn" data-loc="Palm">Palm</button>
-      <button class="filter-btn" data-loc="CBG">CBG</button>
-      <button class="filter-btn" data-loc="Salty's Island">Salty's Island</button>
+    <span class="filter-label">Group</span>
+    <div class="filter-group" id="groupFilters">
+      <button class="group-btn" data-group="BSHGRP" onclick="switchGroup('BSHGRP')">BSHGRP</button>
+      <button class="group-btn" data-group="BSHGRP2" onclick="switchGroup('BSHGRP2')">BSHGRP2</button>
     </div>
+    <div class="divider"></div>
+    <span class="filter-label">Location</span>
+    <div class="filter-group" id="locationFilters"></div>
     <div class="divider"></div>
     <span class="filter-label">Category</span>
     <div class="dropdown-filter" id="catDropdownWrap">
@@ -405,10 +410,17 @@ const IS_LOCATION_RESTRICTED = (ASSIGNED_LOCATION !== 'all' && ASSIGNED_LOCATION
 // including "all" access) — false only when viewed directly via the raw GitHub Pages link.
 const IS_AUTHENTICATED_SESSION = (ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
 
-const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island"];
+const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island",'Mar Vista','Sandbar','Beach House'];
 const CATS = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
-const LOC_CLASS = { 'Salty Crab North Beach':'loc-nb','CDS':'loc-cds','Palm':'loc-palm','CBG':'loc-cbg',"Salty's Island":'loc-si' };
-const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'Palm','CBG':'CBG',"Salty's Island":"Salty's Island" };
+const LOC_CLASS = { 'Salty Crab North Beach':'loc-nb','CDS':'loc-cds','Palm':'loc-palm','CBG':'loc-cbg',"Salty's Island":'loc-si','Mar Vista':'loc-mv','Sandbar':'loc-sb','Beach House':'loc-bh' };
+const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'Palm','CBG':'CBG',"Salty's Island":"Salty's Island",'Mar Vista':'Mar Vista','Sandbar':'Sandbar','Beach House':'Beach House' };
+// Location groups: BSHGRP (original 5) and BSHGRP2 (new 3). Groups are independent —
+// master-recipe linking and browsing never cross a group boundary.
+const LOC_GROUP = {
+  'Salty Crab North Beach':'BSHGRP','CDS':'BSHGRP','Palm':'BSHGRP','CBG':'BSHGRP',"Salty's Island":'BSHGRP',
+  'Mar Vista':'BSHGRP2','Sandbar':'BSHGRP2','Beach House':'BSHGRP2'
+};
+let activeGroup = 'BSHGRP';
 
 // ─── STATE ───────────────────────────────────────────────────────────────────
 let RECIPES = [];
@@ -499,7 +511,7 @@ function updateLockUI(){
 }
 
 // ─── MASTER RECIPE LINKING ───────────────────────────────────────────────────
-function getLinkedSiblings(r){ if(!r||!r.masterId) return []; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id); }
+function getLinkedSiblings(r){ if(!r||!r.masterId) return []; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id && LOC_GROUP[o.location]===LOC_GROUP[r.location]); }
 function getLinkedLocations(r){ return getLinkedSiblings(r).map(o=>o.location); }
 function shareContentFields(r){ const { id, masterId, location, _modified, _new, ...content } = r; return content; }
 function propagateToLinked(r){
@@ -640,6 +652,7 @@ function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'
 function getFiltered(){
   const q = searchQuery.trim().toLowerCase();
   return RECIPES.filter(r=>{
+    if (!IS_LOCATION_RESTRICTED && LOC_GROUP[r.location] !== activeGroup) return false;
     const isInactive = r.active === false;
     if (viewMode==='inactive' ? !isInactive : isInactive) return false;
     if (activeLocs.size && !activeLocs.has(r.location)) return false;
@@ -719,7 +732,7 @@ function updateInactiveToggleUI(){
   btn.innerHTML = viewMode==='inactive' ? '◀ Back to Active Recipes' : `🗄 Inactive${n?` (${n})`:''}`;
 }
 
-function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id).length; }
+function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id && LOC_GROUP[o.location]===LOC_GROUP[r.location]).length; }
 
 function renderCard(recipe){
   const lc = LOC_CLASS[recipe.location]||'';
@@ -841,7 +854,7 @@ function renderModalEdit(){
         <button class="link-unlink-btn" onclick="unlinkRecipe()">Unlink this store</button>
       </div>`
     : '';
-  const unlinkedLocations = LOCS.filter(l=>l!==r.location && !linked.includes(l));
+  const unlinkedLocations = LOCS.filter(l=>l!==r.location && !linked.includes(l) && LOC_GROUP[l]===LOC_GROUP[r.location]);
   const copyLocOpts = unlinkedLocations.length
     ? unlinkedLocations.map(l=>`<option value="${l}">${LOC_SHORT[l]||l}</option>`).join('')
     : '';
@@ -1122,7 +1135,7 @@ function deleteRecipe(){
 
 function addNewRecipe(){
   const id = newUid();
-  const defaultLoc = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : 'Salty Crab North Beach';
+  const defaultLoc = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : (LOCS.find(l=>LOC_GROUP[l]===activeGroup) || 'Salty Crab North Beach');
   const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], active:true, _new:true };
   RECIPES.unshift(recipe);
   setUnsaved(true);
@@ -1232,14 +1245,34 @@ function clearFilters(){
   updateSubmenuOptions();
   render();
 }
-document.querySelectorAll('#locationFilters .filter-btn').forEach(btn=>{
-  btn.addEventListener('click',()=>{
-    const loc = btn.dataset.loc;
-    if(activeLocs.has(loc)) activeLocs.delete(loc); else activeLocs.add(loc);
-    btn.classList.toggle('active');
-    render();
+function renderLocationFilters(){
+  const wrap = document.getElementById('locationFilters');
+  if(!wrap) return; // replaced by the ASSIGNED_LOCATION badge in restricted-login mode
+  const locsInGroup = LOCS.filter(l => LOC_GROUP[l] === activeGroup);
+  wrap.innerHTML = locsInGroup.map(l =>
+    `<button class="filter-btn${activeLocs.has(l)?' active':''}" data-loc="${esc(l)}">${esc(LOC_SHORT[l]||l)}</button>`
+  ).join('');
+  wrap.querySelectorAll('.filter-btn').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const loc = btn.dataset.loc;
+      if(activeLocs.has(loc)) activeLocs.delete(loc); else activeLocs.add(loc);
+      btn.classList.toggle('active');
+      render();
+    });
   });
-});
+  document.querySelectorAll('.group-btn').forEach(b=>b.classList.toggle('active', b.dataset.group===activeGroup));
+}
+function switchGroup(g){
+  if(g===activeGroup) return;
+  activeGroup = g;
+  activeLocs.clear(); activeCats.clear(); activeSubs.clear();
+  searchQuery=''; document.getElementById('searchInput').value='';
+  renderLocationFilters();
+  renderCatDropdown();
+  updateSubmenuOptions();
+  render();
+}
+renderLocationFilters();
 renderCatDropdown();
 let searchTimer;
 document.getElementById('searchInput').addEventListener('input',e=>{
