@@ -1,5 +1,47 @@
 [
   {
+    "name": "Skewer Bloody Mary Ultimate",
+    "category": "Drink Menu",
+    "submenu": "Batches / Bar Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Skewer, wooden",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Olives",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Shrimp Grilled",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Lime wedge",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Take a skewer and place 1 Shrimp on it about 1/2 the way down the skewer",
+      "Now place an Olive",
+      "Now top off with the lime wedge",
+      "See a manager for number of pre-made skewers",
+      "Label, date, and rotate in the refrigerator"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msbxpn377jynli",
+    "masterId": "drm-skewer-bloody-mary-ultimate-m",
+    "location": "CBG"
+  },
+  {
     "name": "Island Slaw(Pineapple)",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
@@ -40816,7 +40858,7 @@
   },
   {
     "id": "drm-cds-45",
-    "masterId": "drm-banana-bread-colada-m",
+    "masterId": "m-msbxnb27g0ra69",
     "name": "Banana Bread Colada",
     "location": "CDS",
     "category": "Drink Menu",
@@ -40859,7 +40901,8 @@
       "20oz Banana Bread Colada"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "drm-cbg-45",
@@ -42161,73 +42204,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-57",
-    "masterId": "drm-bloody-mary-ultimate-m",
-    "name": "Bloody Mary Ultimate",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tito's Vodka",
-        "qty": "1.5",
-        "unit": "oz pour"
-      },
-      {
-        "name": "Bloody Mary Mix",
-        "qty": "5.0",
-        "unit": "oz. pour"
-      },
-      {
-        "name": "House Spice",
-        "qty": "",
-        "unit": "Rimming"
-      },
-      {
-        "name": "Celery",
-        "qty": "1",
-        "unit": "Stick"
-      },
-      {
-        "name": "Olives",
-        "qty": "3ea",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Shrimp P&D Grilled",
-        "qty": "2ea",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Bacon, crispy",
-        "qty": "1 slice",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Lime wedge",
-        "qty": "1ea",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Fill a 14-oz glass with ice",
-      "Add Tito's to the glass",
-      "Add Bloody Mary mix, leaving about 1/2 inch of room at the top of the glass",
-      "Stir to blend.",
-      "Rim glass with house spice.",
-      "Add bacon and celery",
-      "Skewer two shrimp on a 4-inch skewer and dust with Old Bay.",
-      "Note: Cook -Take cooked bacon and lay it flat in a fryer for a few seconds. It crisps the bacon and helps it stay straight/rigid. Store in a Tupperware container on top of the bar.",
-      "Rim: House Seasoning if requested",
-      "Garnish: with the shrimp skewer, bacon strip, olives, lemon, and lime wedge."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-57",
     "masterId": "drm-bloody-mary-stc-ftp-m",
     "name": "Bloody Mary STC/FTP",
@@ -42283,127 +42259,10 @@
     "images": []
   },
   {
-    "id": "drm-cds-58",
-    "masterId": "drm-bloody-mary-stc-ftp-m",
-    "name": "Bloody Mary STC/FTP",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tito's Vodka",
-        "qty": "1.5",
-        "unit": "oz pour"
-      },
-      {
-        "name": "Bloody Mary Mix",
-        "qty": "4",
-        "unit": "oz pour"
-      },
-      {
-        "name": "House Spice",
-        "qty": "",
-        "unit": "For Rimming"
-      },
-      {
-        "name": "Olives 150/160",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Celery Stick",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Add ice, Tito's, and Bloody Mary mix to a shaker tin",
-      "Shake to blend.",
-      "Rim 14oz glass with house spice, pour into glass.",
-      "Rim: House Seasoning if requested",
-      "Garnish:",
-      "3 olives, celery stick, lime wedge",
-      "Glassware:",
-      "14oz Glass, or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-58",
     "masterId": "drm-bloody-angry-sa-m",
     "name": "Bloody Angry (SA)",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Dixie Black Pepper Vodka",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Bloody Mary",
-        "qty": "6",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Peppers Jalapeno Fresh",
-        "qty": "1",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "For",
-        "unit": "Rimming"
-      },
-      {
-        "name": "Bacon",
-        "qty": "1",
-        "unit": "Bacon Strip"
-      },
-      {
-        "name": "Olives Stuffed 150/160",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Lemon wedge",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "In 14oz glass or logo cup add mix, vodka and jalapenos",
-      "Then rim glass with house spice",
-      "Glassware:",
-      "14oz glass or logo cup",
-      "Garnish:"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-59",
-    "masterId": "drm-bloody-angry-sa-m",
-    "name": "Bloody Angry (SA)",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
     "yield": "",
