@@ -9717,37 +9717,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-44",
-    "masterId": "dp-corn-1-2-fresh-bar-n-grill-m",
-    "name": "Corn 1/2 Fresh (Bar n Grill)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Corn",
-        "qty": "1",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Shuck the corn from the husk",
-      "Place corn into the pot/pan",
-      "Fill the pot 3/4 full with water",
-      "Place on the stove on high heat",
-      "Cook for 20 to 25 minutes",
-      "Pull off the stove and drain the corn",
-      "Cut each piece in half",
-      "Place 20 each (1/2 halves) into a lemon bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-39",
     "masterId": "dp-corn-1-2-fresh-bar-n-grill-m",
     "name": "Corn 1/2 Fresh (Bar n Grill)",
@@ -9783,35 +9752,6 @@
     "masterId": "dp-corn-street-bar-n-grill-m",
     "name": "Corn Street (Bar n Grill)",
     "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Corn",
-        "qty": "1",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Shuck the corn from the husk",
-      "Fill the pot 3/4 full with water",
-      "Place on the stove on high heat",
-      "Cook for 20 to 25 minutes",
-      "Pull off the stove and drain the corn",
-      "Place 20 each into a lemon bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-45",
-    "masterId": "dp-corn-street-bar-n-grill-m",
-    "name": "Corn Street (Bar n Grill)",
-    "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -43002,46 +42942,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-66",
-    "masterId": "drm-dos-a-rita-bar-grill-m",
-    "name": "Dos-a-Rita (Bar & Grill)",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Dos Equis bottle",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Margarita batch",
-        "qty": "6",
-        "unit": "Oz pour"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Rim 20oz cup with salt",
-      "Fill 20oz logo cup 1/2 with ice",
-      "Fill halfway with margarita batch",
-      "Add Dos Equis upside down to the glass.",
-      "Garnish with a lime",
-      "Garnish:",
-      "Glassware:",
-      "20oz cup or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-67",
     "masterId": "drm-florida-sunshine-bar-grill-m",
     "name": "Florida Sunshine(Bar & Grill)",
@@ -44732,59 +44632,6 @@
     "masterId": "drm-dirty-banana-coffee-m",
     "name": "Dirty Banana Coffee",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Breakfast Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Planteray Dark Rum",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Kahlua 40",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Banana",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Cappuccino",
-        "qty": "5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Chocolate Syrup (Swirl)",
-        "qty": "Inside",
-        "unit": "Glass"
-      },
-      {
-        "name": "Whipped Cream",
-        "qty": "Cover",
-        "unit": "Top of Glass"
-      }
-    ],
-    "steps": [
-      "Drizzle Chocolate syrup on the inside of the cup and turn the cup to make a swirl of chocolate inside the glass",
-      "Put all other ingredients in a blender",
-      "Add a scoop of ice",
-      "Pour into a 14oz logo cup or glass",
-      "Top with Whipped Cream",
-      "Glassware: 14oz logo cup or glass"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-83",
-    "masterId": "drm-dirty-banana-coffee-m",
-    "name": "Dirty Banana Coffee",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
     "yield": "",
