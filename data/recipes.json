@@ -3129,32 +3129,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-6",
-    "masterId": "dp-chicken-strips-m",
-    "name": "Chicken Strips",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "2 bags = 1 or 2- SS 4\" 1/3 pan",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chicken Tenders",
-        "qty": "10",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Take 2 bags of chicken strips out of the case",
-      "Drain the chicken juice",
-      "Put chicken into 1 half pan with a Lid",
-      "Place in the cooler on the bottom of the rack or shelf.",
-      "Shelf life - 3 days"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-si-5",
     "masterId": "dp-chicken-strips-m",
     "name": "Chicken Strips",
@@ -3420,9 +3394,7 @@
       "Take all chicken breasts out of the bag",
       "Drain the chicken juice",
       "Place 15 breasts into a lemon bag",
-      "Label, Date, and refrigerate.",
-      "Place the breast in the teriyaki marinade for 1 hour",
-      "Pull out after an hour and stack in a 1/3 pan"
+      "Label, Date, and refrigerate."
     ],
     "notes": "",
     "images": []
@@ -3447,9 +3419,7 @@
       "Take all chicken breasts out of the bag",
       "Drain the chicken juice",
       "Place 15 breasts into a lemon bag",
-      "Label, Date, and refrigerate.",
-      "Place the breast in the teriyaki marinade for 1 hour",
-      "Pull out after an hour and stack in a 1/3 pan"
+      "Label, Date, and refrigerate."
     ],
     "notes": "",
     "images": []
@@ -3474,9 +3444,7 @@
       "Take all chicken breasts out of the bag",
       "Drain the chicken juice",
       "Place 15 breasts into a lemon bag",
-      "Label, Date, and refrigerate.",
-      "Place the breast in the teriyaki marinade for 1 hour",
-      "Pull out after an hour and stack in a 1/3 pan"
+      "Label, Date, and refrigerate."
     ],
     "notes": "",
     "images": []
@@ -3501,9 +3469,7 @@
       "Take all chicken breasts out of the bag",
       "Drain the chicken juice",
       "Place 15 breasts into a lemon bag",
-      "Label, Date, and refrigerate.",
-      "Place the breast in the teriyaki marinade for 1 hour",
-      "Pull out after an hour and stack in a 1/3 pan"
+      "Label, Date, and refrigerate."
     ],
     "notes": "",
     "images": []
@@ -3528,9 +3494,7 @@
       "Take all chicken breasts out of the bag",
       "Drain the chicken juice",
       "Place 15 breasts into a lemon bag",
-      "Label, Date, and refrigerate.",
-      "Place the breast in the teriyaki marinade for 1 hour",
-      "Pull out after an hour and stack in a 1/3 pan"
+      "Label, Date, and refrigerate."
     ],
     "notes": "",
     "images": []
@@ -7255,8 +7219,8 @@
   },
   {
     "id": "dp-cds-28",
-    "masterId": "dp-chicken-wings-m",
-    "name": "Chicken Wings",
+    "masterId": "m-msby2akrn6utll",
+    "name": "Chicken Wings Portion",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -7265,29 +7229,16 @@
     "ingredients": [
       {
         "name": "Chicken Wings",
-        "qty": "10",
-        "unit": "Lb./cs"
-      },
-      {
-        "name": "Olive Oil",
-        "qty": "6",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Salt n Pepper",
-        "qty": "1",
-        "unit": "Oz"
+        "qty": "8",
+        "unit": "each"
       }
     ],
     "steps": [
-      "Place chicken wings in a mixing bowl, add oil, and S&P",
-      "Mix thoroughly so all wings are coated in oil",
-      "Par bake at 400 for 20 minutes.",
-      "Let wings cool in the walk-in",
-      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, drums & flaps, or 5 and 3",
+      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, or 5 and 3 ",
       "Place in a portion bag, tie shut.",
-      "Place in a pan and store in the walk-in",
-      "40#/cs fresh - 25 portions"
+      "Place back into the original box, label with the number of portions, and date prepped.",
+      "Place back into the freezer until needed ",
+      "Smallware: portion bags"
     ],
     "notes": "",
     "images": []
@@ -27108,8 +27059,7 @@
       "Placing the sliced chicken breast on top of pasta.",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo: chopped parsley, Garlic bread, soup spoon",
-      "Plateware: Pasta bowl, Soup spoon",
-      "."
+      "Plateware: Pasta bowl, Soup spoon"
     ],
     "notes": "",
     "images": []
@@ -27164,8 +27114,7 @@
       "Placing the sliced chicken breast on top of pasta.",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo: chopped parsley, Garlic bread, soup spoon",
-      "Plateware: Pasta bowl, Soup spoon",
-      "."
+      "Plateware: Pasta bowl, Soup spoon"
     ],
     "notes": "",
     "images": []
@@ -27220,8 +27169,7 @@
       "Placing the sliced chicken breast on top of pasta.",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo: chopped parsley, Garlic bread, soup spoon",
-      "Plateware: Pasta bowl, Soup spoon",
-      "."
+      "Plateware: Pasta bowl, Soup spoon"
     ],
     "notes": "",
     "images": []
