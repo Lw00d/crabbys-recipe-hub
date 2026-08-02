@@ -2510,7 +2510,7 @@
   },
   {
     "id": "dp-nb-13",
-    "masterId": "dp-broccoli-m",
+    "masterId": "dp-nb-13-m",
     "name": "Broccoli",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
@@ -2546,7 +2546,7 @@
   },
   {
     "id": "dp-pl-4",
-    "masterId": "dp-broccoli-m",
+    "masterId": "dp-pl-4-m",
     "name": "Broccoli",
     "location": "Palm",
     "category": "Dinner Prep",
@@ -14127,7 +14127,7 @@
   },
   {
     "id": "dp-cbg-69",
-    "masterId": "dp-broccoli-m",
+    "masterId": "dp-cbg-69-m",
     "name": "Broccoli (Bar n Grill)",
     "location": "CBG",
     "category": "Dinner Prep",
@@ -15481,7 +15481,7 @@
   },
   {
     "id": "dp-si-41",
-    "masterId": "dp-broccoli-m",
+    "masterId": "dp-si-41-m",
     "name": "Broccoli SI",
     "location": "Salty's Island",
     "category": "Dinner Prep",
