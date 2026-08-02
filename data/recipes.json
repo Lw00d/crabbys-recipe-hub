@@ -41410,7 +41410,7 @@
   },
   {
     "id": "drm-cds-44",
-    "masterId": "drm-banana-bread-colada-m",
+    "masterId": "m-msbx7mc5kr6lch",
     "name": "Banana Bread Colada",
     "location": "CDS",
     "category": "Drink Menu",
@@ -41453,7 +41453,8 @@
       "20oz Banana Bread Colada"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "drm-cds-45",
@@ -66050,11 +66051,11 @@
       "Take 1 portion of scallops and brush both flat sides with melted garlic butter, sprinkle with salt and pepper blend",
       "Place the scallops on the flattop, flat side down, let and cook uncovered for 2 to 3 minutes.",
       "Drizzle with garlic butter and flip the scallops",
-      "Let scallops finish cooking for 2 to 3 minutes, then place in a rarebit.",
+      "Let scallops finish cooking for 2 to 3 minutes",
       "Place on a lined 1/4 tray",
       "Place a sav-a-day upside down to cover the scallops to help prevent them from overcooking",
       "Expo: requested sides, 2oz butter, lemon wedge",
-      "Plateware: White Combo Plate, 8oz rarebit"
+      "Plateware: White Combo Plate"
     ],
     "notes": "",
     "images": []
@@ -66276,11 +66277,8 @@
     ],
     "steps": [
       "Crab Cake - Grill:",
-      "Use a sunflower scoop to portion the 2 crab cakes",
-      "Baste one side with garlic spread, lightly and evenly season with Old Bay, and place it on a flat top.",
-      "Grill for approx. 2 minutes, then turn over.",
-      "Grill the other side for approx. 2 minutes.",
-      "Moisten the top with garlic butter.",
+      "Place 2 sunflower scoops of crab cake mix on a sprayed pizza pan",
+      "Baste with garlic butter and season with Old Bay in a 450°F oven for 6 to 7 minutes until heated thru",
       "Place on the correct plateware",
       "Steamed Crab:",
       "Place crab portions into a boiling pot or steamer.",
@@ -68799,11 +68797,11 @@
       "Take 1 portion of scallops and brush both flat sides with melted garlic butter, sprinkle with salt and pepper blend",
       "Place the scallops on the flattop, flat side down, let and cook uncovered for 2 to 3 minutes.",
       "Drizzle with garlic butter and flip the scallops",
-      "Let scallops finish cooking for 2 to 3 minutes, then place in a rarebit.",
+      "Let scallops finish cooking for 2 to 3 minutes",
       "Place on a lined 1/4 tray",
       "Place a sav-a-day upside down to cover the scallops to help prevent them from overcooking",
-      "Expo: 2 sides, 2oz butter, lemon wedge",
-      "Plateware: Lined 1/4 Tray, 8oz rarebit"
+      "Expo: requested sides, 2oz butter, lemon wedge",
+      "Plateware: White Combo Plate"
     ],
     "notes": "",
     "images": []
@@ -71366,7 +71364,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_3_4_0.jpg"
-    ]
+    ],
+    "active": false
   },
   {
     "id": "dm-cds-99",
