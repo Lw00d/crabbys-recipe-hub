@@ -46907,7 +46907,8 @@
       "IF in a Cambro, always stir before using"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "drm-cds-106",
@@ -48304,12 +48305,13 @@
       "3 - 32oz speed rail pour containers, 3 date bags, and lids"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "drm-nb-55",
     "masterId": "drm-nb-55-m",
-    "name": "ARum Punch Batch",
+    "name": "Rum Punch Batch",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -48360,7 +48362,7 @@
   {
     "id": "drm-nb-56",
     "masterId": "drm-nb-56-m",
-    "name": "ABatch Frozen Lemonade",
+    "name": "Batch Frozen Lemonade",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
