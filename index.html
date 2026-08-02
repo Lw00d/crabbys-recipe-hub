@@ -979,7 +979,7 @@ function autoH(ta){ ta.style.height='auto'; ta.style.height=ta.scrollHeight+'px'
 
 function unlinkRecipe(){
   const r=getCurrentRecipe(); if(!r) return;
-  if(!confirm('Unlink this recipe? Future edits will no longer sync to other stores.')) return;
+  if(!confirm(`Unlink this recipe from ${LOC_SHORT[r.location]||r.location}?\n\nThis store will get its own independent copy. The other linked store(s) are not affected — they stay linked to each other exactly as before.`)) return;
   r.masterId = newUid();
   markMod();
   renderModalEdit();
