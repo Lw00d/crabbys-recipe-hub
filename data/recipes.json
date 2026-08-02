@@ -965,7 +965,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Boom-Boom Shrimp",
+    "name": "Boom Boom Shrimp ",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -999,7 +999,7 @@
       }
     ],
     "steps": [
-      "Place 6oz of Shrimp pieces in milk wash, drain off excess",
+      "Place 5.5oz of Shrimp pieces in milk wash, drain off excess",
       "Transfer to Italian breading and coat evenly.",
       "Place shrimp into 350°F fryer for about 2-3 minutes or until light golden brown in color and cooked thoroughly",
       "Transfer to a Sav-a-Day to drain off excess oil",
@@ -17995,7 +17995,7 @@
   {
     "id": "dm-nb-12",
     "masterId": "dm-nb-12-m",
-    "name": "Boom-Boom Shrimp",
+    "name": "Boom Boom Shrimp ",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -18030,7 +18030,7 @@
       }
     ],
     "steps": [
-      "Place 6oz of Shrimp pieces in milk wash, drain off excess",
+      "Place 5.5oz of Shrimp pieces in milk wash, drain off excess",
       "Transfer to Italian breading and coat evenly.",
       "Place shrimp into 350°F fryer for about 2-3 minutes or until light golden brown in color and cooked thoroughly",
       "Transfer to a Sav-a-Day to drain off excess oil",
@@ -21171,7 +21171,7 @@
   {
     "id": "dm-nb-66",
     "masterId": "dm-nb-66-m",
-    "name": "Taco Boom-Boom Shrimp Taco",
+    "name": "Taco Boom Boom Shrimp Taco",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -46958,7 +46958,8 @@
       "Garnish: 3 Olives, lemon, Lime"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "drm-nb-30",
