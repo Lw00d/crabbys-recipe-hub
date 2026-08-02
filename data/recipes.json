@@ -2514,18 +2514,20 @@
     "name": "Broccoli",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
-    "yield": "per 1/2 case: 30-35 / 4.5 oz. Portions",
+    "yield": "30-35 / 4.5oz Portions",
     "shelfLife": "3 days",
     "smallware": "Garlic Butter use the Silver thump scoop, 4\" full Lexan, date portion bags, or large day dots, lemon bags",
     "ingredients": [
       {
         "name": "Broccoli",
         "qty": "10",
+        "qty2": "20",
         "unit": "pounds"
       },
       {
         "name": "Garlic Butter",
         "qty": "20",
+        "qty2": "40",
         "unit": "Vol oz"
       }
     ],
@@ -2542,7 +2544,12 @@
       "Bagging - 20 portions"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1/2 Case",
+      "label2": "Full Case"
+    },
+    "yield2": "60 / 4.5oz Portions"
   },
   {
     "id": "dp-pl-4",
@@ -2550,18 +2557,20 @@
     "name": "Broccoli",
     "location": "Palm",
     "category": "Dinner Prep",
-    "yield": "per 1/2 case: 30-35 / 4.5 oz. Portions",
+    "yield": "30-35 / 4.5oz Portions",
     "shelfLife": "3 days",
     "smallware": "Garlic Butter use the Silver thump scoop, 4\" full Lexan, date portion bags, or large day dots, lemon bags",
     "ingredients": [
       {
         "name": "Broccoli",
         "qty": "10",
+        "qty2": "20",
         "unit": "pounds"
       },
       {
         "name": "Garlic Butter",
         "qty": "20",
+        "qty2": "40",
         "unit": "Vol oz"
       }
     ],
@@ -2578,7 +2587,12 @@
       "Bagging - 20 portions"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1/2 Case",
+      "label2": "Full Case"
+    },
+    "yield2": "60 / 4.5oz Portions"
   },
   {
     "id": "dp-nb-14",
@@ -14131,18 +14145,20 @@
     "name": "Broccoli (Bar n Grill)",
     "location": "CBG",
     "category": "Dinner Prep",
-    "yield": "per 1/2 case: 35-40 - 3.5 oz. Portions",
+    "yield": "35-40 / 3.5oz Portions",
     "shelfLife": "3 days",
     "smallware": "Silver thump scoop, 4\" full Lexan, date portion bags, or large day dots, lemon bags",
     "ingredients": [
       {
         "name": "Broccoli",
         "qty": "10",
+        "qty2": "20",
         "unit": "pounds"
       },
       {
         "name": "Garlic Butter",
         "qty": "20",
+        "qty2": "40",
         "unit": "Vol oz"
       }
     ],
@@ -14157,7 +14173,12 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1/2 Case",
+      "label2": "Full Case"
+    },
+    "yield2": "70-80 / 3.5oz Portions (calculated estimate, not from a source doc — please verify)"
   },
   {
     "id": "dp-cds-100",
@@ -15485,18 +15506,20 @@
     "name": "Broccoli SI",
     "location": "Salty's Island",
     "category": "Dinner Prep",
-    "yield": "1 cs = 45- 60/ 5oz port - (depending on the case Crowns or Stalks)",
+    "yield": "22-30 / 5oz Portions (calculated estimate, not from a source doc — please verify)",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Broccoli",
-        "qty": "1",
-        "unit": "Case (20#)"
+        "qty": "10",
+        "qty2": "20",
+        "unit": "pounds"
       },
       {
         "name": "Garlic Butter",
-        "qty": "40",
+        "qty": "20",
+        "qty2": "40",
         "unit": "Vol oz"
       }
     ],
@@ -15511,7 +15534,12 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1/2 Case",
+      "label2": "Full Case"
+    },
+    "yield2": "45-60 / 5oz Portions (depending on Crowns or Stalks)"
   },
   {
     "id": "dp-si-42",
