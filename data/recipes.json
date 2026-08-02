@@ -9840,40 +9840,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-46",
-    "masterId": "dp-chilean-seabass-thaw-prep-m",
-    "name": "Chilean Seabass Thaw & Prep",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "per case- 20 /6oz portions. Please Track for accurate %",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chilean Seabass",
-        "qty": "1",
-        "unit": "10Lb. case"
-      }
-    ],
-    "steps": [
-      "Place the unpackaged fish on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in a cooler overnight.",
-      "See Prep instructions BELOW",
-      "Pieces are close in weight",
-      "But varied in thickness and size.",
-      "Weigh each piece separately before any cutting takes place",
-      "If it weighs 5.8oz or more, place it in a date bag",
-      "If it is under 5.8oz, take a piece that is close in size and cut it into 1/3s",
-      "If the piece is thin, match it up to another thin piece.",
-      "If the piece is thick, match it up to another thick piece.",
-      "Place a cut piece and the full in a date bag.",
-      "Portion range: weight from 5.8oz. - 6.2oz., Don’t cut any pieces if you can help it"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-41",
     "masterId": "dp-chilean-seabass-thaw-prep-m",
     "name": "Chilean Seabass Thaw & Prep",
