@@ -13269,18 +13269,7 @@
       "Open mesh bag into a lemon bag, add 4oz of olive oil and 1oz of blackening mix and toss the sprouts.",
       "Tie the bag shut",
       "Store in the walk in or reach in cooler",
-      "Label, date refrigerate, and rotate",
-      "In a mixing bowl",
-      "Add Sprouts & 4oz Olive Oil",
-      "Add 1oz Blackening & Mix",
-      "Place into a lemon bag to store",
-      "Label, date, and refrigerate",
-      "To Reheat - Lay on Sheet Pan",
-      "Place in oven to Roasted",
-      "Cooked to Ice bath",
-      "Ice bath for 6-8 minutes",
-      "Now let them drain of the water for 10-12 minutes before oiling",
-      "<---------- over - Add oil"
+      "Label, date refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -27443,7 +27432,8 @@
       "Plateware: Pasta Bowl, Soup Spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-cds-10",
