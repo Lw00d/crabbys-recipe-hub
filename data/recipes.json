@@ -514,16 +514,6 @@
         "unit": ""
       },
       {
-        "name": "Mac & Cheese",
-        "qty": ".5 ivory scoop",
-        "unit": "By expo"
-      },
-      {
-        "name": "Avocado salsa",
-        "qty": "Green scoop",
-        "unit": ""
-      },
-      {
         "name": "Fresh Avocado",
         "qty": ".5 sliced",
         "unit": "(5 to 6 slices)"
@@ -538,7 +528,7 @@
     "notes": "",
     "images": [],
     "id": "m-ms69yjd6z6ppek",
-    "masterId": "dm-cbg-66-m",
+    "masterId": "m-msbwu5p098or8p",
     "location": "CDS"
   },
   {
@@ -9718,7 +9708,7 @@
   },
   {
     "id": "dp-cds-43",
-    "masterId": "dp-avocado-pieces-m",
+    "masterId": "m-msbwvxsq3orwa8",
     "name": "Avocado Pieces",
     "location": "CDS",
     "category": "Dinner Prep",
@@ -9740,7 +9730,8 @@
       "Place back in the freezer until ready to cook"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cbg-38",
@@ -14591,7 +14582,7 @@
   },
   {
     "id": "dp-cds-102",
-    "masterId": "dp-avocado-egg-rolls-m",
+    "masterId": "m-msbwvk09ddh85b",
     "name": "Avocado Egg Rolls",
     "location": "CDS",
     "category": "Dinner Prep",
@@ -14626,7 +14617,8 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cbg-72",
