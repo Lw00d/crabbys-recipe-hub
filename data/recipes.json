@@ -54743,68 +54743,6 @@
     "images": []
   },
   {
-    "id": "bm-nb-12",
-    "masterId": "bm-benedict-country-m",
-    "name": "Benedict Country",
-    "location": "Salty Crab North Beach",
-    "category": "Breakfast Menu",
-    "submenu": "Breakfast Entrees",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chicken Breast",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Milk Wash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breading",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Pan Spray",
-        "qty": "Lightly",
-        "unit": "coat Cups"
-      },
-      {
-        "name": "Eggs",
-        "qty": "2",
-        "unit": "Each"
-      },
-      {
-        "name": "Biscuit",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Sausage Gravy",
-        "qty": "1",
-        "unit": "4oz ladle"
-      }
-    ],
-    "steps": [
-      "Gently press down on the chicken breast with your palm to flatten",
-      "Cut the breast in half before breading",
-      "Place chicken into the Milk wash, drain.",
-      "Then into the Chicken breading, shake off excess,",
-      "Place in a 350°F fryer for approx. 4-5 minutes or until golden brown and cooked thoroughly.",
-      "Heat the biscuit in the toaster.",
-      "Place a toasted biscuit down (open-faced)",
-      "Cut the chicken breast in half and place a piece on each biscuit",
-      "Place medium poached eggs on the chicken piece",
-      "Cover with sausage gravy"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "bm-cbg-21",
     "masterId": "bm-cbg-21-m",
     "name": "Benedict Salmon",
