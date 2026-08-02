@@ -37710,49 +37710,60 @@
       {
         "name": "Cruzan Spiced Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco lopez",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
-        "name": "Honey",
+        "name": "Agave",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Coconut Flakes",
         "qty": "",
-        "unit": "Rimming/ Garnish"
+        "unit": "Rimming/ Garnish",
+        "qty2": ""
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Add Cruzan Spiced Rum & Pina Colada Batch",
+      "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
       "Add 1 cup of Ice and blend thoroughly",
-      "Wet rim with honey and toasted coconut",
+      "Wet rim with agave and toasted coconut",
       "Pour mixed drink into a 14-oz glass",
       "Float with Planteray Rum",
       "Garnish: Cherry, Coconut rim"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14 oz",
+      "label2": "20 oz"
+    }
   },
   {
     "id": "drm-cds-19",
@@ -37768,49 +37779,60 @@
       {
         "name": "Cruzan Spiced Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco lopez",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
-        "name": "Honey",
+        "name": "Agave",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Coconut Flakes",
         "qty": "",
-        "unit": "Rimming/ Garnish"
+        "unit": "Rimming/ Garnish",
+        "qty2": ""
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Add Cruzan Spiced Rum & Pina Colada Batch",
+      "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
       "Add 1 cup of Ice and blend thoroughly",
-      "Wet rim with honey and toasted coconut",
+      "Wet rim with agave and toasted coconut",
       "Pour mixed drink into a 14-oz glass",
       "Float with Planteray Rum",
       "Garnish: Cherry, Coconut rim"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14 oz",
+      "label2": "20 oz"
+    }
   },
   {
     "id": "drm-nb-21",
@@ -37826,49 +37848,60 @@
       {
         "name": "Cruzan Spiced Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco lopez",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
-        "name": "Honey",
+        "name": "Agave",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Coconut Flakes",
         "qty": "",
-        "unit": "Rimming/ Garnish"
+        "unit": "Rimming/ Garnish",
+        "qty2": ""
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Add Cruzan Spiced Rum & Pina Colada Batch",
+      "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
       "Add 1 cup of Ice and blend thoroughly",
-      "Wet rim with honey and toasted coconut",
+      "Wet rim with agave and toasted coconut",
       "Pour mixed drink into a 14-oz glass",
       "Float with Planteray Rum",
       "Garnish: Cherry, Coconut rim"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14 oz",
+      "label2": "20 oz"
+    }
   },
   {
     "id": "drm-cbg-19",
