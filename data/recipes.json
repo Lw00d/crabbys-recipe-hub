@@ -14312,40 +14312,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-99",
-    "masterId": "dp-broccoli-m",
-    "name": "Broccoli (Bar n Grill)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "per 1/2 case: 35-40 - 3.5 oz. Portions",
-    "shelfLife": "3 days",
-    "smallware": "Silver thump scoop, 4\" full Lexan, date portion bags, or large day dots, lemon bags",
-    "ingredients": [
-      {
-        "name": "Broccoli",
-        "qty": "10",
-        "unit": "pounds"
-      },
-      {
-        "name": "Garlic Butter",
-        "qty": "20",
-        "unit": "Vol oz"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Cut each bunch of broccoli long-ways down the middle",
-      "Lay the flat side down on the cutting board",
-      "Cut each piece of broccoli off through the stem at a 45° angle",
-      "Each piece should have a 2 to 3-inch stem and a full head",
-      "Portion broccoli to 4.5oz in a small bag",
-      "Put 0.5 vol oz garlic butter in each bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-69",
     "masterId": "dp-broccoli-m",
     "name": "Broccoli (Bar n Grill)",
@@ -45071,52 +45037,6 @@
     "masterId": "drm-breakfast-mule-m",
     "name": "Breakfast Mule",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Breakfast Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Pinnacle Vodka (Well)",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Oranges wedge",
-        "qty": "1",
-        "unit": "Muddle"
-      },
-      {
-        "name": "Juice OJ Natalie's",
-        "qty": "2",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Soda Ginger Beer BIB",
-        "qty": "2",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Oranges wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Place 1 orange wedge and OJ in a shaker and muddle",
-      "Add ice, vodka, and Ginger beer into the shaker",
-      "Shake and pour into the correct glassware",
-      "Glassware: 14oz glass or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-84",
-    "masterId": "drm-breakfast-mule-m",
-    "name": "Breakfast Mule",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
     "yield": "",
