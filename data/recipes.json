@@ -74593,5 +74593,58 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_3.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_4.jpg"
     ]
+  },
+  {
+    "id": "bm-nb-42",
+    "masterId": "bm-benedict-country-m",
+    "name": "Benedict Country",
+    "location": "Salty Crab North Beach",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ham Steak",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Biscuit",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Biscuit"
+      },
+      {
+        "name": "Eggs (Poached) or as requested",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Sausage Gravy",
+        "qty": "1",
+        "unit": "4oz ladle"
+      }
+    ],
+    "steps": [
+      "Place the ham steak on the flat top to heat both sides, and cut it in half",
+      "Butter the inside of the biscuit and place it on the flat top to toast.",
+      "Place 2 eggs in the poaching pan",
+      "Plate the toasted biscuit open-faced on a dinner plate",
+      "Add 1/2 of the ham steak to the top of each half of the biscuit",
+      "Add a poached egg atop each piece of ham",
+      "Finish adding Sausage gravy on top of each poached egg",
+      "Expo: requested sides",
+      "Plateware: Dinner Plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Benedict_Country_NB_0.jpg"
+    ]
   }
 ]
