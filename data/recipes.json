@@ -4068,47 +4068,6 @@
     "active": false
   },
   {
-    "id": "dp-pl-13",
-    "masterId": "dp-island-pineapple-slaw-m",
-    "name": "Island (Pineapple) Slaw",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "2 Lemon bags/ 7# per bag",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cabbage Shredded",
-        "qty": "2",
-        "unit": "Each (5# bag)"
-      },
-      {
-        "name": "Pina Colada Sauce",
-        "qty": "1",
-        "unit": "Each (4# Bag)"
-      },
-      {
-        "name": "Pineapple Tidbits (Drain Juice)",
-        "qty": "2",
-        "unit": "cans"
-      }
-    ],
-    "steps": [
-      "In a colander, drain Pineapple Tidbits for 2 minutes",
-      "In a Lexan, or lemon bag mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
-      "Fold together until fully mixed",
-      "Split into 2 lemon bags",
-      "Suppress all air out of the bag, and tie the bag off",
-      "Place the bag inside another lemon bag, and tie the bag with day bag attached",
-      "Label, date, refrigerate, and rotate",
-      "Double bag the slaw",
-      "Label, date and refrigerate"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
-  },
-  {
     "id": "dp-cds-11",
     "masterId": "dp-island-pineapple-slaw-m",
     "name": "Island (Pineapple) Slaw",
@@ -10505,86 +10464,6 @@
     "notes": "",
     "images": [],
     "active": false
-  },
-  {
-    "id": "dp-pl-79",
-    "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes Prep SI",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Eggs",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Lemon juice",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Dijon Mustard",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mayonnaise",
-        "qty": "2",
-        "unit": "Cups"
-      },
-      {
-        "name": "Old Bay",
-        "qty": ".75",
-        "unit": "Tablespoons"
-      },
-      {
-        "name": "Salt",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Pepper",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Panko",
-        "qty": "1",
-        "unit": "Cups"
-      },
-      {
-        "name": "Garlic Powder",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Crab Meat Super Lump",
-        "qty": "3.5",
-        "unit": "Cans"
-      }
-    ],
-    "steps": [
-      "Thaw crab cake base and crab meat in the refrigerator.",
-      "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
-      "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 15-17/ 4-oz cakes",
-      "Thaw crab cake base and crab meat in the refrigerator overnight.",
-      "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
-      "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 32-34/ 4-oz cakes"
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-cds-51",
@@ -18226,117 +18105,6 @@
     "images": []
   },
   {
-    "id": "dm-nb-10",
-    "masterId": "m-ms676161xiil3i",
-    "name": "Calamari from Steaks",
-    "location": "Palm",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Calamari Strips",
-        "qty": "1",
-        "unit": "Portion"
-      },
-      {
-        "name": "Flour",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Milk Wash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breader",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "House Spice",
-        "qty": "Light",
-        "unit": "Dusting"
-      },
-      {
-        "name": "Marinara",
-        "qty": "1",
-        "unit": "2-ounce cup"
-      }
-    ],
-    "steps": [
-      "Place calamari in flour shake off excess, then milk wash, drain",
-      "Then coat with Chicken Breader, shake off excess",
-      "Place in a 350°F fryer for 2-3 minutes",
-      "Transfer to a save-a-day to drain off excess oil",
-      "Dust with house spice",
-      "Place calamari on an app plate",
-      "Expo: Marinara 2oz, Lemon wedge",
-      "Plateware: 7\" Round plate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dm-si-1",
-    "masterId": "m-ms676raj51hbdf",
-    "name": "Calamari from Steaks",
-    "location": "Palm",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Calamari Strips",
-        "qty": "1",
-        "unit": "Portion"
-      },
-      {
-        "name": "Flour",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Milk Wash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breader",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "House Spice",
-        "qty": "Light",
-        "unit": "Dusting"
-      },
-      {
-        "name": "Marinara",
-        "qty": "1",
-        "unit": "2-ounce cup"
-      }
-    ],
-    "steps": [
-      "Place calamari in flour shake off excess, then milk wash, drain",
-      "Then coat with Chicken Breader, shake off excess",
-      "Place in a 350°F fryer for 2-3 minutes",
-      "Transfer to a save-a-day to drain off excess oil",
-      "Dust with house spice",
-      "Place calamari on an app plate",
-      "Expo: Marinara 2oz, Lemon wedge",
-      "Plateware: 7\" Round plate"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
-  },
-  {
     "id": "dm-pl-1",
     "masterId": "dm-calamari-m",
     "name": "Calamari from Steaks",
@@ -18389,8 +18157,7 @@
       "Plateware: 7\" Round plate"
     ],
     "notes": "",
-    "images": [],
-    "active": false
+    "images": []
   },
   {
     "id": "dm-nb-11",
@@ -25613,43 +25380,6 @@
     "images": []
   },
   {
-    "id": "dm-si-41",
-    "masterId": "dm-fried-shrimp-m",
-    "name": "Kids Fried Shrimp",
-    "location": "Salty's Island",
-    "category": "Dinner Menu",
-    "submenu": "Kid's Meals",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Shrimp P&D (Prep)",
-        "qty": "10",
-        "unit": "Shrimp P&D"
-      },
-      {
-        "name": "Breader Italian Seafood",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Milk Wash",
-        "qty": "",
-        "unit": "Dipping"
-      }
-    ],
-    "steps": [
-      "Bread 10 P&D shrimp by dipping in milk wash and coating in Italian breader.",
-      "Place breaded shrimp in a 350°F fryer and cook for approx. 4 minutes or until golden brown. Shrimp will float when cooked.",
-      "Transfer to a Sav-a-Day to drain excess oil.",
-      "Garnish: Lemon wedge, requested sides",
-      "Plateware: Lined 1/4 Tray"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dm-pl-14",
     "masterId": "dm-fried-shrimp-m",
     "name": "Kids Fried Shrimp",
@@ -31994,56 +31724,6 @@
     "active": false
   },
   {
-    "id": "dm-cbg-14",
-    "masterId": "dm-served-m",
-    "name": "Served",
-    "location": "CBG",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chicken Strips",
-        "qty": "4",
-        "unit": "Each"
-      },
-      {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
-        "name": "Blackening Seasoning",
-        "qty": "",
-        "unit": "Season"
-      },
-      {
-        "name": "Cheese Queso",
-        "qty": "1",
-        "unit": "6oz ladle"
-      },
-      {
-        "name": "Potato Chips",
-        "qty": "Fill",
-        "unit": "basket"
-      }
-    ],
-    "steps": [
-      "Grill:",
-      "Blacken and dice 4 strips of chicken",
-      "Expo:",
-      "Place kettle chips in a lined round basket",
-      "Top with blackened chicken, then cheese",
-      "Drizzle with sour cream and top with green onion",
-      "Plateware: Lined Round basket"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
-  },
-  {
     "id": "dm-cbg-15",
     "masterId": "dm-cbg-15-m",
     "name": "Pretzel Bavarian",
@@ -34316,64 +33996,6 @@
   },
   {
     "id": "drm-si-1",
-    "masterId": "drm-florida-sunset-m",
-    "name": "Florida Sunset",
-    "location": "Salty's Island",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Hornitos",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Triple Sec",
-        "qty": ".5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Mango",
-        "qty": "4",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Strawberry",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Hornitos",
-        "qty": ".5",
-        "unit": "Oz Float"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Fill the cup with ice and add to the blender with 1oz Tequila, Triple sec, and mango mix.",
-      "Pour the strawberry mix into the empty 14-oz cup",
-      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Float with .5 of tequila of the 1.5oz",
-      "Glassware: 14 oz glass or logo cup",
-      "Float with .5oz of 2.25oz tequila",
-      "Glassware: 20 oz glass or logo cup",
-      "Batch Slushie Machine Recipe",
-      "Pour the strawberry mix into the empty glass",
-      "Pour from the frozen slushie mixing machine into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Top with 0.50oz Floater of tequila"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-si-2",
     "masterId": "drm-florida-sunset-m",
     "name": "Florida Sunset",
     "location": "Salty's Island",
@@ -37104,57 +36726,6 @@
     "images": []
   },
   {
-    "id": "drm-nb-15",
-    "masterId": "drm-electric-mimosa-dan-the-man-m",
-    "name": "Electric Mimosa/ Dan the Man",
-    "location": "Salty Crab North Beach",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Vodka - Well",
-        "qty": "1.0",
-        "unit": "oz. pour"
-      },
-      {
-        "name": "Triple Sec",
-        "qty": "0.5",
-        "unit": "oz. pour"
-      },
-      {
-        "name": "OJ Natalie's",
-        "qty": "2.0",
-        "unit": "oz. pour"
-      },
-      {
-        "name": "Red Bull",
-        "qty": "2.0",
-        "unit": "oz. pour"
-      },
-      {
-        "name": "Prosecco",
-        "qty": "6.0",
-        "unit": "oz Tap pour"
-      },
-      {
-        "name": "Orange Slice",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Fill a 20-oz cup with ice",
-      "Pour vodka over ice",
-      "Add Natalie's Orange juice",
-      "Slowly fill with Prosecco, you will need to stop, to let the foam settle."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-pl-43",
     "masterId": "drm-pl-43-m",
     "name": "Bloody Mary 14oz & Bucket",
@@ -37699,125 +37270,7 @@
     "images": []
   },
   {
-    "id": "drm-cbg-11",
-    "masterId": "drm-crab-trap-m",
-    "name": "Crab Trap",
-    "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Monnin Dragon Fruit",
-        "qty": "1",
-        "unit": "1 Liter bottle"
-      },
-      {
-        "name": "Rum Well (Cruzan Silver)",
-        "qty": "4 Or 5",
-        "unit": "1 Liter bottles or 750ml bottles"
-      },
-      {
-        "name": "Juice Orange Gallon",
-        "qty": "6",
-        "unit": "Quarts (Langers)"
-      },
-      {
-        "name": "Juice Cranberry 32oz",
-        "qty": "3ea",
-        "unit": "Qtrs.."
-      },
-      {
-        "name": "Juice Pineapple 46oz",
-        "qty": "4ea Or 5ea",
-        "unit": "Cans Quarts"
-      },
-      {
-        "name": "Rv11/25",
-        "qty": "",
-        "unit": "Total Oz."
-      }
-    ],
-    "steps": [
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
-      "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines",
-      "Mix all ingredients in a Cambro and store in the refrigerator",
-      "Using a whisk, stir well before filling the canister,",
-      "Shake in the morning and afternoon to keep the liquids mixed"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cds-12",
-    "masterId": "drm-crab-trap-m",
-    "name": "Crab Trap",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Monnin Dragon Fruit",
-        "qty": "1",
-        "unit": "1 Liter bottle"
-      },
-      {
-        "name": "Rum Well (Cruzan Silver)",
-        "qty": "4 Or 5",
-        "unit": "1 Liter bottles or 750ml bottles"
-      },
-      {
-        "name": "Juice Orange Gallon",
-        "qty": "6",
-        "unit": "Quarts (Langers)"
-      },
-      {
-        "name": "Juice Cranberry 32oz",
-        "qty": "3ea",
-        "unit": "Qtrs.."
-      },
-      {
-        "name": "Juice Pineapple 46oz",
-        "qty": "4ea Or 5ea",
-        "unit": "Cans Quarts"
-      },
-      {
-        "name": "Rv11/25",
-        "qty": "",
-        "unit": "Total Oz."
-      }
-    ],
-    "steps": [
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
-      "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines",
-      "Mix all ingredients in a Cambro and store in the refrigerator",
-      "Using a whisk, stir well before filling the canister,",
-      "Shake in the morning and afternoon to keep the liquids mixed"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-13",
     "masterId": "drm-crab-trap-m",
     "name": "Crab Trap",
     "location": "CDS",
@@ -42947,68 +42400,6 @@
     "images": []
   },
   {
-    "id": "drm-cbg-59",
-    "masterId": "drm-bloody-angry-sa-m",
-    "name": "Bloody Angry (SA)",
-    "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Dixie Black Pepper Vodka",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Bloody Mary",
-        "qty": "6",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Peppers Jalapeno Fresh",
-        "qty": "1",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "For",
-        "unit": "Rimming"
-      },
-      {
-        "name": "Bacon",
-        "qty": "1",
-        "unit": "Bacon Strip"
-      },
-      {
-        "name": "Olives Stuffed 150/160",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Lemon wedge",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "In 14oz glass or logo cup add mix, vodka and jalapenos",
-      "Then rim glass with house spice",
-      "Glassware:",
-      "14oz glass or logo cup",
-      "Garnish:"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cds-59",
     "masterId": "drm-bloody-angry-sa-m",
     "name": "Bloody Angry (SA)",
@@ -44948,55 +44339,6 @@
   },
   {
     "id": "drm-cbg-76",
-    "masterId": "drm-purple-coconut-bar-grill-m",
-    "name": "Purple Coconut (Bar & Grill)",
-    "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Blackberries",
-        "qty": "4",
-        "unit": "each"
-      },
-      {
-        "name": "Vanilla Vodka",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Coco Cream",
-        "qty": "3",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Pineapple juice",
-        "qty": "3",
-        "unit": "Oz"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "1ea.",
-        "unit": "Top Garnish"
-      }
-    ],
-    "steps": [
-      "Add 4 Blackberries to a shaker with the Vanilla Vodka",
-      "Muddle together, without shredding / pulverizing the Blackberries",
-      "Add coconut cream, pineapple juice and ice",
-      "Shake and pour into cup",
-      "Garnish:",
-      "Glassware:",
-      "14 oz Glass or Logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cbg-77",
     "masterId": "drm-purple-coconut-bar-grill-m",
     "name": "Purple Coconut (Bar & Grill)",
     "location": "CBG",
@@ -50925,68 +50267,6 @@
     "images": []
   },
   {
-    "id": "drm-si-35",
-    "masterId": "drm-si-fresh-made-pina-colada-m",
-    "name": "SI Fresh Made Pina Colada",
-    "location": "Salty's Island",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Rum Well (Cruzan)",
-        "qty": "1.5",
-        "unit": "oz pour"
-      },
-      {
-        "name": "Fresh Pineapple",
-        "qty": "3/4",
-        "unit": "14oz cup"
-      },
-      {
-        "name": "Coco Lopez",
-        "qty": "2",
-        "unit": "oz pour"
-      },
-      {
-        "name": "Agave Nectar",
-        "qty": "",
-        "unit": "Wet Rim"
-      },
-      {
-        "name": "Toasted Coconut",
-        "qty": "",
-        "unit": "Rimming/ Garnish"
-      },
-      {
-        "name": "Planetary Dark Rum",
-        "qty": "0.5",
-        "unit": "oz (Float)"
-      },
-      {
-        "name": "Pineapple Wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Cherry",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "In a blender, add all ingredients (but Plantation)",
-      "Add a 12-oz cup of ice to the blender",
-      "Transfer to a rimmed Toasted Coconut glass",
-      "Float a Planetary dark rum on top",
-      "Garnish: Pineapple wedge, Cherry, Coconut rim"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-si-36",
     "masterId": "drm-si-36-m",
     "name": "SI Tequila Drop",
@@ -51209,51 +50489,6 @@
   },
   {
     "id": "drm-si-41",
-    "masterId": "drm-si-black-cherry-margarita-m",
-    "name": "SI Black Cherry Margarita",
-    "location": "Salty's Island",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Pantalone's Blanco",
-        "qty": "1.5",
-        "unit": "Vol Oz"
-      },
-      {
-        "name": "Filthy Cherry Syrup",
-        "qty": "1",
-        "unit": "Vol Oz"
-      },
-      {
-        "name": "Triple Sec.",
-        "qty": ".50",
-        "unit": "Vol Oz"
-      },
-      {
-        "name": "Filthy Margarita mix",
-        "qty": "4",
-        "unit": "Vol Oz"
-      },
-      {
-        "name": "Filthy Black Cherry",
-        "qty": "1",
-        "unit": "Each/Garnish"
-      }
-    ],
-    "steps": [
-      "Pour liquids in a shaker with a scoop of ice",
-      "Shake until chilled and frothy",
-      "Pour into a 14-oz glass"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-si-42",
     "masterId": "drm-si-black-cherry-margarita-m",
     "name": "SI Black Cherry Margarita",
     "location": "Salty's Island",
@@ -69102,7 +68337,7 @@
     "id": "dm-cbg-80",
     "masterId": "m-ms4rmzq9ehta43",
     "name": "Ribs & Filet Mignon",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -69452,7 +68687,7 @@
     "id": "dm-cbg-86",
     "masterId": "dm-cbg-86-m",
     "name": "Tail 8oz & Crab Cake",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -69528,7 +68763,7 @@
     "id": "dm-cbg-87",
     "masterId": "m-ms4rh26fwrf23t",
     "name": "Tail 8oz & Bairdi (3/4#)",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -69928,7 +69163,7 @@
     "id": "dm-cbg-93",
     "masterId": "m-ms4rfx8t7hfhsv",
     "name": "Ribs & Tail 8oz",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -69992,7 +69227,7 @@
     "id": "dm-cbg-94",
     "masterId": "m-ms4rjhmrijxo4m",
     "name": "Tail 8oz & Scallops",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -70068,7 +69303,7 @@
     "id": "dm-cbg-95",
     "masterId": "m-ms4rj51ykxcqay",
     "name": "Tail 8oz & Grouper",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -70129,7 +69364,7 @@
     "id": "dm-cbg-96",
     "masterId": "m-ms4rimy3uhuqyy",
     "name": "Tail 8oz & Filet Mignon",
-    "location": "CDS",
+    "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
