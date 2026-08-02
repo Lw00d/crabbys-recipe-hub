@@ -74623,5 +74623,43 @@
     ],
     "notes": "",
     "images": []
+  },
+  {
+    "id": "dp-cds-104",
+    "masterId": "dp-cds-104-m",
+    "name": "Seabass Trimmings",
+    "location": "CDS",
+    "category": "Dinner Prep",
+    "submenu": "",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "scale, perforated pan, portion day bags, red mesh bags",
+    "ingredients": [
+      {
+        "name": "Seabass Chunks",
+        "qty": "5",
+        "unit": "lbs"
+      }
+    ],
+    "steps": [
+      "Sorting: separate into use for ceviche vs. use for dinner portion",
+      "Thaw under refrigeration",
+      "Drain completely once thawed",
+      "Add larger chunks to one side of sheet pan and smaller pieces to the other side",
+      "Place larger chunks in 8oz portion in plastic day bag",
+      "Small chunks will be used for ceviche",
+      "Cook off all small pieces and ...",
+      "Portion into 8oz, or 1lb. bags for next batch(s)",
+      "Bag small pieces for cooking off",
+      "Portioning 8oz bags for dinner"
+    ],
+    "notes": "Source doc was marked \"More to Come\" and one step trails off mid-sentence (\"Cook off all small pieces and ...\") — this recipe appears to be a work in progress on the source side. Yield was also left blank in the original.",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_3.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Seabass_Trimmings_CDS_4.jpg"
+    ]
   }
 ]
