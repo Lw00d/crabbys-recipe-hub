@@ -783,9 +783,11 @@ function renderModalView(){
   document.getElementById('modalMeta').innerHTML = `<span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span><span class="badge badge-cat">${recipe.category}</span>${sub}${master}`;
 
   const metas=[];
+  const bCount = r_batchCount(recipe);
   if(recipe.yield && recipe.dualBatch)  metas.push(`<div class="meta-pill">⚖️ <strong>Yield (${esc(recipe.dualBatch.label1||'Batch 1')}):</strong> ${recipe.yield}</div>`);
   else if(recipe.yield) metas.push(`<div class="meta-pill">⚖️ <strong>Yield:</strong> ${recipe.yield}</div>`);
   if(recipe.yield2 && recipe.dualBatch) metas.push(`<div class="meta-pill">⚖️ <strong>Yield (${esc(recipe.dualBatch.label2||'Batch 2')}):</strong> ${recipe.yield2}</div>`);
+  if(bCount>=3 && recipe.yield3 && recipe.dualBatch) metas.push(`<div class="meta-pill">⚖️ <strong>Yield (${esc(recipe.dualBatch.label3||'Batch 3')}):</strong> ${recipe.yield3}</div>`);
   if(recipe.shelfLife) metas.push(`<div class="meta-pill">🕐 <strong>Shelf Life:</strong> ${recipe.shelfLife}</div>`);
   if(recipe.smallware) metas.push(`<div class="meta-pill">🍳 <strong>Smallware:</strong> ${recipe.smallware}</div>`);
   const metaHTML = metas.length?`<div class="detail-section"><div class="meta-pills">${metas.join('')}</div></div>`:'';
@@ -800,8 +802,12 @@ function renderModalView(){
   if(recipe.ingredients&&recipe.ingredients.length){
     if(recipe.dualBatch){
       const l1 = esc(recipe.dualBatch.label1||'Batch 1'), l2 = esc(recipe.dualBatch.label2||'Batch 2');
-      const rows=recipe.ingredients.map(i=>`<tr><td class="qty-cell">${i.qty||'—'}</td><td class="qty-cell">${i.qty2||'—'}</td><td class="unit-cell">${i.unit||''}</td><td>${hl(i.name)}</td></tr>`).join('');
-      ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>${l1}</th><th>${l2}</th><th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+      const l3col = bCount>=3 ? `<th>${esc(recipe.dualBatch.label3||'Batch 3')}</th>` : '';
+      const rows=recipe.ingredients.map(i=>{
+        const c3 = bCount>=3 ? `<td class="qty-cell">${i.qty3||'—'}</td>` : '';
+        return `<tr><td class="qty-cell">${i.qty||'—'}</td><td class="qty-cell">${i.qty2||'—'}</td>${c3}<td class="unit-cell">${i.unit||''}</td><td>${hl(i.name)}</td></tr>`;
+      }).join('');
+      ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>${l1}</th><th>${l2}</th>${l3col}<th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
     } else {
       const rows=recipe.ingredients.map(i=>`<tr><td class="qty-cell">${i.qty||'—'}</td><td class="unit-cell">${i.unit||''}</td><td>${hl(i.name)}</td></tr>`).join('');
       ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>Qty</th><th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
@@ -850,9 +856,11 @@ function renderModalEdit(){
   const locOpts = LOCS.map(l=>`<option${l===r.location?' selected':''}>${l}</option>`).join('');
   const catOpts = CATS.map(c=>`<option${c===r.category?' selected':''}>${c}</option>`).join('');
   const ings = r.ingredients?.length ? r.ingredients : [{qty:'',unit:'',name:''}];
+  const bCountEdit = r_batchCount(r);
   const ingRows = r.dualBatch ? ings.map((g,i)=>`<tr>
-    <td><input type="text" value="${esc(g.qty)}" placeholder="${esc(r.dualBatch.label1||'Batch 1')}" data-i="${i}" data-f="qty" oninput="uIng(this)" style="width:70px"></td>
-    <td><input type="text" value="${esc(g.qty2)}" placeholder="${esc(r.dualBatch.label2||'Batch 2')}" data-i="${i}" data-f="qty2" oninput="uIng(this)" style="width:70px"></td>
+    <td><input type="text" value="${esc(g.qty)}" placeholder="${esc(r.dualBatch.label1||'Size 1')}" data-i="${i}" data-f="qty" oninput="uIng(this)" style="width:70px"></td>
+    <td><input type="text" value="${esc(g.qty2)}" placeholder="${esc(r.dualBatch.label2||'Size 2')}" data-i="${i}" data-f="qty2" oninput="uIng(this)" style="width:70px"></td>
+    ${bCountEdit>=3 ? `<td><input type="text" value="${esc(g.qty3)}" placeholder="${esc(r.dualBatch.label3||'Size 3')}" data-i="${i}" data-f="qty3" oninput="uIng(this)" style="width:70px"></td>` : ''}
     <td><input type="text" value="${esc(g.unit)}" placeholder="Unit" data-i="${i}" data-f="unit" oninput="uIng(this)" style="width:130px"></td>
     <td><input type="text" value="${esc(g.name)}" placeholder="Ingredient name" data-i="${i}" data-f="name" oninput="uIng(this)"></td>
     <td style="width:32px;text-align:center"><button class="delbtn" onclick="delIng(${i})">&#xD7;</button></td></tr>`).join('')
@@ -923,25 +931,35 @@ function renderModalEdit(){
       </div></div>
     <div class="fs"><div class="fs-title">Details</div>
       <div class="fg3">
-        <div class="ff"><label>Yield${r.dualBatch?` (${esc(r.dualBatch.label1||'Batch 1')})`:''}</label><input type="text" value="${esc(r.yield)}" placeholder="e.g. 1 quart" oninput="uF('yield',this.value)"></div>
+        ${r.dualBatch ? '' : `<div class="ff"><label>Yield</label><input type="text" value="${esc(r.yield)}" placeholder="e.g. 1 quart" oninput="uF('yield',this.value)"></div>`}
         <div class="ff"><label>Shelf Life</label><input type="text" value="${esc(r.shelfLife)}" placeholder="e.g. 3 days" oninput="uF('shelfLife',this.value)"></div>
         <div class="ff"><label>Smallware</label><input type="text" value="${esc(r.smallware)}" placeholder="e.g. 4qt pan" oninput="uF('smallware',this.value)"></div>
       </div>
       <div style="margin-top:10px;padding-top:10px;border-top:1px solid var(--border)">
         <label style="display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;cursor:pointer">
           <input type="checkbox" ${r.dualBatch?'checked':''} onchange="toggleDualBatch(this.checked)">
-          This recipe scales as two batch sizes (e.g. ½ Case / Full Case)
+          This recipe scales as multiple batch/portion sizes (e.g. 14oz / 20oz / Bucket)
         </label>
         ${r.dualBatch ? `
-        <div class="fg2" style="margin-top:10px">
-          <div class="ff"><label>Batch 1 label</label><input type="text" value="${esc(r.dualBatch.label1)}" placeholder="e.g. 1/2 Case" oninput="uDualBatchLabel(1,this.value)"></div>
-          <div class="ff"><label>Batch 2 label</label><input type="text" value="${esc(r.dualBatch.label2)}" placeholder="e.g. Full Case" oninput="uDualBatchLabel(2,this.value)"></div>
-          <div class="ff"><label>Yield (${esc(r.dualBatch.label2||'Batch 2')})</label><input type="text" value="${esc(r.yield2)}" placeholder="e.g. 60 portions" oninput="uF('yield2',this.value)"></div>
+        <div class="fg3" style="margin-top:10px">
+          <div class="ff"><label>Size 1 label</label><input type="text" value="${esc(r.dualBatch.label1)}" placeholder="e.g. 14oz" oninput="uDualBatchLabel(1,this.value)"></div>
+          <div class="ff"><label>Size 2 label</label><input type="text" value="${esc(r.dualBatch.label2)}" placeholder="e.g. 20oz" oninput="uDualBatchLabel(2,this.value)"></div>
+          ${r_batchCount(r)>=3 ? `<div class="ff"><label>Size 3 label</label><input type="text" value="${esc(r.dualBatch.label3)}" placeholder="e.g. Bucket" oninput="uDualBatchLabel(3,this.value)"></div>` : ''}
+        </div>
+        <div class="fg3" style="margin-top:10px">
+          <div class="ff"><label>Yield (${esc(r.dualBatch.label1||'Size 1')})</label><input type="text" value="${esc(r.yield)}" placeholder="e.g. 1 drink" oninput="uF('yield',this.value)"></div>
+          <div class="ff"><label>Yield (${esc(r.dualBatch.label2||'Size 2')})</label><input type="text" value="${esc(r.yield2)}" placeholder="e.g. 1 drink" oninput="uF('yield2',this.value)"></div>
+          ${r_batchCount(r)>=3 ? `<div class="ff"><label>Yield (${esc(r.dualBatch.label3||'Size 3')})</label><input type="text" value="${esc(r.yield3)}" placeholder="e.g. 1 batch" oninput="uF('yield3',this.value)"></div>` : ''}
+        </div>
+        <div style="margin-top:10px">
+          ${r_batchCount(r)>=3
+            ? `<button class="addbtn" type="button" onclick="toggleThirdSize(false)">− Remove third size</button>`
+            : `<button class="addbtn" type="button" onclick="toggleThirdSize(true)">＋ Add a third size</button>`}
         </div>` : ''}
       </div></div>
     <div class="fs"><div class="fs-title">Ingredients</div>
       <table class="ing-t"><thead><tr>${r.dualBatch
-        ? `<th style="width:76px">${esc(r.dualBatch.label1||'Batch 1')}</th><th style="width:76px">${esc(r.dualBatch.label2||'Batch 2')}</th><th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th>`
+        ? `<th style="width:76px">${esc(r.dualBatch.label1||'Size 1')}</th><th style="width:76px">${esc(r.dualBatch.label2||'Size 2')}</th>${bCountEdit>=3?`<th style="width:76px">${esc(r.dualBatch.label3||'Size 3')}</th>`:''}<th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th>`
         : `<th style="width:76px">Qty</th><th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th>`}</tr></thead>
       <tbody id="ingBody">${ingRows}</tbody></table>
       <button class="addbtn" onclick="addIng()">＋ Add ingredient</button></div>
@@ -992,22 +1010,36 @@ function handleSubmenuSelect(val){
     markMod();
   }
 }
+function r_batchCount(r){ return (r && r.dualBatch) ? (r.dualBatch.count || 2) : 1; }
 function markMod(){ const r=getCurrentRecipe(); if(!r) return; r._modified=true; setUnsaved(true); }
 function uF(field,val){ const r=getCurrentRecipe(); if(!r) return; r[field]=val; markMod();
   if(field==='location'){ const lc=LOC_CLASS[val]||''; document.getElementById('modalHeader').className=`modal-header ${lc}`; }
 }
 function uIng(inp){ const r=getCurrentRecipe(); if(!r) return; const i=+inp.dataset.i; if(!r.ingredients[i]) r.ingredients[i]={qty:'',unit:'',name:''}; r.ingredients[i][inp.dataset.f]=inp.value; markMod(); }
-function addIng(){ const r=getCurrentRecipe(); if(!r) return; if(!r.ingredients)r.ingredients=[]; r.ingredients.push({qty:'',qty2:'',unit:'',name:''}); markMod(); renderModalEdit(); const ins=document.querySelectorAll('#ingBody input[data-f="name"]'); if(ins.length)ins[ins.length-1].focus(); }
+function addIng(){ const r=getCurrentRecipe(); if(!r) return; if(!r.ingredients)r.ingredients=[]; const row={qty:'',qty2:'',unit:'',name:''}; if(r_batchCount(r)>=3) row.qty3=''; r.ingredients.push(row); markMod(); renderModalEdit(); const ins=document.querySelectorAll('#ingBody input[data-f="name"]'); if(ins.length)ins[ins.length-1].focus(); }
 function delIng(i){ const r=getCurrentRecipe(); if(!r) return; r.ingredients.splice(i,1); markMod(); renderModalEdit(); }
 function toggleDualBatch(on){
   const r=getCurrentRecipe(); if(!r) return;
   if(on){
-    r.dualBatch = { label1: '1/2 Batch', label2: 'Full Batch' };
+    r.dualBatch = { label1: 'Size 1', label2: 'Size 2', count: 2 };
     if(!r.ingredients) r.ingredients=[];
     r.ingredients.forEach(i=>{ if(i.qty2===undefined) i.qty2=''; });
   } else {
     delete r.dualBatch;
     delete r.yield2;
+    delete r.yield3;
+  }
+  markMod();
+  renderModalEdit();
+}
+function toggleThirdSize(on){
+  const r=getCurrentRecipe(); if(!r||!r.dualBatch) return;
+  if(on){
+    r.dualBatch.count = 3;
+    if(r.dualBatch.label3===undefined) r.dualBatch.label3 = 'Size 3';
+    r.ingredients.forEach(i=>{ if(i.qty3===undefined) i.qty3=''; });
+  } else {
+    r.dualBatch.count = 2;
   }
   markMod();
   renderModalEdit();
