@@ -9582,31 +9582,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-42",
-    "masterId": "dp-clams-m",
-    "name": "Clams",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "red mesh bags, bucket,",
-    "ingredients": [
-      {
-        "name": "Clams Middle Necks",
-        "qty": "120",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Take 1 bag of frozen clams",
-      "Place 1 dozen clams into red mesh bags",
-      "Label and date with a Sharpie",
-      "Place back into the original box and put into the freezer"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-37",
     "masterId": "dp-clams-m",
     "name": "Clams",
@@ -14351,33 +14326,6 @@
     "notes": "",
     "images": [],
     "active": false
-  },
-  {
-    "id": "dp-cds-101",
-    "masterId": "dp-cod-m",
-    "name": "Cod",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "32-33 portions / 10 lb. cs",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cod Loin",
-        "qty": "10",
-        "unit": "lbs."
-      }
-    ],
-    "steps": [
-      "Place the fish on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw under refrigeration overnight",
-      "Place 1/3 of the pan into a Lemon bag",
-      "Place 33 fillets in a lined 1/3 pan",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-cbg-71",
@@ -39299,48 +39247,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-31",
-    "masterId": "drm-coco-nut-cappuccino-m",
-    "name": "Coco-Nut Cappuccino",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Frozen Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cruzan Coconut Rum",
-        "qty": "1.25",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Amaretto Well",
-        "qty": ".75",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Frappuccino",
-        "qty": "5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Whipped Cream Garnish",
-        "qty": "Cover",
-        "unit": "Glass top"
-      }
-    ],
-    "steps": [
-      "Put all ingredients in a blender",
-      "Add a scoop of ice",
-      "Pour into a 14oz logo cup or glass",
-      "Top with Whip Cream",
-      "Glassware: 14oz Glass or Logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-31",
     "masterId": "drm-mud-slide-m",
     "name": "Mud Slide",
@@ -44785,47 +44691,6 @@
     "masterId": "drm-coco-nut-cappuccino-bar-grill-m",
     "name": "Coco-Nut Cappuccino(Bar & Grill)",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Breakfast Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cruzan Coconut",
-        "qty": "1.25",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Amaretto (Well)",
-        "qty": ".75",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Frappuccino",
-        "qty": "5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Whip Cream",
-        "qty": "Cover",
-        "unit": "Top of Glass"
-      }
-    ],
-    "steps": [
-      "Put all ingredients in a blender",
-      "Add a scoop of ice",
-      "Pour into a 14-oz logo cup or glass",
-      "Glassware: 14oz glass or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-82",
-    "masterId": "drm-coco-nut-cappuccino-bar-grill-m",
-    "name": "Coco-Nut Cappuccino(Bar & Grill)",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
     "yield": "",
