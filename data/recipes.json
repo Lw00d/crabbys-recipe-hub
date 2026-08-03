@@ -23068,8 +23068,8 @@
   },
   {
     "id": "dm-nb-93",
-    "masterId": "m-msdmpbeu1ztr5h",
-    "name": "Kid Pasta Red Sauce",
+    "masterId": "dm-nb-93-m",
+    "name": "Kid Pasta Red Sauce (SCNB)",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -23081,6 +23081,11 @@
         "name": "Pasta (prep)",
         "qty": ".5",
         "unit": "16oz deli cup"
+      },
+      {
+        "name": "Meatball (3oz)",
+        "qty": "1",
+        "unit": "Cut into 4 pieces"
       },
       {
         "name": "Red Sauce",
@@ -23096,20 +23101,26 @@
     "steps": [
       "Put 1 - 4 oz ladle of red sauce in a saucepan till it's hot",
       "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
+      "Take 1 meatball and cut it into 4 equal pieces.",
+      "Place in microwave for 10-15 seconds, until heated thoroughly, and add to the heated red sauce",
       "Drain pasta and add to the heated sauce",
-      "Toss pasta so that it is covered in sauce",
+      "Toss pasta and meatball so that it is covered in sauce",
       "Put in a small pasta bowl",
       "Top with parmesan cheese",
       "Expo: Garlic bread, soup spoon",
-      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin",
+      "With Meatballs & Sauce"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_1.jpg"
+    ]
   },
   {
     "id": "dm-nb-94",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo (All Stores)",
+    "name": "Kid Alfredo pasta",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26356,7 +26367,7 @@
   {
     "id": "dm-si-62",
     "masterId": "dm-nb-94-m",
-    "name": "Kids Alfredo (All Stores)",
+    "name": "Kid Alfredo pasta",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26366,23 +26377,23 @@
     "ingredients": [
       {
         "name": "Pasta (prep)",
-        "qty": "1",
-        "unit": "10 oz deli cup"
+        "qty": ".5",
+        "unit": "16oz deli cup"
       },
       {
         "name": "Alfredo Sauce",
         "qty": "1",
-        "unit": "6 oz ladle"
+        "unit": "4oz ladle"
       }
     ],
     "steps": [
-      "Put 1 - 6 oz ladle of alfredo sauce in a saucepan to get hot",
-      "Place the pasta into the pasta water for about 30 seconds",
-      "Drain pasta, and mix it in with heated sauce",
-      "Toss pasta a few times so it is covered in sauce and put in medium bowl",
+      "Put 1 - 4 oz ladle Alfredo sauce in a saucepan and get it hot",
+      "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
+      "Drain the pasta, and mix it in with the heated sauce",
+      "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
       "Top with parmesan cheese",
-      "Expo: Requested side, Soup Spoon",
-      "Plateware: Medium Bowl, w/ napkin liner, Rectangular Plate"
+      "Expo: Garlic bread, Soup Spoon",
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
     ],
     "notes": "",
     "images": [
@@ -66070,7 +66081,7 @@
   {
     "id": "dm-cbg-45",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo (All Stores)",
+    "name": "Kid Alfredo pasta",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -66080,8 +66091,8 @@
     "ingredients": [
       {
         "name": "Pasta (prep)",
-        "qty": "1",
-        "unit": "8oz deli cup"
+        "qty": ".5",
+        "unit": "16oz deli cup"
       },
       {
         "name": "Alfredo Sauce",
@@ -66090,13 +66101,13 @@
       }
     ],
     "steps": [
-      "Put 1 4-oz ladle Alfredo sauce in a saucepan and get it hot",
-      "Put 1 8-oz deli cup of pasta in the pasta water for 30 seconds",
-      "Drain the pasta and mix it into the sauce",
-      "Toss the pasta so it is covered in sauce, and put it in a bowl",
-      "Top with a sprinkle of Parmesan cheese and give to expo when called for",
-      "Expo: Spoon, side",
-      "Plateware: Medium bowl, Lined Round plate"
+      "Put 1 - 4 oz ladle Alfredo sauce in a saucepan and get it hot",
+      "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
+      "Drain the pasta, and mix it in with the heated sauce",
+      "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
+      "Top with parmesan cheese",
+      "Expo: Garlic bread, Soup Spoon",
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
     ],
     "notes": "",
     "images": [
@@ -66104,6 +66115,56 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
+    ]
+  },
+  {
+    "id": "dm-cbg-46",
+    "masterId": "dm-nb-93-m",
+    "name": "Kid Pasta Red Sauce (SCNB)",
+    "location": "CBG",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pasta (prep)",
+        "qty": ".5",
+        "unit": "16oz deli cup"
+      },
+      {
+        "name": "Meatball (3oz)",
+        "qty": "1",
+        "unit": "Cut into 4 pieces"
+      },
+      {
+        "name": "Red Sauce",
+        "qty": "1",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Parm Cheese",
+        "qty": "",
+        "unit": "Sprinkle"
+      }
+    ],
+    "steps": [
+      "Put 1 - 4 oz ladle of red sauce in a saucepan and get it hot",
+      "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
+      "Take 1 meatball and cut it into 4 equal pieces.",
+      "Place in the microwave for 10-15 seconds, until heated thoroughly, and add to the heated red sauce",
+      "Drain pasta and add to heated sauce",
+      "Toss the pasta and meatball so it is covered in sauce",
+      "Put in a small pasta bowl",
+      "Top with a sprinkle of Parmesan cheese",
+      "Expo: Garlic bread, soup spoon",
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_1.jpg"
     ]
   },
   {
@@ -69169,7 +69230,7 @@
   {
     "id": "dm-cds-75",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo (All Stores)",
+    "name": "Kid Alfredo pasta",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -69179,8 +69240,8 @@
     "ingredients": [
       {
         "name": "Pasta (prep)",
-        "qty": "1",
-        "unit": "8oz deli cup"
+        "qty": ".5",
+        "unit": "16oz deli cup"
       },
       {
         "name": "Alfredo Sauce",
@@ -69189,16 +69250,19 @@
       }
     ],
     "steps": [
-      "Put 1 4-oz ladle Alfredo sauce in a saucepan and get it hot",
-      "Put 1 8-oz deli cup of pasta in the pasta water for 30 seconds",
-      "Drain the pasta and mix it into the sauce",
-      "Toss the pasta so it is covered in sauce, and put it in a bowl",
-      "Top with a sprinkle of Parmesan cheese and give to expo when called for",
-      "Expo: Spoon, side",
-      "Plateware: Medium bowl, Lined Round plate"
+      "Put 1 - 4 oz ladle Alfredo sauce in a saucepan and get it hot",
+      "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
+      "Drain the pasta, and mix it in with the heated sauce",
+      "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
+      "Top with parmesan cheese",
+      "Expo: Garlic bread, Soup Spoon",
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
     ]
   },
