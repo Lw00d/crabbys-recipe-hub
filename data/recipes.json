@@ -1,5 +1,133 @@
 [
   {
+    "name": "BLTE",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Texas Toast",
+        "qty": "2",
+        "unit": "Slices"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brushing",
+        "unit": "Bread & Egg Pan"
+      },
+      {
+        "name": "Egg (Cook as requested)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Bacon",
+        "qty": "3",
+        "unit": "slices"
+      },
+      {
+        "name": "Expo",
+        "qty": "",
+        "unit": ""
+      },
+      {
+        "name": "Lettuce leaves (LTO)",
+        "qty": "1",
+        "unit": "Pieces (full)"
+      },
+      {
+        "name": "Tomato slices (LTO)",
+        "qty": "2",
+        "unit": "slices"
+      }
+    ],
+    "steps": [
+      "Butter the Texas Toast, place it on the flattop",
+      "Toast on both sides,",
+      "Brush an 8\" egg pan with butter",
+      "Cook eggs as requested",
+      "Place the egg on the bottom section of the toast",
+      "Place bacon on top of eggs",
+      "Expo Assembling:",
+      "Add 1 pieces of lettuce and 2 slices of tomato on top of the bacon",
+      "Place the cooked egg on top",
+      "This is served open-faced",
+      "Add the requested side",
+      "."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msdb7gk36n9fm1",
+    "masterId": "bm-pl-7-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "BLTE",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Texas Toast",
+        "qty": "2",
+        "unit": "Slices"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brushing",
+        "unit": "Bread & Egg Pan"
+      },
+      {
+        "name": "Egg (Cook as requested)",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Bacon",
+        "qty": "3",
+        "unit": "slices"
+      },
+      {
+        "name": "Expo",
+        "qty": "",
+        "unit": ""
+      },
+      {
+        "name": "Lettuce leaves (LTO)",
+        "qty": "1",
+        "unit": "Pieces (full)"
+      },
+      {
+        "name": "Tomato slices (LTO)",
+        "qty": "2",
+        "unit": "slices"
+      }
+    ],
+    "steps": [
+      "Butter the Texas Toast, place it on the flattop",
+      "Toast on both sides,",
+      "Brush an 8\" egg pan with butter",
+      "Cook eggs as requested",
+      "Place the egg on the bottom section of the toast",
+      "Place bacon on top of eggs",
+      "Expo Assembling:",
+      "Add 1 pieces of lettuce and 2 slices of tomato on top of the bacon",
+      "Place the cooked egg on top",
+      "This is served open-faced",
+      "Add the requested side",
+      "."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msdb6ggnalhhcj",
+    "masterId": "bm-pl-7-m",
+    "location": "CBG"
+  },
+  {
     "name": "Skewer Bloody Mary Ultimate",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -55000,7 +55128,7 @@
   {
     "id": "bm-cbg-24",
     "masterId": "bm-cbg-24-m",
-    "name": "BLT with Salmon or Egg",
+    "name": "BLT w/ Salmon",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -58114,7 +58242,7 @@
   {
     "id": "bm-si-17",
     "masterId": "bm-si-17-m",
-    "name": "Breakfast Sandwiches",
+    "name": "Breakfast Sandwich",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -59089,12 +59217,13 @@
       "Add the requested side"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bm-nb-30",
     "masterId": "bm-nb-30-m",
-    "name": "Cuban Sandwich",
+    "name": "Breakfast Sandwich",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
