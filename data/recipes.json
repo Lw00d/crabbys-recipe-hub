@@ -23068,8 +23068,8 @@
   },
   {
     "id": "dm-nb-93",
-    "masterId": "dm-nb-93-m",
-    "name": "Kid Pasta Red Sauce (SCNB)",
+    "masterId": "m-msdmpbeu1ztr5h",
+    "name": "Kid Pasta Red Sauce",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -23081,11 +23081,6 @@
         "name": "Pasta (prep)",
         "qty": ".5",
         "unit": "16oz deli cup"
-      },
-      {
-        "name": "Meatball (3oz)",
-        "qty": "1",
-        "unit": "Cut into 4 pieces"
       },
       {
         "name": "Red Sauce",
@@ -23101,21 +23096,15 @@
     "steps": [
       "Put 1 - 4 oz ladle of red sauce in a saucepan till it's hot",
       "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
-      "Take 1 meatball and cut it into 4 equal pieces.",
-      "Place in microwave for 10-15 seconds, until heated thoroughly, and add to the heated red sauce",
       "Drain pasta and add to the heated sauce",
-      "Toss pasta and meatball so that it is covered in sauce",
+      "Toss pasta so that it is covered in sauce",
       "Put in a small pasta bowl",
       "Top with parmesan cheese",
       "Expo: Garlic bread, soup spoon",
-      "Plateware: Medium Pasta Bowl, Medium plate, black napkin",
-      "With Meatballs & Sauce"
+      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_1.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-nb-94",
@@ -66115,56 +66104,6 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
-    ]
-  },
-  {
-    "id": "dm-cbg-46",
-    "masterId": "dm-nb-93-m",
-    "name": "Kid Pasta Red Sauce (SCNB)",
-    "location": "CBG",
-    "category": "Dinner Menu",
-    "submenu": "Kid's Meals",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Pasta (prep)",
-        "qty": ".5",
-        "unit": "16oz deli cup"
-      },
-      {
-        "name": "Meatball (3oz)",
-        "qty": "1",
-        "unit": "Cut into 4 pieces"
-      },
-      {
-        "name": "Red Sauce",
-        "qty": "1",
-        "unit": "4oz ladle"
-      },
-      {
-        "name": "Parm Cheese",
-        "qty": "",
-        "unit": "Sprinkle"
-      }
-    ],
-    "steps": [
-      "Put 1 - 4 oz ladle of red sauce in a saucepan and get it hot",
-      "Put 1 - 8oz deli cup of pasta in the pasta water for 30 seconds",
-      "Take 1 meatball and cut it into 4 equal pieces.",
-      "Place in the microwave for 10-15 seconds, until heated thoroughly, and add to the heated red sauce",
-      "Drain pasta and add to heated sauce",
-      "Toss the pasta and meatball so it is covered in sauce",
-      "Put in a small pasta bowl",
-      "Top with a sprinkle of Parmesan cheese",
-      "Expo: Garlic bread, soup spoon",
-      "Plateware: Medium Pasta Bowl, Medium plate, black napkin"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta_Red_Sauce_1.jpg"
     ]
   },
   {
