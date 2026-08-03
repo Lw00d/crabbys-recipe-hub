@@ -1,5 +1,29 @@
 [
   {
+    "name": "Chicken Sausage links",
+    "category": "Breakfast Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [],
+    "steps": [
+      "With Entrée 2 ea.",
+      "As Solo side 2 ea.",
+      "Cook in a turbo micro for 10 seconds",
+      "Remove from microwave, or place on the Char grill for 3-5 minutes while turning,",
+      "Just long enough to put some grill marks on them",
+      "Plateware:",
+      "Entrée -on the plate",
+      "Solo Side-on App plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msdbhejg67n9mq",
+    "masterId": "bm-nb-40-m",
+    "location": "Palm"
+  },
+  {
     "name": "BLTE",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -1508,7 +1532,7 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
-      "Expo: Powder Sugar, & fruit cup, if No fruit cup, a substituted",
+      "Expo: Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
     ],
     "notes": "",
@@ -52225,7 +52249,7 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
-      "Expo: Powder Sugar, & fruit cup, if No fruit cup, a substituted",
+      "Expo: Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
     ],
     "notes": "",
@@ -52264,7 +52288,7 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
-      "Expo: Powder Sugar, & fruit cup, if No fruit cup, a substituted",
+      "Expo: Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
     ],
     "notes": "",
@@ -52303,7 +52327,7 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
-      "Expo: Powder Sugar, & fruit cup, if No fruit cup, a substituted",
+      "Expo: Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
     ],
     "notes": "",
@@ -53930,6 +53954,12 @@
         "name": "Avocado Salsa",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "qty": "sprinkle",
+        "qty2": "",
+        "unit": "on top",
+        "name": "Cilantro"
       }
     ],
     "steps": [
@@ -53986,6 +54016,12 @@
         "name": "Avocado Salsa",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "qty": "sprinkle",
+        "qty2": "",
+        "unit": "on top",
+        "name": "Cilantro"
       }
     ],
     "steps": [
@@ -54042,6 +54078,12 @@
         "name": "Avocado Salsa",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "qty": "sprinkle",
+        "qty2": "",
+        "unit": "on top",
+        "name": "Cilantro"
       }
     ],
     "steps": [
