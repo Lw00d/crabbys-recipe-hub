@@ -32851,14 +32851,20 @@
   {
     "id": "drm-pl-1",
     "masterId": "drm-pl-1-m",
-    "name": "AHighten Your Experience",
+    "name": "THC Booster",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "shot",
+        "name": "THC booster"
+      }
+    ],
     "steps": [
       "Glassware:",
       "Garnish:"
