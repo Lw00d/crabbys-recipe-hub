@@ -427,6 +427,7 @@ let RECIPES = [];
 let SUBMENUS = {};
 let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), searchQuery = '';
 let viewMode = 'active'; // 'active' | 'inactive' — which shelf of recipes is being browsed
+let loadedSnapshot = null; // raw JSON text of recipes.json as of the last load/save — used to detect if someone else saved in the meantime
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
 let currentModalId = null;
@@ -537,9 +538,11 @@ async function loadRecipes(url, useCache=true){
   try{
     const res = await fetch(normaliseUrl(url), { cache:'no-cache' });
     if(!res.ok) throw new Error(`Server returned ${res.status}`);
-    const data = await res.json();
+    const rawText = await res.text();
+    const data = JSON.parse(rawText);
     if(!Array.isArray(data)) throw new Error('File does not contain a recipe list');
     RECIPES = data;
+    loadedSnapshot = rawText;
     buildSubmenus();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
@@ -629,7 +632,47 @@ async function saveAndLoad(){
 async function pushToGithub(){
   if (!enteredPassword) { toast('Please unlock editing again to save','err'); openPwModal(); return; }
   const btn = document.getElementById('saveGhBtn');
-  btn.disabled = true; btn.textContent = '☁ Saving…';
+  btn.disabled = true; btn.textContent = '☁ Checking for conflicts…';
+  setStatus('saving','Checking for conflicts…');
+
+  // Conflict check: re-fetch the live file fresh and compare against what this
+  // browser tab originally loaded. If they differ, someone else has saved since
+  // then, and our full-array save would silently overwrite their changes.
+  try {
+    const checkRes = await fetch(normaliseUrl(CFG.rawUrl) + (CFG.rawUrl.includes('?')?'&':'?') + '_ts=' + Date.now(), { cache:'no-cache' });
+    if (checkRes.ok) {
+      const liveText = await checkRes.text();
+      if (loadedSnapshot !== null && liveText !== loadedSnapshot) {
+        let liveData = null;
+        try { liveData = JSON.parse(liveText); } catch(e) {}
+        const summary = liveData ? summarizeRecipeDiff(JSON.parse(loadedSnapshot), liveData) : null;
+        const detail = summary
+          ? `\n\n${summary}`
+          : '\n\n(Could not summarize exactly what changed.)';
+        const proceed = confirm(
+          `⚠️ Someone else has saved changes since you opened this page.${detail}\n\n` +
+          `Saving now will overwrite the live file with what's in THIS browser tab — ` +
+          `their changes could be lost unless they also appear here.\n\n` +
+          `Click OK to reload the latest data first (you'll need to redo any unsaved edits), ` +
+          `or Cancel to stop and review manually.`
+        );
+        btn.disabled = !pending; btn.textContent = '☁ Save to GitHub';
+        setStatus('online','Save paused — conflict detected');
+        if (proceed) {
+          await loadRecipes(CFG.rawUrl, false);
+          toast('Reloaded latest data — please redo any changes and save again','err');
+        } else {
+          toast('Save cancelled — data was not changed','err');
+        }
+        return;
+      }
+    }
+  } catch(e) {
+    // If the conflict check itself fails (offline, etc.), fall through and let
+    // the normal save attempt happen / fail on its own terms below.
+  }
+
+  btn.textContent = '☁ Saving…';
   setStatus('saving','Saving…');
   const clean = RECIPES.map(({_modified,_new,...r})=>r);
   try{
@@ -641,6 +684,7 @@ async function pushToGithub(){
     if (res.status === 401) throw new Error('Password rejected — please unlock again.');
     if (!res.ok) throw new Error(`Save failed (${res.status})`);
     RECIPES.forEach(r=>{ delete r._modified; delete r._new; });
+    loadedSnapshot = JSON.stringify(clean, null, 2);
     pending = false;
     setUnsaved(false);
     render();
@@ -653,6 +697,24 @@ async function pushToGithub(){
     btn.disabled = !pending;
     btn.textContent = '☁ Save to GitHub';
   }
+}
+function summarizeRecipeDiff(before, after){
+  try{
+    const beforeIds = new Map(before.map(r=>[r.id,r]));
+    const afterIds = new Map(after.map(r=>[r.id,r]));
+    const added = [...afterIds.keys()].filter(id=>!beforeIds.has(id));
+    const removed = [...beforeIds.keys()].filter(id=>!afterIds.has(id));
+    let changed = 0;
+    for(const [id,r] of beforeIds){
+      const a = afterIds.get(id);
+      if(a && JSON.stringify(a)!==JSON.stringify(r)) changed++;
+    }
+    const parts = [];
+    if(added.length) parts.push(`${added.length} recipe${added.length!==1?'s':''} added`);
+    if(removed.length) parts.push(`${removed.length} recipe${removed.length!==1?'s':''} removed`);
+    if(changed) parts.push(`${changed} recipe${changed!==1?'s':''} edited`);
+    return parts.length ? `Since you loaded this page: ${parts.join(', ')}.` : null;
+  }catch(e){ return null; }
 }
 function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'); btn.disabled = !v; }
 
