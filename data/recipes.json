@@ -19250,7 +19250,7 @@
       {
         "name": "Sauce Alfredo",
         "qty": "1",
-        "unit": "4oz ladle"
+        "unit": "6oz ladle"
       },
       {
         "name": "Pasta Linguine",
@@ -19287,7 +19287,7 @@
   {
     "id": "dm-nb-30",
     "masterId": "dm-nb-30-m",
-    "name": "Pasta Shrimp Scampi(SCNB)",
+    "name": "Pasta Shrimp Scampi",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -19349,7 +19349,7 @@
   {
     "id": "dm-nb-31",
     "masterId": "dm-nb-31-m",
-    "name": "Pasta Seafood(SCNB)",
+    "name": "Pasta Seafood",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -19444,7 +19444,7 @@
       {
         "name": "Sauce Alfredo",
         "qty": "1",
-        "unit": "4oz Ladle"
+        "unit": "6oz Ladle"
       },
       {
         "name": "Pasta Linguine",
@@ -19549,7 +19549,7 @@
   {
     "id": "dm-nb-34",
     "masterId": "dm-nb-34-m",
-    "name": "Pasta Chicken Parmesan (SCNB)",
+    "name": "Pasta Chicken Parmesan",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
