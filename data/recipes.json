@@ -5159,7 +5159,7 @@
   {
     "id": "dp-nb-40",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes Prep SI",
+    "name": "Crab Cakes Prep",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "15-17 cakes",
@@ -5222,9 +5222,15 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
-        "qty2": "7",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
@@ -10428,7 +10434,7 @@
   {
     "id": "dp-pl-78",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes Prep SI",
+    "name": "Crab Cakes Prep",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "15-17 cakes",
@@ -10491,9 +10497,15 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
-        "qty2": "7",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
@@ -15712,7 +15724,7 @@
   {
     "id": "dp-si-42",
     "masterId": "dp-crab-cakes-m",
-    "name": "Crab Cakes Prep SI",
+    "name": "Crab Cakes Prep",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "15-17 cakes",
@@ -15775,9 +15787,15 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
-        "qty2": "7",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
