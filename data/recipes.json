@@ -5222,15 +5222,9 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "7",
-        "qty2": "",
-        "unit": "Cans"
-      },
-      {
-        "name": "Super Jumbo Lump Crab",
-        "qty": "",
+        "qty": "3.5",
         "qty2": "7",
-        "unit": "Lbs."
+        "unit": "Cans"
       }
     ],
     "steps": [
@@ -10497,15 +10491,9 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "7",
-        "qty2": "",
-        "unit": "Cans"
-      },
-      {
-        "name": "Super Jumbo Lump Crab",
-        "qty": "",
+        "qty": "3.5",
         "qty2": "7",
-        "unit": "Lbs."
+        "unit": "Cans"
       }
     ],
     "steps": [
@@ -15787,15 +15775,9 @@
       },
       {
         "name": "Crab Meat Super Lump",
-        "qty": "7",
-        "qty2": "",
-        "unit": "Cans"
-      },
-      {
-        "name": "Super Jumbo Lump Crab",
-        "qty": "",
+        "qty": "3.5",
         "qty2": "7",
-        "unit": "Lbs."
+        "unit": "Cans"
       }
     ],
     "steps": [
