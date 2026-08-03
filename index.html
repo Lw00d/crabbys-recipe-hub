@@ -547,6 +547,10 @@ async function loadRecipes(url, useCache=true){
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     render();
+    // Fire-and-forget: check what we just displayed against GitHub's authoritative
+    // copy (not the CDN-cached one raw.githubusercontent.com just served us). If
+    // the CDN is behind, swap to the real data and let the person know.
+    if (url === CFG.rawUrl) checkForStaleData();
   }catch(err){
     console.warn('Fetch failed:', err.message);
     const cached = localStorage.getItem(CACHE_KEY);
@@ -561,6 +565,39 @@ async function loadRecipes(url, useCache=true){
     }
     setStatus('error','Could not load recipes');
     showEmpty('⚠️','Could not load recipes', err.message.includes('fetch')?'Check your connection.':err.message);
+  }
+}
+async function checkForStaleData(){
+  try{
+    const apiUrl = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/recipes.json';
+    const res = await fetch(apiUrl, {
+      headers: { 'Accept': 'application/vnd.github.v3.raw' },
+      cache: 'no-store'
+    });
+    if (!res.ok) return; // rate-limited or offline — fail silently, don't alarm anyone over a check that couldn't run
+    const authoritativeText = await res.text();
+    let authoritativeData;
+    try { authoritativeData = JSON.parse(authoritativeText); } catch(e) { return; }
+    if (!Array.isArray(authoritativeData)) return;
+    if (authoritativeText === loadedSnapshot) return; // genuinely up to date — nothing to do
+
+    // Mismatch: the CDN copy we displayed is behind the real repository. Swap to
+    // the authoritative version automatically and tell the person what happened.
+    const summary = summarizeRecipeDiff(RECIPES, authoritativeData);
+    RECIPES = authoritativeData;
+    loadedSnapshot = authoritativeText;
+    buildSubmenus();
+    render();
+    toast(
+      summary
+        ? `⚠️ Showed a cached copy — auto-corrected to the live version (${summary.replace('Since you loaded this page: ','').replace(/\.$/,'')})`
+        : '⚠️ Showed a cached copy — auto-corrected to the live version',
+      'err'
+    );
+    setStatus('online', `Corrected ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
+  }catch(e){
+    // Network hiccup, rate limit, etc. — the person still has the (possibly stale)
+    // primary load; not worth surfacing an error for a background sanity check.
   }
 }
 function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
