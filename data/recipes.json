@@ -74882,5 +74882,57 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Benedict_Country_NB_0.jpg"
     ]
+  },
+  {
+    "id": "dm-nb-97",
+    "masterId": "dm-nb-97-m",
+    "name": "Calamari",
+    "location": "Salty Crab North Beach",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Calamari (Prep)",
+        "qty": "1",
+        "unit": "6oz portion"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "For Dipping"
+      },
+      {
+        "name": "Banana Peppers",
+        "qty": "1",
+        "unit": "4 oz cup"
+      },
+      {
+        "name": "Flour",
+        "qty": "",
+        "unit": "For Coating"
+      },
+      {
+        "name": "House Spice",
+        "qty": "",
+        "unit": "Sprinkle"
+      }
+    ],
+    "steps": [
+      "Place Calamari into milk wash, drain excess, then into flour.",
+      "Place the Banana peppers into the flour to coat.",
+      "Once calamari is covered, shake off excess.",
+      "Place in 350°F fryer for approx. 4 to 5 minutes or until golden brown",
+      "Transfer to a save-a-day to drain the excess oil.",
+      "Sprinkle with house spice.",
+      "Expo: Lemon wedge, 2oz Red Sauce",
+      "Plateware: Lined Oval basket"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Calamari_NB_0.jpg"
+    ]
   }
 ]
