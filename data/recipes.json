@@ -5162,79 +5162,93 @@
     "name": "Crab Cakes Prep SI",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "15-17 cakes",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Half Batch: medium Cambro, mixing bowl, 2 - SS 4\" 1/2 pans  |  Full Batch: Mixing bowl, 4\" Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
     "ingredients": [
       {
         "name": "Eggs",
         "qty": "3",
+        "qty2": "6",
         "unit": "Each"
       },
       {
         "name": "Lemon juice",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Dijon Mustard",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Mayonnaise",
         "qty": "2",
-        "unit": "Cups"
-      },
-      {
-        "name": "Old Bay",
-        "qty": ".75",
-        "unit": "Tablespoons"
-      },
-      {
-        "name": "Salt",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Pepper",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Panko",
-        "qty": "1",
+        "qty2": "4",
         "unit": "Cups"
       },
       {
         "name": "Garlic Powder",
         "qty": ".5",
+        "qty2": "1",
         "unit": "Teaspoon"
       },
       {
+        "name": "Old Bay",
+        "qty": ".75",
+        "qty2": "1.5",
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "Salt",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Pepper",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Panko",
+        "qty": "1",
+        "qty2": "2",
+        "unit": "Cups"
+      },
+      {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
-      "Thaw crab cake base and crab meat in the refrigerator.",
+      "Thaw crab meat in the refrigerator.",
       "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
+      "Add the crab meat and panko, and gently mix without shredding the crab meat.",
       "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 15-17/ 4-oz cakes",
-      "Thaw crab cake base and crab meat in the refrigerator overnight.",
-      "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
-      "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 32-34/ 4-oz cakes"
+      "Cover, label, date, and refrigerate.",
+      "Full Batch only: Portioned on the line."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "Half Batch",
+      "label2": "Full Batch",
+      "count": 2
+    },
+    "yield2": "32-34 cakes"
   },
   {
     "id": "dp-nb-41",
@@ -10423,80 +10437,94 @@
     "name": "Crab Cakes Prep SI",
     "location": "Palm",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "15-17 cakes",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Half Batch: medium Cambro, mixing bowl, 2 - SS 4\" 1/2 pans  |  Full Batch: Mixing bowl, 4\" Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
     "ingredients": [
       {
         "name": "Eggs",
         "qty": "3",
+        "qty2": "6",
         "unit": "Each"
       },
       {
         "name": "Lemon juice",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Dijon Mustard",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Mayonnaise",
         "qty": "2",
-        "unit": "Cups"
-      },
-      {
-        "name": "Old Bay",
-        "qty": ".75",
-        "unit": "Tablespoons"
-      },
-      {
-        "name": "Salt",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Pepper",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Panko",
-        "qty": "1",
+        "qty2": "4",
         "unit": "Cups"
       },
       {
         "name": "Garlic Powder",
         "qty": ".5",
+        "qty2": "1",
         "unit": "Teaspoon"
       },
       {
+        "name": "Old Bay",
+        "qty": ".75",
+        "qty2": "1.5",
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "Salt",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Pepper",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Panko",
+        "qty": "1",
+        "qty2": "2",
+        "unit": "Cups"
+      },
+      {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
-      "Thaw crab cake base and crab meat in the refrigerator.",
+      "Thaw crab meat in the refrigerator.",
       "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
+      "Add the crab meat and panko, and gently mix without shredding the crab meat.",
       "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 15-17/ 4-oz cakes",
-      "Thaw crab cake base and crab meat in the refrigerator overnight.",
-      "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
-      "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 32-34/ 4-oz cakes"
+      "Cover, label, date, and refrigerate.",
+      "Full Batch only: Portioned on the line."
     ],
     "notes": "",
     "images": [],
-    "active": false
+    "active": false,
+    "dualBatch": {
+      "label1": "Half Batch",
+      "label2": "Full Batch",
+      "count": 2
+    },
+    "yield2": "32-34 cakes"
   },
   {
     "id": "dp-cds-51",
@@ -15699,79 +15727,93 @@
     "name": "Crab Cakes Prep SI",
     "location": "Salty's Island",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "15-17 cakes",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Half Batch: medium Cambro, mixing bowl, 2 - SS 4\" 1/2 pans  |  Full Batch: Mixing bowl, 4\" Lexan, 2 - SS-4\" 1/2 pans, lemon bag, day dot",
     "ingredients": [
       {
         "name": "Eggs",
         "qty": "3",
+        "qty2": "6",
         "unit": "Each"
       },
       {
         "name": "Lemon juice",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Dijon Mustard",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Mayonnaise",
         "qty": "2",
-        "unit": "Cups"
-      },
-      {
-        "name": "Old Bay",
-        "qty": ".75",
-        "unit": "Tablespoons"
-      },
-      {
-        "name": "Salt",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Pepper",
-        "qty": ".5",
-        "unit": "Teaspoon"
-      },
-      {
-        "name": "Panko",
-        "qty": "1",
+        "qty2": "4",
         "unit": "Cups"
       },
       {
         "name": "Garlic Powder",
         "qty": ".5",
+        "qty2": "1",
         "unit": "Teaspoon"
       },
       {
+        "name": "Old Bay",
+        "qty": ".75",
+        "qty2": "1.5",
+        "unit": "Tablespoons"
+      },
+      {
+        "name": "Salt",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Pepper",
+        "qty": ".5",
+        "qty2": "1",
+        "unit": "Teaspoon"
+      },
+      {
+        "name": "Panko",
+        "qty": "1",
+        "qty2": "2",
+        "unit": "Cups"
+      },
+      {
         "name": "Crab Meat Super Lump",
-        "qty": "3.5",
+        "qty": "7",
+        "qty2": "",
         "unit": "Cans"
+      },
+      {
+        "name": "Super Jumbo Lump Crab",
+        "qty": "",
+        "qty2": "7",
+        "unit": "Lbs."
       }
     ],
     "steps": [
-      "Thaw crab cake base and crab meat in the refrigerator.",
+      "Thaw crab meat in the refrigerator.",
       "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
+      "Add the crab meat and panko, and gently mix without shredding the crab meat.",
       "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 15-17/ 4-oz cakes",
-      "Thaw crab cake base and crab meat in the refrigerator overnight.",
-      "Mix all ingredients except crab and panko in a large mixing bowl.",
-      "Start adding crab meat and panko, and gently mix without shredding the crab meat.",
-      "Weigh 4 oz cakes and place them on a sheet tray.",
-      "For best results, store under refrigeration for at least 2 hours before serving.",
-      "Cover, label, date, and refrigerate",
-      "Yields: 32-34/ 4-oz cakes"
+      "Cover, label, date, and refrigerate.",
+      "Full Batch only: Portioned on the line."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "Half Batch",
+      "label2": "Full Batch",
+      "count": 2
+    },
+    "yield2": "32-34 cakes"
   },
   {
     "id": "dp-si-43",
