@@ -25743,10 +25743,10 @@
   {
     "id": "dm-si-55",
     "masterId": "dm-fried-chicken-m",
-    "name": "Kids Fried Chicken",
+    "name": "Fried Chicken",
     "location": "Salty's Island",
     "category": "Dinner Menu",
-    "submenu": "Kid's Meals",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -25772,9 +25772,15 @@
         "unit": "Chicken"
       },
       {
-        "name": "Capers",
+        "name": "Lemon Cream Sauce",
+        "qty": "3",
+        "unit": "oz"
+      },
+      {
         "qty": "7-10 ea.",
-        "unit": "Garnish"
+        "qty2": "",
+        "unit": "Garnish",
+        "name": "Capers"
       }
     ],
     "steps": [
@@ -25793,10 +25799,10 @@
   {
     "id": "dm-cds-1",
     "masterId": "dm-fried-chicken-m",
-    "name": "Kids Fried Chicken",
+    "name": "Fried Chicken",
     "location": "CDS",
     "category": "Dinner Menu",
-    "submenu": "Kid's Meals",
+    "submenu": "Mainland",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -25822,9 +25828,15 @@
         "unit": "Chicken"
       },
       {
-        "name": "Capers",
+        "name": "Lemon Cream Sauce",
+        "qty": "3",
+        "unit": "oz"
+      },
+      {
         "qty": "7-10 ea.",
-        "unit": "Garnish"
+        "qty2": "",
+        "unit": "Garnish",
+        "name": "Capers"
       }
     ],
     "steps": [
