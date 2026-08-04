@@ -433,7 +433,8 @@ let RECIPES = [];
 let SUBMENUS = {};
 let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), searchQuery = '';
 let viewMode = 'active'; // 'active' | 'inactive' — which shelf of recipes is being browsed
-let loadedSnapshot = null; // raw JSON text of recipes.json as of the last load/save — used to detect if someone else saved in the meantime
+let loadedSnapshot = null; // canonical (JSON.stringify'd) snapshot of recipes.json as of the last load/save — used to detect if someone else saved in the meantime
+function canon(data){ return JSON.stringify(data); } // normalizes away formatting differences between servers (CDN vs API vs our own save) so only real data changes count as a conflict
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
 let currentModalId = null;
@@ -548,7 +549,7 @@ async function loadRecipes(url, useCache=true){
     const data = JSON.parse(rawText);
     if(!Array.isArray(data)) throw new Error('File does not contain a recipe list');
     RECIPES = data;
-    loadedSnapshot = rawText;
+    loadedSnapshot = canon(data);
     buildSubmenus();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
@@ -585,13 +586,14 @@ async function checkForStaleData(){
     let authoritativeData;
     try { authoritativeData = JSON.parse(authoritativeText); } catch(e) { return; }
     if (!Array.isArray(authoritativeData)) return;
-    if (authoritativeText === loadedSnapshot) return; // genuinely up to date — nothing to do
+    const authoritativeSnapshot = canon(authoritativeData);
+    if (authoritativeSnapshot === loadedSnapshot) return; // genuinely up to date — nothing to do
 
     // Mismatch: the CDN copy we displayed is behind the real repository. Swap to
     // the authoritative version automatically and tell the person what happened.
     const summary = summarizeRecipeDiff(RECIPES, authoritativeData);
     RECIPES = authoritativeData;
-    loadedSnapshot = authoritativeText;
+    loadedSnapshot = authoritativeSnapshot;
     buildSubmenus();
     render();
     toast(
@@ -685,10 +687,13 @@ async function pushToGithub(){
     const checkRes = await fetch(normaliseUrl(CFG.rawUrl) + (CFG.rawUrl.includes('?')?'&':'?') + '_ts=' + Date.now(), { cache:'no-cache' });
     if (checkRes.ok) {
       const liveText = await checkRes.text();
-      if (loadedSnapshot !== null && liveText !== loadedSnapshot) {
-        let liveData = null;
-        try { liveData = JSON.parse(liveText); } catch(e) {}
-        const summary = liveData ? summarizeRecipeDiff(JSON.parse(loadedSnapshot), liveData) : null;
+      let liveData = null;
+      try { liveData = JSON.parse(liveText); } catch(e) {}
+      const liveSnapshot = liveData ? canon(liveData) : null;
+      if (loadedSnapshot !== null && liveSnapshot !== null && liveSnapshot !== loadedSnapshot) {
+        let loadedData = null;
+        try { loadedData = JSON.parse(loadedSnapshot); } catch(e) {}
+        const summary = loadedData ? summarizeRecipeDiff(loadedData, liveData) : null;
         const detail = summary
           ? `\n\n${summary}`
           : '\n\n(Could not summarize exactly what changed.)';
@@ -727,7 +732,7 @@ async function pushToGithub(){
     if (res.status === 401) throw new Error('Password rejected — please unlock again.');
     if (!res.ok) throw new Error(`Save failed (${res.status})`);
     RECIPES.forEach(r=>{ delete r._modified; delete r._new; });
-    loadedSnapshot = JSON.stringify(clean, null, 2);
+    loadedSnapshot = canon(clean);
     pending = false;
     setUnsaved(false);
     render();
