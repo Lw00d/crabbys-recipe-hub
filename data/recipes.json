@@ -13911,57 +13911,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-97",
-    "masterId": "dp-cds-97-m",
-    "name": "Salad Mix Old",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-Cut)",
-        "qty": "2",
-        "unit": "2Lb. Bag"
-      },
-      {
-        "name": "Spring Mix",
-        "qty": "1",
-        "unit": "1.6Lb. Bag"
-      }
-    ],
-    "steps": [
-      "Before opening the bag, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay",
-      "The salad person needs to remove any wilted or discolored pieces before mixing with Spring Mix",
-      "NEW cutting procedure for cutting whole heads",
-      "Cut & Remove any bruised or wilted parts of romaine & leaf lettuce",
-      "With a knife, cut Romaine & Leaf Lettuce.",
-      "Starting from the core, leaving the core intact,",
-      "Cut completely through from the base through the top.",
-      "Now make a 1/4 turn, and cut through from the base through the top.",
-      "Now cut across the head into 1\"-1.5\" sections.",
-      "This will cut the lettuce into bite-sized pieces for the guests.",
-      "Place the cut lettuce into an ice bath to remove any dirt for 2 minutes",
-      "Remove any Head cores as well",
-      "Add the salad mix to the spinner",
-      "Spin & drain 2 or 3 times to remove as much water as possible.",
-      "And the mixture is as dry as possible",
-      "Weigh out and place in Lemon bags",
-      "Spinach check, and remove any wilted or bruised leaves",
-      "In a separate portion bag, add a 5-ounce portion of Spinach to each bag",
-      "Tie the Spinach bag shut.",
-      "Now place the spinach bag in with the salad mix bag and …",
-      "Tie shut, date, and place in the cooler above any raw foods",
-      "Cut the Product and combine in a large Cambro and mix thoroughly.",
-      "Once combined, label and date."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-98",
     "masterId": "dp-shrimp-ceviche-prep-new-m",
     "name": "Shrimp Ceviche Prep New",
