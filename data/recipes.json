@@ -12170,52 +12170,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-63",
-    "masterId": "dp-rice-yellow-rice-cooker-m",
-    "name": "Rice Yellow (rice cooker)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3-day shelf life",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Olive Oil Pure (for salads)",
-        "qty": "6",
-        "unit": "oz"
-      },
-      {
-        "name": "Water (Hot)",
-        "qty": "4",
-        "unit": "Quarts"
-      },
-      {
-        "name": "Rice Yellow",
-        "qty": "3",
-        "unit": "2 lb. Bags (6 lbs.)"
-      }
-    ],
-    "steps": [
-      "Break up the seasoning clumps before opening the bags",
-      "Rice Cooker Preparation:",
-      "Add the olive oil into the cooker",
-      "Add rice and stir by hand to break up the seasoning and coat the rice.",
-      "Once the clumps are broken up and rice is coated with oil,",
-      "Add the water and stir",
-      "Close the lid and cook for roughly 35 - 45 minutes. It will beep when done.",
-      "When done, remove the insert and pour rice onto 3 sheet pans",
-      "Place in the cooler to cool down before portioning up.",
-      "Label, date, and refrigerate. Place in the cooler.",
-      "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 2 full sheet pans",
-      "Same steps as above",
-      "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 4 full sheet pans"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-59",
     "masterId": "dp-rice-yellow-rice-cooker-m",
     "name": "Rice Yellow (rice cooker)",
