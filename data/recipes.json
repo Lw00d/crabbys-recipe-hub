@@ -10137,36 +10137,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-48",
-    "masterId": "dp-mahi-pieces-m",
-    "name": "Mahi Pieces",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi Pieces",
-        "qty": "5",
-        "unit": "lb."
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Once thawed, place the correct amount of Lbs. into the Lemon bag according to the current volume the stores business level.",
-      "Label, date, refrigerate, and rotate",
-      "*Pieces will vary in size to some extent.",
-      "*If the piece is between 1 and 3oz, do not cut;",
-      "**If the piece is over 3oz, cut long ways down the middle of the fish*"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-43",
     "masterId": "dp-mahi-pieces-m",
     "name": "Mahi Pieces",
