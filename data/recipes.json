@@ -34919,37 +34919,44 @@
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves",
+        "qty2": "4-6"
       },
       {
         "name": "Cruzan Rum (Well)",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5"
       },
       {
         "name": "Lime Wedges",
         "qty": "1ea.",
-        "unit": "Muddle"
+        "unit": "Muddle",
+        "qty2": "1ea."
       },
       {
         "name": "Soda Water (Recipes)",
         "qty": "4-5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Simple Syrup",
         "qty": ".25",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Fresh lime juice",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Lime Wedge",
         "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -34972,7 +34979,12 @@
       "20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-6",
@@ -37638,13 +37650,13 @@
         "name": "Coconut Flakes",
         "qty": "",
         "unit": "Rimming/ Garnish",
-        "qty2": ""
+        "qty2": "Rimming/ Garnish"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
         "unit": "Oz Float",
-        "qty2": ".5"
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
@@ -37664,8 +37676,9 @@
     "notes": "",
     "images": [],
     "dualBatch": {
-      "label1": "14 oz",
-      "label2": "20 oz"
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
     }
   },
   {
@@ -38059,22 +38072,26 @@
       {
         "name": "Cruzan Rum Well",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Mix Cream of Coconut",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Juice Lime Fresh",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Agave Nectar",
@@ -38089,12 +38106,14 @@
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -38109,7 +38128,12 @@
       "Glassware:"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-22",
@@ -38532,32 +38556,38 @@
       {
         "name": "Jim Beam",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.0"
       },
       {
         "name": "Orange juice",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Pineapple juice",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco Lopez",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Jim Beam",
         "qty": ".5",
-        "unit": "Float"
+        "unit": "Float",
+        "qty2": ".50"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -38571,7 +38601,12 @@
       "Float .5oz of 2.5oz Jim Beam"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-27",
@@ -38765,32 +38800,38 @@
       {
         "name": "Tito's Vodka",
         "qty": "1.0",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.75"
       },
       {
         "name": "Blue Curacao",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Classic lemonade mix",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Water",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5"
       },
       {
         "name": "Tito's",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -38807,7 +38848,12 @@
       "Top with .5oz float of Tito's"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-29",
@@ -39158,32 +39204,38 @@
       {
         "name": "Tito's",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.0"
       },
       {
         "name": "Classic Lemonade Mix",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Requested Flavor",
         "qty": "1.0",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Water",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5"
       },
       {
         "name": "Tito's",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39200,7 +39252,12 @@
       "Float with .5oz of 2.5oz of Tito's"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-33",
@@ -39285,27 +39342,32 @@
       {
         "name": "Jim Beam Peach",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2.25"
       },
       {
         "name": "Monin Raspberry",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1"
       },
       {
         "name": "Drink Lemonade Classic",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1ea"
       },
       {
         "name": "Water",
         "qty": "3",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "4"
       }
     ],
     "steps": [
@@ -39314,7 +39376,12 @@
       "Glassware: 14oz glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-34",
@@ -39385,42 +39452,50 @@
       {
         "name": "Tequila (well)",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Cruzan Coconut Rum",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": ".75"
       },
       {
         "name": "Pineapple Juice",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Margarita Mix",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Coconut Cream",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Agave Nectar",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet Rim"
       },
       {
         "name": "Toasted Coconut",
         "qty": "",
-        "unit": "Rimming"
+        "unit": "Rimming",
+        "qty2": "Rimming"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39430,7 +39505,12 @@
       "Glassware: 14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-35",
@@ -39520,37 +39600,44 @@
       {
         "name": "Pilar Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Monnin Dragon Fruit",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Juice Orange Gallon",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Juice Pineapple",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Creme De Banana 56",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "0.75"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39563,7 +39650,12 @@
       "20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-36",
@@ -39750,37 +39842,44 @@
       {
         "name": "Tres Gen Reposado",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Triple Sec Alcoholic",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": ".75"
       },
       {
         "name": "Pineapple Juice",
         "qty": "3",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "5"
       },
       {
         "name": "Orange juice",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1.5"
       },
       {
         "name": "Coconut Cream",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39792,7 +39891,12 @@
       "The Cure All 20oz"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-38",
@@ -39878,32 +39982,38 @@
       {
         "name": "Ruzan Silver Rum (Well)",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5"
       },
       {
         "name": "Mix Cream of Coconut",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "leaves"
+        "unit": "leaves",
+        "qty2": "4-6"
       },
       {
         "name": "Lime Wedges",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": "1"
       },
       {
         "name": "Lime Juice Fresh",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Club Soda Water",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Agave Nectar",
@@ -39927,7 +40037,12 @@
       "14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-39",
@@ -40019,37 +40134,44 @@
       {
         "name": "Ripe Tiki Punch",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Orange wedge",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": "1"
       },
       {
         "name": "Natalie's Orange Juice",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Papa's Pilar Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Grenadine",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Planteray Rum",
         "qty": ".5",
-        "unit": "oz Float"
+        "unit": "oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -40062,7 +40184,12 @@
       "Glassware:"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-40",
@@ -40149,32 +40276,38 @@
       {
         "name": "Rum Well Silver",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.50"
       },
       {
         "name": "Soda Water (Recipes)",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Juice Lime Fresh",
         "qty": "0.25",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves",
+        "qty2": "4-6"
       },
       {
         "name": "Strawberry Puree",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -40186,7 +40319,12 @@
       "14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-41",
@@ -40266,42 +40404,50 @@
       {
         "name": "Strawberries puree",
         "qty": "1.0",
-        "unit": "Oz."
+        "unit": "Oz.",
+        "qty2": "1.50"
       },
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves",
+        "qty2": "4-6"
       },
       {
         "name": "Soda Starry Lemon Lime",
         "qty": "1.0",
-        "unit": "Oz."
+        "unit": "Oz.",
+        "qty2": "2.0"
       },
       {
         "name": "Lemon Wedges",
         "qty": "1.0",
-        "unit": "Each Muddle"
+        "unit": "Each Muddle",
+        "qty2": "1"
       },
       {
         "name": "Agave Nectar",
         "qty": ".25",
-        "unit": "Oz."
+        "unit": "Oz.",
+        "qty2": "0.50"
       },
       {
         "name": "Tito's",
         "qty": "1.5",
-        "unit": "Oz."
+        "unit": "Oz.",
+        "qty2": "2.25"
       },
       {
         "name": "Soda Lemonade BIB",
         "qty": "3.0",
-        "unit": "Oz."
+        "unit": "Oz.",
+        "qty2": "4.0"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -40315,7 +40461,12 @@
       "20oz Strawberry Lemonade Smash"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-42",
@@ -40535,27 +40686,32 @@
       {
         "name": "Banana Bread Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Kahlua 40",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "0.75"
       },
       {
         "name": "Mix Cream of Coconut",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Juice Pineapple",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -40566,7 +40722,12 @@
       "20oz Banana Bread Colada"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-45",
@@ -40754,37 +40915,44 @@
       {
         "name": "Jim Beam Pineapple",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2.25"
       },
       {
         "name": "Mango Mix",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Pineapple juice",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1.5"
       },
       {
         "name": "Orange Juice",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1.5"
       },
       {
         "name": "Margarita mix",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -40797,7 +40965,12 @@
       "Same as above 20oz glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-47",
@@ -40970,37 +41143,44 @@
       {
         "name": "Tequila (Hornitos)",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Pineapple Juice",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Marg. Mix",
         "qty": "2",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "3"
       },
       {
         "name": "Coconut Cream",
         "qty": "1",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Coconut Flakes",
         "qty": "Rim",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "Rim"
       },
       {
         "name": "Cruzan Coconut Rum",
         "qty": ".5",
-        "unit": "Vol Oz Float"
+        "unit": "Vol Oz Float",
+        "qty2": ".75"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -41017,7 +41197,12 @@
       "20oz glass, Chubby Mermaid cup, or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-49",
@@ -41108,32 +41293,38 @@
       {
         "name": "Jim Beam",
         "qty": "1.5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "2"
       },
       {
         "name": "Cordial Amaretto",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": ".75"
       },
       {
         "name": "Dragon Fruit",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1"
       },
       {
         "name": "Lime Juice",
         "qty": ".5",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "1"
       },
       {
         "name": "Pineapple Juice",
         "qty": "4",
-        "unit": "Vol Oz"
+        "unit": "Vol Oz",
+        "qty2": "6"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -41143,7 +41334,12 @@
       "14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-50",
@@ -41332,27 +41528,38 @@
       {
         "name": "Margarita Batch",
         "qty": "6",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "9"
       },
       {
         "name": "Strawberry Mix",
         "qty": "1",
+        "unit": "oz pour",
+        "qty2": "1"
+      },
+      {
+        "name": "Raspberry Syrup",
+        "qty": "",
+        "qty2": ".50",
         "unit": "oz pour"
       },
       {
         "name": "Agave Nectar",
         "qty": "",
-        "unit": "Wet Rim"
+        "unit": "Wet Rim",
+        "qty2": "Wet Rim"
       },
       {
         "name": "Sugar or Salt",
         "qty": "",
-        "unit": "Rimming"
+        "unit": "Rimming",
+        "qty2": "Rimming"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -41371,7 +41578,12 @@
       "Glassware: 14oz Glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-53",
@@ -41562,42 +41774,50 @@
       {
         "name": "Rum Well (Cruzan Silver)",
         "qty": "0.75",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.25"
       },
       {
         "name": "Cruzan Spiced Run",
         "qty": "0.75",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.25"
       },
       {
         "name": "Juice Orange",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Juice Pineapple",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Grenadine Syrup",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.0"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": "0.5"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -41610,7 +41830,12 @@
       "14oz cup or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-55",
@@ -41767,42 +41992,50 @@
       {
         "name": "Vodka (Well)",
         "qty": "1.5",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "2"
       },
       {
         "name": "Mix Bloody Mary",
         "qty": "6",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "6"
       },
       {
         "name": "Worcestershire Sauce",
         "qty": "1-2",
-        "unit": "Dashes"
+        "unit": "Dashes",
+        "qty2": "2-3"
       },
       {
         "name": "Agave Nectar",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet Rim"
       },
       {
         "name": "Seasoning House",
         "qty": "",
-        "unit": "Rimming"
+        "unit": "Rimming",
+        "qty2": "Rimming"
       },
       {
         "name": "Olives Stuffed 150/160",
         "qty": "3",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": "3"
       },
       {
         "name": "Limes",
         "qty": "1",
-        "unit": "Wedge"
+        "unit": "Wedge",
+        "qty2": "1"
       },
       {
         "name": "Lemon",
         "qty": "1",
-        "unit": "Wedge"
+        "unit": "Wedge",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -41816,7 +42049,12 @@
       "Glassware: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-56",
@@ -42577,37 +42815,44 @@
       {
         "name": "House Merlot Bottle",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Blackberry Brandy 70",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Orange Juice",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Simple Syrup",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Cherries Maraschino",
         "qty": "2",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": "2"
       },
       {
         "name": "Oranges Slice",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": "2"
       },
       {
         "name": "Starry Lemon Lime",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       }
     ],
     "steps": [
@@ -42619,7 +42864,12 @@
       "14oz cup or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-63",
@@ -43033,32 +43283,44 @@
       {
         "name": "Strawberry Puree",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2",
+        "qty3": "2"
       },
       {
         "name": "Peach Schnapps",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5",
+        "qty3": "2"
       },
       {
         "name": "House Chardonnay",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6",
+        "qty3": "10"
       },
       {
         "name": "Juice Pineapple",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1",
+        "qty3": "2"
       },
       {
         "name": "Starry Lemon Lime",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5",
+        "qty3": "2"
       },
       {
         "name": "Oranges Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "2",
+        "qty3": "2"
       }
     ],
     "steps": [
@@ -43077,7 +43339,13 @@
       "Top with Starry lemon lime"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "label3": "32oz",
+      "count": 3
+    }
   },
   {
     "id": "drm-cds-68",
@@ -43171,27 +43439,32 @@
       {
         "name": "Tres Gen Repo Tequila",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Mix Margarita",
         "qty": "5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "7"
       },
       {
         "name": "Agave Nectar",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Grand Marnier 80",
         "qty": "0.5",
-        "unit": "oz Float"
+        "unit": "oz Float",
+        "qty2": "0.75"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -43202,7 +43475,12 @@
       "Top Shelf Margarita 20oz"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-69",
@@ -43455,27 +43733,32 @@
       {
         "name": "Triple Sec (Alcoholic)",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "0.75"
       },
       {
         "name": "Soda Starry Lemon Lime BIB",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Juice Natalie\u2019s OJ 32oz",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Big Storm Clementine Vodka",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Oranges",
         "qty": "1",
-        "unit": "Wedge"
+        "unit": "Wedge",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -43486,7 +43769,12 @@
       "14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-72",
@@ -43592,37 +43880,44 @@
       {
         "name": "Cruzan Silver",
         "qty": "2.",
-        "unit": "oz pour"
+        "unit": "oz pour",
+        "qty2": "2.5"
       },
       {
         "name": "Coco Lopez",
         "qty": "1",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "2"
       },
       {
         "name": "Mint (Fresh)",
         "qty": "3-4",
-        "unit": "Sprigs"
+        "unit": "Sprigs",
+        "qty2": "3-4"
       },
       {
         "name": "Lime Wedge",
         "qty": "2",
-        "unit": "each/ Muddle"
+        "unit": "each/ Muddle",
+        "qty2": "2"
       },
       {
         "name": "Agave",
         "qty": "",
-        "unit": "Wet rim"
+        "unit": "Wet rim",
+        "qty2": "Wet rim"
       },
       {
         "name": "Toasted Coconut",
         "qty": "",
-        "unit": "Rim the glass"
+        "unit": "Rim the glass",
+        "qty2": "Rim the glass"
       },
       {
         "name": "Club Soda (if needed)",
         "qty": "3",
-        "unit": "Oz Splash"
+        "unit": "Oz Splash",
+        "qty2": "4-5"
       }
     ],
     "steps": [
@@ -43637,7 +43932,12 @@
       "Instructions - Same as above"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-74",
@@ -43726,42 +44026,50 @@
       {
         "name": "Amaretto Well",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Rum Well (Cruzan Silver)",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "0.75"
       },
       {
         "name": "Simple Syrup",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Juice Pineapple",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Juice Lime Fresh",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Cherries Maraschino",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Orange slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -43773,7 +44081,12 @@
       "14oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-75",
@@ -44097,42 +44410,58 @@
       {
         "name": "Rum Well Cruzan Silver",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5",
+        "qty3": "3"
       },
       {
         "name": "Planteray Dark",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5",
+        "qty3": "1"
       },
       {
         "name": "Orange Juice",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2",
+        "qty3": "3"
       },
       {
         "name": "Pineapple Juice",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4",
+        "qty3": "7"
       },
       {
         "name": "Coco Lopez(Crm of Coco)",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5",
+        "qty3": "2"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1",
+        "qty3": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1",
+        "qty3": "1"
       },
       {
         "name": "Nutmeg",
         "qty": "Top",
-        "unit": "Sprinkle"
+        "unit": "Sprinkle",
+        "qty2": "Top",
+        "qty3": "Top"
       }
     ],
     "steps": [
@@ -44148,7 +44477,13 @@
       "Served 14 or 20oz"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "label3": "32oz",
+      "count": 3
+    }
   },
   {
     "id": "drm-cds-78",
@@ -44367,27 +44702,32 @@
       {
         "name": "Tito's",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Classic lemonade mix",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Requested Flavoring",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Water",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -44407,7 +44747,12 @@
       "20 oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-80",
@@ -45257,32 +45602,38 @@
       {
         "name": "Vodka (Well)",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3.5"
       },
       {
         "name": "Mix Bloody Mary",
         "qty": "6",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "13"
       },
       {
         "name": "House Seasoning",
         "qty": "",
-        "unit": "Rimming"
+        "unit": "Rimming",
+        "qty2": "Rimming"
       },
       {
         "name": "Olives Stuffed",
         "qty": "3ea.",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "3ea."
       },
       {
         "name": "Limes wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Lemon wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -45295,7 +45646,12 @@
       "Give a quick stir with a bar spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-89",
