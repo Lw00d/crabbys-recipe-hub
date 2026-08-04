@@ -5583,8 +5583,7 @@
     "steps": [
       "Loose Packaging Items with air",
       "You may leave the product in the bag as long as you",
-      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan.",
-      ") Cilantro Cut Point, just above"
+      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
     "images": []
@@ -5608,8 +5607,7 @@
     "steps": [
       "Loose Packaging Items with air",
       "You may leave the product in the bag as long as you",
-      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan.",
-      ") Cilantro Cut Point, just above"
+      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
     "images": []
@@ -5633,8 +5631,7 @@
     "steps": [
       "Loose Packaging Items with air",
       "You may leave the product in the bag as long as you",
-      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan.",
-      ") Cilantro Cut Point, just above"
+      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
     "images": []
@@ -5658,8 +5655,7 @@
     "steps": [
       "Loose Packaging Items with air",
       "You may leave the product in the bag as long as you",
-      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan.",
-      ") Cilantro Cut Point, just above"
+      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
     "images": []
@@ -28140,6 +28136,11 @@
         "unit": "Finished Room temp"
       },
       {
+        "name": "Onion Straws",
+        "qty": "1",
+        "unit": "8oz deli container"
+      },
+      {
         "name": "Steak Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -28183,6 +28184,11 @@
         "name": "Garlic Butter",
         "qty": "Brush on",
         "unit": "Finished Room temp"
+      },
+      {
+        "name": "Onion Straws",
+        "qty": "1",
+        "unit": "8oz deli container"
       },
       {
         "name": "Steak Seasoning",
