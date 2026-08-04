@@ -25019,7 +25019,7 @@
   {
     "id": "dm-si-40",
     "masterId": "dm-fried-shrimp-m",
-    "name": "Kids Fried Shrimp",
+    "name": "Kid Fried Shrimp",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25056,7 +25056,7 @@
   {
     "id": "dm-pl-14",
     "masterId": "dm-fried-shrimp-m",
-    "name": "Kids Fried Shrimp",
+    "name": "Kid Fried Shrimp",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25855,7 +25855,7 @@
   {
     "id": "dm-si-56",
     "masterId": "dm-si-56-m",
-    "name": "Kids Fried Fish",
+    "name": "Kid Fried Fish",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25893,7 +25893,7 @@
   {
     "id": "dm-si-57",
     "masterId": "dm-si-57-m",
-    "name": "Kids Grilled Fish",
+    "name": "Kid Grilled Fish",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25929,7 +25929,7 @@
   {
     "id": "dm-si-58",
     "masterId": "dm-si-58-m",
-    "name": "Kids Grilled Chicken",
+    "name": "Kid Grilled Chicken",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -25993,7 +25993,7 @@
   {
     "id": "dm-si-60",
     "masterId": "dm-si-60-m",
-    "name": "Kids Burger",
+    "name": "Kid Burger",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -26023,7 +26023,7 @@
   {
     "id": "dm-si-61",
     "masterId": "dm-si-61-m",
-    "name": "Kids Cheeseburger",
+    "name": "Kid Cheeseburger",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -52646,7 +52646,7 @@
   {
     "id": "bm-pl-15",
     "masterId": "bm-kid-waffle-m",
-    "name": "Belgian Waffle Kids",
+    "name": "Kid Belgian Waffle",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -52686,7 +52686,7 @@
   {
     "id": "bm-pl-16",
     "masterId": "bm-kid-eggs-m",
-    "name": "Kid Eggs (Two)",
+    "name": "Kid Eggs",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -52701,8 +52701,8 @@
       },
       {
         "name": "Eggs",
-        "qty": "2 ea.",
-        "unit": "Or a 4oz ladle"
+        "qty": "1 ea.",
+        "unit": "Or 4oz ladle"
       },
       {
         "name": "Choice of meat",
@@ -52711,12 +52711,10 @@
       }
     ],
     "steps": [
-      "Cook the 2 eggs as requested",
+      "Cook the egg as requested",
       "Place the meat choice on the grill to heat.",
       "Place the Meat on the plate, next to the eggs",
-      "Expo: fruit on plate",
-      "Plateware: Small Round plate",
-      "."
+      "Expo: Choice of meat"
     ],
     "notes": "",
     "images": []
@@ -53650,7 +53648,7 @@
   {
     "id": "bm-cbg-14",
     "masterId": "bm-cbg-14-m",
-    "name": "Kids Pancakes",
+    "name": "Kid Pancakes",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -53694,7 +53692,7 @@
   {
     "id": "bm-cbg-15",
     "masterId": "bm-kid-waffle-m",
-    "name": "Belgian Waffle Kids",
+    "name": "Kid Belgian Waffle",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -53734,7 +53732,7 @@
   {
     "id": "bm-cbg-16",
     "masterId": "bm-kid-eggs-m",
-    "name": "Kids Eggs",
+    "name": "Kid Eggs",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -53770,7 +53768,7 @@
   {
     "id": "bm-cbg-17",
     "masterId": "bm-cbg-17-m",
-    "name": "Kids French Toast",
+    "name": "Kid French Toast",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -57993,7 +57991,7 @@
   {
     "id": "bm-si-26",
     "masterId": "bm-si-26-m",
-    "name": "Kids Egg",
+    "name": "Kid Egg",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -58023,7 +58021,7 @@
   {
     "id": "bm-si-27",
     "masterId": "bm-si-27-m",
-    "name": "Kids Pancake",
+    "name": "Kid Pancake",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -58049,7 +58047,7 @@
   {
     "id": "bm-si-28",
     "masterId": "bm-si-28-m",
-    "name": "Kids Waffle",
+    "name": "Kid Waffle",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -58892,7 +58890,7 @@
   {
     "id": "bm-nb-38",
     "masterId": "bm-kid-eggs-m",
-    "name": "Eggs",
+    "name": "Kid Eggs",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -58901,28 +58899,26 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Choice of meat",
-        "qty": "1",
-        "unit": "Slice"
-      },
-      {
         "name": "Butter AA",
         "qty": "",
-        "unit": "Brush Pan"
+        "unit": "Brush pan"
       },
       {
         "name": "Eggs",
+        "qty": "1 ea.",
+        "unit": "Or 4oz ladle"
+      },
+      {
+        "name": "Choice of meat",
         "qty": "1",
-        "unit": "4oz ladle or 1 Egg?"
+        "unit": "Piece"
       }
     ],
     "steps": [
-      "Place the meat choice on the grill to heat.",
-      "Lightly butter an 8\" egg pan",
       "Cook the egg as requested",
-      "Place potatoes alongside the eggs",
-      "Place the meat choice on the plate",
-      "Expo: Breakfast Potato, Fruit Cup, or Choice of meat"
+      "Place the meat choice on the grill to heat.",
+      "Place the Meat on the plate, next to the eggs",
+      "Expo: Choice of meat"
     ],
     "notes": "",
     "images": []
@@ -58930,7 +58926,7 @@
   {
     "id": "bm-nb-39",
     "masterId": "bm-kid-waffle-m",
-    "name": "Belgian Waffle Kids",
+    "name": "Kid Belgian Waffle",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Kid's Meals",
@@ -65219,7 +65215,7 @@
   {
     "id": "dm-cbg-44",
     "masterId": "dm-cbg-44-m",
-    "name": "Kids Mac n Cheese (All stores)",
+    "name": "Kid Mac n Cheese (All stores)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -65418,7 +65414,7 @@
   {
     "id": "dm-cbg-50",
     "masterId": "dm-si-58-m",
-    "name": "Kids Grilled Chicken",
+    "name": "Kid Grilled Chicken",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -68215,7 +68211,7 @@
   {
     "id": "dm-cds-70",
     "masterId": "dm-cds-70-m",
-    "name": "Kids Chicken Fried",
+    "name": "Kid Chicken Fried",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -68385,7 +68381,7 @@
   {
     "id": "dm-cds-76",
     "masterId": "dm-cds-76-m",
-    "name": "Kids Mac n Cheese",
+    "name": "Kid Mac n Cheese",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -68496,7 +68492,7 @@
   {
     "id": "dm-cds-79",
     "masterId": "dm-cds-79-m",
-    "name": "Kids Chicken Grilled",
+    "name": "Kid Chicken Grilled",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
