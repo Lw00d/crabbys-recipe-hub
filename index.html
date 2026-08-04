@@ -434,6 +434,7 @@ let SUBMENUS = {};
 let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), searchQuery = '';
 let viewMode = 'active'; // 'active' | 'inactive' — which shelf of recipes is being browsed
 let loadedSnapshot = null; // canonical (JSON.stringify'd) snapshot of recipes.json as of the last load/save — used to detect if someone else saved in the meantime
+let justSavedSnapshot = null; // set right after OUR OWN successful save — we know this is correct, so we wait for the server to actually confirm it rather than trusting any read that disagrees
 function canon(data){ return JSON.stringify(data); } // normalizes away formatting differences between servers (CDN vs API vs our own save) so only real data changes count as a conflict
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
@@ -587,23 +588,22 @@ async function fetchAuthoritativeRecipes(){
   return data;
 }
 async function fetchAuthoritativeRecipesStable(){
-  // Even GitHub's API can briefly lag right after a save (a few seconds,
-  // occasionally longer). A single read immediately after saving can catch it
-  // mid-lag and hand back the pre-save state, which would look like our just-made
-  // edit got silently reverted. Guard against that: if a fresh read doesn't match
-  // what we already believe, don't trust it until two consecutive reads agree —
-  // that means the API has actually settled rather than still catching up.
-  let data = await fetchAuthoritativeRecipes();
-  let snap = canon(data);
-  for (let i = 0; i < 3; i++){
-    if (snap === loadedSnapshot) return data; // matches what's already on screen — nothing to reconcile, done
-    await new Promise(r => setTimeout(r, 2500));
-    const next = await fetchAuthoritativeRecipes();
-    const nextSnap = canon(next);
-    if (nextSnap === snap) return next; // two reads in a row agree — trust it, this is real
-    data = next; snap = nextSnap;
+  // If we just saved something ourselves, we already KNOW what the correct data
+  // is — no need to guess. Keep checking until the server actually confirms that
+  // exact known-correct state, rather than trusting a read just because it's
+  // consistent with a previous read (two reads can agree with each other while
+  // BOTH are still equally behind — agreement alone doesn't prove correctness).
+  if (justSavedSnapshot !== null){
+    const target = justSavedSnapshot;
+    const deadline = Date.now() + 20000; // ~20s ceiling so this can't hang forever
+    while (Date.now() < deadline){
+      const data = await fetchAuthoritativeRecipes();
+      if (canon(data) === target){ justSavedSnapshot = null; return data; }
+      await new Promise(r => setTimeout(r, 2000));
+    }
+    justSavedSnapshot = null; // gave up waiting — fall through to a plain read below
   }
-  return data; // gave it several tries — go with the most recent read either way
+  return await fetchAuthoritativeRecipes();
 }
 async function checkForStaleData(){
   try{
@@ -776,6 +776,7 @@ async function pushToGithub(){
     if (!res.ok) throw new Error(`Save failed (${res.status})`);
     RECIPES.forEach(r=>{ delete r._modified; delete r._new; });
     loadedSnapshot = canon(clean);
+    justSavedSnapshot = loadedSnapshot;
     pending = false;
     setUnsaved(false);
     render();
