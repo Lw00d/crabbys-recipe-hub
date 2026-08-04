@@ -9677,31 +9677,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-41",
-    "masterId": "dp-mussels-m",
-    "name": "Mussels",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mussels Black Frozen",
-        "qty": "10",
-        "unit": "1 Lb. bag"
-      }
-    ],
-    "steps": [
-      "Place the contents of 1 bag into a red mesh bag",
-      "Tie Bags and attach prep labels.",
-      "Label, date, the Outside of the Box",
-      "Place back into the freezer until needed"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-36",
     "masterId": "dp-mussels-m",
     "name": "Mussels",
