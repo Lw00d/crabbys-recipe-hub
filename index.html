@@ -435,6 +435,7 @@ let activeLocs = new Set(), activeCats = new Set(), activeSubs = new Set(), sear
 let viewMode = 'active'; // 'active' | 'inactive' — which shelf of recipes is being browsed
 let loadedSnapshot = null; // canonical (JSON.stringify'd) snapshot of recipes.json as of the last load/save — used to detect if someone else saved in the meantime
 let justSavedSnapshot = null; // set right after OUR OWN successful save — we know this is correct, so we wait for the server to actually confirm it rather than trusting any read that disagrees
+let stillConfirmingSave = false; // true when a refresh had to give up early without confirming justSavedSnapshot — lets the UI say so instead of looking broken
 function canon(data){ return JSON.stringify(data); } // normalizes away formatting differences between servers (CDN vs API vs our own save) so only real data changes count as a conflict
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
@@ -593,15 +594,23 @@ async function fetchAuthoritativeRecipesStable(){
   // exact known-correct state, rather than trusting a read just because it's
   // consistent with a previous read (two reads can agree with each other while
   // BOTH are still equally behind — agreement alone doesn't prove correctness).
+  //
+  // Important: if the API is still lagging after one ~20s attempt, we do NOT
+  // give up on waiting entirely — we only bound how long THIS SINGLE call will
+  // block for. justSavedSnapshot stays armed so the NEXT refresh (whether
+  // automatic or the person clicking again) keeps demanding real confirmation
+  // instead of silently falling back to trusting whatever a single plain read
+  // says, which is what let a stale result slip through after repeated clicks.
   if (justSavedSnapshot !== null){
     const target = justSavedSnapshot;
-    const deadline = Date.now() + 20000; // ~20s ceiling so this can't hang forever
+    const deadline = Date.now() + 20000; // ~20s ceiling per call so a single click can't hang forever
     while (Date.now() < deadline){
       const data = await fetchAuthoritativeRecipes();
       if (canon(data) === target){ justSavedSnapshot = null; return data; }
       await new Promise(r => setTimeout(r, 2000));
     }
-    justSavedSnapshot = null; // gave up waiting — fall through to a plain read below
+    stillConfirmingSave = true; // this call is giving up early, but the target stays armed for next time
+    return await fetchAuthoritativeRecipes(); // show something rather than block indefinitely, but don't clear the target
   }
   return await fetchAuthoritativeRecipes();
 }
@@ -683,13 +692,19 @@ async function refreshData(){
   // very first click instead of a stale CDN copy that needs a second try.
   if (url === CFG.rawUrl) {
     setStatus('loading','Fetching latest recipes…');
+    stillConfirmingSave = false;
     try {
       const data = await fetchAuthoritativeRecipesStable();
       RECIPES = data;
       loadedSnapshot = canon(data);
       buildSubmenus();
       try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
-      setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
+      if (stillConfirmingSave) {
+        setStatus('loading','Still confirming your save — try refresh again in a few seconds');
+        toast('GitHub is still catching up on your last save — this may not reflect it yet. Try refresh again shortly.','err');
+      } else {
+        setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
+      }
       render();
       return;
     } catch(e) {
