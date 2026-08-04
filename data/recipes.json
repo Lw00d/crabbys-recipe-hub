@@ -34115,32 +34115,38 @@
       {
         "name": "Kahlua",
         "qty": "0.5",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "0.5"
       },
       {
         "name": "Light Cruzan Rum",
-        "qty": "1.5",
-        "unit": "oz"
+        "qty": "1",
+        "unit": "oz",
+        "qty2": "1.75"
       },
       {
         "name": "Banana Mix",
         "qty": "5.0",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "7"
       },
       {
         "name": "Chocolate Syrup",
         "qty": "0.5",
-        "unit": "Drizzle the Glass"
+        "unit": "Drizzle the Glass",
+        "qty2": "0.5"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Float"
+        "unit": "Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -34154,7 +34160,12 @@
       "Glassware: 14oz Logo cup or glass"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-3",
@@ -34170,32 +34181,38 @@
       {
         "name": "Kahlua",
         "qty": "0.5",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "0.5"
       },
       {
         "name": "Light Cruzan Rum",
-        "qty": "1.5",
-        "unit": "oz"
+        "qty": "1",
+        "unit": "oz",
+        "qty2": "1.75"
       },
       {
         "name": "Banana Mix",
         "qty": "5.0",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "7"
       },
       {
         "name": "Chocolate Syrup",
         "qty": "0.5",
-        "unit": "Drizzle the Glass"
+        "unit": "Drizzle the Glass",
+        "qty2": "0.5"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Float"
+        "unit": "Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -34209,7 +34226,12 @@
       "Glassware: 14oz Logo cup or glass"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-5",
@@ -34225,32 +34247,38 @@
       {
         "name": "Kahlua",
         "qty": "0.5",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "0.5"
       },
       {
         "name": "Light Cruzan Rum",
-        "qty": "1.5",
-        "unit": "oz"
+        "qty": "1",
+        "unit": "oz",
+        "qty2": "1.75"
       },
       {
         "name": "Banana Mix",
         "qty": "5.0",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "7"
       },
       {
         "name": "Chocolate Syrup",
         "qty": "0.5",
-        "unit": "Drizzle the Glass"
+        "unit": "Drizzle the Glass",
+        "qty2": "0.5"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Float"
+        "unit": "Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -34264,7 +34292,12 @@
       "Glassware: 14oz Logo cup or glass"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-8",
@@ -34280,32 +34313,38 @@
       {
         "name": "Kahlua",
         "qty": "0.5",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "0.5"
       },
       {
         "name": "Light Cruzan Rum",
-        "qty": "1.5",
-        "unit": "oz"
+        "qty": "1",
+        "unit": "oz",
+        "qty2": "1.75"
       },
       {
         "name": "Banana Mix",
         "qty": "5.0",
-        "unit": "oz"
+        "unit": "oz",
+        "qty2": "7"
       },
       {
         "name": "Chocolate Syrup",
         "qty": "0.5",
-        "unit": "Drizzle the Glass"
+        "unit": "Drizzle the Glass",
+        "qty2": "0.5"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Float"
+        "unit": "Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -34319,7 +34358,12 @@
       "Glassware: 14oz Logo cup or glass"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-pl-18",
