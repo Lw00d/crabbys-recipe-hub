@@ -586,9 +586,28 @@ async function fetchAuthoritativeRecipes(){
   if (!Array.isArray(data)) throw new Error('Unexpected response shape');
   return data;
 }
+async function fetchAuthoritativeRecipesStable(){
+  // Even GitHub's API can briefly lag right after a save (a few seconds,
+  // occasionally longer). A single read immediately after saving can catch it
+  // mid-lag and hand back the pre-save state, which would look like our just-made
+  // edit got silently reverted. Guard against that: if a fresh read doesn't match
+  // what we already believe, don't trust it until two consecutive reads agree —
+  // that means the API has actually settled rather than still catching up.
+  let data = await fetchAuthoritativeRecipes();
+  let snap = canon(data);
+  for (let i = 0; i < 3; i++){
+    if (snap === loadedSnapshot) return data; // matches what's already on screen — nothing to reconcile, done
+    await new Promise(r => setTimeout(r, 2500));
+    const next = await fetchAuthoritativeRecipes();
+    const nextSnap = canon(next);
+    if (nextSnap === snap) return next; // two reads in a row agree — trust it, this is real
+    data = next; snap = nextSnap;
+  }
+  return data; // gave it several tries — go with the most recent read either way
+}
 async function checkForStaleData(){
   try{
-    const authoritativeData = await fetchAuthoritativeRecipes();
+    const authoritativeData = await fetchAuthoritativeRecipesStable();
     const authoritativeSnapshot = canon(authoritativeData);
     if (authoritativeSnapshot === loadedSnapshot) return; // genuinely up to date — nothing to do
 
@@ -665,7 +684,7 @@ async function refreshData(){
   if (url === CFG.rawUrl) {
     setStatus('loading','Fetching latest recipes…');
     try {
-      const data = await fetchAuthoritativeRecipes();
+      const data = await fetchAuthoritativeRecipesStable();
       RECIPES = data;
       loadedSnapshot = canon(data);
       buildSubmenus();
@@ -708,7 +727,7 @@ async function pushToGithub(){
   // this browser tab loaded its data. If it has, our full-array save would
   // silently overwrite whatever changed.
   try {
-    const liveData = await fetchAuthoritativeRecipes();
+    const liveData = await fetchAuthoritativeRecipesStable();
     const liveSnapshot = canon(liveData);
     if (loadedSnapshot !== null && liveSnapshot !== loadedSnapshot) {
       let loadedData = null;
