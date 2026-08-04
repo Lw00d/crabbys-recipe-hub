@@ -42829,40 +42829,51 @@
       {
         "name": "Tequila (Well)",
         "qty": "1.5",
+        "qty2": "3",
         "unit": "oz pour"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
+        "qty2": "1",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedges",
         "qty": "1ea",
+        "qty2": "2 ea.",
         "unit": "muddle"
       },
       {
         "name": "Margarita Mix",
         "qty": "4",
+        "qty2": "10",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       }
     ],
     "steps": [
-      "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "14oz: Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "Add margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
-      "Garnish:",
-      "Salt or Sugar Rim",
-      "Glassware:",
-      "14oz Glass or 14oz Logo cup"
+      "Pour over ice",
+      "Garnish: Lime wedge, Salt or Sugar Rim",
+      "Glassware: 14oz Glass or 14oz Logo cup",
+      "32oz: Same method, scaled to the 32oz quantities above"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-70",
@@ -42878,40 +42889,51 @@
       {
         "name": "Tequila (Well)",
         "qty": "1.5",
+        "qty2": "3",
         "unit": "oz pour"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
+        "qty2": "1",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedges",
         "qty": "1ea",
+        "qty2": "2 ea.",
         "unit": "muddle"
       },
       {
         "name": "Margarita Mix",
         "qty": "4",
+        "qty2": "10",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       }
     ],
     "steps": [
-      "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "14oz: Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "Add margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
-      "Garnish:",
-      "Salt or Sugar Rim",
-      "Glassware:",
-      "14oz Glass or 14oz Logo cup"
+      "Pour over ice",
+      "Garnish: Lime wedge, Salt or Sugar Rim",
+      "Glassware: 14oz Glass or 14oz Logo cup",
+      "32oz: Same method, scaled to the 32oz quantities above"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-25",
@@ -42927,40 +42949,51 @@
       {
         "name": "Tequila (Well)",
         "qty": "1.5",
+        "qty2": "3",
         "unit": "oz pour"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
+        "qty2": "1",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedges",
         "qty": "1ea",
+        "qty2": "2 ea.",
         "unit": "muddle"
       },
       {
         "name": "Margarita Mix",
         "qty": "4",
+        "qty2": "10",
         "unit": "oz pour"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       }
     ],
     "steps": [
-      "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "14oz: Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
+      "Add margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
-      "Garnish:",
-      "Salt or Sugar Rim",
-      "Glassware:",
-      "14oz Glass or 14oz Logo cup"
+      "Pour over ice",
+      "Garnish: Lime wedge, Salt or Sugar Rim",
+      "Glassware: 14oz Glass or 14oz Logo cup",
+      "32oz: Same method, scaled to the 32oz quantities above"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-71",
@@ -46428,43 +46461,57 @@
       {
         "name": "Tito's Vodka",
         "qty": "1.5",
+        "qty2": "2.5",
         "unit": "oz. pour"
       },
       {
         "name": "Mint (Fresh )",
         "qty": "3- 4",
+        "qty2": "3- 4",
         "unit": "Sprigs / Garnish"
       },
       {
         "name": "Lime wedge",
         "qty": "2ea.",
+        "qty2": "3ea.",
         "unit": "Muddle / Garnish"
       },
       {
         "name": "Simple syrup",
         "qty": ".5",
+        "qty2": "1",
         "unit": "oz. pour"
       },
       {
         "name": "Club Soda",
         "qty": "3",
+        "qty2": "3",
         "unit": "oz pour"
       },
       {
         "name": "Flavor Requested",
         "qty": ".5",
+        "qty2": ".5",
         "unit": "oz. pour"
       }
     ],
     "steps": [
       "NOTE: Flavors to choose from: Peach, Mango, Strawberry, Black Raspberry, Dragon Fruit, or Watermelon",
-      "In a 14-oz Glass",
+      "14oz: In a 14-oz Glass",
       "Pour Tito's, add simple syrup, lime wedge & mint leaves",
+      "Muddle all ingredients",
       "Pour into 14-oz glass and top with club soda",
-      "Garnish: muddled lime & mint"
+      "Garnish: muddled lime & mint",
+      "Glassware: 14oz Glass",
+      "20oz: Same method, scaled to the 20oz quantities above"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-32",
@@ -46480,48 +46527,61 @@
       {
         "name": "Orange Slice",
         "qty": "1",
+        "qty2": "2",
         "unit": "Each / Garnish"
       },
       {
         "name": "Strawberry Slices",
         "qty": "3-4",
+        "qty2": "5-6",
         "unit": "slices / Garnish"
       },
       {
         "name": "Peach Schnapps",
         "qty": "1",
+        "qty2": "2",
         "unit": "oz pour"
       },
       {
         "name": "House Chardonnay",
         "qty": "4",
+        "qty2": "10",
         "unit": "oz pour"
       },
       {
         "name": "Pineapple Juice",
         "qty": "1",
+        "qty2": "2",
         "unit": "oz pour"
       },
       {
         "name": "Starry Lemon Lime",
         "qty": "1",
+        "qty2": "2",
         "unit": "oz pour"
       }
     ],
     "steps": [
-      "Fill a 14-oz Glass with ice",
+      "14oz: Fill a 14-oz Glass with ice",
       "In a Shaker tin, add the first 5 ingredients (No Starry)",
       "Shake and pour into the glass",
       "Top off with Starry Lemon Lime",
       "Garnish: Fruit in the glass",
-      "In a bucket filled with ice, add the first 5 ingredients (No Starry)",
+      "Glassware: 14oz Glass",
+      "32oz Bucket: In a bucket filled with ice, add the first 5 ingredients (No Starry)",
       "Roll back and forth into the Shaker Tin to mix",
       "Pour back into the bucket",
       "Top off with Starry Lemon Lime",
-      "Garnish: 2 Orange Slices"
+      "Garnish: 2 Orange Slices",
+      "Glassware: Bucket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz Bucket",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-33",
@@ -46537,40 +46597,51 @@
       {
         "name": "Orange Slice",
         "qty": "1",
+        "qty2": "2",
         "unit": "Each/ Garnish"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Each/ Garnish"
       },
       {
         "name": "Cherry",
         "qty": "1",
+        "qty2": "1",
         "unit": "Each/ Garnish"
       },
       {
         "name": "Beso del Sol Red",
         "qty": "4",
+        "qty2": "7 to 8",
         "unit": "oz pour"
       },
       {
         "name": "Starry Lemon Lime",
         "qty": "1",
+        "qty2": "2",
         "unit": "oz pour"
       }
     ],
     "steps": [
-      "Fill a 14-oz Glass with ice",
+      "14oz: Fill a 14-oz Glass with ice",
       "In a Shaker tin, add the first 4 ingredients (No Starry)",
       "Shake and pour into the glass",
       "Top off with Starry Lemon Lime",
       "Garnish: Fruit in the glass",
-      "Instructions: Same as above",
+      "Glassware: 14oz Glass",
+      "20oz: Same method as above, scaled to the 20oz quantities",
       "Garnish: Fruit in the glass"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-34",
@@ -47003,57 +47074,72 @@
       {
         "name": "Cruzan Silver",
         "qty": "1.5",
+        "qty2": "3",
         "unit": "Vol oz"
       },
       {
         "name": "Orange Juice",
         "qty": "1",
+        "qty2": "3",
         "unit": "Vol oz"
       },
       {
         "name": "Pineapple Juice",
         "qty": "3",
+        "qty2": "7",
         "unit": "Vol oz"
       },
       {
         "name": "Coco Lopez",
         "qty": "1",
+        "qty2": "2",
         "unit": "Vol oz"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": ".5",
+        "qty2": "1",
         "unit": "oz Float"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       },
       {
         "name": "Cherry",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       },
       {
         "name": "Nutmeg",
         "qty": "Light",
+        "qty2": "Light",
         "unit": "Sprinkle"
       }
     ],
     "steps": [
-      "Add a scoop of ice to the shaker tin.",
+      "14oz: Add a scoop of ice to the shaker tin.",
       "Pour all ingredients into a shaker and shake vigorously",
       "Pour into the correct glassware",
       "Top with the floater",
-      "Garnish: Sprinkle of Nutmeg",
-      "Pour all ingredients into a shaker and shake vigorously",
+      "Garnish: Sprinkle of Nutmeg, Orange and Cherry",
+      "Glassware: 14oz glass",
+      "32oz Bucket: Pour all ingredients into a shaker and shake vigorously",
       "Fill the bucket with ice",
       "Pour into the bucket",
-      "Top with the float"
+      "Top with the float",
+      "Glassware: 32oz bucket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz Bucket",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-43",
@@ -47237,48 +47323,56 @@
       {
         "name": "Mint",
         "qty": "4-6",
+        "qty2": "4-6",
         "unit": "Leaves / Garnish"
       },
       {
         "name": "Rum (Well)",
         "qty": "1.5",
+        "qty2": "2.5",
         "unit": "Vol oz"
       },
       {
         "name": "Lime Wedges",
         "qty": "2 ea.",
+        "qty2": "3 ea.",
         "unit": "Muddle /Garnish"
       },
       {
         "name": "Soda Water (Recipes)",
         "qty": "4",
+        "qty2": "6",
         "unit": "Vol oz"
       },
       {
         "name": "Simple Syrup",
         "qty": ".25",
+        "qty2": ".5",
         "unit": "Vol oz"
       }
     ],
     "steps": [
-      "Put all ingredients except soda water in a shaker",
+      "14oz: Put all ingredients except soda water in a shaker",
       "Muddle without shredding the mint",
-      "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Fill shaker with ice and shake",
+      "Pour from shaker to cup while adding the soda water",
       "Garnish: muddled Lime & mint",
-      "Glassware:",
-      "14 oz glass or logo cup",
-      "Put mint, lime wedge, and lime juice in a shaker",
+      "Glassware: 14oz glass or logo cup",
+      "20oz: Put mint, lime wedge, and lime juice in a shaker",
       "Muddle the mint and lime wedge without shredding the mint",
       "Fill the shaker with a cup of ice",
       "Pour rum over the ice and shake",
-      "Pour from the shaker to 20-oz cup while adding the soda water",
+      "Pour from the shaker to cup while adding the soda water",
       "Garnish: muddled lime & mint",
-      "Glassware:",
-      "20oz glass or logo cup"
+      "Glassware: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-48",
