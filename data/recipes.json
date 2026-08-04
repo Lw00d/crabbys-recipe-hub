@@ -68401,7 +68401,7 @@
   },
   {
     "id": "dm-cds-77",
-    "masterId": "dm-nb-92-m",
+    "masterId": "m-mseu9d6frc9rp0",
     "name": "Kid Fish Grilled",
     "location": "CDS",
     "category": "Dinner Menu",
@@ -68411,8 +68411,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi Pieces",
-        "qty": "3",
+        "name": "Mahi 6oz",
+        "qty": "1",
         "unit": "Each"
       },
       {
@@ -68427,6 +68427,7 @@
       }
     ],
     "steps": [
+      "Cut Mahi into three",
       "Baste Mahi with garlic spread and then lightly dust with Old Bay seasoning.",
       "Place on a flat top, after 4 minutes, flip and cook an additional 3 minutes.",
       "Cook until the Mahi is cooked thoroughly.",
@@ -68440,7 +68441,7 @@
   },
   {
     "id": "dm-cds-78",
-    "masterId": "dm-nb-91-m",
+    "masterId": "m-mseu7qk3kewjog",
     "name": "Kid Fish Fried",
     "location": "CDS",
     "category": "Dinner Menu",
@@ -68450,9 +68451,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi Pieces",
-        "qty": "3",
-        "unit": "Pieces"
+        "name": "6oz Mahi",
+        "qty": "1",
+        "unit": "each"
       },
       {
         "name": "Milk Wash",
@@ -68466,7 +68467,8 @@
       }
     ],
     "steps": [
-      "Take 3 Mahi pieces, place them into milk wash, and drain the excess.",
+      "Take 6 oz mahi and cut into three",
+      "place into milk wash, and drain the excess.",
       "Transfer Mahi fingers to Italian breading and shake off the excess, making sure to cover the fish thoroughly",
       "Transfer Mahi fingers to a 350°F fryer for about 5 minutes or until golden brown",
       "Transfer Mahi fingers from the fryer to save a day to drain excess oil",
