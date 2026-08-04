@@ -658,6 +658,26 @@ async function refreshData(){
   const btn = document.getElementById('refreshBtn');
   btn.style.transform='rotate(360deg)'; btn.style.transition='transform 0.5s';
   setTimeout(()=>{ btn.style.transform=''; btn.style.transition=''; },600);
+
+  // Default data source: go straight to the authoritative API rather than the
+  // CDN, so a refresh right after saving shows the true current state on the
+  // very first click instead of a stale CDN copy that needs a second try.
+  if (url === CFG.rawUrl) {
+    setStatus('loading','Fetching latest recipes…');
+    try {
+      const data = await fetchAuthoritativeRecipes();
+      RECIPES = data;
+      loadedSnapshot = canon(data);
+      buildSubmenus();
+      try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
+      setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
+      render();
+      return;
+    } catch(e) {
+      // API unreachable/rate-limited — fall back to the normal CDN path below
+      // rather than leaving the person with no data at all.
+    }
+  }
   await loadRecipes(url, false);
 }
 
