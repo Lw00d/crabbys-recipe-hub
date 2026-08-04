@@ -36317,42 +36317,53 @@
       {
         "name": "Vodka (well)",
         "qty": "1.5",
+        "qty2": "3.5",
         "unit": "Vol oz"
       },
       {
         "name": "Mix Bloody Mary",
         "qty": "5",
+        "qty2": "13",
         "unit": "Vol oz"
       },
       {
         "name": "Olives",
         "qty": "3",
+        "qty2": "3",
         "unit": "Garnish"
       },
       {
         "name": "Lemon Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
+        "qty2": "1",
         "unit": "Garnish"
       }
     ],
     "steps": [
-      "Fill the glass with ice",
+      "14oz: Fill the glass with ice",
       "Pour all ingredients in",
       "Give a quick stir or a rolling back and forth with tin.",
       "Garnish: 3 Olives, lemon, Lime",
       "Glassware: 14oz glass or Logo cup",
-      "Fill the bucket with ice",
+      "32oz Bucket: Fill the bucket with ice",
       "Pour all ingredients in",
       "Give a quick stir with a bar spoon, or roll back and forth with tin",
-      "Garnish: 3 Olives, lemon, Lime"
+      "Garnish: 3 Olives, lemon, Lime",
+      "Glassware: 32oz bucket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz Bucket",
+      "count": 2
+    }
   },
   {
     "id": "drm-pl-44",
