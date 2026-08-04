@@ -33516,49 +33516,57 @@
       {
         "name": "Hornitos",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.75"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Mix Mango",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Mix Strawberry",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Hornitos",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Fill the cup with ice and add to the blender with 1oz Tequila, Triple sec, and mango mix.",
-      "Pour the strawberry mix into the empty 14-oz cup",
-      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Float with .5 of tequila of the 1.5oz",
-      "Glassware: 14 oz glass or logo cup",
-      "Float with .5oz of 2.25oz tequila",
-      "Glassware: 20 oz glass or logo cup",
-      "Batch Slushie Machine Recipe",
+      "Fill the cup with ice and add to the blender with tequila, Triple sec, and mango mix.",
       "Pour the strawberry mix into the empty glass",
-      "Pour from the frozen slushie mixing machine into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Top with 0.50oz Floater of tequila"
+      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
+      "14oz: Float with .5oz tequila",
+      "20oz: Float with .5oz tequila",
+      "Garnish: Lime",
+      "14oz: 14oz glass or logo cup",
+      "20oz: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-1",
@@ -33574,49 +33582,57 @@
       {
         "name": "Hornitos",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.75"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Mix Mango",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Mix Strawberry",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Hornitos",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Fill the cup with ice and add to the blender with 1oz Tequila, Triple sec, and mango mix.",
-      "Pour the strawberry mix into the empty 14-oz cup",
-      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Float with .5 of tequila of the 1.5oz",
-      "Glassware: 14 oz glass or logo cup",
-      "Float with .5oz of 2.25oz tequila",
-      "Glassware: 20 oz glass or logo cup",
-      "Batch Slushie Machine Recipe",
+      "Fill the cup with ice and add to the blender with tequila, Triple sec, and mango mix.",
       "Pour the strawberry mix into the empty glass",
-      "Pour from the frozen slushie mixing machine into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Top with 0.50oz Floater of tequila"
+      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
+      "14oz: Float with .5oz tequila",
+      "20oz: Float with .5oz tequila",
+      "Garnish: Lime",
+      "14oz: 14oz glass or logo cup",
+      "20oz: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-3",
@@ -33632,49 +33648,57 @@
       {
         "name": "Hornitos",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.75"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Mix Mango",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Mix Strawberry",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Hornitos",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Fill the cup with ice and add to the blender with 1oz Tequila, Triple sec, and mango mix.",
-      "Pour the strawberry mix into the empty 14-oz cup",
-      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Float with .5 of tequila of the 1.5oz",
-      "Glassware: 14 oz glass or logo cup",
-      "Float with .5oz of 2.25oz tequila",
-      "Glassware: 20 oz glass or logo cup",
-      "Batch Slushie Machine Recipe",
+      "Fill the cup with ice and add to the blender with tequila, Triple sec, and mango mix.",
       "Pour the strawberry mix into the empty glass",
-      "Pour from the frozen slushie mixing machine into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Top with 0.50oz Floater of tequila"
+      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
+      "14oz: Float with .5oz tequila",
+      "20oz: Float with .5oz tequila",
+      "Garnish: Lime",
+      "14oz: 14oz glass or logo cup",
+      "20oz: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-si-1",
@@ -33690,49 +33714,57 @@
       {
         "name": "Hornitos",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.75"
       },
       {
         "name": "Triple Sec",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Mix Mango",
         "qty": "4",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Mix Strawberry",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.5"
       },
       {
         "name": "Hornitos",
         "qty": ".5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Fill the cup with ice and add to the blender with 1oz Tequila, Triple sec, and mango mix.",
-      "Pour the strawberry mix into the empty 14-oz cup",
-      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Float with .5 of tequila of the 1.5oz",
-      "Glassware: 14 oz glass or logo cup",
-      "Float with .5oz of 2.25oz tequila",
-      "Glassware: 20 oz glass or logo cup",
-      "Batch Slushie Machine Recipe",
+      "Fill the cup with ice and add to the blender with tequila, Triple sec, and mango mix.",
       "Pour the strawberry mix into the empty glass",
-      "Pour from the frozen slushie mixing machine into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "Top with 0.50oz Floater of tequila"
+      "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
+      "14oz: Float with .5oz tequila",
+      "20oz: Float with .5oz tequila",
+      "Garnish: Lime",
+      "14oz: 14oz glass or logo cup",
+      "20oz: 20oz glass or logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-pl-16",
@@ -48823,58 +48855,68 @@
       {
         "name": "Cruzan Silver Rum",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Orange Juice",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Pineapple Juice",
         "qty": "3",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "7"
       },
       {
         "name": "Coco Lopez",
         "qty": "1",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Planetary Dark Rum",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1"
       },
       {
         "name": "Nutmeg",
         "qty": "Light",
-        "unit": "Sprinkle top"
+        "unit": "Sprinkle top",
+        "qty2": "Light"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Add a scoop of ice to the shaker tin.",
-      "Pour all ingredients into a shaker and shake vigorously",
-      "Pour into the correct glassware",
-      "Garnish: Sprinkle of Nutmeg,",
-      "Pour all ingredients into a shaker and shake vigorously",
-      "Fill the bucket with ice",
-      "Pour into the bucket",
-      "Combine ingredients with ice in shaker tin",
-      "Shake and transfer to 14oz glass",
-      "Float Plantation rum on top"
+      "Add a scoop of ice to the shaker/glass.",
+      "Pour all ingredients and shake vigorously",
+      "14oz: Pour into 14oz glass",
+      "32oz: Fill the bucket with ice, pour into the bucket",
+      "Garnish: Sprinkle of Nutmeg, Orange and Cherry",
+      "14oz: 14oz glass",
+      "32oz: 32oz bucket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "32oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-si-29",
