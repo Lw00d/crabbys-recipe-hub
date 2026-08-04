@@ -44993,88 +44993,10 @@
     "images": []
   },
   {
-    "id": "drm-cds-91",
-    "masterId": "drm-refresher-watermelon-kiwi-m",
-    "name": "Refresher Watermelon/ Kiwi",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Mocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Strawberries (Fresh)",
-        "qty": ".50",
-        "unit": "4oz cup / Garnish"
-      },
-      {
-        "name": "Kiwi Watermelon Mix",
-        "qty": "5",
-        "unit": "oz"
-      },
-      {
-        "name": "Water",
-        "qty": "5",
-        "unit": "oz"
-      }
-    ],
-    "steps": [
-      "In 20 oz. Cup",
-      "Muddle Strawberries in bottom of glass",
-      "Add Ice to the top",
-      "Add 5oz Refresher mix",
-      "Place in Shaker tin - Shake well to combine",
-      "Back into serving glass",
-      "Server: Straw, To- Go add Lid"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-96",
     "masterId": "drm-refresher-peach-mango-m",
     "name": "Refresher Peach/ Mango",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Mocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mango Frozen chunks",
-        "qty": ".5",
-        "unit": "4oz cup/ Garnish"
-      },
-      {
-        "name": "Water",
-        "qty": "5",
-        "unit": "oz"
-      },
-      {
-        "name": "Peach Mango Refresher",
-        "qty": "5",
-        "unit": "oz"
-      }
-    ],
-    "steps": [
-      "In a 20oz cup",
-      "Muddle the Mango in the bottom of glass",
-      "Add ice to the top",
-      "Add 5oz Refresher mix",
-      "Place in Shaker tin - Shake well to combine",
-      "Back into serving glass",
-      "Server: Straw / To- Go add Lid"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-92",
-    "masterId": "drm-refresher-peach-mango-m",
-    "name": "Refresher Peach/ Mango",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
     "yield": "",
