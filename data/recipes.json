@@ -4037,66 +4037,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-10",
-    "masterId": "dp-red-sauce-bar-grill-m",
-    "name": "Red Sauce (Bar & Grill)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "recipe = 2 - Lemon Bags",
-    "shelfLife": "4 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Herb Basil (roughly leaves)",
-        "qty": "1.5",
-        "unit": "oz"
-      },
-      {
-        "name": "Olive Oil Pure (For Salads)",
-        "qty": "3.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Tomatoes San Marzano",
-        "qty": "3.00",
-        "unit": "#10 can"
-      },
-      {
-        "name": "Basil",
-        "qty": "1.5",
-        "unit": "oz."
-      },
-      {
-        "name": "Garlic Whole Peeled",
-        "qty": "6.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Pepper Black Ground",
-        "qty": "0.50",
-        "unit": "oz"
-      },
-      {
-        "name": "Salt Kosher",
-        "qty": "1.00",
-        "unit": "oz"
-      }
-    ],
-    "steps": [
-      "Open 3 cans of tomatoes, peeled",
-      "Take the tomatoes out of the can and put them in the Robo-coupe (save the tomato juice left in the cans)",
-      "Blend lightly, just until there are no big chunks but still somewhat thick, and pour into a large Cambro.",
-      "Chop garlic in the Robo-Coupe",
-      "Chop basil by hand finely with a knife",
-      "Put all contents into Cambro (including the rest of the tomato juice from the can of tomatoes, oil, garlic, basil)",
-      "Add salt and pepper and stir with a whisk",
-      "Portion into 2 (double the bags up) lemon bags.",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-9",
     "masterId": "dp-red-sauce-bar-grill-m",
     "name": "Red Sauce (Bar & Grill)",
