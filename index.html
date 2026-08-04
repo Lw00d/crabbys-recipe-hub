@@ -1026,17 +1026,26 @@ function renderModalEdit(){
   const catOpts = CATS.map(c=>`<option${c===r.category?' selected':''}>${c}</option>`).join('');
   const ings = r.ingredients?.length ? r.ingredients : [{qty:'',unit:'',name:''}];
   const bCountEdit = r_batchCount(r);
+  const ingActionsCell = (i)=>`<td style="white-space:nowrap">
+      <div class="step-actions" style="display:inline-flex;flex-direction:row;gap:1px;vertical-align:middle">
+        <button class="step-btn" title="Move up" onclick="moveIng(${i},-1)" ${i===0?'disabled':''}>&#9650;</button>
+        <button class="step-btn" title="Move down" onclick="moveIng(${i},1)" ${i===ings.length-1?'disabled':''}>&#9660;</button>
+      </div>
+      <button class="step-btn insert" title="Insert an ingredient after this one" onclick="insertIng(${i})">&#8853;</button>
+    </td>`;
   const ingRows = r.dualBatch ? ings.map((g,i)=>`<tr>
     <td><input type="text" value="${esc(g.qty)}" placeholder="${esc(r.dualBatch.label1||'Size 1')}" data-i="${i}" data-f="qty" oninput="uIng(this)" style="width:70px"></td>
     <td><input type="text" value="${esc(g.qty2)}" placeholder="${esc(r.dualBatch.label2||'Size 2')}" data-i="${i}" data-f="qty2" oninput="uIng(this)" style="width:70px"></td>
     ${bCountEdit>=3 ? `<td><input type="text" value="${esc(g.qty3)}" placeholder="${esc(r.dualBatch.label3||'Size 3')}" data-i="${i}" data-f="qty3" oninput="uIng(this)" style="width:70px"></td>` : ''}
     <td><input type="text" value="${esc(g.unit)}" placeholder="Unit" data-i="${i}" data-f="unit" oninput="uIng(this)" style="width:130px"></td>
     <td><input type="text" value="${esc(g.name)}" placeholder="Ingredient name" data-i="${i}" data-f="name" oninput="uIng(this)"></td>
+    ${ingActionsCell(i)}
     <td style="width:32px;text-align:center"><button class="delbtn" onclick="delIng(${i})">&#xD7;</button></td></tr>`).join('')
   : ings.map((g,i)=>`<tr>
     <td><input type="text" value="${esc(g.qty)}" placeholder="Qty" data-i="${i}" data-f="qty" oninput="uIng(this)" style="width:70px"></td>
     <td><input type="text" value="${esc(g.unit)}" placeholder="Unit" data-i="${i}" data-f="unit" oninput="uIng(this)" style="width:130px"></td>
     <td><input type="text" value="${esc(g.name)}" placeholder="Ingredient name" data-i="${i}" data-f="name" oninput="uIng(this)"></td>
+    ${ingActionsCell(i)}
     <td style="width:32px;text-align:center"><button class="delbtn" onclick="delIng(${i})">&#xD7;</button></td></tr>`).join('');
   const steps = r.steps?.length ? r.steps : [''];
   const stepRows = steps.map((s,i)=>`<div class="step-row">
@@ -1133,8 +1142,8 @@ function renderModalEdit(){
       </div></div>
     <div class="fs"><div class="fs-title">Ingredients</div>
       <table class="ing-t"><thead><tr>${r.dualBatch
-        ? `<th style="width:76px">${esc(r.dualBatch.label1||'Size 1')}</th><th style="width:76px">${esc(r.dualBatch.label2||'Size 2')}</th>${bCountEdit>=3?`<th style="width:76px">${esc(r.dualBatch.label3||'Size 3')}</th>`:''}<th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th>`
-        : `<th style="width:76px">Qty</th><th style="width:136px">Unit</th><th>Ingredient</th><th style="width:36px"></th>`}</tr></thead>
+        ? `<th style="width:76px">${esc(r.dualBatch.label1||'Size 1')}</th><th style="width:76px">${esc(r.dualBatch.label2||'Size 2')}</th>${bCountEdit>=3?`<th style="width:76px">${esc(r.dualBatch.label3||'Size 3')}</th>`:''}<th style="width:136px">Unit</th><th>Ingredient</th><th style="width:56px"></th><th style="width:36px"></th>`
+        : `<th style="width:76px">Qty</th><th style="width:136px">Unit</th><th>Ingredient</th><th style="width:56px"></th><th style="width:36px"></th>`}</tr></thead>
       <tbody id="ingBody">${ingRows}</tbody></table>
       <button class="addbtn" onclick="addIng()">＋ Add ingredient</button></div>
     <div class="fs"><div class="fs-title">Preparation Steps <span style="font-size:11px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--text-light)">— Enter to add next step</span></div>
@@ -1191,6 +1200,24 @@ function uF(field,val){ const r=getCurrentRecipe(); if(!r) return; r[field]=val;
 }
 function uIng(inp){ const r=getCurrentRecipe(); if(!r) return; const i=+inp.dataset.i; if(!r.ingredients[i]) r.ingredients[i]={qty:'',unit:'',name:''}; r.ingredients[i][inp.dataset.f]=inp.value; markMod(); }
 function addIng(){ const r=getCurrentRecipe(); if(!r) return; if(!r.ingredients)r.ingredients=[]; const row={qty:'',qty2:'',unit:'',name:''}; if(r_batchCount(r)>=3) row.qty3=''; r.ingredients.push(row); markMod(); renderModalEdit(); const ins=document.querySelectorAll('#ingBody input[data-f="name"]'); if(ins.length)ins[ins.length-1].focus(); }
+function insertIng(i){
+  const r=getCurrentRecipe(); if(!r) return;
+  const row={qty:'',qty2:'',unit:'',name:''};
+  if(r_batchCount(r)>=3) row.qty3='';
+  r.ingredients.splice(i+1, 0, row);
+  markMod();
+  renderModalEdit();
+  const ins=document.querySelectorAll('#ingBody input[data-f="name"]');
+  if(ins[i+1]) ins[i+1].focus();
+}
+function moveIng(i, dir){
+  const r=getCurrentRecipe(); if(!r) return;
+  const j = i + dir;
+  if(j < 0 || j >= r.ingredients.length) return;
+  [r.ingredients[i], r.ingredients[j]] = [r.ingredients[j], r.ingredients[i]];
+  markMod();
+  renderModalEdit();
+}
 function delIng(i){ const r=getCurrentRecipe(); if(!r) return; r.ingredients.splice(i,1); markMod(); renderModalEdit(); }
 function toggleDualBatch(on){
   const r=getCurrentRecipe(); if(!r) return;
