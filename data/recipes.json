@@ -36061,53 +36061,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-9",
-    "masterId": "drm-florida-sunset-batch-m",
-    "name": "Florida Sunset (Batch)",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Batches / Bar Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tequila - Hornitos Plata",
-        "qty": "2",
-        "unit": "1 Liter"
-      },
-      {
-        "name": "Triple Sec (Alcoholic)",
-        "qty": "1",
-        "unit": "1 Liter"
-      },
-      {
-        "name": "Mix Mango",
-        "qty": "4",
-        "unit": "64oz"
-      },
-      {
-        "name": "Water (Recipes)",
-        "qty": "2",
-        "unit": "Gals."
-      }
-    ],
-    "steps": [
-      "Mix all things in a Cambro and store in the refrigerator",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
-      "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-pl-38",
     "masterId": "drm-pl-38-m",
     "name": "Painkilla Mix (Batch)",
@@ -43092,59 +43045,6 @@
     "masterId": "drm-florida-sunshine-bar-grill-m",
     "name": "Florida Sunshine(Bar & Grill)",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tequila(Well)",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Cruzan Coconut Rum",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Mango",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Fresh Lime juice",
-        "qty": ".5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Starry Lemon Lime",
-        "qty": "3.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Lime wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Fill a 14oz cup with ice",
-      "Pour all ingredients into a shaker",
-      "Shake ice and ingredients together",
-      "Garnish:",
-      "Glassware:",
-      "14 oz glass or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-67",
-    "masterId": "drm-florida-sunshine-bar-grill-m",
-    "name": "Florida Sunshine(Bar & Grill)",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
     "yield": "",
