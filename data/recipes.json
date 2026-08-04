@@ -35651,63 +35651,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-8",
-    "masterId": "drm-rum-runner-batch-m",
-    "name": "Rum Runner (Batch)",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Batches / Bar Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Rum (Well Silver)",
-        "qty": "4",
-        "unit": "1 Liters"
-      },
-      {
-        "name": "Crème De Banana 56",
-        "qty": "2",
-        "unit": "1 Liters"
-      },
-      {
-        "name": "Blackberry Brandy 70",
-        "qty": "2",
-        "unit": "1 Liters"
-      },
-      {
-        "name": "Juice Orange (Langers)",
-        "qty": "6",
-        "unit": "Qts."
-      },
-      {
-        "name": "Juice Pineapple (46oz Can ) Or Quarts (32oz)",
-        "qty": "4 Or 6",
-        "unit": "Cans Quarts"
-      },
-      {
-        "name": "Rv11/25",
-        "qty": "",
-        "unit": "Total Oz."
-      }
-    ],
-    "steps": [
-      "Mix all things in a Cambro and store in the refrigerator",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, and reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
-      "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-pl-36",
     "masterId": "drm-pl-36-m",
     "name": "Pina Colada Batch (CBP)",
