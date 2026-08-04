@@ -574,18 +574,21 @@ async function loadRecipes(url, useCache=true){
     showEmpty('⚠️','Could not load recipes', err.message.includes('fetch')?'Check your connection.':err.message);
   }
 }
+async function fetchAuthoritativeRecipes(){
+  // The one true, always-current source — not subject to the CDN caching delay
+  // that raw.githubusercontent.com can have after a save. Everything that needs
+  // to know "what's actually live right now" should go through this, not CFG.rawUrl.
+  const apiUrl = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/recipes.json';
+  const res = await fetch(apiUrl, { headers: { 'Accept': 'application/vnd.github.v3.raw' }, cache: 'no-store' });
+  if (!res.ok) throw new Error(`GitHub API returned ${res.status}`);
+  const text = await res.text();
+  const data = JSON.parse(text);
+  if (!Array.isArray(data)) throw new Error('Unexpected response shape');
+  return data;
+}
 async function checkForStaleData(){
   try{
-    const apiUrl = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/recipes.json';
-    const res = await fetch(apiUrl, {
-      headers: { 'Accept': 'application/vnd.github.v3.raw' },
-      cache: 'no-store'
-    });
-    if (!res.ok) return; // rate-limited or offline — fail silently, don't alarm anyone over a check that couldn't run
-    const authoritativeText = await res.text();
-    let authoritativeData;
-    try { authoritativeData = JSON.parse(authoritativeText); } catch(e) { return; }
-    if (!Array.isArray(authoritativeData)) return;
+    const authoritativeData = await fetchAuthoritativeRecipes();
     const authoritativeSnapshot = canon(authoritativeData);
     if (authoritativeSnapshot === loadedSnapshot) return; // genuinely up to date — nothing to do
 
@@ -680,44 +683,45 @@ async function pushToGithub(){
   btn.disabled = true; btn.textContent = '☁ Checking for conflicts…';
   setStatus('saving','Checking for conflicts…');
 
-  // Conflict check: re-fetch the live file fresh and compare against what this
-  // browser tab originally loaded. If they differ, someone else has saved since
-  // then, and our full-array save would silently overwrite their changes.
+  // Conflict check: ask the authoritative source (not the CDN, which can lag
+  // behind for a few minutes after any save) whether anything has changed since
+  // this browser tab loaded its data. If it has, our full-array save would
+  // silently overwrite whatever changed.
   try {
-    const checkRes = await fetch(normaliseUrl(CFG.rawUrl) + (CFG.rawUrl.includes('?')?'&':'?') + '_ts=' + Date.now(), { cache:'no-cache' });
-    if (checkRes.ok) {
-      const liveText = await checkRes.text();
-      let liveData = null;
-      try { liveData = JSON.parse(liveText); } catch(e) {}
-      const liveSnapshot = liveData ? canon(liveData) : null;
-      if (loadedSnapshot !== null && liveSnapshot !== null && liveSnapshot !== loadedSnapshot) {
-        let loadedData = null;
-        try { loadedData = JSON.parse(loadedSnapshot); } catch(e) {}
-        const summary = loadedData ? summarizeRecipeDiff(loadedData, liveData) : null;
-        const detail = summary
-          ? `\n\n${summary}`
-          : '\n\n(Could not summarize exactly what changed.)';
-        const proceed = confirm(
-          `⚠️ Someone else has saved changes since you opened this page.${detail}\n\n` +
-          `Saving now will overwrite the live file with what's in THIS browser tab — ` +
-          `their changes could be lost unless they also appear here.\n\n` +
-          `Click OK to reload the latest data first (you'll need to redo any unsaved edits), ` +
-          `or Cancel to stop and review manually.`
-        );
-        btn.disabled = !pending; btn.textContent = '☁ Save to GitHub';
-        setStatus('online','Save paused — conflict detected');
-        if (proceed) {
-          await loadRecipes(CFG.rawUrl, false);
-          toast('Reloaded latest data — please redo any changes and save again','err');
-        } else {
-          toast('Save cancelled — data was not changed','err');
-        }
-        return;
+    const liveData = await fetchAuthoritativeRecipes();
+    const liveSnapshot = canon(liveData);
+    if (loadedSnapshot !== null && liveSnapshot !== loadedSnapshot) {
+      let loadedData = null;
+      try { loadedData = JSON.parse(loadedSnapshot); } catch(e) {}
+      const summary = loadedData ? summarizeRecipeDiff(loadedData, liveData) : null;
+      const detail = summary
+        ? `\n\n${summary}`
+        : '\n\n(Could not summarize exactly what changed.)';
+      const proceed = confirm(
+        `⚠️ Someone else has saved changes since you opened this page.${detail}\n\n` +
+        `Saving now will overwrite the live file with what's in THIS browser tab — ` +
+        `their changes could be lost unless they also appear here.\n\n` +
+        `Click OK to reload the latest data first (you'll need to redo any unsaved edits), ` +
+        `or Cancel to stop and review manually.`
+      );
+      btn.disabled = !pending; btn.textContent = '☁ Save to GitHub';
+      setStatus('online','Save paused — conflict detected');
+      if (proceed) {
+        // Apply the authoritative data we already fetched above directly, rather
+        // than re-fetching from the CDN (which is exactly what could be lagging).
+        RECIPES = liveData;
+        loadedSnapshot = liveSnapshot;
+        buildSubmenus();
+        render();
+        toast('Reloaded latest data — please redo any changes and save again','err');
+      } else {
+        toast('Save cancelled — data was not changed','err');
       }
+      return;
     }
   } catch(e) {
-    // If the conflict check itself fails (offline, etc.), fall through and let
-    // the normal save attempt happen / fail on its own terms below.
+    // If the conflict check itself fails (offline, rate-limited, etc.), fall
+    // through and let the normal save attempt happen / fail on its own terms below.
   }
 
   btn.textContent = '☁ Saving…';
