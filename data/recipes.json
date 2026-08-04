@@ -41091,45 +41091,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-51",
-    "masterId": "drm-old-fashioned-truitt-s-m",
-    "name": "Old Fashioned Truitt's",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Truitt's Old Fashioned",
-        "qty": "2.5",
-        "unit": "Vol Oz"
-      },
-      {
-        "name": "Orange Zest",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Cherry",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Place whiskey rocks in an old-fashioned glass.",
-      "Pour 2.5 oz of Truitt’s Old Fashioned over the ice.",
-      "Using a zester, take a long peel of orange zest from an orange.",
-      "Twist the zest over the glass and place it in the glass.",
-      "Place one cherry in the glass.",
-      "Garnish: cherry, orange zest",
-      "Glassware: 9 oz. Rock glass"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-51",
     "masterId": "drm-espresso-martini-m",
     "name": "Espresso Martini",
