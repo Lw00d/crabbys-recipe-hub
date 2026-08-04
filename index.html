@@ -174,6 +174,12 @@
   .ing-t input:focus { border-color: var(--teal); }
   .delbtn { background: none; border: none; color: var(--text-light); cursor: pointer; font-size: 16px; padding: 2px 6px; border-radius: 4px; line-height: 1; }
   .delbtn:hover { background: #fee; color: var(--red); }
+  .step-actions { display: flex; flex-direction: column; gap: 1px; margin-top: 2px; }
+  .step-btn { background: none; border: none; color: var(--text-light); cursor: pointer; font-size: 12px; padding: 1px 5px; border-radius: 4px; line-height: 1.3; }
+  .step-btn:hover:not(:disabled) { background: #eef4f6; color: var(--teal); }
+  .step-btn:disabled { opacity: 0.25; cursor: default; }
+  .step-btn.insert { font-size: 14px; color: var(--teal); }
+  .step-btn.insert:hover { background: #eef4f6; }
   .addbtn { padding: 6px 14px; border-radius: 6px; border: 1px dashed var(--border); background: var(--sand); color: var(--text-light); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
   .addbtn:hover { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
   .steps-ed { display: flex; flex-direction: column; gap: 5px; margin-bottom: 8px; }
@@ -972,6 +978,11 @@ function renderModalEdit(){
   const stepRows = steps.map((s,i)=>`<div class="step-row">
     <div class="step-n">${i+1}</div>
     <textarea rows="1" placeholder="Step ${i+1}…" data-s="${i}" oninput="uStep(this)" onkeydown="stepKey(event,this)">${esc(s)}</textarea>
+    <div class="step-actions">
+      <button class="step-btn" title="Move up" onclick="moveStep(${i},-1)" ${i===0?'disabled':''}>&#9650;</button>
+      <button class="step-btn" title="Move down" onclick="moveStep(${i},1)" ${i===steps.length-1?'disabled':''}>&#9660;</button>
+    </div>
+    <button class="step-btn insert" title="Insert a new step after this one" onclick="insertStep(${i})">&#8853;</button>
     <button class="delbtn" style="margin-top:5px" onclick="delStep(${i})">&#xD7;</button></div>`).join('');
 
   const linked = getLinkedLocations(r);
@@ -1151,6 +1162,22 @@ function uDualBatchLabel(which, val){
 function uStep(ta){ const r=getCurrentRecipe(); if(!r) return; r.steps[+ta.dataset.s]=ta.value; markMod(); autoH(ta); }
 function stepKey(e,ta){ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); const i=+ta.dataset.s; const r=getCurrentRecipe(); if(!r)return; r.steps.splice(i+1,0,''); markMod(); renderModalEdit(); const tas=document.querySelectorAll('#stepsEd textarea'); if(tas[i+1])tas[i+1].focus(); } }
 function addStep(){ const r=getCurrentRecipe(); if(!r) return; if(!r.steps)r.steps=[]; r.steps.push(''); markMod(); renderModalEdit(); const tas=document.querySelectorAll('#stepsEd textarea'); if(tas.length)tas[tas.length-1].focus(); }
+function insertStep(i){
+  const r=getCurrentRecipe(); if(!r) return;
+  r.steps.splice(i+1, 0, '');
+  markMod();
+  renderModalEdit();
+  const tas=document.querySelectorAll('#stepsEd textarea');
+  if(tas[i+1]) tas[i+1].focus();
+}
+function moveStep(i, dir){
+  const r=getCurrentRecipe(); if(!r) return;
+  const j = i + dir;
+  if(j < 0 || j >= r.steps.length) return;
+  [r.steps[i], r.steps[j]] = [r.steps[j], r.steps[i]];
+  markMod();
+  renderModalEdit();
+}
 function delStep(i){ const r=getCurrentRecipe(); if(!r) return; r.steps.splice(i,1); if(!r.steps.length)r.steps=['']; markMod(); renderModalEdit(); }
 function autoH(ta){ ta.style.height='auto'; ta.style.height=ta.scrollHeight+'px'; }
 
