@@ -70569,7 +70569,7 @@
   },
   {
     "id": "dm-cds-118",
-    "masterId": "dm-key-lime-pie-m",
+    "masterId": "m-msesbg01sfv09u",
     "name": "Key Lime Pie",
     "location": "CDS",
     "category": "Dinner Menu",
@@ -70584,11 +70584,6 @@
         "unit": "Each"
       },
       {
-        "name": "Raspberry Sauce",
-        "qty": "Drizzle",
-        "unit": "On the plate"
-      },
-      {
         "name": "Whipped Cream (dollop)",
         "qty": "0.75",
         "unit": "Weight oz"
@@ -70600,7 +70595,6 @@
       }
     ],
     "steps": [
-      "Note: Locations that use Raspberry Sauce - On a dessert plate, drizzle Raspberry sauce on the plate in a zig-zag motion.",
       "Remove the Pie from the freezer to thaw according to the store's daily needs",
       "Place a slice of Key Lime Pie on a dessert plate. Make sure that you get the entire crust. (For best results, use a pie server.)",
       "Top with a dollop of Whipped Cream and a halfmoon slice of Lime.",
@@ -70610,8 +70604,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Key_Lime_Pie_0.jpg"
     ]
   },
   {
