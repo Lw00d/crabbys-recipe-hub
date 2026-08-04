@@ -9588,38 +9588,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-40",
-    "masterId": "dp-onion-rings-m",
-    "name": "Onion Rings",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "2.5",
-        "unit": "lb."
-      },
-      {
-        "name": "Flour H&R Self-Rising",
-        "qty": "8",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Separate the Rings individually from the Slices.",
-      "Remove any rings that are smaller than 2.5 inches in diameter.",
-      "These will be saved for later to be used in other Recipes",
-      "Dust 10oz of Onion Rings with Flour.",
-      "Shake off excess Flour and place into portion bags.",
-      "For best results, let sit pre-breaded for an hour or 2 before using (1 portion of flour-dusted onion rings should weigh NO MORE THAN 11.4 oz.)"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-35",
     "masterId": "dp-onion-rings-m",
     "name": "Onion Rings",
