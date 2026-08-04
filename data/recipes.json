@@ -27734,6 +27734,12 @@
         "name": "Cajun Butter",
         "qty": "Brush",
         "unit": "Finished Room temp"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "oz",
+        "name": "Onion Straws"
       }
     ],
     "steps": [
@@ -27747,7 +27753,7 @@
       "Medium - warm pink center, otherwise brown 140–150°F",
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
-      "Expo: chopped parsley, Steak knife, requested sides",
+      "Expo: Onion Straws, chopped parsley, Steak knife, requested sides",
       "Plateware: Dinner plate, steak knife"
     ],
     "notes": "",
