@@ -43599,55 +43599,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-76",
-    "masterId": "drm-purple-coconut-bar-grill-m",
-    "name": "Purple Coconut (Bar & Grill)",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Blackberries",
-        "qty": "4",
-        "unit": "each"
-      },
-      {
-        "name": "Vanilla Vodka",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Mix Coco Cream",
-        "qty": "3",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Pineapple juice",
-        "qty": "3",
-        "unit": "Oz"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "1ea.",
-        "unit": "Top Garnish"
-      }
-    ],
-    "steps": [
-      "Add 4 Blackberries to a shaker with the Vanilla Vodka",
-      "Muddle together, without shredding / pulverizing the Blackberries",
-      "Add coconut cream, pineapple juice and ice",
-      "Shake and pour into cup",
-      "Garnish:",
-      "Glassware:",
-      "14 oz Glass or Logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-78",
     "masterId": "drm-mojito-blackberry-lime-m",
     "name": "Mojito Blackberry Lime",
