@@ -37411,17 +37411,20 @@
       {
         "name": "Well Rum Sliver",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco lopez",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "2.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Agave",
@@ -37434,14 +37437,22 @@
         "unit": "Rimming"
       },
       {
-        "name": "Cruzan137 Rum",
+        "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "",
+        "qty2": "",
+        "unit": "Dollop (20oz only)"
       }
     ],
     "steps": [
@@ -37458,7 +37469,12 @@
       "Glassware: 14oz glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-18",
@@ -37474,17 +37490,20 @@
       {
         "name": "Well Rum Sliver",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2"
       },
       {
         "name": "Coco lopez",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Juice Pineapple",
         "qty": "2.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "4"
       },
       {
         "name": "Agave",
@@ -37497,14 +37516,22 @@
         "unit": "Rimming"
       },
       {
-        "name": "Cruzan137 Rum",
+        "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": "0.5"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "",
+        "qty2": "",
+        "unit": "Dollop (20oz only)"
       }
     ],
     "steps": [
@@ -37521,7 +37548,12 @@
       "Glassware: 14oz glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-18",
