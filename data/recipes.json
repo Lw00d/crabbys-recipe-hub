@@ -38938,22 +38938,26 @@
       {
         "name": "Rum Well Silver",
         "qty": "1.5",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "2"
       },
       {
         "name": "Flavor requested",
         "qty": "5.0",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "5.0"
       },
       {
         "name": "Planteray Rum",
         "qty": ".50",
-        "unit": "oz Float"
+        "unit": "oz Float",
+        "qty2": ".50"
       },
       {
         "name": "Lime Wedge or Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -38964,7 +38968,12 @@
       "Garnish: Lime wedge or Cherry"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cds-30",
@@ -38980,22 +38989,26 @@
       {
         "name": "Rum Well Silver",
         "qty": "1.5",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "2"
       },
       {
         "name": "Flavor requested",
         "qty": "5.0",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "5.0"
       },
       {
         "name": "Planteray Rum",
         "qty": ".50",
-        "unit": "oz Float"
+        "unit": "oz Float",
+        "qty2": ".50"
       },
       {
         "name": "Lime Wedge or Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39006,7 +39019,12 @@
       "Garnish: Lime wedge or Cherry"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-nb-22",
@@ -39022,22 +39040,26 @@
       {
         "name": "Rum Well Silver",
         "qty": "1.5",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "2"
       },
       {
         "name": "Flavor requested",
         "qty": "5.0",
-        "unit": "oz. pour"
+        "unit": "oz. pour",
+        "qty2": "5.0"
       },
       {
         "name": "Planteray Rum",
         "qty": ".50",
-        "unit": "oz Float"
+        "unit": "oz Float",
+        "qty2": ".50"
       },
       {
         "name": "Lime Wedge or Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -39048,7 +39070,12 @@
       "Garnish: Lime wedge or Cherry"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-30",
