@@ -38,22 +38,46 @@
     "smallware": "",
     "ingredients": [
       {
-        "qty": "1",
-        "unit": "portion",
+        "qty": "2",
+        "unit": "3.5oz portions",
         "name": "Red Fish"
       },
       {
         "qty": "1",
         "qty2": "",
         "unit": "portion",
-        "name": "Grits"
+        "name": "Polenta"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "yellow scoop",
+        "name": "Cajun butter"
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "v/oz",
+        "name": "Heavy cream"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "slice",
+        "name": "Garlic bread"
       }
     ],
     "steps": [
-      ""
+      "\tSautee\n\tSauce\n\t1. In a sauté pan over medium heat, add Cajun butter and pepper mix\n\t2. Once the butter is melted add heavy cream and green onion\nReduce sauce for 2-3 minutes while stirring/tossing in pan",
+      "\tGrill\n\tFish \n\t1. Take a portion of Redfish baster with garlic butter and add blackening seasoning \n\t2. Place fish on flattop and cook for 3-4 minutes depending on thickness\n\t3. Flip fish and cook for additional 2 minutes\nIf the fish still has skin on, peel off as much as you can.",
+      "\t Oven \n\tGrits\n\t1. Place it in oven at 450-500°F for 2-3 min until fully heated\nPlate in large bowl ",
+      "\tBuild\n\t1. Oven station places grit cake in a large bowl \n\t2. Grill station hands fish to oven when fully cooked\n\t3. Oven places fish on grits and hands to sautee\nSautee pours sauce over dish and passes to expo",
+      "Expo:\nGarlic bread\n\nPlateware: Large bowl"
     ],
     "notes": "Vendor-\nSale Price-",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/msgdcbqly62sf7.png"
+    ],
     "active": true,
     "id": "m-msgcwvv33v1w8p",
     "masterId": "m-msgctremi1sobr",
@@ -71,22 +95,46 @@
     "smallware": "",
     "ingredients": [
       {
-        "qty": "1",
-        "unit": "portion",
+        "qty": "2",
+        "unit": "3.5oz portions",
         "name": "Red Fish"
       },
       {
         "qty": "1",
         "qty2": "",
         "unit": "portion",
-        "name": "Grits"
+        "name": "Polenta"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "yellow scoop",
+        "name": "Cajun butter"
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "v/oz",
+        "name": "Heavy cream"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "slice",
+        "name": "Garlic bread"
       }
     ],
     "steps": [
-      ""
+      "\tSautee\n\tSauce\n\t1. In a sauté pan over medium heat, add Cajun butter and pepper mix\n\t2. Once the butter is melted add heavy cream and green onion\nReduce sauce for 2-3 minutes while stirring/tossing in pan",
+      "\tGrill\n\tFish \n\t1. Take a portion of Redfish baster with garlic butter and add blackening seasoning \n\t2. Place fish on flattop and cook for 3-4 minutes depending on thickness\n\t3. Flip fish and cook for additional 2 minutes\nIf the fish still has skin on, peel off as much as you can.",
+      "\t Oven \n\tGrits\n\t1. Place it in oven at 450-500°F for 2-3 min until fully heated\nPlate in large bowl ",
+      "\tBuild\n\t1. Oven station places grit cake in a large bowl \n\t2. Grill station hands fish to oven when fully cooked\n\t3. Oven places fish on grits and hands to sautee\nSautee pours sauce over dish and passes to expo",
+      "Expo:\nGarlic bread\n\nPlateware: Large bowl"
     ],
     "notes": "Vendor-\nSale Price-",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/msgdcbqly62sf7.png"
+    ],
     "active": true
   },
   {
