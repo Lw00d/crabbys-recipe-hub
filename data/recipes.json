@@ -1,5 +1,95 @@
 [
   {
+    "id": "m-msgcx5ql2sqbau",
+    "masterId": "m-msgcx5ql2sqbau",
+    "name": "Trigger Fish",
+    "location": "CDS",
+    "category": "Dinner Menu",
+    "submenu": "Fresh Catch",
+    "yield": "1 each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "Portion",
+        "name": "Trigger Fish"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": ""
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "Vendor-\nSale Price-\n",
+    "images": [],
+    "active": true
+  },
+  {
+    "name": "Red Fish & Grits",
+    "category": "Dinner Menu",
+    "submenu": "Fresh Catch",
+    "yield": "1 each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "portion",
+        "name": "Red Fish"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "portion",
+        "name": "Grits"
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "Vendor-\nSale Price-",
+    "images": [],
+    "active": true,
+    "id": "m-msgcwvv33v1w8p",
+    "masterId": "m-msgctremi1sobr",
+    "location": "CBG"
+  },
+  {
+    "id": "m-msgctremi1sobr",
+    "masterId": "m-msgctremi1sobr",
+    "name": "Red Fish & Grits",
+    "location": "CDS",
+    "category": "Dinner Menu",
+    "submenu": "Fresh Catch",
+    "yield": "1 each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "portion",
+        "name": "Red Fish"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "portion",
+        "name": "Grits"
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "Vendor-\nSale Price-",
+    "images": [],
+    "active": true
+  },
+  {
     "name": "Yellow Tail Baked",
     "category": "Dinner Menu",
     "submenu": "Fresh Catch",
