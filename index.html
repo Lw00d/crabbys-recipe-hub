@@ -794,6 +794,7 @@ async function pushToGithub(){
     justSavedSnapshot = loadedSnapshot;
     pending = false;
     setUnsaved(false);
+    buildSubmenus();
     render();
     setStatus('online', `Saved ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     toast(`${clean.length} recipes saved — live for everyone ✓`,'ok');
