@@ -417,7 +417,12 @@ const IS_LOCATION_RESTRICTED = (ASSIGNED_LOCATION !== 'all' && ASSIGNED_LOCATION
 const IS_AUTHENTICATED_SESSION = (ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
 
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island",'Mar Vista','Sandbar','Beach House'];
-const CATS = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
+// Base set of categories always offered, even if a category temporarily has no
+// recipes in it. CATS itself is rebuilt (see buildCategories()) to be this base
+// set unioned with whatever category names actually appear in the live data, so
+// any new category added through the editor shows up everywhere immediately.
+const BASE_CATEGORIES = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
+let CATS = [...BASE_CATEGORIES];
 const LOC_CLASS = { 'Salty Crab North Beach':'loc-nb','CDS':'loc-cds','Palm':'loc-palm','CBG':'loc-cbg',"Salty's Island":'loc-si','Mar Vista':'loc-mv','Sandbar':'loc-sb','Beach House':'loc-bh' };
 const LOC_SHORT = { 'Salty Crab North Beach':'North Beach','CDS':'CDS','Palm':'Palm','CBG':'CBG',"Salty's Island":"Salty's Island",'Mar Vista':'Mar Vista','Sandbar':'Sandbar','Beach House':'Beach House' };
 // Location groups: BSHGRP (original 5) and BSHGRP2 (new 3). Groups are independent —
@@ -552,7 +557,7 @@ async function loadRecipes(url, useCache=true){
     if(!Array.isArray(data)) throw new Error('File does not contain a recipe list');
     RECIPES = data;
     loadedSnapshot = canon(data);
-    buildSubmenus();
+    buildCategories(); buildSubmenus();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     render();
@@ -566,7 +571,7 @@ async function loadRecipes(url, useCache=true){
     if(useCache && cached){
       try{
         RECIPES = JSON.parse(cached);
-        buildSubmenus();
+        buildCategories(); buildSubmenus();
         const ts = localStorage.getItem(CACHE_TS_KEY);
         setStatus('offline', `Offline — cached ${ts?new Date(ts).toLocaleDateString():'data'}`);
         render(); return;
@@ -625,7 +630,7 @@ async function checkForStaleData(){
     const summary = summarizeRecipeDiff(RECIPES, authoritativeData);
     RECIPES = authoritativeData;
     loadedSnapshot = authoritativeSnapshot;
-    buildSubmenus();
+    buildCategories(); buildSubmenus();
     render();
     toast(
       summary
@@ -640,6 +645,7 @@ async function checkForStaleData(){
   }
 }
 function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
+function buildCategories(){ const set=new Set(BASE_CATEGORIES); RECIPES.forEach(r=>{ if(r.category) set.add(r.category); }); CATS = Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'})); renderCatDropdown(); }
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
 async function init(){
@@ -697,7 +703,7 @@ async function refreshData(){
       const data = await fetchAuthoritativeRecipesStable();
       RECIPES = data;
       loadedSnapshot = canon(data);
-      buildSubmenus();
+      buildCategories(); buildSubmenus();
       try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
       if (stillConfirmingSave) {
         setStatus('loading','Still confirming your save — try refresh again in a few seconds');
@@ -765,7 +771,7 @@ async function pushToGithub(){
         // than re-fetching from the CDN (which is exactly what could be lagging).
         RECIPES = liveData;
         loadedSnapshot = liveSnapshot;
-        buildSubmenus();
+        buildCategories(); buildSubmenus();
         render();
         toast('Reloaded latest data — please redo any changes and save again','err');
       } else {
@@ -794,7 +800,7 @@ async function pushToGithub(){
     justSavedSnapshot = loadedSnapshot;
     pending = false;
     setUnsaved(false);
-    buildSubmenus();
+    buildCategories(); buildSubmenus();
     render();
     setStatus('online', `Saved ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     toast(`${clean.length} recipes saved — live for everyone ✓`,'ok');
@@ -1024,7 +1030,8 @@ function renderModalEdit(){
   document.getElementById('modalMeta').innerHTML = '';
 
   const locOpts = LOCS.map(l=>`<option${l===r.location?' selected':''}>${l}</option>`).join('');
-  const catOpts = CATS.map(c=>`<option${c===r.category?' selected':''}>${c}</option>`).join('');
+  const catOpts = CATS.map(c=>`<option value="${esc(c)}"${c===r.category?' selected':''}>${esc(c)}</option>`).join('')
+    + `<option value="__new__">➕ New category…</option>`;
   const ings = r.ingredients?.length ? r.ingredients : [{qty:'',unit:'',name:''}];
   const bCountEdit = r_batchCount(r);
   const ingActionsCell = (i)=>`<td style="white-space:nowrap">
@@ -1096,7 +1103,9 @@ function renderModalEdit(){
     <div class="fs"><div class="fs-title">Basic Info</div>
       <div class="fg2">
         ${locField}
-        <div class="ff"><label>Category</label><select onchange="uF('category',this.value); renderModalEdit();">${catOpts}</select></div>
+        <div class="ff"><label>Category</label>
+          <select id="categorySelect" onchange="handleCategorySelect(this.value)">${catOpts}</select>
+          <input type="text" id="categoryNewInput" placeholder="New category name…" style="display:none;margin-top:6px" oninput="uF('category',this.value)"></div>
         <div class="ff full"><label>Submenu <small style="font-weight:400;color:var(--text-light)">(optional)</small></label>
           <select id="submenuSelect" onchange="handleSubmenuSelect(this.value)">
             <option value=""${!r.submenu?' selected':''}>— No submenu —</option>
@@ -1178,6 +1187,21 @@ function getSubmenuOptions(cat, current){
   const set = new Set(SUBMENUS[cat] ? Array.from(SUBMENUS[cat]) : []);
   if(current) set.add(current);
   return Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
+}
+function handleCategorySelect(val){
+  const r = getCurrentRecipe(); if(!r) return;
+  const newInput = document.getElementById('categoryNewInput');
+  if(val === '__new__'){
+    newInput.style.display = 'block';
+    r.category = '';
+    markMod();
+    newInput.focus();
+  } else {
+    newInput.style.display = 'none';
+    r.category = val;
+    markMod();
+    renderModalEdit(); // refresh the Submenu list below, which depends on category
+  }
 }
 function handleSubmenuSelect(val){
   const r = getCurrentRecipe(); if(!r) return;
@@ -1472,7 +1496,9 @@ function closeLightbox(){
 document.addEventListener('keydown', e=>{ if(e.key==='Escape'){ closeLightbox(); closeModal(); closePwModal(); closeSettings(); } });
 
 // ─── FILTERS ─────────────────────────────────────────────────────────────────
-const ALL_CATEGORIES = ['Breakfast Menu','Breakfast Prep','Coffee Drinks','Dinner Menu','Dinner Prep','Drink Menu','Ice Cream','Line Prep','Smoothies'];
+// Category list for the filter panel comes from the same dynamic CATS array
+// used in the editor (see buildCategories()) so newly-added categories show up
+// here immediately too, without needing a page refresh.
 
 function toggleDropdown(which){
   const panel = document.getElementById(which+'DropdownPanel');
@@ -1489,7 +1515,7 @@ document.addEventListener('click', e=>{
 
 function renderCatDropdown(){
   const panel = document.getElementById('catDropdownPanel');
-  panel.innerHTML = ALL_CATEGORIES.map(c=>`
+  panel.innerHTML = CATS.map(c=>`
     <label class="dd-option">
       <input type="checkbox" data-cat="${c}" ${activeCats.has(c)?'checked':''}>
       ${c}
