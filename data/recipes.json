@@ -1,5 +1,44 @@
 [
   {
+    "name": "Trigger Fish",
+    "category": "Dinner Menu",
+    "submenu": "Fresh Catch",
+    "yield": "1 each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "Portion",
+        "name": "Trigger Fish"
+      },
+      {
+        "qty": "soak",
+        "qty2": "",
+        "unit": "fish",
+        "name": "Milk wash"
+      },
+      {
+        "qty": "cover",
+        "qty2": "",
+        "unit": "fish",
+        "name": "Italian breader"
+      }
+    ],
+    "steps": [
+      "Dip Trigger Fish in milk wash, and then Italian breading. ",
+      "Drop in a 350° fryer for approx. 3-6 minutes or until completely cooked .",
+      "Transfer to a sav-a-day to drain excess oil.",
+      "Garnish:\nLemon  Wedge, Tartar Sauce, sides "
+    ],
+    "notes": "Vendor-\nSale Price-\n",
+    "images": [],
+    "active": true,
+    "id": "m-msgeioymx6gfvj",
+    "masterId": "m-msgcx5ql2sqbau",
+    "location": "CBG"
+  },
+  {
     "id": "m-msgcx5ql2sqbau",
     "masterId": "m-msgcx5ql2sqbau",
     "name": "Trigger Fish",
@@ -16,14 +55,23 @@
         "name": "Trigger Fish"
       },
       {
-        "qty": "",
+        "qty": "soak",
         "qty2": "",
-        "unit": "",
-        "name": ""
+        "unit": "fish",
+        "name": "Milk wash"
+      },
+      {
+        "qty": "cover",
+        "qty2": "",
+        "unit": "fish",
+        "name": "Italian breader"
       }
     ],
     "steps": [
-      ""
+      "Dip Trigger Fish in milk wash, and then Italian breading. ",
+      "Drop in a 350° fryer for approx. 3-6 minutes or until completely cooked .",
+      "Transfer to a sav-a-day to drain excess oil.",
+      "Garnish:\nLemon  Wedge, Tartar Sauce, sides "
     ],
     "notes": "Vendor-\nSale Price-\n",
     "images": [],
