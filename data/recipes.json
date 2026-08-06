@@ -6906,33 +6906,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-24",
-    "masterId": "dp-tuna-steak-4oz-prep-m",
-    "name": "Tuna Steak 4oz (Prep)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "Should yield 39-40 Per / 10# case count to double check",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tuna 4 Ounce Portions",
-        "qty": "",
-        "unit": "oz. each"
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Place portions into a small day bag",
-      "Lay out on sheet tray - Label, date, refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-23",
     "masterId": "dp-tuna-steak-4oz-prep-m",
     "name": "Tuna Steak 4oz (Prep)",
@@ -12725,57 +12698,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-68",
-    "masterId": "dp-zuch-sum-carrot-prep-m",
-    "name": "Zuch, Sum,&Carrot Prep",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "8",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Carrots Parisian",
-        "qty": "1",
-        "unit": "bag"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "0.5",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Squash Yellow",
-        "qty": "3",
-        "unit": "lb"
-      },
-      {
-        "name": "Zucchini Green",
-        "qty": "3",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Cut zucchini top and bottom off, then cut in half long ways and if extremely large cut each half in half again long ways",
-      "Cut these pieces into 1 inch slices",
-      "Cut tops and bottom off squash, then cut squash in half long ways, cut the halves in 1 inch slices, then the bottom 2/3rds of the squash cutting in half again",
-      "(the top of the squash, usually like 2 slices, will be half moons then the rest will look like the zucchini)",
-      "Put the zucchini carrots and squash in a mixing bowl then toss with house spice",
-      "Top each pan with garlic butter",
-      "Cover, label and date.",
-      "**pics shown are a half recipe**",
-      "<<zucc cut in half.jpg>>",
-      "<<toss zucc and squash in seasoning.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-65",
     "masterId": "dp-zuch-sum-carrot-prep-m",
     "name": "Zuch, Sum,&Carrot Prep",
@@ -14009,7 +13931,8 @@
       "Label, date, and rotate in the cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cds-98",
@@ -41071,49 +40994,6 @@
     "masterId": "drm-twisted-tea-lemonade-tito-s-m",
     "name": "Twisted Tea Lemonade Tito's",
     "location": "CBG",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tito's Vodka",
-        "qty": "1.5",
-        "unit": "oz Pour"
-      },
-      {
-        "name": "Twisted Tea Bottle",
-        "qty": "1",
-        "unit": "each"
-      },
-      {
-        "name": "Lemonade (Bib)",
-        "qty": "6",
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon wedge",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "In a 20oz. glass fill 1/2 way with ice",
-      "Add Titos and lemonade from the tap to fill half the glass",
-      "Tilled the glass till the Lemonade is just about spilling out",
-      "Twist the Bottle(Twisted Tea) upside down into the glass and pull glass back up right quickly just like the Beer-a-Rita",
-      "Add Ice to Fill cup if needed",
-      "Glassware: 20oz Glass or logo cup"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "drm-cds-48",
-    "masterId": "drm-twisted-tea-lemonade-tito-s-m",
-    "name": "Twisted Tea Lemonade Tito's",
-    "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
     "yield": "",
