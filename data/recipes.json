@@ -38626,59 +38626,6 @@
     "images": []
   },
   {
-    "id": "drm-cds-24",
-    "masterId": "drm-peach-lemonade-m",
-    "name": "Peach Lemonade",
-    "location": "CDS",
-    "category": "Drink Menu",
-    "submenu": "Frozen Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Jim Beam Peach",
-        "qty": "1.5",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Monin Peach Puree",
-        "qty": "1",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Classic Lemonade Mix",
-        "qty": "2",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Water",
-        "qty": "3",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Jim Beam Peach",
-        "qty": ".5",
-        "unit": "Oz Float"
-      },
-      {
-        "name": "Cherry",
-        "qty": "1",
-        "unit": "Garnish"
-      }
-    ],
-    "steps": [
-      "Put all ingredients in a blender",
-      "Blend until smooth, Fresh Made",
-      "Pour into the correct glassware",
-      "Float with .5oz of 2oz Jim Beam Peach",
-      "Garnish:",
-      "Glassware:"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-cbg-24",
     "masterId": "drm-frozen-irish-coffee-m",
     "name": "Frozen Irish Coffee",
