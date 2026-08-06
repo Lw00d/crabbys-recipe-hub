@@ -6237,31 +6237,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-19",
-    "masterId": "dp-steak-filet-tips-m",
-    "name": "Steak Filet Tips",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "15 -5oz portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Steak Tips",
-        "qty": "5",
-        "unit": "Pound"
-      }
-    ],
-    "steps": [
-      "Pull and thaw a 5-pound package of fillet tips",
-      "Once thawed, cut into 1-inch cubes",
-      "Portion 5oz of fillet tips into small date portion bags and tie",
-      "Label, date, and store in the cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-17",
     "masterId": "dp-steak-filet-tips-m",
     "name": "Steak Filet Tips",
@@ -12706,40 +12681,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-67",
-    "masterId": "dp-stuffed-haddock-m",
-    "name": "Stuffed Haddock",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "1",
-        "unit": "Portion"
-      },
-      {
-        "name": "Cream Cheese stuffing",
-        "qty": "1",
-        "unit": "4oz Portion"
-      }
-    ],
-    "steps": [
-      "Cut one piece of Haddock into 3 slices",
-      "First, cut the filet down the middle, separating the small and large pieces",
-      "Next, cut a large piece right down the middle",
-      "Using a 12-oz rarebit, start building:",
-      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side down",
-      "Next, place the stuffing in the middle of the two pieces, spread out a little to fill in the opening",
-      "Place the final piece of fish over the stuffing",
-      "Place inside a day portion bag, and place in the W.I. cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-64",
     "masterId": "dp-stuffed-haddock-m",
     "name": "Stuffed Haddock",
@@ -13368,7 +13309,8 @@
       "If portioning, place rarebit inside a date portion bag, and refrigerate."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cds-76",
