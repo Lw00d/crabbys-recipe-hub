@@ -1,5 +1,36 @@
 [
   {
+    "name": "Cajun Flour",
+    "category": "Dinner Prep",
+    "yield": "6.5 lbs. / 5 - 1.25# or 20oz bags",
+    "shelfLife": "6 days/ if used, toss at the end of the day",
+    "smallware": "Large-mixing bowl, sifter, 5 lemon bags, 5 day dots",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": "5",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "1",
+        "unit": "24oz Container"
+      }
+    ],
+    "steps": [
+      "Combined the Flour & Blackening Seasoning",
+      "Place into a sifter",
+      "Over a large mixing bowl, sift together",
+      "Place in a lemon bag",
+      "Label, date, and place in dry storage area for future use."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjctzfp0jyovg",
+    "masterId": "dp-cds-73-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Caesar Salad Bulk",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
@@ -7060,38 +7091,6 @@
       "Cover with Plastic wrap, label, and date",
       "Place portions into a small day bag",
       "Lay out on sheet tray - Label, date, refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-62",
-    "masterId": "dp-nb-62-m",
-    "name": "Cajun Breading",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "3 lbs. / 3- 1# bags",
-    "shelfLife": "6 days/ if used, toss at the end of the day",
-    "smallware": "Medium-mixing bowl, 2 lemon bags, day dots",
-    "ingredients": [
-      {
-        "name": "Flour",
-        "qty": "2",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Blackening Seasoning",
-        "qty": "1",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Cajun Breader (2 parts flour to 1 part blackening seasoning).",
-      "In a medium-sized mixing bowl",
-      "Combined the Flour & Blackening Seasoning",
-      "Mix well with a whisk or a gloved hand",
-      "Place in a lemon bag",
-      "Label, date, and place in dry storage area for future use."
     ],
     "notes": "",
     "images": []
