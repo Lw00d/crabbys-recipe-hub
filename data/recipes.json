@@ -1,5 +1,65 @@
 [
   {
+    "name": "Corn 1/2 Fresh",
+    "category": "Dinner Prep",
+    "yield": "see prep numbers",
+    "shelfLife": "3 days",
+    "smallware": "1- 8\" SS full pan, tongs, full sheet pans, lemon bags",
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": "1",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Preparation:",
+      "Shuck the corn from the husk",
+      "Fill the pot 3/4 full with water",
+      "Place on the stove on high heat",
+      "Cook for 20 to 25 minutes",
+      "Pull off the stove and drain the corn",
+      "Cut each piece in half",
+      "Place 20 each (halves) in a lemon bag",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjekvrotixexd",
+    "masterId": "dp-nb-20-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Corn 1/2 Fresh",
+    "category": "Dinner Prep",
+    "yield": "see prep numbers",
+    "shelfLife": "3 days",
+    "smallware": "1- 8\" SS full pan, tongs, full sheet pans, lemon bags",
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": "1",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Preparation:",
+      "Shuck the corn from the husk",
+      "Fill the pot 3/4 full with water",
+      "Place on the stove on high heat",
+      "Cook for 20 to 25 minutes",
+      "Pull off the stove and drain the corn",
+      "Cut each piece in half",
+      "Place 20 each (halves) in a lemon bag",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjekti1ks1xyu",
+    "masterId": "dp-nb-20-m",
+    "location": "CBG"
+  },
+  {
     "name": "Conch Fritters",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -4015,7 +4075,7 @@
   {
     "id": "dp-nb-20",
     "masterId": "dp-nb-20-m",
-    "name": "Corn 1/2 Fresh ( Bar & Grill)",
+    "name": "Corn 1/2 Fresh",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "see prep numbers",
@@ -10218,68 +10278,6 @@
     "notes": "",
     "images": [],
     "active": false
-  },
-  {
-    "id": "dp-pl-70",
-    "masterId": "dp-corn-1-2-fresh-bar-n-grill-m",
-    "name": "Corn 1/2 Fresh (Bar n Grill)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Corn",
-        "qty": "1",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Shuck the corn from the husk",
-      "Place corn into the pot/pan",
-      "Fill the pot 3/4 full with water",
-      "Place on the stove on high heat",
-      "Cook for 20 to 25 minutes",
-      "Pull off the stove and drain the corn",
-      "Cut each piece in half",
-      "Place 20 each (1/2 halves) into a lemon bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-39",
-    "masterId": "dp-corn-1-2-fresh-bar-n-grill-m",
-    "name": "Corn 1/2 Fresh (Bar n Grill)",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Corn",
-        "qty": "1",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Shuck the corn from the husk",
-      "Place corn into the pot/pan",
-      "Fill the pot 3/4 full with water",
-      "Place on the stove on high heat",
-      "Cook for 20 to 25 minutes",
-      "Pull off the stove and drain the corn",
-      "Cut each piece in half",
-      "Place 20 each (1/2 halves) into a lemon bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-pl-71",
