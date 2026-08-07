@@ -16087,59 +16087,6 @@
     "images": []
   },
   {
-    "id": "bp-si-6",
-    "masterId": "bp-avocado-mix-m",
-    "name": "Avocado Mix",
-    "location": "Salty's Island",
-    "category": "Breakfast Prep",
-    "yield": "1 -4\" SS 1/3 pan",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Avocado Ripe",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Grape tomatoes",
-        "qty": "15-17ea.",
-        "unit": "Cut into quarters"
-      },
-      {
-        "name": "Red Onion (diced)",
-        "qty": "2",
-        "unit": "4oz cup"
-      },
-      {
-        "name": "Olive Oil",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Kosher salt",
-        "qty": "2",
-        "unit": "Pinch"
-      },
-      {
-        "name": "Lime juice Fresh",
-        "qty": "1",
-        "unit": "2oz cup"
-      }
-    ],
-    "steps": [
-      "Chop avocado into 1/4\"-1/2\" pieces",
-      "Cut each tomato in half, lengthwise",
-      "Dice the onion into small pieces",
-      "Add items into a medium mixing bowl",
-      "Add olive oil, lime juice, salt, and mix gently",
-      "Try not to break avocados down to mush",
-      "Date and label a 1/6 pan and store in a cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "bp-si-7",
     "masterId": "bp-si-7-m",
     "name": "Ranchero Sauce",
