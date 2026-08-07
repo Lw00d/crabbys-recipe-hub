@@ -13203,7 +13203,7 @@
   {
     "id": "dp-cds-77",
     "masterId": "dp-beer-batter-bar-n-grill-m",
-    "name": "Beer Batter Wet",
+    "name": "Beer Batter",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
@@ -13229,8 +13229,7 @@
       "KEEP the batter in the cooler, or ON ICE while on the line",
       "The product will need to be whisk together before using.",
       "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,",
-      "Add dry mix- then Cold Water"
+      "Keep on a Ice Bath while on cooks Breading Table,"
     ],
     "notes": "",
     "images": []
@@ -14395,11 +14394,11 @@
   {
     "id": "dp-cbg-76",
     "masterId": "dp-beer-batter-bar-n-grill-m",
-    "name": "Beer Batter (Bar n Grill)",
+    "name": "Beer Batter",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
-    "shelfLife": "1 day- to be tossed at the end of the night",
+    "shelfLife": "1 day - to be tossed at the end of the night",
     "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
@@ -14421,8 +14420,7 @@
       "KEEP the batter in the cooler, or ON ICE while on the line",
       "The product will need to be whisk together before using.",
       "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,",
-      "Add dry mix- then Cold Water"
+      "Keep on a Ice Bath while on cooks Breading Table,"
     ],
     "notes": "",
     "images": []
@@ -14430,11 +14428,11 @@
   {
     "id": "dp-si-27",
     "masterId": "dp-beer-batter-bar-n-grill-m",
-    "name": "Beer Batter (Bar n Grill)",
+    "name": "Beer Batter",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
-    "shelfLife": "1 day- to be tossed at the end of the night",
+    "shelfLife": "1 day - to be tossed at the end of the night",
     "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
@@ -14456,8 +14454,7 @@
       "KEEP the batter in the cooler, or ON ICE while on the line",
       "The product will need to be whisk together before using.",
       "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,",
-      "Add dry mix- then Cold Water"
+      "Keep on a Ice Bath while on cooks Breading Table,"
     ],
     "notes": "",
     "images": []
