@@ -1,5 +1,31 @@
 [
   {
+    "name": "Chicken Wings Portion",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "qty": "8",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, or 5 and 3 ",
+      "Place in a portion bag, tie shut.",
+      "Place back into the original box, label with the number of portions, and date prepped.",
+      "Place back into the freezer until needed ",
+      "Smallware: portion bags"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjdjoftwg9kjl",
+    "masterId": "m-msby2akrn6utll",
+    "location": "CBG"
+  },
+  {
     "name": "Chicken Strips",
     "category": "Dinner Prep",
     "yield": "2 bags = 1 or 2- SS 4\" 1/3 pan",
@@ -14423,37 +14449,6 @@
       "Date and store back in the freezer.",
       "3/4 lb. portion- all single legs shown",
       "5 lb. Portion - cluster and single legs"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-74",
-    "masterId": "dp-cbg-74-m",
-    "name": "Chicken Wings",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "mixing bowl, whisk, 2 quart size squeeze bottles, rubber spatula",
-    "ingredients": [
-      {
-        "name": "Chicken Wings",
-        "qty": "8",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "** Prep the Wings while frozen**",
-      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, or 5 and 3",
-      "Place in a portion bag, tie shut.",
-      "Place back into the original box, label with the number of portions, and date prepped.",
-      "Place back into the freezer until needed",
-      "2 parts datil bloody Mary mix & 1 part BBQ sauce**",
-      "Whisk ingredients together in a medium-size mixing bowl, Pour into quart size squeeze bottles",
-      "Use a day portion bag to cover the top of the bottle and screw the cap on",
-      "Place in the cooler until needed",
-      "Count 4 of each"
     ],
     "notes": "",
     "images": []
