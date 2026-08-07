@@ -10916,34 +10916,6 @@
     "active": false
   },
   {
-    "id": "dp-pl-80",
-    "masterId": "dp-conch-fritter-tubs-m",
-    "name": "Conch Fritter Tubs",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "1 tub = Raw 76 pieces Orchid scoops each",
-    "shelfLife": "3 days",
-    "smallware": "Orchid scoop, full 2\" hotel pan, 4\" 1/2 pan, date bag",
-    "ingredients": [
-      {
-        "name": "Conch Fritter Tubs",
-        "qty": "1",
-        "unit": "Tubs"
-      }
-    ],
-    "steps": [
-      "Thaw under refrigeration (2-day thaw)",
-      "Fry:",
-      "Par-cooking for daily use:",
-      "Use an orchid scoop to fry 1 tub at a time",
-      "Cook to the halfway point and let rest",
-      "Stack in an SS 4\" half pan",
-      "Label, date, and Refrigerate up to 48 hours"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-52",
     "masterId": "dp-conch-fritter-tubs-m",
     "name": "Conch Fritter Tubs",
@@ -31534,7 +31506,7 @@
   {
     "id": "dm-cbg-18",
     "masterId": "dm-cbg-18-m",
-    "name": "Conch Fritters (All stores)",
+    "name": "Conch Fritters",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
