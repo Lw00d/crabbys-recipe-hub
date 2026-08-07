@@ -1,5 +1,61 @@
 [
   {
+    "name": "Coconut Rice",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rice Coconut (Prep)",
+        "qty": "1",
+        "unit": "Ivory scoop"
+      }
+    ],
+    "steps": [
+      "Scoop heated rice onto a plate using an ivory scoop",
+      "Sprinkle with toasted coconut",
+      "Expo: Toasted coconut",
+      "Plateware: Entrée - directly on plate, Solo - Small Bowl"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Coconut_Rice_0.jpg"
+    ],
+    "id": "m-msjebxf0u0p1oq",
+    "masterId": "dm-cds-87-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Coconut Rice",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rice Coconut (Prep)",
+        "qty": "1",
+        "unit": "Ivory scoop"
+      }
+    ],
+    "steps": [
+      "Scoop heated rice onto a plate using an ivory scoop",
+      "Sprinkle with toasted coconut",
+      "Expo: Toasted coconut",
+      "Plateware: Entrée - directly on plate, Solo - Small Bowl"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Coconut_Rice_0.jpg"
+    ],
+    "id": "m-msjebubsnb6aou",
+    "masterId": "dm-cds-87-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Coconut Breading",
     "category": "Dinner Prep",
     "yield": "",
@@ -26152,30 +26208,6 @@
     ],
     "steps": [
       "Take 1 Ivory scoop and dish into Monkey Dish"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dm-si-65",
-    "masterId": "dm-si-65-m",
-    "name": "Coconut Rice",
-    "location": "Salty's Island",
-    "category": "Dinner Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Coconut Rice (prepped)",
-        "qty": "1",
-        "unit": "Beige Scoop"
-      }
-    ],
-    "steps": [
-      "Take a Beige scoop, full, and place it into the cup",
-      "Top with toasted Coconut Flakes"
     ],
     "notes": "",
     "images": []
@@ -72051,34 +72083,6 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chips_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chips_CBG_1.jpg"
-    ]
-  },
-  {
-    "id": "dm-cbg-124",
-    "masterId": "dm-cbg-124-m",
-    "name": "Coconut Rice",
-    "location": "CBG",
-    "category": "Dinner Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Rice Coconut (Prep)",
-        "qty": "1",
-        "unit": "Ivory scoop"
-      }
-    ],
-    "steps": [
-      "Scoop heated rice onto a plate using an ivory scoop",
-      "Sprinkle with toasted coconut",
-      "Expo: Toasted coconut",
-      "Plateware: Monkey dish, Black plastic bowl, when solo or with basket entrée, or directly on plate"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Coconut_Rice_CBG_0.jpg"
     ]
   },
   {
