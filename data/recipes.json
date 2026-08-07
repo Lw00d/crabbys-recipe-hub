@@ -1,5 +1,67 @@
 [
   {
+    "name": "Chilean Seabass Thaw /Prep",
+    "category": "Dinner Prep",
+    "yield": "20 /6oz portions pre-case",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seabass",
+        "qty": "1",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Pull Thaw a case and remove each piece from its bag",
+      "Set each piece in a perforated pan with a drip tray underneath",
+      "Cover and let sit until completely thawed",
+      "Once thawed, the water has been completely drained.",
+      "Weigh each piece separately before cutting; they will vary in thickness and size.",
+      "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
+      "If the piece is thin, match it up to another thin piece. If the piece is thick, match it up to another thick piece.",
+      "Put all portions into a labeled & dated pan, place in the cooler",
+      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use them up.",
+      "Portions range in weight from 6.0 oz to 6.5 oz. Don’t cut anything if you don’t have to."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjdr98ushuyfp",
+    "masterId": "dp-si-51-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Chilean Seabass Thaw /Prep",
+    "category": "Dinner Prep",
+    "yield": "20 /6oz portions pre-case",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seabass",
+        "qty": "1",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Pull Thaw a case and remove each piece from its bag",
+      "Set each piece in a perforated pan with a drip tray underneath",
+      "Cover and let sit until completely thawed",
+      "Once thawed, the water has been completely drained.",
+      "Weigh each piece separately before cutting; they will vary in thickness and size.",
+      "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
+      "If the piece is thin, match it up to another thin piece. If the piece is thick, match it up to another thick piece.",
+      "Put all portions into a labeled & dated pan, place in the cooler",
+      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use them up.",
+      "Portions range in weight from 6.0 oz to 6.5 oz. Don’t cut anything if you don’t have to."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjdr593t3oqwf",
+    "masterId": "dp-si-51-m",
+    "location": "CBG"
+  },
+  {
     "name": "Chicken Wings Grilled Fresh",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -10179,68 +10241,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-72",
-    "masterId": "dp-chilean-seabass-thaw-prep-m",
-    "name": "Chilean Seabass Thaw & Prep",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "per case- 20 /6oz portions. Please Track for accurate %",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chilean Seabass",
-        "qty": "1",
-        "unit": "10Lb. case"
-      }
-    ],
-    "steps": [
-      "Place the unpackaged fish on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in a cooler overnight.",
-      "Weigh each piece separately before any cutting takes place",
-      "If it weighs 5.8oz or more, place it in a date bag",
-      "If it is under 5.8oz, take a piece that is close in size and cut it into 1/3s",
-      "If the piece is thin, match it up to another thin piece.",
-      "If the piece is thick, match it up to another thick piece.",
-      "Place a cut piece and the full in a date bag.",
-      "Portion range: weight from 5.8oz. - 6.2oz., Don’t cut any pieces if you can help it"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-41",
-    "masterId": "dp-chilean-seabass-thaw-prep-m",
-    "name": "Chilean Seabass Thaw & Prep",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "per case- 20 /6oz portions. Please Track for accurate %",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chilean Seabass",
-        "qty": "1",
-        "unit": "10Lb. case"
-      }
-    ],
-    "steps": [
-      "Place the unpackaged fish on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in a cooler overnight.",
-      "Weigh each piece separately before any cutting takes place",
-      "If it weighs 5.8oz or more, place it in a date bag",
-      "If it is under 5.8oz, take a piece that is close in size and cut it into 1/3s",
-      "If the piece is thin, match it up to another thin piece.",
-      "If the piece is thick, match it up to another thick piece.",
-      "Place a cut piece and the full in a date bag.",
-      "Portion range: weight from 5.8oz. - 6.2oz., Don’t cut any pieces if you can help it"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-pl-73",
     "masterId": "dp-crab-cake-base-mix-m",
     "name": "Crab Cake Base Mix",
@@ -15819,39 +15819,6 @@
     "images": []
   },
   {
-    "id": "dp-si-49",
-    "masterId": "dp-si-49-m",
-    "name": "Seabass S.I.",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "20/ 6 oz. portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Seabass (6oz)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Pull Thaw a case and remove each piece from its bag",
-      "Set each piece in a perforated pan with a drip tray underneath",
-      "Audio recording started: 12:35 PM Wednesday, October 29, 2025",
-      "Cover and let sit until completely thawed",
-      "Once thawed and water has drained, weigh each piece",
-      "If they weigh under 6oz, cut another piece with similar thickness into 3 pieces",
-      "Audio recording started: 12:37 PM Wednesday, October 29, 2025",
-      "Place one cut piece with the whole piece and portion into a date bag",
-      "Put all portions into a pan and place in the cooler",
-      "Audio recording started: 12:47 PM Wednesday, October 29, 2025",
-      "Notes: Place extra cut pieces (if any)into the smallest portion bags to use them up.",
-      "10# frozen case, once thawed and drained, should yield 20 portions"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-si-50",
     "masterId": "dp-si-50-m",
     "name": "Steak Seasoning (SI)",
@@ -15888,7 +15855,7 @@
   {
     "id": "dp-si-51",
     "masterId": "dp-si-51-m",
-    "name": "Chilean Sea Bass Thaw /Prep",
+    "name": "Chilean Seabass Thaw /Prep",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "20 /6oz portions pre-case",
@@ -15905,7 +15872,6 @@
       "Pull Thaw a case and remove each piece from its bag",
       "Set each piece in a perforated pan with a drip tray underneath",
       "Cover and let sit until completely thawed",
-      "Go to Prep instructions",
       "Once thawed, the water has been completely drained.",
       "Weigh each piece separately before cutting; they will vary in thickness and size.",
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
