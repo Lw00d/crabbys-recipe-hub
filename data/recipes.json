@@ -29501,50 +29501,6 @@
     "images": []
   },
   {
-    "id": "dm-pl-47",
-    "masterId": "dm-pl-47-m",
-    "name": "Chicken Strips",
-    "location": "Palm",
-    "category": "Dinner Menu",
-    "submenu": "Mainland",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chicken Strips (Prep)",
-        "qty": "9",
-        "unit": "Chicken Strip"
-      },
-      {
-        "name": "Milk wash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breader",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Ranch or Bleu Cheese",
-        "qty": "4",
-        "unit": "Vol oz"
-      }
-    ],
-    "steps": [
-      "Place 9 chicken strips into the milk wash and drain excess.",
-      "Transfer into the chicken breader and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and are a golden brown to an internal temp of 165°.",
-      "Transfer to a sav a day to drain excess oil.",
-      "Place the chicken on correct plateware.",
-      "Expo: Dipping sauce, sides",
-      "Plateware: Round Dinner Plate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dm-pl-48",
     "masterId": "dm-pl-48-m",
     "name": "Grilled Shrimp Street Corn",
