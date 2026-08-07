@@ -12460,7 +12460,8 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-101",
