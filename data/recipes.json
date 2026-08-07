@@ -1,5 +1,137 @@
 [
   {
+    "name": "Caesar Salad Bulk",
+    "category": "Dinner Prep",
+    "yield": "1/2 cs. = 2 lemon bags",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Romaine (pre-cut)",
+        "qty": "1",
+        "unit": "2Lb. Bag"
+      }
+    ],
+    "steps": [
+      "Before opening the bag, look for discolored or wilted pieces",
+      "If questionable, ask a manager to look at it before opening",
+      "Do not toss out without the Manager looking at it first",
+      "The salad person needs to remove any wilted or discolored pieces before use",
+      "With Spinner:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves into 1\" cuts",
+      "Fill the sink halfway with water and a half bucket of ice. Add the Fruit & Veggie Wash to the water 0.25oz. Per gallon of water (Read the label), and stir to dissolve",
+      "Add chopped Romaine, let sit for 2 to 3 minutes",
+      "Mix to get any dirt removed from the leaves",
+      "Lift into the basket, let it drain for 1 to 2 minutes",
+      "Place into the Salad spinner and spin for a minute, drain excess water from the spinner",
+      "While draining water, shake the basket to remove lettuce from the walls",
+      "Put the top on and do step #6 again",
+      "Remove the slotted basket, and portion into lemon bags",
+      "Label, date, and store in the cooler, above any raw foods",
+      "NO SPINNER:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves in 1\" cuts",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Label, date, and store in the walk-in cooler, above any raw foods"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjcsn1b19eg0f",
+    "masterId": "dp-caesar-salad-bulk-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Caesar Salad Bulk",
+    "category": "Dinner Prep",
+    "yield": "1/2 cs. = 2 lemon bags",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Romaine (pre-cut)",
+        "qty": "1",
+        "unit": "2Lb. Bag"
+      }
+    ],
+    "steps": [
+      "Before opening the bag, look for discolored or wilted pieces",
+      "If questionable, ask a manager to look at it before opening",
+      "Do not toss out without the Manager looking at it first",
+      "The salad person needs to remove any wilted or discolored pieces before use",
+      "With Spinner:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves into 1\" cuts",
+      "Fill the sink halfway with water and a half bucket of ice. Add the Fruit & Veggie Wash to the water 0.25oz. Per gallon of water (Read the label), and stir to dissolve",
+      "Add chopped Romaine, let sit for 2 to 3 minutes",
+      "Mix to get any dirt removed from the leaves",
+      "Lift into the basket, let it drain for 1 to 2 minutes",
+      "Place into the Salad spinner and spin for a minute, drain excess water from the spinner",
+      "While draining water, shake the basket to remove lettuce from the walls",
+      "Put the top on and do step #6 again",
+      "Remove the slotted basket, and portion into lemon bags",
+      "Label, date, and store in the cooler, above any raw foods",
+      "NO SPINNER:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves in 1\" cuts",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Label, date, and store in the walk-in cooler, above any raw foods"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjcsmjthmu936",
+    "masterId": "dp-caesar-salad-bulk-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Caesar Salad Bulk",
+    "category": "Dinner Prep",
+    "yield": "1/2 cs. = 2 lemon bags",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Romaine (pre-cut)",
+        "qty": "1",
+        "unit": "2Lb. Bag"
+      }
+    ],
+    "steps": [
+      "Before opening the bag, look for discolored or wilted pieces",
+      "If questionable, ask a manager to look at it before opening",
+      "Do not toss out without the Manager looking at it first",
+      "The salad person needs to remove any wilted or discolored pieces before use",
+      "With Spinner:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves into 1\" cuts",
+      "Fill the sink halfway with water and a half bucket of ice. Add the Fruit & Veggie Wash to the water 0.25oz. Per gallon of water (Read the label), and stir to dissolve",
+      "Add chopped Romaine, let sit for 2 to 3 minutes",
+      "Mix to get any dirt removed from the leaves",
+      "Lift into the basket, let it drain for 1 to 2 minutes",
+      "Place into the Salad spinner and spin for a minute, drain excess water from the spinner",
+      "While draining water, shake the basket to remove lettuce from the walls",
+      "Put the top on and do step #6 again",
+      "Remove the slotted basket, and portion into lemon bags",
+      "Label, date, and store in the cooler, above any raw foods",
+      "NO SPINNER:",
+      "Take 24 romaine hearts",
+      "Cut the Core from each, and remove outer leaves (if discolored) and discard",
+      "Cut remaining leaves in 1\" cuts",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Label, date, and store in the walk-in cooler, above any raw foods"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjcslw2a98213",
+    "masterId": "dp-caesar-salad-bulk-m",
+    "location": "CDS"
+  },
+  {
     "name": "Trigger Fish",
     "category": "Dinner Menu",
     "submenu": "Fresh Catch",
