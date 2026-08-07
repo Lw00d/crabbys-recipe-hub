@@ -74868,5 +74868,49 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Calamari_NB_0.jpg"
     ]
+  },
+  {
+    "id": "dm-si-73",
+    "masterId": "dm-si-73-m",
+    "name": "Brussels Sprouts (Appetizer)",
+    "location": "Salty's Island",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brussels",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Soygave",
+        "qty": "1",
+        "unit": "2oz ladle"
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "Pinch",
+        "unit": "Sprinkle"
+      }
+    ],
+    "steps": [
+      "Flash fry 1 portion of Brussels for 45 seconds",
+      "Transfer to Sav A Day, and allow excess oil to drain",
+      "Place Brussels in a mixing bowl",
+      "Ladle sauce over Brussels and toss together",
+      "Pour from the bowl into a rarebit",
+      "Top with Sesame seeds",
+      "Expo: Sesame seeds",
+      "Plateware: Pasta Bowl"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Brussels_Sprouts_Appetizer_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Brussels_Sprouts_Appetizer_1.jpg"
+    ],
+    "active": true
   }
 ]
