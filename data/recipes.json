@@ -1,5 +1,181 @@
 [
   {
+    "name": "Soup Clam Chowder",
+    "category": "Dinner Prep",
+    "yield": "1 Lemon Bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Soup Clam Chowder Large",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": "8"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "2",
+        "unit": "quart",
+        "qty2": "8"
+      },
+      {
+        "name": "Clam Chowder Add (Prep)",
+        "qty": "1",
+        "unit": "Prep each",
+        "qty2": "4"
+      }
+    ],
+    "steps": [
+      "Mix cans of Clam Chowder and Quarts of Heavy Cream in a pot",
+      "Add Prep Clam Add",
+      "Heat while stirring for 3 minutes.",
+      "Split into line-size portions for the steam table"
+    ],
+    "notes": "",
+    "images": [],
+    "dualBatch": {
+      "label1": "1 x",
+      "label2": "4 x",
+      "count": 2
+    },
+    "yield2": "4 Lemon Bags",
+    "id": "m-msje2pauwug3h4",
+    "masterId": "dp-si-38-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Soup Clam Chowder",
+    "category": "Dinner Prep",
+    "yield": "1 Lemon Bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Soup Clam Chowder Large",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": "8"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "2",
+        "unit": "quart",
+        "qty2": "8"
+      },
+      {
+        "name": "Clam Chowder Add (Prep)",
+        "qty": "1",
+        "unit": "Prep each",
+        "qty2": "4"
+      }
+    ],
+    "steps": [
+      "Mix cans of Clam Chowder and Quarts of Heavy Cream in a pot",
+      "Add Prep Clam Add",
+      "Heat while stirring for 3 minutes.",
+      "Split into line-size portions for the steam table"
+    ],
+    "notes": "",
+    "images": [],
+    "dualBatch": {
+      "label1": "1 x",
+      "label2": "4 x",
+      "count": 2
+    },
+    "yield2": "4 Lemon Bags",
+    "id": "m-msje2p084e2fsk",
+    "masterId": "dp-si-38-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Soup Clam Chowder",
+    "category": "Dinner Prep",
+    "yield": "1 Lemon Bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Soup Clam Chowder Large",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": "8"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "2",
+        "unit": "quart",
+        "qty2": "8"
+      },
+      {
+        "name": "Clam Chowder Add (Prep)",
+        "qty": "1",
+        "unit": "Prep each",
+        "qty2": "4"
+      }
+    ],
+    "steps": [
+      "Mix cans of Clam Chowder and Quarts of Heavy Cream in a pot",
+      "Add Prep Clam Add",
+      "Heat while stirring for 3 minutes.",
+      "Split into line-size portions for the steam table"
+    ],
+    "notes": "",
+    "images": [],
+    "dualBatch": {
+      "label1": "1 x",
+      "label2": "4 x",
+      "count": 2
+    },
+    "yield2": "4 Lemon Bags",
+    "id": "m-msje2oerqpgio0",
+    "masterId": "dp-si-38-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Soup Clam Chowder",
+    "category": "Dinner Prep",
+    "yield": "1 Lemon Bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Soup Clam Chowder Large",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": "8"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "2",
+        "unit": "quart",
+        "qty2": "8"
+      },
+      {
+        "name": "Clam Chowder Add (Prep)",
+        "qty": "1",
+        "unit": "Prep each",
+        "qty2": "4"
+      }
+    ],
+    "steps": [
+      "Mix cans of Clam Chowder and Quarts of Heavy Cream in a pot",
+      "Add Prep Clam Add",
+      "Heat while stirring for 3 minutes.",
+      "Split into line-size portions for the steam table"
+    ],
+    "notes": "",
+    "images": [],
+    "dualBatch": {
+      "label1": "1 x",
+      "label2": "4 x",
+      "count": 2
+    },
+    "yield2": "4 Lemon Bags",
+    "id": "m-msje2nhg3cut9u",
+    "masterId": "dp-si-38-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Chilean Seabass Thaw /Prep",
     "category": "Dinner Prep",
     "yield": "20 /6oz portions pre-case",
@@ -3852,7 +4028,6 @@
       }
     ],
     "steps": [
-      "Dice 1 large onion.",
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
       "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
       "Heat while stirring for 3 minutes.",
@@ -3896,7 +4071,6 @@
       }
     ],
     "steps": [
-      "Dice 1 large onion.",
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
       "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
       "Heat while stirring for 3 minutes.",
@@ -3940,7 +4114,6 @@
       }
     ],
     "steps": [
-      "Dice 1 large onion.",
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
       "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
       "Heat while stirring for 3 minutes.",
@@ -3984,7 +4157,6 @@
       }
     ],
     "steps": [
-      "Dice 1 large onion.",
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
       "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
       "Heat while stirring for 3 minutes.",
@@ -4028,7 +4200,6 @@
       }
     ],
     "steps": [
-      "Dice 1 large onion.",
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
       "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
       "Heat while stirring for 3 minutes.",
@@ -4719,202 +4890,6 @@
     "notes": "",
     "images": [],
     "active": false
-  },
-  {
-    "id": "dp-nb-29",
-    "masterId": "dp-soup-clam-chowder-m",
-    "name": "Soup Clam Chowder",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "4 - Lemon Bags",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Clams in Ocean Water",
-        "qty": "1",
-        "unit": "Can"
-      },
-      {
-        "name": "Soup Clam Chowder Large",
-        "qty": "8",
-        "unit": "Can"
-      },
-      {
-        "name": "Cream Heavy Whipping",
-        "qty": "8",
-        "unit": "Each Qt."
-      },
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "1",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Bacon Pieces Cooked",
-        "qty": "2",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Mix 8 cans of Clam Chowder and 8 quarts of Heavy Cream",
-      "Dice 1# yellow onion. Weigh out 2 lbs. of bacon pieces.",
-      "Sautee onion and bacon in a large skillet until onions start to caramelize and bacon crisps.",
-      "Add 1 wt. oz of house spice and 1 can of clams with juice.",
-      "Heat while stirring for 3 minutes.",
-      "Place in the cream and chowder mixture when done",
-      "Split into line-size portions for the steam table",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-14",
-    "masterId": "dp-soup-clam-chowder-m",
-    "name": "Soup Clam Chowder",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "4 - Lemon Bags",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Clams in Ocean Water",
-        "qty": "1",
-        "unit": "Can"
-      },
-      {
-        "name": "Soup Clam Chowder Large",
-        "qty": "8",
-        "unit": "Can"
-      },
-      {
-        "name": "Cream Heavy Whipping",
-        "qty": "8",
-        "unit": "Each Qt."
-      },
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "1",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Bacon Pieces Cooked",
-        "qty": "2",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Mix 8 cans of Clam Chowder and 8 quarts of Heavy Cream",
-      "Dice 1# yellow onion. Weigh out 2 lbs. of bacon pieces.",
-      "Sautee onion and bacon in a large skillet until onions start to caramelize and bacon crisps.",
-      "Add 1 wt. oz of house spice and 1 can of clams with juice.",
-      "Heat while stirring for 3 minutes.",
-      "Place in the cream and chowder mixture when done",
-      "Split into line-size portions for the steam table",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-12",
-    "masterId": "dp-soup-clam-chowder-m",
-    "name": "Soup Clam Chowder",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "4 - Lemon Bags",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Clams in Ocean Water",
-        "qty": "1",
-        "unit": "Can"
-      },
-      {
-        "name": "Soup Clam Chowder Large",
-        "qty": "8",
-        "unit": "Can"
-      },
-      {
-        "name": "Cream Heavy Whipping",
-        "qty": "8",
-        "unit": "Each Qt."
-      },
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "1",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Bacon Pieces Cooked",
-        "qty": "2",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Mix 8 cans of Clam Chowder and 8 quarts of Heavy Cream",
-      "Dice 1# yellow onion. Weigh out 2 lbs. of bacon pieces.",
-      "Sautee onion and bacon in a large skillet until onions start to caramelize and bacon crisps.",
-      "Add 1 wt. oz of house spice and 1 can of clams with juice.",
-      "Heat while stirring for 3 minutes.",
-      "Place in the cream and chowder mixture when done",
-      "Split into line-size portions for the steam table",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-10",
-    "masterId": "dp-soup-clam-chowder-m",
-    "name": "Soup Clam Chowder",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "4 - Lemon Bags",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Clams in Ocean Water",
-        "qty": "1",
-        "unit": "Can"
-      },
-      {
-        "name": "Soup Clam Chowder Large",
-        "qty": "8",
-        "unit": "Can"
-      },
-      {
-        "name": "Cream Heavy Whipping",
-        "qty": "8",
-        "unit": "Each Qt."
-      },
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "1",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Bacon Pieces Cooked",
-        "qty": "2",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Mix 8 cans of Clam Chowder and 8 quarts of Heavy Cream",
-      "Dice 1# yellow onion. Weigh out 2 lbs. of bacon pieces.",
-      "Sautee onion and bacon in a large skillet until onions start to caramelize and bacon crisps.",
-      "Add 1 wt. oz of house spice and 1 can of clams with juice.",
-      "Heat while stirring for 3 minutes.",
-      "Place in the cream and chowder mixture when done",
-      "Split into line-size portions for the steam table",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-nb-30",
@@ -15406,38 +15381,46 @@
   {
     "id": "dp-si-38",
     "masterId": "dp-si-38-m",
-    "name": "Soup Clam Chowder (SI)",
+    "name": "Soup Clam Chowder",
     "location": "Salty's Island",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 Lemon Bag",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Soup Clam Chowder Large",
         "qty": "2",
-        "unit": "Can"
+        "unit": "Can",
+        "qty2": "8"
       },
       {
         "name": "Cream Heavy Whipping",
         "qty": "2",
-        "unit": "quart"
+        "unit": "quart",
+        "qty2": "8"
       },
       {
         "name": "Clam Chowder Add (Prep)",
         "qty": "1",
-        "unit": "Prep each"
+        "unit": "Prep each",
+        "qty2": "4"
       }
     ],
     "steps": [
-      "Mix 2 #5 cans of Clam Chowder and 2 quarts of Heavy Cream",
-      "Add 1 Prep Clam Add",
+      "Mix cans of Clam Chowder and Quarts of Heavy Cream in a pot",
+      "Add Prep Clam Add",
       "Heat while stirring for 3 minutes.",
-      "Split into line-size portions for the steam table",
-      "Yields:"
+      "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 x",
+      "label2": "4 x",
+      "count": 2
+    },
+    "yield2": "4 Lemon Bags"
   },
   {
     "id": "dp-si-39",
