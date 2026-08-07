@@ -1,5 +1,34 @@
 [
   {
+    "name": "Conch Fritters",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Conch Fritter Tub (Pull Thaw)",
+        "qty": "6ea.",
+        "unit": "Conch Fritter"
+      }
+    ],
+    "steps": [
+      "Using the orchid scoop to place 6 each into a 350°F fryer",
+      "Let cook for 5 to 6 minutes until golden brown and cooked through",
+      "Let rest in a sav-a-day before plating to drain excess oil",
+      "**Pre-cooking for busy levels and freezing or refrigerating**",
+      "Expo:",
+      "Plateware:",
+      "Pre-Made Frozen - Served"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msjeduhfbcuc6k",
+    "masterId": "dm-cbg-18-m",
+    "location": "CDS"
+  },
+  {
     "name": "Coconut Rice",
     "category": "Dinner Menu",
     "submenu": "Sides",
