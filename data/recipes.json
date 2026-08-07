@@ -1,5 +1,44 @@
 [
   {
+    "name": "Coconut Breading",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "10 days unused - Used toss at end of day",
+    "smallware": "medium-sized mixing bowl, 2 or 3 lemon bags",
+    "ingredients": [
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "10",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Unsweetened Coconut Flakes",
+        "qty": "2",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Flour",
+        "qty": "2.5",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Sugar Granulated",
+        "qty": "8",
+        "unit": "Wt. ounces"
+      }
+    ],
+    "steps": [
+      "Mix sugar, flour, and coconut, then add to panko, mix well",
+      "Place into 2 or 3 lemon bags for storing",
+      "Label, date, and store accordingly"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msje7t6sge5l5c",
+    "masterId": "dp-coconut-breading-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Soup Clam Chowder",
     "category": "Dinner Prep",
     "yield": "1 Lemon Bag",
@@ -13313,7 +13352,7 @@
   {
     "id": "dp-cds-76",
     "masterId": "dp-coconut-breading-m",
-    "name": "Coconut Breading (In-house made)",
+    "name": "Coconut Breading",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -13331,18 +13370,18 @@
         "unit": "Lbs."
       },
       {
-        "name": "Sugar Granulated",
-        "qty": "8",
-        "unit": "Wt. ounces"
-      },
-      {
         "name": "Flour",
         "qty": "2.5",
         "unit": "Lbs."
+      },
+      {
+        "name": "Sugar Granulated",
+        "qty": "8",
+        "unit": "Wt. ounces"
       }
     ],
     "steps": [
-      "Mix sugar and coconut, then add to panko, mix well",
+      "Mix sugar, flour, and coconut, then add to panko, mix well",
       "Place into 2 or 3 lemon bags for storing",
       "Label, date, and store accordingly"
     ],
