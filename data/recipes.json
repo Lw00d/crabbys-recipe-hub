@@ -1,5 +1,81 @@
 [
   {
+    "name": "Fish Thawing Vacuumed Packed Procedure",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Frozen Fish IQF Individual Bags Vacuum Packed (Without Air)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Such as the photos below",
+      "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
+      "The fish must be totally removed from the packaging Before Thawing",
+      "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngpvtpk94jpu",
+    "masterId": "dp-aafish-thawing-vacuumed-packed-procedure-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Fish Thawing Vacuumed Packed Procedure",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Frozen Fish IQF Individual Bags Vacuum Packed (Without Air)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Such as the photos below",
+      "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
+      "The fish must be totally removed from the packaging Before Thawing",
+      "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngpvek9mtc2s",
+    "masterId": "dp-aafish-thawing-vacuumed-packed-procedure-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Fish Thawing Normal Procedure",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Frozen Fish IQF Bags with (Air Is In The Bag)",
+        "qty": "Each",
+        "unit": "2, 5, or 10# Bag"
+      }
+    ],
+    "steps": [
+      "Loose Packaging Items with air",
+      "You may leave the product in the bag as long as you",
+      "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngp2flhqrrkt",
+    "masterId": "dp-aafish-thawing-normal-procedure-m",
+    "location": "CBG"
+  },
+  {
     "name": "Datil Pepper Sauce",
     "category": "Dinner Prep",
     "yield": "",
