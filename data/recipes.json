@@ -11296,7 +11296,7 @@
   },
   {
     "id": "dp-cds-55",
-    "masterId": "dp-datil-pepper-sauce-m",
+    "masterId": "m-msngknk3jyp2xl",
     "name": "Datil Pepper Sauce",
     "location": "CDS",
     "category": "Dinner Prep",
@@ -15278,7 +15278,8 @@
       "Remove from heat and store in a deep 1/6 pan"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-si-34",
