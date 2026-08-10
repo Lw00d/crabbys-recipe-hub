@@ -1,6 +1,6 @@
 [
   {
-    "name": "Stuffed Flounder",
+    "name": "Stuffed Flounder Dinner",
     "category": "Dinner Menu",
     "submenu": "Offshore",
     "yield": "",
@@ -70160,7 +70160,7 @@
   {
     "id": "dm-cds-100",
     "masterId": "dm-cds-100-m",
-    "name": "Stuffed Flounder",
+    "name": "Stuffed Flounder Dinner",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
