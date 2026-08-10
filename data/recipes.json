@@ -10109,51 +10109,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-65",
-    "masterId": "dp-green-bean-carrot-prep-m",
-    "name": "Green Bean & Carrot Prep",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "5.15 - 5.20# 19-20 portions",
-    "shelfLife": "",
-    "smallware": "1- 4\" 1/2 pan, lid,",
-    "ingredients": [
-      {
-        "name": "Green Beans",
-        "qty": "1",
-        "unit": "Lb."
-      },
-      {
-        "name": "Carrots Parisian",
-        "qty": "1",
-        "unit": "Lb."
-      },
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "2",
-        "unit": "Orchid scoops (2oz.)"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "0.10",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Take a handful of beans, while holding them together.",
-      "Clip the ends of green beans to remove the stems",
-      "In the appropriate container, mix clipped green beans, carrots, house spice, and garlic spread",
-      "Garlic spread uses 3/4oz Orchid scoop",
-      "Label, date, and rotate",
-      "Same steps as above",
-      "Check to that all the ends are removed",
-      "Trimming end of Beans off",
-      "<-----------Check that the ends"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-39",
     "masterId": "dp-green-bean-carrot-prep-m",
     "name": "Green Bean & Carrot Prep",
@@ -10187,58 +10142,10 @@
     "steps": [
       "Take a handful of beans, while holding them together.",
       "Clip the ends of green beans to remove the stems",
+      "Check to that all the ends are removed",
       "In the appropriate container, mix clipped green beans, carrots, house spice, and garlic spread",
       "Garlic spread uses 3/4oz Orchid scoop",
-      "Label, date, and rotate",
-      "Same steps as above",
-      "Check to that all the ends are removed",
-      "Trimming end of Beans off",
-      "<-----------Check that the ends"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-34",
-    "masterId": "dp-green-bean-carrot-prep-m",
-    "name": "Green Bean & Carrot Prep",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "5.15 - 5.20# 19-20 portions",
-    "shelfLife": "",
-    "smallware": "1- 4\" 1/2 pan, lid,",
-    "ingredients": [
-      {
-        "name": "Green Beans",
-        "qty": "1",
-        "unit": "Lb."
-      },
-      {
-        "name": "Carrots Parisian",
-        "qty": "1",
-        "unit": "Lb."
-      },
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "2",
-        "unit": "Orchid scoops (2oz.)"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "0.10",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Take a handful of beans, while holding them together.",
-      "Clip the ends of green beans to remove the stems",
-      "In the appropriate container, mix clipped green beans, carrots, house spice, and garlic spread",
-      "Garlic spread uses 3/4oz Orchid scoop",
-      "Label, date, and rotate",
-      "Same steps as above",
-      "Check to that all the ends are removed",
-      "Trimming end of Beans off",
-      "<-----------Check that the ends"
+      "Label, date, and rotate"
     ],
     "notes": "",
     "images": []
@@ -72236,39 +72143,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Fries_CBG_0.jpg"
-    ]
-  },
-  {
-    "id": "dm-cbg-129",
-    "masterId": "dm-cbg-129-m",
-    "name": "Green Bean & Carrots",
-    "location": "CBG",
-    "category": "Dinner Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Double Recipe",
-        "qty": "2#",
-        "unit": "Recipe"
-      },
-      {
-        "name": "2# Carrots & 2# Green Beans (Prep)",
-        "qty": "",
-        "unit": ""
-      }
-    ],
-    "steps": [
-      "Place the container in the microwave and cook for 4.5 minutes, then mix",
-      "Place back in the Microwave and cook for an additional 3 minutes.",
-      "Place in the steam well on line",
-      "Use 4 4-oz slotted spooled to put on the plate for the side and in the monkey dish for a side order."
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Green_Bean_Carrots_CBG_0.jpg"
     ]
   },
   {
