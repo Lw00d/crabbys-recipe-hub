@@ -10335,29 +10335,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-73",
-    "masterId": "dp-crab-cake-base-mix-m",
-    "name": "Crab Cake Base Mix",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Crab Base",
-        "qty": "1",
-        "unit": "Tub"
-      }
-    ],
-    "steps": [
-      "Pull tubs to refrigeration 2 days before needed",
-      "Label and date when pulled"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-47",
     "masterId": "dp-crab-cake-base-mix-m",
     "name": "Crab Cake Base Mix",
@@ -14501,7 +14478,8 @@
       "5 lb. Portion - cluster and single legs"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cbg-75",
