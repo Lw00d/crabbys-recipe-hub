@@ -1,5 +1,43 @@
 [
   {
+    "name": "Flounder Stuffed Portioning",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "8oz Rarebit, full sheet pan",
+    "ingredients": [
+      {
+        "name": "Flounder stuffing (prep)",
+        "qty": "4",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Flounder Filet",
+        "qty": "7.5",
+        "unit": "Weight oz"
+      }
+    ],
+    "steps": [
+      "If you feel or see any pin bones, please remove them from the filet",
+      "Cut the tail off the flounder filet and place it at the bottom of the small rarebit (8oz)",
+      "Cut the remaining piece of flounder in half lengthwise.",
+      "Using the grey handled scoop, place 4oz of flounder stuffing on the flounder.",
+      "Top with the remaining 2 pieces of flounder around the edges, leaving a gap in the middle.",
+      "Place in a portion bag, Label and date.",
+      "Yields: 10# cs / 24 each 17-18 portion (5/22/25)",
+      "Removing the Pin Bones, cut as close as possible to the bones on both sides",
+      "Cut along the other side of filet to completely remove the pin bones",
+      "Keep the Pin Bone for waste weight",
+      "Useable filets & pin bones",
+      "Weight for a portion 7.4 - 7.6oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngux27raa72v",
+    "masterId": "dp-flounder-stuffed-portioning-m",
+    "location": "CBG"
+  },
+  {
     "name": "Fish Thawing Vacuumed Packed Procedure",
     "category": "Dinner Prep",
     "yield": "",
@@ -10580,39 +10618,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-75",
-    "masterId": "dp-flounder-stuffed-portioning-m",
-    "name": "Flounder Stuff Port.",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "8oz Rarebit, full sheet pan",
-    "ingredients": [
-      {
-        "name": "Flounder stuffing (prep)",
-        "qty": "4",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Flounder Filet",
-        "qty": "7.5",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "If you feel or see any pin bones, please remove them from the filet",
-      "Cut the tail off the flounder filet and place it at the bottom of the small rarebit (8oz)",
-      "Cut the remaining piece of flounder in half lengthwise.",
-      "Using the grey handled scoop, place 4oz of flounder stuffing on the flounder.",
-      "Top with the remaining 2 pieces of flounder around the edges, leaving a gap in the middle.",
-      "Place in a portion bag, Label and date.",
-      "Yields: 10# cs / 24 each 17-18 portion (5/22/25)"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-pl-76",
     "masterId": "dp-flounder-stuffing-m",
     "name": "Flounder Stuffing",
@@ -14715,39 +14720,6 @@
       "The product will need to be whisk together before using.",
       "Same steps as above",
       "Keep on a Ice Bath while on cooks Breading Table,"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-77",
-    "masterId": "dp-flounder-stuffed-portioning-m",
-    "name": "Flounder Stuffed Port.",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "8oz Rarebit, full sheet pan",
-    "ingredients": [
-      {
-        "name": "Flounder stuffing (prep)",
-        "qty": "4",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Flounder Filet",
-        "qty": "7.5",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "If you feel or see any pin bones, please remove them from the filet",
-      "Cut the tail off the flounder filet and place it at the bottom of the small rarebit (8oz)",
-      "Cut the remaining piece of flounder in half lengthwise.",
-      "Using the grey handled scoop, place 4oz of flounder stuffing on the flounder.",
-      "Top with the remaining 2 pieces of flounder around the edges, leaving a gap in the middle.",
-      "Place in a portion bag, Label and date.",
-      "Yields: 10# cs / 24 each 17-18 portion (5/22/25)"
     ],
     "notes": "",
     "images": []
