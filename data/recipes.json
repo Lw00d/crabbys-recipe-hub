@@ -11503,37 +11503,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-86",
-    "masterId": "dp-grits-m",
-    "name": "Grits",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "1 day",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cheese Cheddar/Jack Shredded",
-        "qty": "8",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Grits",
-        "qty": "1/2 bag",
-        "unit": "8 lbs. Bag"
-      }
-    ],
-    "steps": [
-      "Heat grits up using an immersion circulator or microwave.",
-      "Once heated to 145°F,",
-      "Place in a lined pan on the line",
-      "Add shredded cheese and mix",
-      "Full Bag = 8 lbs."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-53",
     "masterId": "dp-grits-m",
     "name": "Grits",
@@ -11546,12 +11515,14 @@
       {
         "name": "Cheese Cheddar/Jack Shredded",
         "qty": "8",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "16"
       },
       {
         "name": "Grits",
-        "qty": "1/2 bag",
-        "unit": "8 lbs. Bag"
+        "qty": "1/2",
+        "unit": "8 lbs. Bag",
+        "qty2": "1"
       }
     ],
     "steps": [
@@ -11562,7 +11533,12 @@
       "Full Bag = 8 lbs."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1/2 Bag",
+      "label2": "Whole Bag",
+      "count": 2
+    }
   },
   {
     "id": "dp-pl-87",
