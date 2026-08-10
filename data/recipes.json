@@ -1,5 +1,45 @@
 [
   {
+    "name": "Stuffed Flounder",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Flounder Stuffed (Prep)",
+        "qty": "1",
+        "unit": "Dish"
+      },
+      {
+        "name": "Garlic spread",
+        "qty": "Brush on",
+        "unit": "melted"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "sprinkle",
+        "unit": "evenly"
+      }
+    ],
+    "steps": [
+      "Brush with garlic spread and sprinkle evenly with Old Bay seasoning.",
+      "Place in a 450-500°F oven and bake for approximately 6-7 minutes or until fish is cooked.",
+      "When it has finished cooking, lightly brush with garlic spread to moisten.",
+      "Place a napkin on a large dinner plate and place the rarebit dish on the napkin.",
+      "Expo: chopped parsley, Lemon wedge, requested side",
+      "Plateware: Dinner or Rectangle plate w/ Bev nap, rarebit"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Stuffed_Flounder_0.jpg"
+    ],
+    "id": "m-msngwx1lhcclec",
+    "masterId": "dm-cds-100-m",
+    "location": "CBG"
+  },
+  {
     "name": "Flounder Stuffed Portioning",
     "category": "Dinner Prep",
     "yield": "",
@@ -10618,38 +10658,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-76",
-    "masterId": "dp-flounder-stuffing-m",
-    "name": "Flounder Stuffing",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "7 Lbs.",
-    "shelfLife": "3 days",
-    "smallware": "Medium-size mixing bowl, rubber spatula,",
-    "ingredients": [
-      {
-        "name": "Crab Cake Base",
-        "qty": "5",
-        "unit": "lbs."
-      },
-      {
-        "name": "Crab Lump Meat (Bagged)",
-        "qty": "2",
-        "unit": "lbs."
-      }
-    ],
-    "steps": [
-      "Thaw crab cake base and crab meat in the refrigerator.",
-      "Mix 1 tub crab cake base and 2 lbs. of bagged Lump Crabmeat.",
-      "Be careful not to mix over and break up the crab meat.",
-      "Once mixed, use the grey handled scoop to portion the stuffing into 4oz portions",
-      "1plastic 4\" pan, grey scoop",
-      "Gently squeezing some of the water out"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-49",
     "masterId": "dp-flounder-stuffing-m",
     "name": "Flounder Stuffing",
@@ -13363,39 +13371,6 @@
       "Tie the bag shut",
       "Store in the walk in or reach in cooler",
       "Label, date refrigerate, and rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-72",
-    "masterId": "dp-cds-72-m",
-    "name": "Stuffed Flounder Prep",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "8oz Rarebit, full sheet pan, day bags",
-    "ingredients": [
-      {
-        "name": "Crab Cake (prep)",
-        "qty": "4",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Flounder Filet",
-        "qty": "7.5",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Cut the tail off the flounder filet and place it in the bottom of the small rarebit (8oz)",
-      "Cut the remaining piece of flounder in half long ways.",
-      "Using the grey handled scoop of flounder stuffing on the flounder.",
-      "Top with the remaining 2 pieces of flounder around the edges leaving a gap in the middle.",
-      "Place inside a day bag, label, date, and refrigerate",
-      "Open to see prepping Photos steps",
-      "Trimming the tail off"
     ],
     "notes": "",
     "images": []
