@@ -1168,6 +1168,7 @@ function renderModalEdit(){
   document.getElementById('modalFooter').innerHTML = `
     <button class="action-btn primary" onclick="saveEdit()">✓ Apply Changes</button>
     <button class="action-btn" onclick="cancelEdit()">Cancel</button>
+    <button class="action-btn" onclick="duplicateRecipe()" title="Create a new, independent copy — not linked to this recipe">⧉ Duplicate</button>
     <button class="action-btn" onclick="toggleActiveStatus()">${activeToggleLabel}</button>
     <button class="action-btn danger" style="margin-left:auto" onclick="deleteRecipe()">🗑 Delete</button>`;
 }
@@ -1319,6 +1320,23 @@ function copyToLocation(){
   editSnapshot = JSON.stringify(copy);
   renderModalEdit();
   toast(`Copied to ${LOC_SHORT[targetLoc]||targetLoc} — now linked as a master recipe`);
+}
+function duplicateRecipe(){
+  // Creates a brand-new, fully independent recipe at the same location — its own
+  // id AND its own masterId, so it starts out (and stays) completely unlinked
+  // from the recipe it was copied from, unlike "Sync to Another Store" which
+  // deliberately links the two.
+  const r=getCurrentRecipe(); if(!r) return;
+  const content = shareContentFields(r);
+  const copy = { ...content, name:(content.name||'Untitled')+' (Copy)', id:newUid(), masterId:newUid(), location:r.location, _new:true };
+  RECIPES.unshift(copy);
+  setUnsaved(true);
+  render();
+  currentModalId = copy.id;
+  editSnapshot = JSON.stringify(copy);
+  modalMode = 'edit';
+  renderModalEdit();
+  toast('Duplicated as a new, independent recipe — not linked to the original');
 }
 
 // ─── PHOTO UPLOAD ────────────────────────────────────────────────────────────
