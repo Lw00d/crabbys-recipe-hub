@@ -1,5 +1,110 @@
 [
   {
+    "name": "Grouper Prep",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
+    "ingredients": [
+      {
+        "name": "Grouper Fillet",
+        "qty": "1",
+        "unit": "lb"
+      }
+    ],
+    "steps": [
+      "Weigh and record the starting weight of the Grouper.",
+      "Check the grouper for pin bones by running your gloved hand over the grouper.",
+      "Trim the Grouper.",
+      "Cut the belly from the grouper.",
+      "Look for and remove any parasites.",
+      "Trim the tail end piece off the grouper.",
+      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
+      "Dinners 7.9 - 8.5w/oz",
+      "Nuggets 5.5 w/oz.",
+      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
+      "Label and date, refrigerate and rotate",
+      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
+      "Sandwich Portion are 5.5oz - 6.0oz",
+      "Dinner Portion are 8oz - 8.5oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msnhfvq15hooco",
+    "masterId": "dp-grouper-prep-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Grouper Prep",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
+    "ingredients": [
+      {
+        "name": "Grouper Fillet",
+        "qty": "1",
+        "unit": "lb"
+      }
+    ],
+    "steps": [
+      "Weigh and record the starting weight of the Grouper.",
+      "Check the grouper for pin bones by running your gloved hand over the grouper.",
+      "Trim the Grouper.",
+      "Cut the belly from the grouper.",
+      "Look for and remove any parasites.",
+      "Trim the tail end piece off the grouper.",
+      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
+      "Dinners 7.9 - 8.5w/oz",
+      "Nuggets 5.5 w/oz.",
+      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
+      "Label and date, refrigerate and rotate",
+      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
+      "Sandwich Portion are 5.5oz - 6.0oz",
+      "Dinner Portion are 8oz - 8.5oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msnhfvcyj6s9ac",
+    "masterId": "dp-grouper-prep-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Grouper Prep",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
+    "ingredients": [
+      {
+        "name": "Grouper Fillet",
+        "qty": "1",
+        "unit": "lb"
+      }
+    ],
+    "steps": [
+      "Weigh and record the starting weight of the Grouper.",
+      "Check the grouper for pin bones by running your gloved hand over the grouper.",
+      "Trim the Grouper.",
+      "Cut the belly from the grouper.",
+      "Look for and remove any parasites.",
+      "Trim the tail end piece off the grouper.",
+      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
+      "Dinners 7.9 - 8.5w/oz",
+      "Nuggets 5.5 w/oz.",
+      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
+      "Label and date, refrigerate and rotate",
+      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
+      "Sandwich Portion are 5.5oz - 6.0oz",
+      "Dinner Portion are 8oz - 8.5oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msnhft8hetvg8c",
+    "masterId": "dp-grouper-prep-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Gator Portions",
     "category": "Dinner Prep",
     "yield": "5# = 13 / 4.9 -5.1oz portions",
@@ -7163,38 +7268,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-57",
-    "masterId": "dp-grouper-prep-m",
-    "name": "Grouper (Prep)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "see Prep numbers",
-    "shelfLife": "3 days",
-    "smallware": "Grouper yield sheet, scale, Sharp knife, date portion bags. Some stores may use SS 1/3 pans, drip insert",
-    "ingredients": [
-      {
-        "name": "Grouper Fillet",
-        "qty": "1",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Weigh and record the starting weight of the grouper.",
-      "Check the grouper for pin bones by running your gloved hand over the grouper.",
-      "Trim the grouper.",
-      "Cut the belly from the grouper.",
-      "Look for and remove any parasites.",
-      "Cut (trim) the tail piece off the grouper.",
-      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end section should always be a sandwich or nugget portion. Nuggets should be cut from any piece that is overweight.",
-      "Sandwiches 5.0-6.0oz/ Dinners 7.5-8.5oz/ Nuggets 5.5 w/oz.",
-      "Once cut, put the grouper into bags of 5 sandwiches or dinners per bag.",
-      "Label and date, refrigerate",
-      "**Include all waste, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-58",
     "masterId": "dp-hamburger-7oz-m",
     "name": "Hamburger 7oz",
@@ -8579,132 +8652,7 @@
       "Label and date, refrigerate and rotate",
       "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
       "Sandwich Portion are 5.5oz - 6.0oz",
-      "Dinner Portion are 8oz - 8.5oz",
-      "Stock & Measured Items",
-      "All (Heavy Cream & House Spice)",
-      "<------ Over to Reheating",
-      "Add Polenta while stirring",
-      "Add House spice & Cream"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-31",
-    "masterId": "dp-grouper-prep-m",
-    "name": "Grouper Prep",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
-    "ingredients": [
-      {
-        "name": "Grouper Fillet",
-        "qty": "1",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Weigh and record the starting weight of the Grouper.",
-      "Check the grouper for pin bones by running your gloved hand over the grouper.",
-      "Trim the Grouper.",
-      "Cut the belly from the grouper.",
-      "Look for and remove any parasites.",
-      "Trim the tail end piece off the grouper.",
-      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
-      "Dinners 7.9 - 8.5w/oz",
-      "Nuggets 5.5 w/oz.",
-      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
-      "Label and date, refrigerate and rotate",
-      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
-      "Sandwich Portion are 5.5oz - 6.0oz",
-      "Dinner Portion are 8oz - 8.5oz",
-      "Stock & Measured Items",
-      "All (Heavy Cream & House Spice)",
-      "<------ Over to Reheating",
-      "Add Polenta while stirring",
-      "Add House spice & Cream"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-29",
-    "masterId": "dp-grouper-prep-m",
-    "name": "Grouper Prep",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
-    "ingredients": [
-      {
-        "name": "Grouper Fillet",
-        "qty": "1",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Weigh and record the starting weight of the Grouper.",
-      "Check the grouper for pin bones by running your gloved hand over the grouper.",
-      "Trim the Grouper.",
-      "Cut the belly from the grouper.",
-      "Look for and remove any parasites.",
-      "Trim the tail end piece off the grouper.",
-      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
-      "Dinners 7.9 - 8.5w/oz",
-      "Nuggets 5.5 w/oz.",
-      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
-      "Label and date, refrigerate and rotate",
-      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
-      "Sandwich Portion are 5.5oz - 6.0oz",
-      "Dinner Portion are 8oz - 8.5oz",
-      "Stock & Measured Items",
-      "All (Heavy Cream & House Spice)",
-      "<------ Over to Reheating",
-      "Add Polenta while stirring",
-      "Add House spice & Cream"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-16",
-    "masterId": "dp-grouper-prep-m",
-    "name": "Grouper Prep",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "Scale, cutting board, 1 full size 4\" SS pan, 1 Full 4\" perforated pan, Ice Bags, Day portion bags",
-    "ingredients": [
-      {
-        "name": "Grouper Fillet",
-        "qty": "1",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Weigh and record the starting weight of the Grouper.",
-      "Check the grouper for pin bones by running your gloved hand over the grouper.",
-      "Trim the Grouper.",
-      "Cut the belly from the grouper.",
-      "Look for and remove any parasites.",
-      "Trim the tail end piece off the grouper.",
-      "Using a sharp knife, cut the grouper into the desired number of sandwiches, dinners, and nuggets. The tail-end piece should always be a sandwich portion. Nuggets should be cut from any piece that is overweight.",
-      "Dinners 7.9 - 8.5w/oz",
-      "Nuggets 5.5 w/oz.",
-      "Once cut, put the Grouper into bags of 5 sandwiches or dinners per bag.",
-      "Label and date, refrigerate and rotate",
-      "**Include all waste, ceviche, nuggets, sandwiches, and dinner portions on your Grouper Sheet for tracking**",
-      "Sandwich Portion are 5.5oz - 6.0oz",
-      "Dinner Portion are 8oz - 8.5oz",
-      "Stock & Measured Items",
-      "All (Heavy Cream & House Spice)",
-      "<------ Over to Reheating",
-      "Add Polenta while stirring",
-      "Add House spice & Cream"
+      "Dinner Portion are 8oz - 8.5oz"
     ],
     "notes": "",
     "images": []
