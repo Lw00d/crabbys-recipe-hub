@@ -1,5 +1,32 @@
 [
   {
+    "name": "Gator Portions",
+    "category": "Dinner Prep",
+    "yield": "5# = 13 / 4.9 -5.1oz portions",
+    "shelfLife": "3 days",
+    "smallware": "scale, date port bags, cutting board, knife",
+    "ingredients": [
+      {
+        "name": "Gator",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "Completely thaw in the refrigerator",
+      "Strain the gator into a colander, pulling the pieces apart to drain for 2 minutes",
+      "Cut Gator Meat into small 1/2\" to 1\" cubes on a clean cutting board.",
+      "Portion gator meat into 4.9-5.1 oz portion bags.",
+      "Place all portions in a large prep bag and label it with the number of portions it contains.",
+      "Portion 4.9-5.1oz."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msnh5hmrrf0q4f",
+    "masterId": "dp-gator-portions-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Stuffed Flounder Dinner",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -4957,35 +4984,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-26",
-    "masterId": "dp-nb-26-m",
-    "name": "Gator",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "12-13 / - 5oz portions",
-    "shelfLife": "3 days",
-    "smallware": "colander, or perforated pan, date portion bags,",
-    "ingredients": [
-      {
-        "name": "Gator",
-        "qty": "5",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Completely thaw in the refrigerator",
-      "Strain gator into a colander",
-      "Cut the Gator Meat into small 1/2\" to 1\" cubes.",
-      "Portion gator meat into 5-oz portions into date bags.",
-      "Label all portions (if clear bags).",
-      "Place all portions in a large lemon bag and label with how many portions are in it.",
-      "IF THIN cut into 1.5\" pieces DS",
-      "<<Gator Draining.jpg>><<Gator tissue.jpg>><<Gator Bites.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-27",
     "masterId": "dp-red-sauce-bar-grill-m",
     "name": "Red Sauce (Bar & Grill)",
@@ -8311,9 +8309,8 @@
       "Completely thaw in the refrigerator",
       "Strain the gator into a colander, pulling the pieces apart to drain for 2 minutes",
       "Cut Gator Meat into small 1/2\" to 1\" cubes on a clean cutting board.",
-      "Portion gator meat into 5-oz portion bags.",
+      "Portion gator meat into 4.9-5.1 oz portion bags.",
       "Place all portions in a large prep bag and label it with the number of portions it contains.",
-      "<<Gator Draining.jpg>><<Gator tissue.jpg>><<Gator Bites.jpg>>",
       "Portion 4.9-5.1oz."
     ],
     "notes": "",
@@ -8339,9 +8336,8 @@
       "Completely thaw in the refrigerator",
       "Strain the gator into a colander, pulling the pieces apart to drain for 2 minutes",
       "Cut Gator Meat into small 1/2\" to 1\" cubes on a clean cutting board.",
-      "Portion gator meat into 5-oz portion bags.",
+      "Portion gator meat into 4.9-5.1 oz portion bags.",
       "Place all portions in a large prep bag and label it with the number of portions it contains.",
-      "<<Gator Draining.jpg>><<Gator tissue.jpg>><<Gator Bites.jpg>>",
       "Portion 4.9-5.1oz."
     ],
     "notes": "",
@@ -8367,9 +8363,8 @@
       "Completely thaw in the refrigerator",
       "Strain the gator into a colander, pulling the pieces apart to drain for 2 minutes",
       "Cut Gator Meat into small 1/2\" to 1\" cubes on a clean cutting board.",
-      "Portion gator meat into 5-oz portion bags.",
+      "Portion gator meat into 4.9-5.1 oz portion bags.",
       "Place all portions in a large prep bag and label it with the number of portions it contains.",
-      "<<Gator Draining.jpg>><<Gator tissue.jpg>><<Gator Bites.jpg>>",
       "Portion 4.9-5.1oz."
     ],
     "notes": "",
