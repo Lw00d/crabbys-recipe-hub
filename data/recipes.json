@@ -1,5 +1,67 @@
 [
   {
+    "name": "Datil Pepper Sauce",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "5 days",
+    "smallware": "1 - 16 or a 32oz Squeeze bottle, Whisk, Rubber Spatula, Mixing Bowl, day bag, and day label",
+    "ingredients": [
+      {
+        "name": "Datil Pepper Bloody Mary Mix",
+        "qty": "16",
+        "unit": "Ounces"
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "8",
+        "unit": "Ounces"
+      }
+    ],
+    "steps": [
+      "**Datil pepper sauce- 2 parts Datil Bloody Mary mix & 1 part BBQ sauce**",
+      "In a mixing bowl, add the ingredients and combine well.",
+      "Pour into a 16 or 32-oz squeeze bottle",
+      "Cover the bottle with a day bag, and screw the top on.",
+      "Label, date, with a day dot and refrigerate."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngm8z22uoc4u",
+    "masterId": "m-msngknk3jyp2xl",
+    "location": "Palm"
+  },
+  {
+    "name": "Datil Pepper Sauce",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "5 days",
+    "smallware": "1 - 16 or a 32oz Squeeze bottle, Whisk, Rubber Spatula, Mixing Bowl, day bag, and day label",
+    "ingredients": [
+      {
+        "name": "Datil Pepper Bloody Mary Mix",
+        "qty": "16",
+        "unit": "Ounces"
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "8",
+        "unit": "Ounces"
+      }
+    ],
+    "steps": [
+      "**Datil pepper sauce- 2 parts Datil Bloody Mary mix & 1 part BBQ sauce**",
+      "In a mixing bowl, add the ingredients and combine well.",
+      "Pour into a 16 or 32-oz squeeze bottle",
+      "Cover the bottle with a day bag, and screw the top on.",
+      "Label, date, with a day dot and refrigerate."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msngm5zkc8pbf9",
+    "masterId": "m-msngknk3jyp2xl",
+    "location": "CBG"
+  },
+  {
     "name": "Corn 1/2 Fresh",
     "category": "Dinner Prep",
     "yield": "see prep numbers",
@@ -11259,37 +11321,6 @@
       "Place a day bag inside with the pieces",
       "20 pieces per bag, for ease of counting",
       "Label the bag with the number of pieces."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-84",
-    "masterId": "dp-datil-pepper-sauce-m",
-    "name": "Datil Pepper Sauce",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "5 days",
-    "smallware": "1 - 16 or a 32oz Squeeze bottle, Whisk, Rubber Spatula, Mixing Bowl, day bag, and day label",
-    "ingredients": [
-      {
-        "name": "Datil Pepper Bloody Mary Mix",
-        "qty": "16",
-        "unit": "Ounces"
-      },
-      {
-        "name": "BBQ Sauce",
-        "qty": "8",
-        "unit": "Ounces"
-      }
-    ],
-    "steps": [
-      "**Datil pepper sauce- 2 parts Datil Bloody Mary mix & 1 part BBQ sauce**",
-      "In a mixing bowl, add the ingredients and combine well.",
-      "Pour into a 16 or 32-oz squeeze bottle",
-      "Cover the bottle with a day bag, and screw the top on.",
-      "Label, date, with a day dot and refrigerate."
     ],
     "notes": "",
     "images": []
