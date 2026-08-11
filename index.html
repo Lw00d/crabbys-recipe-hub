@@ -528,12 +528,24 @@ function updateLockUI(){
 // ─── MASTER RECIPE LINKING ───────────────────────────────────────────────────
 function getLinkedSiblings(r){ if(!r||!r.masterId) return []; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id && LOC_GROUP[o.location]===LOC_GROUP[r.location]); }
 function getLinkedLocations(r){ return getLinkedSiblings(r).map(o=>o.location); }
-function shareContentFields(r){ const { id, masterId, location, _modified, _new, ...content } = r; return content; }
+function shareContentFields(r){
+  const { id, masterId, location, _modified, _new, ...content } = r;
+  // Deep-clone here — ingredients/steps/images/dualBatch are arrays/objects, and a
+  // shallow copy would leave the "copy" pointing at the exact same array in memory
+  // as the original. Since ingredient/step edits mutate those arrays in place
+  // (r.ingredients[i].qty = ...), a shared reference means editing either recipe
+  // silently edits both, even though they have different ids/masterIds. This bit
+  // both "Sync to Another Store" and "Duplicate", and also meant an unlinked
+  // recipe could keep secretly sharing data with its old siblings until a refresh.
+  return JSON.parse(JSON.stringify(content));
+}
 function propagateToLinked(r){
   const siblings = getLinkedSiblings(r);
   if(!siblings.length) return 0;
-  const content = shareContentFields(r);
-  siblings.forEach(s => { Object.assign(s, content); s._modified = true; });
+  // Clone fresh for every sibling individually — reusing one clone across multiple
+  // siblings would just move the same shared-reference bug one level over, leaving
+  // siblings sharing arrays with each other instead of with the source recipe.
+  siblings.forEach(s => { Object.assign(s, shareContentFields(r)); s._modified = true; });
   return siblings.length;
 }
 function newUid(){ return 'm-'+Date.now().toString(36)+Math.random().toString(36).slice(2,8); }
