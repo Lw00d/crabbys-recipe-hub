@@ -1,5 +1,136 @@
 [
   {
+    "name": "Limes Wedges",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "ingredients": [
+      {
+        "name": "Limes",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove stickers from limes",
+      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 6 wedges.",
+      "Place the cut lime wedges into lemon bags (large portion bag).",
+      "Tie shut and label, date, with a day bag, tied to it",
+      "Place in the refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotwmlnshhiia",
+    "masterId": "dp-pl-47-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Limes Wedges",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "ingredients": [
+      {
+        "name": "Limes",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove stickers from limes",
+      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 6 wedges.",
+      "Place the cut lime wedges into lemon bags (large portion bag).",
+      "Tie shut and label, date, with a day bag, tied to it",
+      "Place in the refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotwmbgm14d4v",
+    "masterId": "dp-pl-47-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Limes Wedges",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "ingredients": [
+      {
+        "name": "Limes",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove stickers from limes",
+      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 6 wedges.",
+      "Place the cut lime wedges into lemon bags (large portion bag).",
+      "Tie shut and label, date, with a day bag, tied to it",
+      "Place in the refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotwltqynvmq5",
+    "masterId": "dp-pl-47-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Limes Wedges",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "ingredients": [
+      {
+        "name": "Limes",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove stickers from limes",
+      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 6 wedges.",
+      "Place the cut lime wedges into lemon bags (large portion bag).",
+      "Tie shut and label, date, with a day bag, tied to it",
+      "Place in the refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotwks8e0l2cp",
+    "masterId": "dp-pl-47-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Lemon Wedges",
+    "category": "Dinner Prep",
+    "yield": "4 to 6 Bags per case",
+    "shelfLife": "3 Days",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "ingredients": [
+      {
+        "name": "Lemons",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Remove stickers from lemons",
+      "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
+      "With the wedge slicer, cut the lemons into 6 wedges.",
+      "Place cut wedges into lemon bags (large portion bag)",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Place in the refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msottirnr1as3i",
+    "masterId": "dp-lemon-wedges-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Leaf Lettuce for LTO",
     "category": "Dinner Prep",
     "yield": "24 pieces per day portion bag",
@@ -3177,31 +3308,6 @@
       "Leftover tomatoes can be diced and used in other applications or thrown away.",
       "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
       "NOTE: Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-3",
-    "masterId": "dp-nb-3-m",
-    "name": "Lemon Prep",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "4 lemon bags / per case",
-    "shelfLife": "2 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lemons",
-        "qty": "165",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Wash thoroughly and drain lemons (remove stickers from lemons) before cutting.",
-      "With a wedge, slice lemons into 6 wedges.",
-      "Place case wedges into 4 lemon bags (large portion bag)",
-      "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
     "images": []
@@ -9040,7 +9146,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "8cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
     "ingredients": [
       {
         "name": "Limes",
@@ -9050,7 +9156,7 @@
     ],
     "steps": [
       "Remove stickers from limes",
-      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 8 wedges.",
+      "Wash thoroughly with Fruit & veggie Rinse and drain limes. With the wedge slicer, cut the limes into 6 wedges.",
       "Place the cut lime wedges into lemon bags (large portion bag).",
       "Tie shut and label, date, with a day bag, tied to it",
       "Place in the refrigerate, and rotate"
@@ -9066,7 +9172,7 @@
     "category": "Dinner Prep",
     "yield": "4 to 6 Bags per case",
     "shelfLife": "3 Days",
-    "smallware": "8cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
     "ingredients": [
       {
         "name": "Lemons",
@@ -9093,7 +9199,7 @@
     "category": "Dinner Prep",
     "yield": "4 to 6 Bags per case",
     "shelfLife": "3 Days",
-    "smallware": "8cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
     "ingredients": [
       {
         "name": "Lemons",
@@ -9120,7 +9226,7 @@
     "category": "Dinner Prep",
     "yield": "4 to 6 Bags per case",
     "shelfLife": "3 Days",
-    "smallware": "8cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
     "ingredients": [
       {
         "name": "Lemons",
@@ -9147,7 +9253,7 @@
     "category": "Dinner Prep",
     "yield": "4 to 6 Bags per case",
     "shelfLife": "3 Days",
-    "smallware": "8cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
+    "smallware": "6 cut wedger, 2\" full hotel pan, Lemon bags, day bags,",
     "ingredients": [
       {
         "name": "Lemons",
@@ -13753,16 +13859,13 @@
       "Carefully add the scampi butter, and melt it on medium/low heat. Once it's melted",
       "Slowly add the flour while stirring continuously until incorporated into the butter. Bringing it to just about the boiling point.",
       "While whisking, add 1 quart of heavy cream while on heat and let it come to a simmer (but not scalded)",
-      "Once it's smooth, add the other quart of cream, lemon juice, and house spice.",
       "Continue to whisk to combined,",
-      "When transferring to the Cambro, GENTLY scrape the side, and the bottom of the pot",
+      "Once it's smooth, add the other quart of cream, lemon juice, and house spice.",
+      "Whisk together to a ribbon texture",
       "Do Not scrape the product stuck to the bottom of the pot.",
       "Store in covered Cambro",
-      "NOTE: If to thick we use a little milk to loosen the sauce up",
-      "Now transfer to Cambro to cool",
-      "Burn off Wine & Melting the butter",
-      "Add the Heavy Cream",
-      "Whisk together to a ribbon texture"
+      "When transferring to the Cambro, GENTLY scrape the side, and the bottom of the pot",
+      "*If to thick we use a little milk to loosen the sauce up*"
     ],
     "notes": "",
     "images": []
@@ -15635,7 +15738,8 @@
       }
     ],
     "steps": [
-      "Steps for zesting ---------------->>>"
+      "Wash and dry Lemons",
+      "Use a Microplane to zest lemon"
     ],
     "notes": "",
     "images": []
