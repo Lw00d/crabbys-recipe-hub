@@ -11429,47 +11429,6 @@
     "active": false
   },
   {
-    "id": "dp-pl-85",
-    "masterId": "dp-hushpuppies-m",
-    "name": "Hushpuppies",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "4 hours, wet or par-cooked",
-    "smallware": "large mixing bowl, whisk, rubber spatula, Orchid scoop, 1 full 4\" hotel pan",
-    "ingredients": [
-      {
-        "name": "Hushpuppy Mix",
-        "qty": "",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Warm Water",
-        "qty": "",
-        "unit": "Quarts"
-      }
-    ],
-    "steps": [
-      "Note: This could be made in smaller batches just before opening and held, and again just before the dinner shift",
-      "Use a large mixing bowl and warm water, whisk the Hushpuppy mix in until fully incorporated",
-      "Let the dough rise for 20 minutes before using, or par-cooking",
-      "Use the Orchid scoop to level scoop and drop into a 350°F fryer for about 3 minutes until golden brown",
-      "For immediate use, transfer to a save-a-day for excess oil to drain.",
-      "Let rest and store for up to 4 hours at room temperature",
-      "Note: Discard after 4 hours and write the amount tossed on the Waste Sheet",
-      "Portion Size: Purple Scoop",
-      "Remember, this is a time Controlled Item",
-      "Mixing w/ warm water",
-      "Place the fry basket in the hot oil",
-      "Drop the puppies, shake the basket",
-      "to prevent from sticking to the basket",
-      "1/2 way done cover w/ another",
-      "basket to keep submerged"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-56",
     "masterId": "dp-hushpuppies-m",
     "name": "Hushpuppies",
@@ -11498,14 +11457,7 @@
       "For immediate use, transfer to a save-a-day for excess oil to drain.",
       "Let rest and store for up to 4 hours at room temperature",
       "Note: Discard after 4 hours and write the amount tossed on the Waste Sheet",
-      "Portion Size: Purple Scoop",
-      "Remember, this is a time Controlled Item",
-      "Mixing w/ warm water",
-      "Place the fry basket in the hot oil",
-      "Drop the puppies, shake the basket",
-      "to prevent from sticking to the basket",
-      "1/2 way done cover w/ another",
-      "basket to keep submerged"
+      "*Remember, this is a time Controlled Item*"
     ],
     "notes": "",
     "images": []
@@ -11539,14 +11491,7 @@
       "For immediate use, transfer to a save-a-day for excess oil to drain.",
       "Let rest and store for up to 4 hours at room temperature",
       "Note: Discard after 4 hours and write the amount tossed on the Waste Sheet",
-      "Portion Size: Purple Scoop",
-      "Remember, this is a time Controlled Item",
-      "Mixing w/ warm water",
-      "Place the fry basket in the hot oil",
-      "Drop the puppies, shake the basket",
-      "to prevent from sticking to the basket",
-      "1/2 way done cover w/ another",
-      "basket to keep submerged"
+      "*Remember, this is a time Controlled Item*"
     ],
     "notes": "",
     "images": []
