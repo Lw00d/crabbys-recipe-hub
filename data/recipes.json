@@ -1,5 +1,32 @@
 [
   {
+    "name": "Mahi 8oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi 8 Ounce Portions",
+        "qty": "7.5 - 8.5",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msowkxs47m8dsv",
+    "masterId": "m-msowkxs4jddgfw",
+    "location": "Palm"
+  },
+  {
     "name": "Mahi 6oz",
     "category": "Dinner Prep",
     "yield": "",
@@ -7,8 +34,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5 - 10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "5.5 - 6.5",
         "unit": "Weight oz each"
       }
     ],
@@ -34,8 +61,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5 - 10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "5.5 - 6.5",
         "unit": "Weight oz each"
       }
     ],
@@ -61,8 +88,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5 - 10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "5.5 - 6.5",
         "unit": "Weight oz each"
       }
     ],
@@ -88,8 +115,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5 - 10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "5.5 - 6.5",
         "unit": "Weight oz each"
       }
     ],
@@ -7532,31 +7559,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-50",
-    "masterId": "dp-nb-50-m",
-    "name": "Mahi 8oz Portions",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "19 - 21 Per / 10# case",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 8 Ounce Portions",
-        "qty": "7.5-8.5",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "When pulling the case from the freezer, BE SURE to open and remove each piece from the bag before laying it out on the sheet pan for thawing",
-      "Cover with plastic wrap",
-      "Once thawed, place 1 piece in a date portion bag",
-      "Lay out on sheet tray - Label, date, refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-51",
     "masterId": "dp-nb-51-m",
     "name": "Salsa Fresca",
@@ -13792,33 +13794,6 @@
       "Cover bottle with a day portion bag, secure the top",
       "Labeled, date, the bottle, and store under refrigeration.",
       "2- Qt. size squeeze bottles, date bags, day dot label"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-81",
-    "masterId": "dp-cds-81-m",
-    "name": "Mahi 8oz",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "7.5-8.5oz",
-        "unit": "Weight oz each"
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Storage recommendations - large day portion bag",
-      "Label, date, and number of pieces, 5 per bag, for easier counting"
     ],
     "notes": "",
     "images": []
