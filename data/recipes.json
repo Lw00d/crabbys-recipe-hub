@@ -1,5 +1,113 @@
 [
   {
+    "name": "Mahi 6oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msov9yk4rn8h6g",
+    "masterId": "m-msov92xchd77oe",
+    "location": "Palm"
+  },
+  {
+    "name": "Mahi 6oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msov9xyg04gk95",
+    "masterId": "m-msov92xchd77oe",
+    "location": "CDS"
+  },
+  {
+    "name": "Mahi 6oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msov9x0pucgykl",
+    "masterId": "m-msov92xchd77oe",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Mahi 6oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msov92xcsx3b24",
+    "masterId": "m-msov92xchd77oe",
+    "location": "CBG"
+  },
+  {
     "name": "Lobster Roll Cold",
     "category": "Dinner Prep",
     "yield": "2lb. / 6 - 4.2oz portions",
@@ -7424,31 +7532,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-49",
-    "masterId": "dp-nb-49-m",
-    "name": "Mahi 6oz Portions",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "24-26 Per / 10# case",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 6 Ounce Portions",
-        "qty": "5.5 - 6.5",
-        "unit": "oz. each"
-      }
-    ],
-    "steps": [
-      "When pulling the case from the freezer, BE SURE to open and remove each piece from the bag before laying it out on the sheet pan for thawing",
-      "Cover with plastic wrap",
-      "Once thawed, place 1 piece in a day portion bag",
-      "Lay out on sheet tray - Label, date, refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-50",
     "masterId": "dp-nb-50-m",
     "name": "Mahi 8oz Portions",
@@ -11669,64 +11752,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-83",
-    "masterId": "dp-mahi-6oz-m",
-    "name": "Mahi 6oz",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 6.5 Ounce Portions",
-        "qty": "6-7oz",
-        "unit": "Weight oz each"
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Storage recommendations - lemon/poultry portion bag",
-      "Place a day bag inside with the pieces",
-      "20 pieces per bag, for ease of counting",
-      "Label the bag with the number of pieces."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-50",
-    "masterId": "dp-mahi-6oz-m",
-    "name": "Mahi 6oz",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 6.5 Ounce Portions",
-        "qty": "6-7oz",
-        "unit": "Weight oz each"
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Storage recommendations - lemon/poultry portion bag",
-      "Place a day bag inside with the pieces",
-      "20 pieces per bag, for ease of counting",
-      "Label the bag with the number of pieces."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-55",
     "masterId": "m-msngknk3jyp2xl",
     "name": "Datil Pepper Sauce",
@@ -11906,8 +11931,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5-10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
         "unit": "Weight oz each"
       }
     ],
@@ -11917,7 +11942,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Storage recommendations - large day portion bag",
-      "Label, date, and number of pieces, 5 per bag, for easier counting"
+      "Label, date, and write number of pieces"
     ],
     "notes": "",
     "images": []
@@ -11933,8 +11958,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mahi 10 Ounce Portions",
-        "qty": "9.5-10.5",
+        "name": "Mahi 6 Ounce Portions",
+        "qty": "6.5 - 7.5",
         "unit": "Weight oz each"
       }
     ],
@@ -11944,7 +11969,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Storage recommendations - large day portion bag",
-      "Label, date, and number of pieces, 5 per bag, for easier counting"
+      "Label, date, and write number of pieces"
     ],
     "notes": "",
     "images": []
@@ -13794,36 +13819,6 @@
       "Cover with Plastic wrap, label, and date",
       "Storage recommendations - large day portion bag",
       "Label, date, and number of pieces, 5 per bag, for easier counting"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-82",
-    "masterId": "dp-cds-82-m",
-    "name": "Mahi 6.5oz",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mahi 6.5 Ounce Portions",
-        "qty": "6 - 7oz",
-        "unit": "Weight oz each"
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, date, and place in the cooler to thaw overnight",
-      "Storage recommendations - lemon/poultry portion bag",
-      "Place a day bag inside of the lemon bag,",
-      "Place 20 pieces per bag, for ease of counting",
-      "Label the bag with the number of pieces.",
-      "Refrigerate, date, and rotate"
     ],
     "notes": "",
     "images": []
