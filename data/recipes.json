@@ -1,5 +1,67 @@
 [
   {
+    "name": "Lobster Bites (Coconut)",
+    "category": "Dinner Prep",
+    "yield": "6 portions per 2# bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Meat",
+        "qty": "1",
+        "unit": "2# Bag"
+      }
+    ],
+    "steps": [
+      "1 Bag of Lobster Meat",
+      "Let the lobster thaw in the refrigerator whenever possible",
+      "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
+      "Check meat for shell or cartlidge",
+      "Cutting down the large pieces into bite size pieces into bite size pieces",
+      "*Some of the large pieces may need to be cut, but most will not need it*",
+      "*If meat has any sort of discoloration, it is ok to rinse it*",
+      "Once drained, portion into 4 ounces,",
+      "Place into small deli cups",
+      "Lid, label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoud57gqosmy5",
+    "masterId": "dp-cds-88-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Lobster Bites (Coconut)",
+    "category": "Dinner Prep",
+    "yield": "6 portions per 2# bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Meat",
+        "qty": "1",
+        "unit": "2# Bag"
+      }
+    ],
+    "steps": [
+      "1 Bag of Lobster Meat",
+      "Let the lobster thaw in the refrigerator whenever possible",
+      "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
+      "Check meat for shell or cartlidge",
+      "Cutting down the large pieces into bite size pieces into bite size pieces",
+      "*Some of the large pieces may need to be cut, but most will not need it*",
+      "*If meat has any sort of discoloration, it is ok to rinse it*",
+      "Once drained, portion into 4 ounces,",
+      "Place into small deli cups",
+      "Lid, label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoud3n7nlsndp",
+    "masterId": "dp-cds-88-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Lettuce Romaine",
     "category": "Dinner Prep",
     "yield": "",
@@ -3454,36 +3516,6 @@
       "Leftover tomatoes can be diced and used in other applications or thrown away.",
       "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
       "NOTE: Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-4",
-    "masterId": "dp-nb-4-m",
-    "name": "Lobster for Coconut",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "6 portions per 2# bag",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lobster Meat",
-        "qty": "1",
-        "unit": "2# Bag"
-      }
-    ],
-    "steps": [
-      "1 Bag of Lobster Meat",
-      "Let the lobster thaw in the refrigerator whenever possible",
-      "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
-      "*Some of the large pieces may need to be cut, but most will not need it*",
-      "*If meat has any sort of discoloration, it is ok to rinse it*",
-      "Once drained, portion into 4 ounces,",
-      "Place into small deli cups",
-      "Lid, label, date, and refrigerate",
-      "**We will set 365 yield to be 3 portions per pound**"
     ],
     "notes": "",
     "images": []
@@ -8647,35 +8679,6 @@
       "Place in a portion bag, tie shut.",
       "Place in a pan and store in the walk-in",
       "40#/cs fresh - 25 portions"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-35",
-    "masterId": "dp-pl-35-m",
-    "name": "Lobster Bites Prep",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "6 portions / per 2# bag",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lobster Meat",
-        "qty": "1",
-        "unit": "2lb. Bag"
-      }
-    ],
-    "steps": [
-      "1 Bag of Lobster Meat",
-      "Let the lobster thaw in the refrigerator whenever possible",
-      "Drain (2-minute drain) the bag of liquid, but don’t force it out of the meat",
-      "*Some very large pieces may need to be cut, but most will not need it*",
-      "*If meat has any sort of discoloration, it is ok to rinse it*",
-      "Once drained, portion 4oz, into small deli cups",
-      "Lid, label, date, and refrigerate",
-      "**We will set 365 yield to be 3 portions per pound**"
     ],
     "notes": "",
     "images": []
@@ -13960,15 +13963,13 @@
       "1 Bag of Lobster Meat",
       "Let the lobster thaw in the refrigerator whenever possible",
       "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
+      "Check meat for shell or cartlidge",
+      "Cutting down the large pieces into bite size pieces into bite size pieces",
       "*Some of the large pieces may need to be cut, but most will not need it*",
       "*If meat has any sort of discoloration, it is ok to rinse it*",
       "Once drained, portion into 4 ounces,",
       "Place into small deli cups",
-      "Lid, label, date, and refrigerate",
-      "**We will set 365 yield to be 3 portions per pound**",
-      "Check meat for shell or cartlidge",
-      "Cutting down the large pieces",
-      "into bite size pieces"
+      "Lid, label, date, and refrigerate"
     ],
     "notes": "",
     "images": []
