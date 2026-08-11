@@ -1,5 +1,56 @@
 [
   {
+    "name": "Pasta Linguini Olive Oil",
+    "category": "Dinner Prep",
+    "yield": "5# / 2 lemon bags",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seasoning Salt Kosher",
+        "qty": "0.33",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Olive Oil Pure (For Salads)",
+        "qty": "2",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Pasta Linguine",
+        "qty": "5",
+        "unit": "lb."
+      },
+      {
+        "name": "Olive oil",
+        "qty": "12",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Garlic in water",
+        "qty": "2",
+        "unit": "Vol oz"
+      }
+    ],
+    "steps": [
+      "Combine water, salt, and oil in a 12-quart stock pan over medium heat.",
+      "Bring water to a boil.",
+      "Add pasta to boiling water, and return water to a boil.",
+      "Immediately stir the pasta to keep the pasta from sticking together or to the bottom of the pot.",
+      "Cook for about 7 minutes once boiling again, or until pasta is al dente (cooked but still firm to the touch).",
+      "Remove from heat and drain.",
+      "Take two sheet pans and split the pasta, add 6oz of oil and 1 oz of garlic on each tray, and mix with the pasta.",
+      "Take two more sheet pans and fill them with ice. Put the sheet pan with the pasta on top of the ice.",
+      "When the pasta is completely cooled down, portion 5 lbs. per Lemon bag",
+      "Label, date, rotate, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msp4x9f87828wj",
+    "masterId": "dp-si-37-m",
+    "location": "Palm"
+  },
+  {
     "name": "Onions for LTO",
     "category": "Dinner Prep",
     "yield": "",
@@ -4288,55 +4339,8 @@
   {
     "id": "dp-nb-8",
     "masterId": "dp-pasta-linguine-m",
-    "name": "Pasta Linguine",
+    "name": "Pasta Linguine Scampi",
     "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "2- 5# bags",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Seasoning Salt Kosher",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Olive Oil Pure (For Salads)",
-        "qty": "2",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Pasta Linguine",
-        "qty": "5",
-        "unit": "Lbs."
-      },
-      {
-        "name": "Sauce Scampi (Prep)",
-        "qty": "12 oz",
-        "unit": "(16oz Deli Cup)"
-      }
-    ],
-    "steps": [
-      "Combine water, salt, and oil in a 12-quart (4-gal) stock pan over medium heat.",
-      "Bring water to a boil.",
-      "Add pasta to boiling water, and return water to a boil.",
-      "Immediately stir the pasta to prevent it from sticking together or to the bottom of the pot.",
-      "Cook for about 7 minutes once boiling again, or until pasta is al dente (cooked but still firm to the touch).",
-      "Remove from heat and drain.",
-      "Take two sheet pans and split the pasta, add 6oz of Scampi sauce on each tray, and mix with the pasta.",
-      "Take two more sheet pans and fill them with ice. Put the sheet pan with the pasta on top in the ice.",
-      "When the pasta is completely cooled down, portion into Lemon bags",
-      "Label, date, rotate, refrigerate in cooler above any raw foods",
-      "Good detached oyster, w/no cuts"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-2",
-    "masterId": "dp-pasta-linguine-m",
-    "name": "Pasta Linguine",
-    "location": "Palm",
     "category": "Dinner Prep",
     "yield": "2- 5# bags",
     "shelfLife": "3 days",
@@ -4382,7 +4386,7 @@
   {
     "id": "dp-cds-1",
     "masterId": "dp-pasta-linguine-m",
-    "name": "Pasta Linguine",
+    "name": "Pasta Linguine Scampi",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "2- 5# bags",
@@ -4429,7 +4433,7 @@
   {
     "id": "dp-cbg-2",
     "masterId": "dp-pasta-linguine-m",
-    "name": "Pasta Linguine",
+    "name": "Pasta Linguine Scampi",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "2- 5# bags",
@@ -15368,7 +15372,7 @@
   {
     "id": "dp-si-37",
     "masterId": "dp-si-37-m",
-    "name": "Pasta Linguini",
+    "name": "Pasta Linguini Olive Oil",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "5# / 2 lemon bags",
