@@ -660,6 +660,36 @@ function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.categ
 function buildCategories(){ const set=new Set(BASE_CATEGORIES); RECIPES.forEach(r=>{ if(r.category) set.add(r.category); }); CATS = Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'})); renderCatDropdown(); }
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
+// ─── URL-BASED DEFAULT FILTERS ───────────────────────────────────────────────
+// Lets a specific device (e.g. a bar iPad vs. a prep-line iPad) always open to
+// a chosen set of filters, just by bookmarking a URL with query params — no
+// login/account changes needed, and it survives cache/localStorage clears since
+// the params live in the bookmark itself. Example:
+//   https://recipes.jbodzak.workers.dev/?cat=Drink%20Menu&sub=Signature%20Cocktails,Batches%20%2F%20Bar%20Prep
+// Supported params (all optional, comma-separated for multiple values):
+//   cat   — Category filter, e.g. cat=Drink Menu
+//   sub   — Submenu filter, e.g. sub=Signature Cocktails,Mocktails
+//   loc   — Location filter (mainly useful for "all stores" logins), e.g. loc=CBG
+//   group — BSHGRP or BSHGRP2 store-group toggle
+// Applied once, only on the initial page load (in init()), never on a manual
+// refresh — otherwise refreshing the page would keep snapping filters back to
+// the bookmark's defaults even after the person deliberately changed them.
+function applyFiltersFromUrl(){
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  const addAll = (paramName, set) => {
+    const raw = params.get(paramName);
+    if(!raw) return;
+    raw.split(',').map(s=>s.trim()).filter(Boolean).forEach(v=>{ set.add(v); applied = true; });
+  };
+  addAll('cat', activeCats);
+  addAll('sub', activeSubs);
+  addAll('loc', activeLocs);
+  const groupParam = params.get('group');
+  if(groupParam === 'BSHGRP' || groupParam === 'BSHGRP2'){ activeGroup = groupParam; applied = true; }
+  return applied;
+}
+
 async function init(){
   if (IS_AUTHENTICATED_SESSION) {
     document.getElementById('logoutBtn').style.display = 'flex';
@@ -668,6 +698,7 @@ async function init(){
     activeLocs.add(ASSIGNED_LOCATION);
     applyLocationRestrictionUI();
   }
+  applyFiltersFromUrl();
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
 }
