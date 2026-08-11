@@ -150,6 +150,18 @@
         "name": "Oysters on the half shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter Cajun"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Light Coat",
+        "name": "Cheese Parmesan Aged Grated"
       }
     ],
     "steps": [
@@ -185,6 +197,18 @@
         "name": "Oysters on the half shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter Cajun"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Light Coat",
+        "name": "Cheese Parmesan Aged Grated"
       }
     ],
     "steps": [
@@ -7362,6 +7386,18 @@
         "name": "Oysters on the half shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter Cajun"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Light Coat",
+        "name": "Cheese Parmesan Aged Grated"
       }
     ],
     "steps": [
@@ -12028,39 +12064,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-88",
-    "masterId": "dp-oysters-crabbyfellars-m",
-    "name": "Oysters Crabbyfellars",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "1 Day",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oysters on the half shell",
-        "qty": "144",
-        "unit": "Oysters"
-      }
-    ],
-    "steps": [
-      "Oyster Prep:",
-      "These oysters are already shucked; they need to be lightly washed in salt water to have grit removed and have the muscle detached",
-      "**Use 10 grams(=1.5 teaspoons) of Morton salt per liter of cold water for a saltwater wash.**",
-      "Make sure there isn't any shell in the oyster.",
-      "Cut the muscle off the bottom of the shell.",
-      "Oyster Saftey:",
-      "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
-      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
-      "**Do not stack prepped more than 3 high in the storage container with the logo deli in between each layer**",
-      "Crabbyfellars Prep:",
-      "Top Oysters with Garlic Spread",
-      "Then top with Crab & Spin dip"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-58",
     "masterId": "dp-oysters-crabbyfellars-m",
     "name": "Oysters Crabbyfellars",
@@ -12074,6 +12077,18 @@
         "name": "Oysters on the half shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Garlic Spread melted"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Fill",
+        "name": "Crab & Spin Dip "
       }
     ],
     "steps": [
@@ -12107,6 +12122,18 @@
         "name": "Oysters on the half shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Garlic Spread melted"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Fill",
+        "name": "Crab & Spin Dip "
       }
     ],
     "steps": [
