@@ -1,5 +1,59 @@
 [
   {
+    "name": "Haddock Cut (Sandwich)",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "cutting board, knife, scale, day portion bags",
+    "ingredients": [
+      {
+        "name": "Haddock",
+        "qty": "10",
+        "unit": "pound/cs."
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Thaw in the walk-in cooler overnight",
+      "Cut each filet in half horizontally across middle"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msos3ax5e5wphc",
+    "masterId": "m-msos1la2xaaure",
+    "location": "Palm"
+  },
+  {
+    "name": "Haddock Cut (Sandwich)",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "cutting board, knife, scale, day portion bags",
+    "ingredients": [
+      {
+        "name": "Haddock",
+        "qty": "10",
+        "unit": "pound/cs."
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Thaw in the walk-in cooler overnight",
+      "Cut each filet in half horizontally across middle"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msos1la24yo7em",
+    "masterId": "m-msos1la2xaaure",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Haddock Cut",
     "category": "Dinner Prep",
     "yield": "",
@@ -80,8 +134,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Thaw in the walk-in cooler overnight",
-      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each"
+      "Cut each filet in half horizontally across middle"
     ],
     "notes": "",
     "images": [],
@@ -13027,54 +13080,6 @@
       "Spin lettuce in a salad spinner.",
       "Place into the Lemon bag",
       "Label, date, refrigerate, and rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-105",
-    "masterId": "dp-haddock-sandwich-m",
-    "name": "Haddock (Sandwich)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Place all pieces flat on sheet trays and allow to thaw in a cooler overnight",
-      "Once thawed, take a full piece and cut horizontally across the middle, this should make two bun size portions",
-      "Place each piece in a date bag"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-26",
-    "masterId": "dp-haddock-sandwich-m",
-    "name": "Haddock (Sandwich)",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Place all pieces flat on sheet trays and allow to thaw in a cooler overnight",
-      "Once thawed, take a full piece and cut horizontally across the middle, this should make two bun size portions",
-      "Place each piece in a date bag"
     ],
     "notes": "",
     "images": []
