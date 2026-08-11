@@ -82,7 +82,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Haddock Cut",
+    "name": "Haddock Cut ",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -103,39 +103,8 @@
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
       "Portion 3 pieces each",
       "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "Sandwich portion is 1 half piece portion",
-      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
-    ],
-    "notes": "",
-    "images": [],
-    "id": "m-msos03a234qo9n",
-    "masterId": "dp-haddock-cut-m",
-    "location": "Palm"
-  },
-  {
-    "name": "Haddock Cut",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "cutting board, knife, scale, day portion bags",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "10",
-        "unit": "pound/cs."
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in the walk-in cooler overnight",
-      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "Sandwich portion is 1 half piece portion",
-      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
+      "Sandwich portion is 1 Piece",
+      "Taco Cut is 1 Piece cut in half"
     ],
     "notes": "",
     "images": [],
@@ -9505,7 +9474,7 @@
   {
     "id": "dp-cbg-31",
     "masterId": "dp-haddock-cut-m",
-    "name": "Haddock Cut",
+    "name": "Haddock Cut ",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -9527,8 +9496,8 @@
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
       "Portion 3 pieces each",
       "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "Sandwich portion is 1 half piece portion",
-      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
+      "Sandwich portion is 1 Piece",
+      "Taco Cut is 1 Piece cut in half"
     ],
     "notes": "",
     "images": []
