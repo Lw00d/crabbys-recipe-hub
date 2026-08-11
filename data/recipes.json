@@ -1,5 +1,50 @@
 [
   {
+    "name": "Portabella Sauce",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "14 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seasoning Salt Kosher",
+        "qty": "1",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Olive Oil Pure",
+        "qty": "4",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "qty": "26",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Black Pepper",
+        "qty": "1",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Garlic powder",
+        "qty": "1",
+        "unit": "Teaspoon"
+      }
+    ],
+    "steps": [
+      "Mix all ingredients in a 32-oz squeeze bottle.",
+      "Label and Date",
+      "Shake well before using.",
+      "Yields: 1 Qt. size Squeeze Blt."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msp59w2no8z9h8",
+    "masterId": "dp-portabella-sauce-m",
+    "location": "CDS"
+  },
+  {
     "name": "Pico de Gallo",
     "category": "Dinner Prep",
     "yield": "",
@@ -8230,7 +8275,7 @@
   {
     "id": "dp-nb-59",
     "masterId": "dp-pizza-dough-balls-bar-grill-m",
-    "name": "Pizza Dough Balls (bar & grill)",
+    "name": "Pizza Dough Balls",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
@@ -8254,45 +8299,8 @@
       "Label the pan with the date and time, and each dough ball with a day dot",
       "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
       "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
-      "Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday",
-      "Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)",
-      "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
-      "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
-      "Time and Temperature will dictate how long it should be left out",
-      "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-25",
-    "masterId": "dp-pizza-dough-balls-bar-grill-m",
-    "name": "Pizza Dough Balls (bar & grill)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Pizza Dough Ball",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Preparation:",
-      "Take the dough ball out of the freezer",
-      "Take a dough ball out of the bag",
-      "Pull out the wrap long enough to cover both sides of the dough ball",
-      "Now with the pan spray, spray, on both under and on top of the dough ball",
-      "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
-      "Place 12 dough balls per sheet pan",
-      "Label the pan with the date and time, and each dough ball with a day dot",
-      "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
-      "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
-      "Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday",
-      "Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)",
+      "*Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday*",
+      "*Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)*",
       "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
       "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
       "Time and Temperature will dictate how long it should be left out",
@@ -8304,7 +8312,7 @@
   {
     "id": "dp-cbg-21",
     "masterId": "dp-pizza-dough-balls-bar-grill-m",
-    "name": "Pizza Dough Balls (bar & grill)",
+    "name": "Pizza Dough Balls",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -8328,8 +8336,8 @@
       "Label the pan with the date and time, and each dough ball with a day dot",
       "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
       "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
-      "Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday",
-      "Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)",
+      "*Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday*",
+      "*Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)*",
       "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
       "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
       "Time and Temperature will dictate how long it should be left out",
@@ -12266,34 +12274,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-90",
-    "masterId": "dp-portabella-m",
-    "name": "Portabella",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "4 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Portabella",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Flip the cap upside down",
-      "Carefully pop out the stem with a spoon",
-      "Place in a date bag and store in a 1/3 pan",
-      "Stock & Measured Items",
-      "All (Heavy Cream & House Spice)",
-      "Add Polenta while stirring",
-      "Add House spice & Cream"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-60",
     "masterId": "dp-portabella-m",
     "name": "Portabella",
@@ -12422,94 +12402,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-92",
-    "masterId": "dp-portabella-sauce-m",
-    "name": "Portabella Sauce",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "14 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Seasoning Salt Kosher",
-        "qty": "1",
-        "unit": "teaspoon"
-      },
-      {
-        "name": "Olive Oil Pure",
-        "qty": "4",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Balsamic Vinegar",
-        "qty": "26",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Black Pepper",
-        "qty": "1",
-        "unit": "teaspoon"
-      },
-      {
-        "name": "Garlic powder",
-        "qty": "1",
-        "unit": "Teaspoon"
-      }
-    ],
-    "steps": [
-      "Mix all ingredients in a 32-oz squeeze bottle.",
-      "Shake well before using.",
-      "Yields: 1 Qt. size Squeeze Blt."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-62",
-    "masterId": "dp-portabella-sauce-m",
-    "name": "Portabella Sauce",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "14 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Seasoning Salt Kosher",
-        "qty": "1",
-        "unit": "teaspoon"
-      },
-      {
-        "name": "Olive Oil Pure",
-        "qty": "4",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Balsamic Vinegar",
-        "qty": "26",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Black Pepper",
-        "qty": "1",
-        "unit": "teaspoon"
-      },
-      {
-        "name": "Garlic powder",
-        "qty": "1",
-        "unit": "Teaspoon"
-      }
-    ],
-    "steps": [
-      "Mix all ingredients in a 32-oz squeeze bottle.",
-      "Shake well before using.",
-      "Yields: 1 Qt. size Squeeze Blt."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-57",
     "masterId": "dp-portabella-sauce-m",
     "name": "Portabella Sauce",
@@ -12547,6 +12439,7 @@
     ],
     "steps": [
       "Mix all ingredients in a 32-oz squeeze bottle.",
+      "Label and Date",
       "Shake well before using.",
       "Yields: 1 Qt. size Squeeze Blt."
     ],
