@@ -1,5 +1,83 @@
 [
   {
+    "name": "Lemon Zest (Garnish)",
+    "category": "Dinner Prep",
+    "yield": "2.5 Tbsp. Per Lemon",
+    "shelfLife": "",
+    "smallware": "zester, cutting board, 8oz deli container",
+    "ingredients": [
+      {
+        "name": "Lemon for Zesting",
+        "qty": "4",
+        "unit": "Lemons"
+      }
+    ],
+    "steps": [
+      "Wash and dry lemons",
+      "Gently run the lemon across the microplane removing only the bright yellow outer skin. Avoid pressing too hard.",
+      "*Stop before hitting the white pith*",
+      "Rotate lemon and repeat",
+      "Date, label and store in the proper container"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msou36ofsm14or",
+    "masterId": "dp-lemon-zest-garnish-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Lemon Zest (Garnish)",
+    "category": "Dinner Prep",
+    "yield": "2.5 Tbsp. Per Lemon",
+    "shelfLife": "",
+    "smallware": "zester, cutting board, 8oz deli container",
+    "ingredients": [
+      {
+        "name": "Lemon for Zesting",
+        "qty": "4",
+        "unit": "Lemons"
+      }
+    ],
+    "steps": [
+      "Wash and dry lemons",
+      "Gently run the lemon across the microplane removing only the bright yellow outer skin. Avoid pressing too hard.",
+      "*Stop before hitting the white pith*",
+      "Rotate lemon and repeat",
+      "Date, label and store in the proper container"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msou36hzxmqmfm",
+    "masterId": "dp-lemon-zest-garnish-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Lemon Zest (Garnish)",
+    "category": "Dinner Prep",
+    "yield": "2.5 Tbsp. Per Lemon",
+    "shelfLife": "",
+    "smallware": "zester, cutting board, 8oz deli container",
+    "ingredients": [
+      {
+        "name": "Lemon for Zesting",
+        "qty": "4",
+        "unit": "Lemons"
+      }
+    ],
+    "steps": [
+      "Wash and dry lemons",
+      "Gently run the lemon across the microplane removing only the bright yellow outer skin. Avoid pressing too hard.",
+      "*Stop before hitting the white pith*",
+      "Rotate lemon and repeat",
+      "Date, label and store in the proper container"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msou366bf41ehg",
+    "masterId": "dp-lemon-zest-garnish-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Limes Wedges",
     "category": "Dinner Prep",
     "yield": "",
@@ -9289,7 +9367,11 @@
       }
     ],
     "steps": [
-      "Steps for zesting ---------------->>>"
+      "Wash and dry lemons",
+      "Gently run the lemon across the microplane removing only the bright yellow outer skin. Avoid pressing too hard.",
+      "*Stop before hitting the white pith*",
+      "Rotate lemon and repeat",
+      "Date, label and store in the proper container"
     ],
     "notes": "",
     "images": []
@@ -9311,7 +9393,11 @@
       }
     ],
     "steps": [
-      "Steps for zesting ---------------->>>"
+      "Wash and dry lemons",
+      "Gently run the lemon across the microplane removing only the bright yellow outer skin. Avoid pressing too hard.",
+      "*Stop before hitting the white pith*",
+      "Rotate lemon and repeat",
+      "Date, label and store in the proper container"
     ],
     "notes": "",
     "images": []
