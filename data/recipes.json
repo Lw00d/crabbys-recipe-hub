@@ -1656,7 +1656,7 @@
     "location": "CBG"
   },
   {
-    "name": "Island Slaw(Pineapple)",
+    "name": "Island Slaw",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
     "shelfLife": "3 days",
@@ -1673,22 +1673,20 @@
         "unit": "4# bag"
       },
       {
-        "name": "Pineapple tidbits (Drain Juice)",
-        "qty": "2",
-        "unit": "cans"
+        "name": "Pineapple Chunks Fresh (NOT drained)",
+        "qty": "40",
+        "unit": "oz"
       }
     ],
     "steps": [
-      "In a colander, drain Pineapple Tidbits for 2 minutes",
-      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and Pineapple Chunks and juice",
       "Fold together until fully mixed",
       "Split into 2 lemon bags",
       "Suppress all air out of the bag, and tie the bag off",
       "Place the bag inside another lemon bag, and tie the bag",
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
-      "Label, date, refrigerate & rotate",
-      "Drain the Pineapple Juice (save)"
+      "Label, date, refrigerate & rotate"
     ],
     "notes": "",
     "images": [],
@@ -1697,7 +1695,7 @@
     "location": "Palm"
   },
   {
-    "name": "Island Slaw(Pineapple)",
+    "name": "Island Slaw",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
     "shelfLife": "3 days",
@@ -1714,22 +1712,20 @@
         "unit": "4# bag"
       },
       {
-        "name": "Pineapple tidbits (Drain Juice)",
-        "qty": "2",
-        "unit": "cans"
+        "name": "Pineapple Chunks Fresh (NOT drained)",
+        "qty": "40",
+        "unit": "oz"
       }
     ],
     "steps": [
-      "In a colander, drain Pineapple Tidbits for 2 minutes",
-      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and Pineapple Chunks and juice",
       "Fold together until fully mixed",
       "Split into 2 lemon bags",
       "Suppress all air out of the bag, and tie the bag off",
       "Place the bag inside another lemon bag, and tie the bag",
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
-      "Label, date, refrigerate & rotate",
-      "Drain the Pineapple Juice (save)"
+      "Label, date, refrigerate & rotate"
     ],
     "notes": "",
     "images": [],
@@ -1738,7 +1734,7 @@
     "location": "CDS"
   },
   {
-    "name": "Island Slaw(Pineapple)",
+    "name": "Island Slaw",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
     "shelfLife": "3 days",
@@ -1755,22 +1751,20 @@
         "unit": "4# bag"
       },
       {
-        "name": "Pineapple tidbits (Drain Juice)",
-        "qty": "2",
-        "unit": "cans"
+        "name": "Pineapple Chunks Fresh (NOT drained)",
+        "qty": "40",
+        "unit": "oz"
       }
     ],
     "steps": [
-      "In a colander, drain Pineapple Tidbits for 2 minutes",
-      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and Pineapple Chunks and juice",
       "Fold together until fully mixed",
       "Split into 2 lemon bags",
       "Suppress all air out of the bag, and tie the bag off",
       "Place the bag inside another lemon bag, and tie the bag",
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
-      "Label, date, refrigerate & rotate",
-      "Drain the Pineapple Juice (save)"
+      "Label, date, refrigerate & rotate"
     ],
     "notes": "",
     "images": [],
@@ -14497,7 +14491,7 @@
   {
     "id": "dp-cbg-78",
     "masterId": "dp-cbg-78-m",
-    "name": "Island Slaw(Pineapple)",
+    "name": "Island Slaw",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
@@ -14515,22 +14509,20 @@
         "unit": "4# bag"
       },
       {
-        "name": "Pineapple tidbits (Drain Juice)",
-        "qty": "2",
-        "unit": "cans"
+        "name": "Pineapple Chunks Fresh (NOT drained)",
+        "qty": "40",
+        "unit": "oz"
       }
     ],
     "steps": [
-      "In a colander, drain Pineapple Tidbits for 2 minutes",
-      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and drained Pineapple tidbits.",
+      "In a Lexan, mix the Cabbage, Pina Colada Sauce, and Pineapple Chunks and juice",
       "Fold together until fully mixed",
       "Split into 2 lemon bags",
       "Suppress all air out of the bag, and tie the bag off",
       "Place the bag inside another lemon bag, and tie the bag",
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
-      "Label, date, refrigerate & rotate",
-      "Drain the Pineapple Juice (save)"
+      "Label, date, refrigerate & rotate"
     ],
     "notes": "",
     "images": []
