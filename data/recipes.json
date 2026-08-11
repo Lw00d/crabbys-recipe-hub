@@ -1,5 +1,61 @@
 [
   {
+    "name": "Pico de Gallo",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomatoes, Diced (Purchase)",
+        "qty": "1.5",
+        "unit": "5lb. Tub (=7.5lbs)"
+      },
+      {
+        "name": "Jalapenos - Medium-Sized",
+        "qty": "12-15",
+        "unit": "Each - diced"
+      },
+      {
+        "name": "Red Onions, Diced",
+        "qty": "16",
+        "unit": "Oz. (=1 lb.)"
+      },
+      {
+        "name": "Cilantro Rough Chopped",
+        "qty": "2",
+        "unit": "Bunches"
+      },
+      {
+        "name": "Salt",
+        "qty": "0.50",
+        "unit": "Weight Oz."
+      },
+      {
+        "name": "Black Pepper",
+        "qty": "0.25",
+        "unit": "Weight Oz."
+      },
+      {
+        "name": "Lime Juice (Fresh Natalies)",
+        "qty": "2.0",
+        "unit": "Vol. Oz."
+      }
+    ],
+    "steps": [
+      "*See a manager before using any in-store Tomatoes*",
+      "Add the tomatoes, jalapenos, red onions, and lime juice to the mixing bowl, and toss together",
+      "Sprinkle salt and pepper across the top of the mixture and mix.",
+      "Place the mix into the correct storage container",
+      "Label, date rotate and refrigerate."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msp4zc0c3ke0n5",
+    "masterId": "dp-cbg-75-m",
+    "location": "CDS"
+  },
+  {
     "name": "Pasta Linguini Olive Oil",
     "category": "Dinner Prep",
     "yield": "5# / 2 lemon bags",
@@ -14707,20 +14763,14 @@
         "name": "Lime Juice (Fresh Natalies)",
         "qty": "2.0",
         "unit": "Vol. Oz."
-      },
-      {
-        "name": "Squeeze",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
-      "NOTE: See a manager before using any in-store Tomatoes",
+      "*See a manager before using any in-store Tomatoes*",
       "Add the tomatoes, jalapenos, red onions, and lime juice to the mixing bowl, and toss together",
       "Sprinkle salt and pepper across the top of the mixture and mix.",
       "Place the mix into the correct storage container",
-      "Label, date rotate and refrigerate.",
-      "Directions same as Single Batch"
+      "Label, date rotate and refrigerate."
     ],
     "notes": "",
     "images": []
