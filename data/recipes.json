@@ -1,5 +1,37 @@
 [
   {
+    "name": "Onion Rings",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion Sliced Bulk (Prep)",
+        "qty": "2.5",
+        "unit": "lb."
+      },
+      {
+        "name": "Flour H&R Self-Rising",
+        "qty": "8",
+        "unit": "Weight oz"
+      }
+    ],
+    "steps": [
+      "Separate the Rings individually from the Slices.",
+      "Remove any rings that are smaller than 2.5 inches in diameter.",
+      "These will be saved for later to be used in other Recipes",
+      "Dust 10oz of Onion Rings with Flour.",
+      "Shake off excess Flour and place into portion bags.",
+      "For best results, let sit pre-breaded for an hour or 2 before using (1 portion of flour-dusted onion rings should weigh NO MORE THAN 11.4 oz.)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoy3zclgcg72k",
+    "masterId": "dp-onion-rings-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "New Orleans Oysters",
     "category": "Dinner Prep",
     "yield": "",
@@ -10690,38 +10722,6 @@
       "In the appropriate container, mix clipped green beans, carrots, house spice, and garlic spread",
       "Garlic spread uses 3/4oz Orchid scoop",
       "Label, date, and rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-66",
-    "masterId": "dp-onion-rings-m",
-    "name": "Onion Rings",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Onion Sliced Bulk (Prep)",
-        "qty": "2.5",
-        "unit": "lb."
-      },
-      {
-        "name": "Flour H&R Self-Rising",
-        "qty": "8",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Separate the Rings individually from the Slices.",
-      "Remove any rings that are smaller than 2.5 inches in diameter.",
-      "These will be saved for later to be used in other Recipes",
-      "Dust 10oz of Onion Rings with Flour.",
-      "Shake off excess Flour and place into portion bags.",
-      "For best results, let sit pre-breaded for an hour or 2 before using (1 portion of flour-dusted onion rings should weigh NO MORE THAN 11.4 oz.)"
     ],
     "notes": "",
     "images": []
@@ -23920,7 +23920,7 @@
   {
     "id": "dm-si-21",
     "masterId": "dm-si-21-m",
-    "name": "Salty's Burger (SI)",
+    "name": "Salty's Burger",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
