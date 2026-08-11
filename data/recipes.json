@@ -1,5 +1,73 @@
 [
   {
+    "name": "Lettuce Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lettuce Romaine (Pre-cut)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Upon delivery, open each case and look at each bag for discolored or wilted pieces",
+      "Pre-Cut Romaine:",
+      "Before opening the bag of lettuce, look for discolored or wilted pieces",
+      "If questionable, ask a manager to look at it before",
+      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
+      "Each bag is 2Lbs.",
+      "Romaine Hearts:",
+      "Take 4 romaine hearts and rinse thoroughly.",
+      "Cut the Core from each, and remove the outer leaves and discard.",
+      "Cut remaining leaves in 1\" cuts.",
+      "Spin lettuce in a salad spinner.",
+      "Place into the Lemon bag",
+      "Label, date, refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msou5qfcqfi1pm",
+    "masterId": "dp-lettuce-romaine-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Lettuce Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lettuce Romaine (Pre-cut)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Upon delivery, open each case and look at each bag for discolored or wilted pieces",
+      "Pre-Cut Romaine:",
+      "Before opening the bag of lettuce, look for discolored or wilted pieces",
+      "If questionable, ask a manager to look at it before",
+      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
+      "Each bag is 2Lbs.",
+      "Romaine Hearts:",
+      "Take 4 romaine hearts and rinse thoroughly.",
+      "Cut the Core from each, and remove the outer leaves and discard.",
+      "Cut remaining leaves in 1\" cuts.",
+      "Spin lettuce in a salad spinner.",
+      "Place into the Lemon bag",
+      "Label, date, refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msou5q162cwpyd",
+    "masterId": "dp-lettuce-romaine-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Lemon Zest (Garnish)",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
@@ -13145,10 +13213,12 @@
     ],
     "steps": [
       "Upon delivery, open each case and look at each bag for discolored or wilted pieces",
+      "Pre-Cut Romaine:",
       "Before opening the bag of lettuce, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before",
       "Do not toss out without the manager's okay, then write it on the Waste Sheet",
       "Each bag is 2Lbs.",
+      "Romaine Hearts:",
       "Take 4 romaine hearts and rinse thoroughly.",
       "Cut the Core from each, and remove the outer leaves and discard.",
       "Cut remaining leaves in 1\" cuts.",
@@ -13177,10 +13247,12 @@
     ],
     "steps": [
       "Upon delivery, open each case and look at each bag for discolored or wilted pieces",
+      "Pre-Cut Romaine:",
       "Before opening the bag of lettuce, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before",
       "Do not toss out without the manager's okay, then write it on the Waste Sheet",
       "Each bag is 2Lbs.",
+      "Romaine Hearts:",
       "Take 4 romaine hearts and rinse thoroughly.",
       "Cut the Core from each, and remove the outer leaves and discard.",
       "Cut remaining leaves in 1\" cuts.",
@@ -13209,10 +13281,12 @@
     ],
     "steps": [
       "Upon delivery, open each case and look at each bag for discolored or wilted pieces",
+      "Pre-Cut Romaine:",
       "Before opening the bag of lettuce, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before",
       "Do not toss out without the manager's okay, then write it on the Waste Sheet",
       "Each bag is 2Lbs.",
+      "Romaine Hearts:",
       "Take 4 romaine hearts and rinse thoroughly.",
       "Cut the Core from each, and remove the outer leaves and discard.",
       "Cut remaining leaves in 1\" cuts.",
