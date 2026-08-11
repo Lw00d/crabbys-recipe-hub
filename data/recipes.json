@@ -1,5 +1,77 @@
 [
   {
+    "name": "Hamburger 7oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "full sheet pans, day dots",
+    "ingredients": [
+      {
+        "name": "Beef Patty 7oz",
+        "qty": "1",
+        "unit": "4 each patty"
+      }
+    ],
+    "steps": [
+      "Burgers are packed 2/4 count to a vacuum pack",
+      "If frozen pull and thaw enough burgers to account for your daily estimated usage",
+      "Label, Date, and rotate old to the front."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msosvd2betmaqx",
+    "masterId": "dp-hamburger-7oz-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Hamburger 4oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Beef Patty 4oz",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Burgers are packed 2/8 count to a vacuum pack",
+      "Pull and thaw enough burgers to account for your daily estimated usage",
+      "Label and Date."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msostu8fq01n5v",
+    "masterId": "dp-hamburger-4oz-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Hamburger 4oz",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Beef Patty 4oz",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Burgers are packed 2/8 count to a vacuum pack",
+      "Pull and thaw enough burgers to account for your daily estimated usage",
+      "Label and Date."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msostttve5t7xl",
+    "masterId": "dp-hamburger-4oz-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Haddock Cut (Fish and Chips)",
     "category": "Dinner Prep",
     "yield": "",
@@ -7180,52 +7252,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-54",
-    "masterId": "dp-sirloin-burger-7oz-m",
-    "name": "Sirloin Burger (7oz)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Beef Patty 7oz",
-        "qty": "7",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Pull and thaw enough burgers to account for your daily estimated usage",
-      "Label and Date."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-18",
-    "masterId": "dp-sirloin-burger-7oz-m",
-    "name": "Sirloin Burger (7oz)",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Beef Patty 7oz",
-        "qty": "7",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Pull and thaw enough burgers to account for your daily estimated usage",
-      "Label and Date."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-55",
     "masterId": "dp-mustard-stone-sauce-m",
     "name": "Mustard (Stone) Sauce",
@@ -7425,7 +7451,7 @@
       }
     ],
     "steps": [
-      "Burgers are packed 2/ 4 count to a vacuum pack",
+      "Burgers are packed 2/4 count to a vacuum pack",
       "If frozen pull and thaw enough burgers to account for your daily estimated usage",
       "Label, Date, and rotate old to the front."
     ],
@@ -7449,7 +7475,7 @@
       }
     ],
     "steps": [
-      "Burgers are packed 2/ 4 count to a vacuum pack",
+      "Burgers are packed 2/4 count to a vacuum pack",
       "If frozen pull and thaw enough burgers to account for your daily estimated usage",
       "Label, Date, and rotate old to the front."
     ],
@@ -7473,7 +7499,7 @@
       }
     ],
     "steps": [
-      "Burgers are packed 2/ 4 count to a vacuum pack",
+      "Burgers are packed 2/4 count to a vacuum pack",
       "If frozen pull and thaw enough burgers to account for your daily estimated usage",
       "Label, Date, and rotate old to the front."
     ],
@@ -7497,7 +7523,7 @@
       }
     ],
     "steps": [
-      "Burgers are packed 2/ 4 count to a vacuum pack",
+      "Burgers are packed 2/4 count to a vacuum pack",
       "If frozen pull and thaw enough burgers to account for your daily estimated usage",
       "Label, Date, and rotate old to the front."
     ],
@@ -11229,6 +11255,7 @@
       }
     ],
     "steps": [
+      "Burgers are packed 2/8 count to a vacuum pack",
       "Pull and thaw enough burgers to account for your daily estimated usage",
       "Label and Date."
     ],
@@ -11252,6 +11279,7 @@
       }
     ],
     "steps": [
+      "Burgers are packed 2/8 count to a vacuum pack",
       "Pull and thaw enough burgers to account for your daily estimated usage",
       "Label and Date."
     ],
@@ -11275,6 +11303,7 @@
       }
     ],
     "steps": [
+      "Burgers are packed 2/8 count to a vacuum pack",
       "Pull and thaw enough burgers to account for your daily estimated usage",
       "Label and Date."
     ],
