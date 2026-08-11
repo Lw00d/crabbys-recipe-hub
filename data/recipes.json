@@ -1,5 +1,75 @@
 [
   {
+    "name": "New Orleans Oysters",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 Day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oysters on the half shell",
+        "qty": "144",
+        "unit": "Oysters"
+      }
+    ],
+    "steps": [
+      "Frozen Oyster Prep:",
+      "These oysters are already shucked; just need to be lightly washed in salt water to have the grit removed and have the muscle detached",
+      "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter(33 oz) of cold water for salt water wash**",
+      "Make sure there is no shell in the oyster.",
+      "Cut the muscle off the bottom of the shell.",
+      "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
+      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
+      "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
+      "Bad Oyster (Dry looking)",
+      "New Orleans Oyster prep:",
+      "Melt Cajun butter slightly so that it can be brushed onto oysters.",
+      "**monitor total oyster amount to not melt too much Cajun butter**",
+      "Brush Oyster with Cajun Butter and ensure fully covered",
+      "Lightly coat with parmesan cheese."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoy0pqtear2ab",
+    "masterId": "dp-nb-45-m",
+    "location": "CBG"
+  },
+  {
+    "name": "New Orleans Oysters",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 Day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oysters on the half shell",
+        "qty": "144",
+        "unit": "Oysters"
+      }
+    ],
+    "steps": [
+      "Frozen Oyster Prep:",
+      "These oysters are already shucked; just need to be lightly washed in salt water to have the grit removed and have the muscle detached",
+      "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter(33 oz) of cold water for salt water wash**",
+      "Make sure there is no shell in the oyster.",
+      "Cut the muscle off the bottom of the shell.",
+      "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
+      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
+      "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
+      "Bad Oyster (Dry looking)",
+      "New Orleans Oyster prep:",
+      "Melt Cajun butter slightly so that it can be brushed onto oysters.",
+      "**monitor total oyster amount to not melt too much Cajun butter**",
+      "Brush Oyster with Cajun Butter and ensure fully covered",
+      "Lightly coat with parmesan cheese."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoy0mxdkmjrc3",
+    "masterId": "dp-nb-45-m",
+    "location": "CDS"
+  },
+  {
     "name": "Mahi 8oz",
     "category": "Dinner Prep",
     "yield": "",
@@ -7166,11 +7236,11 @@
   {
     "id": "dp-nb-45",
     "masterId": "dp-nb-45-m",
-    "name": "Oysters New Orleans",
+    "name": "New Orleans Oysters",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
-    "shelfLife": "",
+    "shelfLife": "1 Day",
     "smallware": "",
     "ingredients": [
       {
@@ -7180,7 +7250,7 @@
       }
     ],
     "steps": [
-      "Shelf Life on frozen 1/2 shell: 1 day",
+      "Frozen Oyster Prep:",
       "These oysters are already shucked; just need to be lightly washed in salt water to have the grit removed and have the muscle detached",
       "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter(33 oz) of cold water for salt water wash**",
       "Make sure there is no shell in the oyster.",
@@ -7189,9 +7259,10 @@
       "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
       "Bad Oyster (Dry looking)",
-      "New Orleans Oyster prep",
+      "New Orleans Oyster prep:",
       "Melt Cajun butter slightly so that it can be brushed onto oysters.",
       "**monitor total oyster amount to not melt too much Cajun butter**",
+      "Brush Oyster with Cajun Butter and ensure fully covered",
       "Lightly coat with parmesan cheese."
     ],
     "notes": "",
@@ -9099,10 +9170,9 @@
       "Put Cajun butter on each oyster",
       "Now, a light covering of Parmesan cheese",
       "Sprinkle each oyster with Old Bay",
-      "When Lexan is full, label and date",
+      "When Lexan is full, label and date Do not double-stack oysters in the sheet tray",
       "With fresh oysters, it is extremely important to make a copy of the oyster tag and keep it in the container",
       "Place a lid on the container and store them, in the cooler",
-      "Do not double-stack oysters in the sheet tray",
       "Notes: Use leftover raw oysters from the previous day first before shucking new ones. These need a use-first sticker and have a one-day shelf life after being prepared."
     ],
     "notes": "",
@@ -9144,10 +9214,9 @@
       "Put Cajun butter on each oyster",
       "Now, a light covering of Parmesan cheese",
       "Sprinkle each oyster with Old Bay",
-      "When Lexan is full, label and date",
+      "When Lexan is full, label and date Do not double-stack oysters in the sheet tray",
       "With fresh oysters, it is extremely important to make a copy of the oyster tag and keep it in the container",
       "Place a lid on the container and store them, in the cooler",
-      "Do not double-stack oysters in the sheet tray",
       "Notes: Use leftover raw oysters from the previous day first before shucking new ones. These need a use-first sticker and have a one-day shelf life after being prepared."
     ],
     "notes": "",
@@ -13783,40 +13852,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-84",
-    "masterId": "dp-cds-84-m",
-    "name": "Oyster Prep Frozen",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oyster-half shell- frozen",
-        "qty": "144",
-        "unit": "Oysters"
-      }
-    ],
-    "steps": [
-      "Shelf Life - on frozen 1/2 shell: 1 day",
-      "These oysters are already shucked; they need to be lightly washed in salt water to have grit removed and have the muscle detached",
-      "**Use 10 grams(=1.5 teaspoons) of Morton Salt per liter of cold water for a saltwater wash.**",
-      "Make sure there isn't any shell in the oyster.",
-      "Cut the muscle off the bottom of the shell.",
-      "Very important****keep the tag with the oysters and ensure you mark the last date sold on the tag.",
-      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
-      "New Orleans Oyster Prep Below",
-      "Melt Cajun butter slightly so that it can be brushed onto the oysters.",
-      "**Monitor total oyster amount, so as not to melt too much Cajun butter**",
-      "Lightly coat with Parmesan cheese",
-      "Brushed with Cajun Butter",
-      "Topped with Parmesan Cheese"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-85",
     "masterId": "dp-cds-85-m",
     "name": "Onion Straws",
@@ -14826,40 +14861,6 @@
     "images": []
   },
   {
-    "id": "dp-cbg-83",
-    "masterId": "dp-cbg-83-m",
-    "name": "Oysters New Orleans",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oyster-half shell- frozen",
-        "qty": "144",
-        "unit": "Oysters"
-      }
-    ],
-    "steps": [
-      "Shelf Life - on frozen 1/2 shell: 1 day",
-      "These oysters are already shucked; they need to be lightly washed in salt water to have grit removed and have the muscle detached",
-      "**Use 10 grams(=1.5 teaspoons) of Morton Salt per liter of cold water for a saltwater wash.**",
-      "Make sure there isn't any shell in the oyster.",
-      "Cut the muscle off the bottom of the shell.",
-      "Very important****keep the tag with the oysters and ensure you mark the last date sold on the tag.",
-      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
-      "New Orleans Oyster Prep Below",
-      "Melt Cajun butter slightly so that it can be brushed onto the oysters.",
-      "**Monitor total oyster amount, so as not to melt too much Cajun butter**",
-      "Lightly coat with Parmesan cheese",
-      "Brushed with Cajun Butter, and fully covered",
-      "Topped with Parmesan Cheese"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-84",
     "masterId": "dp-cbg-84-m",
     "name": "Portabella Cap",
@@ -15330,42 +15331,6 @@
       "Pull peppers apart with your hands",
       "Stir until blended and a consistent color with pepper pieces throughout",
       "Pour into a 32-oz squeeze bottle"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-36",
-    "masterId": "dp-si-36-m",
-    "name": "Oysters on half shell frozen",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oysters on the half shell",
-        "qty": "144",
-        "unit": "Oysters"
-      }
-    ],
-    "steps": [
-      "These oysters are already shucked, they just need to be lightly washed in salt water to have grit removed and have the muscle detached",
-      "**Use 10 grams(1.5 tsp.) of Morton salt per liter(33oz) of cold water for salt water wash.**",
-      "Make sure there aren't any shell particles in the oyster.",
-      "Cut the muscle off the bottom of the shell.",
-      "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
-      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
-      "Label, date, and refrigerate",
-      "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
-      "See Oyster Recipes Below",
-      "Top Oysters with garlic butter, Crab and Spinach Dip and cheese",
-      "Brush 12 oysters with melted garlic butter and fully cover with parmesan cheese",
-      "New Orleans oyster prep",
-      "Melt Cajun butter slightly so that it can be brushed onto oysters.",
-      "**monitor total oyster amount to not melt too much Cajun butter**",
-      "Lightly coat with parmesan cheese."
     ],
     "notes": "",
     "images": []
