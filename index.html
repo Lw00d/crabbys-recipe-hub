@@ -995,7 +995,7 @@ function renderModalView(){
     let n2=0;
     const items=recipe.steps.map(s=>{
       if(isSection(s)) return `<div class="step-section-label">${s.slice(0,-1)}</div>`;
-      if(isHighlight(s)){ n2++; return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`; }
+      if(isHighlight(s)) return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`;
       n2++; return `<div class="step-item"><div class="step-num">${n2}</div><div class="step-text">${hl(s)}</div></div>`;
     }).join('');
     stepsHTML=`<div class="detail-section"><div class="detail-heading">Preparation</div><div class="steps-list">${items}</div></div>`;
