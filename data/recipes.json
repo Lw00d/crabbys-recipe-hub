@@ -21,14 +21,72 @@
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
       "Portion 3 pieces each",
       "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "<<Fish n Chips Portion.jpg>>",
       "Sandwich portion is 1 half piece portion",
       "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
     ],
     "notes": "",
     "images": [],
-    "id": "m-msni1wkxaljn56",
-    "masterId": "m-msni2e6hwfjq4m",
+    "id": "m-msos03a234qo9n",
+    "masterId": "dp-haddock-cut-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Haddock Cut",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "cutting board, knife, scale, day portion bags",
+    "ingredients": [
+      {
+        "name": "Haddock",
+        "qty": "10",
+        "unit": "pound/cs."
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Thaw in the walk-in cooler overnight",
+      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
+      "Portion 3 pieces each",
+      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
+      "Sandwich portion is 1 half piece portion",
+      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msorzzjn3h2k12",
+    "masterId": "dp-haddock-cut-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Haddock Cut (Fish and Chips)",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "cutting board, knife, scale, day portion bags",
+    "ingredients": [
+      {
+        "name": "Haddock",
+        "qty": "10",
+        "unit": "pound/cs."
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Thaw in the walk-in cooler overnight",
+      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
+      "Portion 3 pieces each"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msorwzlfs6598c",
+    "masterId": "m-msorwzlfvu1w5o",
     "location": "Salty's Island"
   },
   {
@@ -9363,70 +9421,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-55",
-    "masterId": "dp-haddock-cut-m",
-    "name": "Haddock Cut",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "cutting board, knife, scale, day portion bags",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "10",
-        "unit": "pound/cs."
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in the walk-in cooler overnight",
-      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "<<Fish n Chips Portion.jpg>>",
-      "Sandwich portion is 1 half piece portion",
-      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-35",
-    "masterId": "dp-haddock-cut-m",
-    "name": "Haddock Cut",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "cutting board, knife, scale, day portion bags",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "10",
-        "unit": "pound/cs."
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in the walk-in cooler overnight",
-      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "<<Fish n Chips Portion.jpg>>",
-      "Sandwich portion is 1 half piece portion",
-      "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-31",
     "masterId": "dp-haddock-cut-m",
     "name": "Haddock Cut",
@@ -9451,7 +9445,6 @@
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
       "Portion 3 pieces each",
       "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
-      "<<Fish n Chips Portion.jpg>>",
       "Sandwich portion is 1 half piece portion",
       "Taco Cut is 1 - half piece, cut in half again from the thicker side of the filet."
     ],
@@ -15655,30 +15648,6 @@
       "Add all ingredients to a mixing bowl and mix",
       "Pour into a 32-oz squeeze bottle and label and date",
       "Yields: 1- 32oz squeeze bottle or 2- 16oz squeeze bottles"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-45",
-    "masterId": "dp-si-45-m",
-    "name": "Haddock (Fish n Chips)",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Place all pieces flat on sheet trays and allow to thaw in a cooler overnight",
-      "Once thawed, take a full piece and cut straight down the middle long ways",
-      "Place both pieces in a date bag"
     ],
     "notes": "",
     "images": []
