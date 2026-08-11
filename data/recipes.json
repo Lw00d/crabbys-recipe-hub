@@ -1,5 +1,57 @@
 [
   {
+    "name": "Leaf Lettuce for LTO",
+    "category": "Dinner Prep",
+    "yield": "24 pieces per day portion bag",
+    "shelfLife": "3 days",
+    "smallware": "knife, cutting board, day portion bags",
+    "ingredients": [
+      {
+        "name": "Lettuce Leaf Filet",
+        "qty": "1",
+        "unit": "lb."
+      }
+    ],
+    "steps": [
+      "These are precut, pre-washed filets; you are just trimming off the ends and making smaller bags.",
+      "Label, date, refrigerate, and rotate",
+      "Storing 24 pieces per bag",
+      "Trimming the white off",
+      "Cutting in half (if to big)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotny9uaw2a7x",
+    "masterId": "dp-leaf-lettuce-for-lto-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Leaf Lettuce for LTO",
+    "category": "Dinner Prep",
+    "yield": "24 pieces per day portion bag",
+    "shelfLife": "3 days",
+    "smallware": "knife, cutting board, day portion bags",
+    "ingredients": [
+      {
+        "name": "Lettuce Leaf Filet",
+        "qty": "1",
+        "unit": "lb."
+      }
+    ],
+    "steps": [
+      "These are precut, pre-washed filets; you are just trimming off the ends and making smaller bags.",
+      "Label, date, refrigerate, and rotate",
+      "Storing 24 pieces per bag",
+      "Trimming the white off",
+      "Cutting in half (if to big)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msotny4yfvghic",
+    "masterId": "dp-leaf-lettuce-for-lto-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Hamburger 7oz",
     "category": "Dinner Prep",
     "yield": "",
@@ -3268,31 +3320,6 @@
       "Cut remaining leaves in 1\" cuts",
       "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
       "Label, date, and store in the walk-in cooler, above any raw foods"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-6",
-    "masterId": "dp-nb-6-m",
-    "name": "Leaf Lettuce (LTO)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "3 bags of 24 count",
-    "shelfLife": "2 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Leaf Lettuce",
-        "qty": "1",
-        "unit": "Pound"
-      }
-    ],
-    "steps": [
-      "These are pre-cut pre pre-washed filets",
-      "Rip the bottom part of the lettuce to fit the size of a sandwich",
-      "Make 2 bags with 24 pieces of lettuce facing the same way in each",
-      "Label, date, rotate, and place in the cooler above any raw foods,"
     ],
     "notes": "",
     "images": []
@@ -11679,39 +11706,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-89",
-    "masterId": "dp-jonah-claws-scored-prep-m",
-    "name": "Jonah Claws (Scored) Prep",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "17-18 portions / 85 -90%",
-    "shelfLife": "4 days after thawed",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Jonah Claws",
-        "qty": "1",
-        "unit": "20#/ cs"
-      }
-    ],
-    "steps": [
-      "Remove the Crab Claws from the sealed Bag",
-      "Using a drip pan set up in the walk-in, the day before",
-      "Crab will last 4-5 days thawed.",
-      "Open Bags, place the claws into a Lexan",
-      "1 order per mash bag, tie closed",
-      "Weight out to acceptable weight",
-      "Place all portions back into original box",
-      "Date, number of portions, seal, back into the freezer",
-      "Pull Frozen according to your daily needs",
-      "NOTE: Weights should run .95 - 1.02 for proper weight",
-      "Portion in one-pound increments using red mesh bags",
-      "."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-59",
     "masterId": "dp-jonah-claws-scored-prep-m",
     "name": "Jonah Claws (Scored) Prep",
@@ -11724,22 +11718,17 @@
       {
         "name": "Jonah Claws",
         "qty": "1",
-        "unit": "20#/ cs"
+        "unit": "10#/ cs"
       }
     ],
     "steps": [
-      "Remove the Crab Claws from the sealed Bag",
-      "Using a drip pan set up in the walk-in, the day before",
-      "Crab will last 4-5 days thawed.",
       "Open Bags, place the claws into a Lexan",
-      "1 order per mash bag, tie closed",
-      "Weight out to acceptable weight",
+      "Portion in one-pound increments using red mesh bags",
+      "*Weights should run .95 - 1.02 lbs for proper weight*",
       "Place all portions back into original box",
       "Date, number of portions, seal, back into the freezer",
       "Pull Frozen according to your daily needs",
-      "NOTE: Weights should run .95 - 1.02 for proper weight",
-      "Portion in one-pound increments using red mesh bags",
-      "."
+      "Crab will last 4-5 days thawed."
     ],
     "notes": "",
     "images": []
@@ -11757,22 +11746,17 @@
       {
         "name": "Jonah Claws",
         "qty": "1",
-        "unit": "20#/ cs"
+        "unit": "10#/ cs"
       }
     ],
     "steps": [
-      "Remove the Crab Claws from the sealed Bag",
-      "Using a drip pan set up in the walk-in, the day before",
-      "Crab will last 4-5 days thawed.",
       "Open Bags, place the claws into a Lexan",
-      "1 order per mash bag, tie closed",
-      "Weight out to acceptable weight",
+      "Portion in one-pound increments using red mesh bags",
+      "*Weights should run .95 - 1.02 lbs for proper weight*",
       "Place all portions back into original box",
       "Date, number of portions, seal, back into the freezer",
       "Pull Frozen according to your daily needs",
-      "NOTE: Weights should run .95 - 1.02 for proper weight",
-      "Portion in one-pound increments using red mesh bags",
-      "."
+      "Crab will last 4-5 days thawed."
     ],
     "notes": "",
     "images": []
@@ -14523,29 +14507,6 @@
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
       "Label, date, refrigerate & rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-79",
-    "masterId": "dp-cbg-79-m",
-    "name": "Leaf Lettuce LTO",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Leaf Filet",
-        "qty": "1",
-        "unit": "lb."
-      }
-    ],
-    "steps": [
-      "These are precut, pre-washed filets; you are just making smaller bags.",
-      "Storing 24 pieces per bag"
     ],
     "notes": "",
     "images": []
