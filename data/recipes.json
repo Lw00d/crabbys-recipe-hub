@@ -1,5 +1,33 @@
 [
   {
+    "name": "Haddock Cut (Fish and Chips)",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "cutting board, knife, scale, day portion bags",
+    "ingredients": [
+      {
+        "name": "Haddock",
+        "qty": "10",
+        "unit": "pound/cs."
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Thaw in the walk-in cooler overnight",
+      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
+      "Portion 2 pieces each"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msosdejciax2kg",
+    "masterId": "m-msorwzlfvu1w5o",
+    "location": "Palm"
+  },
+  {
     "name": "Haddock Cut (Sandwich)",
     "category": "Dinner Prep",
     "yield": "",
@@ -13081,35 +13109,6 @@
       "Spin lettuce in a salad spinner.",
       "Place into the Lemon bag",
       "Label, date, refrigerate, and rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-106",
-    "masterId": "dp-pl-106-m",
-    "name": "Haddock for Beer Battered Fish",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "cutting board, knife, scale, day portion bags",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "10",
-        "unit": "pound/cs."
-      }
-    ],
-    "steps": [
-      "Pull the daily needs for the next day's prep",
-      "Remove the fish from the sealed bag",
-      "Place them in/on a perforated tray to thaw and drain",
-      "Cover with Plastic wrap, label, and date",
-      "Thaw in the walk-in cooler overnight",
-      "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 2 pieces in a portion bag",
-      "<<Fish n Chips Portion.jpg>>"
     ],
     "notes": "",
     "images": []
