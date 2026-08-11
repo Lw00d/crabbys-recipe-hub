@@ -1,5 +1,49 @@
 [
   {
+    "name": "Mayo for Lobster Roll prep",
+    "category": "Dinner Prep",
+    "yield": "1 gal.",
+    "shelfLife": "",
+    "smallware": "zester, large mixing bowl, whisk, rubber spatula, and gallon container",
+    "ingredients": [
+      {
+        "name": "Mayo Hellman's",
+        "qty": "1",
+        "unit": "Gal."
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "4",
+        "unit": "Vol/oz"
+      },
+      {
+        "name": "Salt",
+        "qty": "4",
+        "unit": "tsp."
+      },
+      {
+        "name": "Lemon Zest",
+        "qty": "4",
+        "unit": "Lemons"
+      }
+    ],
+    "steps": [
+      "Take 4 lemons, remove the stickers, and rinse them off.",
+      "Using a zester, remove just the Yellow outer layer of the lemon, None of the white meat underneath the outer layer.",
+      "In a large mixing bowl, add the gallon of Hellman's Mayo",
+      "Add lemon juice, salt and the zest of 4 lemons.",
+      "Whisk together to combined",
+      "Place back into the gallon container with a marker, label it Lemon Mayo.",
+      "Date the lid, place it inside a Lemon Bag and tie it closed, place back into the Reach-in or Walk-in cooler, away from the other Mayonnaise",
+      "*This Mayo should sit overnight for the best results before using*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msouhn9w3ym32e",
+    "masterId": "dp-cbg-80-m",
+    "location": "CDS"
+  },
+  {
     "name": "Lobster Bites (Coconut)",
     "category": "Dinner Prep",
     "yield": "6 portions per 2# bag",
@@ -14775,7 +14819,7 @@
   {
     "id": "dp-cbg-80",
     "masterId": "dp-cbg-80-m",
-    "name": "Lobster Mayo Roll prep",
+    "name": "Mayo for Lobster Roll prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "1 gal.",
@@ -14804,15 +14848,14 @@
       }
     ],
     "steps": [
-      "Note: -------Steps for Zesting --------------------->>>",
-      "This Mayo should sit overnight for the best results before using",
       "Take 4 lemons, remove the stickers, and rinse them off.",
       "Using a zester, remove just the Yellow outer layer of the lemon, None of the white meat underneath the outer layer.",
       "In a large mixing bowl, add the gallon of Hellman's Mayo",
       "Add lemon juice, salt and the zest of 4 lemons.",
       "Whisk together to combined",
       "Place back into the gallon container with a marker, label it Lemon Mayo.",
-      "Date the lid, place it inside a Lemon Bag and tie it closed, place back into the Reach-in or Walk-in cooler, away from the other Mayonnaise"
+      "Date the lid, place it inside a Lemon Bag and tie it closed, place back into the Reach-in or Walk-in cooler, away from the other Mayonnaise",
+      "*This Mayo should sit overnight for the best results before using*"
     ],
     "notes": "",
     "images": []
