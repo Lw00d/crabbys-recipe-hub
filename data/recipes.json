@@ -1,5 +1,40 @@
 [
   {
+    "name": "Lobster Roll Cold",
+    "category": "Dinner Prep",
+    "yield": "2lb. / 6 - 4.2oz portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Meat (Claw & Body)",
+        "qty": "1",
+        "unit": "2# Bag /Each"
+      },
+      {
+        "name": "Lemon Zest Mayo (Prep)",
+        "qty": "1",
+        "unit": "8-oz Deli container"
+      }
+    ],
+    "steps": [
+      "Take a 2# bag of lobster meat and remove it from its vacuum packaging.",
+      "Place frozen lobster meat into the cooler to thaw.",
+      "Once the lobster is thawed, drain the meat and empty it from the bag into a large mixing bowl,",
+      "Then add 1 8-oz Deli Cup of Lemon Zest Mayo (prep)",
+      "Fold the Lobster meat and mayo until combined. Make sure not to break up the lobster meat when mixing.",
+      "Portion 4 oz of the mixture into an 8-oz deli container, lid, label, and date it",
+      "Place all portions into a large lemon bag, tie off, label, date, and store.",
+      "You should yield at least 6 portions out of the 2 lb. bag.",
+      "*2lb bag of lobster meat yields 26oz after thawing and draining.*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoun6wh9sr5p0",
+    "masterId": "m-msoun6wh5ztpcw",
+    "location": "CDS"
+  },
+  {
     "name": "Mayo for Lobster Roll prep",
     "category": "Dinner Prep",
     "yield": "1 gal.",
@@ -8941,7 +8976,7 @@
         "unit": "2# Bag /Each"
       },
       {
-        "name": "Mayo",
+        "name": "Lemon Zest Mayo (Prep)",
         "qty": "1",
         "unit": "8-oz Deli container"
       }
@@ -8950,12 +8985,12 @@
       "Take a 2# bag of lobster meat and remove it from its vacuum packaging.",
       "Place frozen lobster meat into the cooler to thaw.",
       "Once the lobster is thawed, drain the meat and empty it from the bag into a large mixing bowl,",
-      "Then add 1 8-oz Deli Cup of mayo",
+      "Then add 1 8-oz Deli Cup of Lemon Zest Mayo (prep)",
       "Fold the Lobster meat and mayo until combined. Make sure not to break up the lobster meat when mixing.",
       "Portion 4 oz of the mixture into an 8-oz deli container, lid, label, and date it",
       "Place all portions into a large lemon bag, tie off, label, date, and store.",
       "You should yield at least 6 portions out of the 2 lb. bag.",
-      "Note: 2lb bag of lobster meat yields 26oz after thawing and draining."
+      "*2lb bag of lobster meat yields 26oz after thawing and draining.*"
     ],
     "notes": "",
     "images": []
@@ -13948,44 +13983,6 @@
     "images": []
   },
   {
-    "id": "dp-cds-87",
-    "masterId": "dp-cds-87-m",
-    "name": "Lobster Roll Prep (Cold)",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "2lb. /8 - 4oz. Portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lobster Meat (Claw & Body)",
-        "qty": "1",
-        "unit": "2lb.Bag"
-      },
-      {
-        "name": "Heliman's Mayonnaise",
-        "qty": "8",
-        "unit": "vol oz."
-      }
-    ],
-    "steps": [
-      "Place frozen lobster meat into the cooler to thaw overnight.",
-      "Take a 2# bag of lobster meat and remove it from its packaging.",
-      "Once the lobster is thawed, drain the meat, place it into a mixing bowl, then add 8 volume oz. of mayo, and salt",
-      "Fold the Lobster meat until combined. Make sure not to break up the lobster meat when mixing.",
-      "Place 4 oz of the mixture into an 8-oz deli container, lid, label, and date it",
-      "Place all portions into a large lemon bag, tie off, label, date, and store.",
-      "You should yield at least 8 portions out of the 2 lb. bag.",
-      "Note: 2lb bag of lobster meat yields 26oz after thawing and draining.",
-      "NOTE Remove the meat from the bag, and gently squeeze out some of the water.",
-      "Place the meat into a mixing bowl",
-      "Place the mixture into the Cooler for 2 hours before portioning",
-      "Yield - 8portions per 2# bag"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-88",
     "masterId": "dp-cds-88-m",
     "name": "Lobster Bites (Coconut)",
@@ -14812,50 +14809,6 @@
       "Label, date, rotate, and refrigerate",
       "Double Bag the slaw",
       "Label, date, refrigerate & rotate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-80",
-    "masterId": "dp-cbg-80-m",
-    "name": "Mayo for Lobster Roll prep",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "1 gal.",
-    "shelfLife": "",
-    "smallware": "zester, large mixing bowl, whisk, rubber spatula, and gallon container",
-    "ingredients": [
-      {
-        "name": "Mayo Hellman's",
-        "qty": "1",
-        "unit": "Gal."
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": "4",
-        "unit": "Vol/oz"
-      },
-      {
-        "name": "Salt",
-        "qty": "4",
-        "unit": "tsp."
-      },
-      {
-        "name": "Lemon Zest",
-        "qty": "4",
-        "unit": "Lemons"
-      }
-    ],
-    "steps": [
-      "Take 4 lemons, remove the stickers, and rinse them off.",
-      "Using a zester, remove just the Yellow outer layer of the lemon, None of the white meat underneath the outer layer.",
-      "In a large mixing bowl, add the gallon of Hellman's Mayo",
-      "Add lemon juice, salt and the zest of 4 lemons.",
-      "Whisk together to combined",
-      "Place back into the gallon container with a marker, label it Lemon Mayo.",
-      "Date the lid, place it inside a Lemon Bag and tie it closed, place back into the Reach-in or Walk-in cooler, away from the other Mayonnaise",
-      "*This Mayo should sit overnight for the best results before using*"
     ],
     "notes": "",
     "images": []
