@@ -1,5 +1,113 @@
 [
   {
+    "name": "Onions for LTO",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 to 3 days",
+    "smallware": "cutting board, mandolin,",
+    "ingredients": [
+      {
+        "name": "Onions",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "Pull the correct amount of Onions for daily prep",
+      "Slice the Onion into 1/4\" slices using a mandolin.",
+      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
+      "Place unbroken rings into the portion bag",
+      "Use the remainder for sautéed onions",
+      "Rings for an LTO setup are 2 rings"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoybrrlie7c4v",
+    "masterId": "dp-onions-for-lto-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Onions for LTO",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 to 3 days",
+    "smallware": "cutting board, mandolin,",
+    "ingredients": [
+      {
+        "name": "Onions",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "Pull the correct amount of Onions for daily prep",
+      "Slice the Onion into 1/4\" slices using a mandolin.",
+      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
+      "Place unbroken rings into the portion bag",
+      "Use the remainder for sautéed onions",
+      "Rings for an LTO setup are 2 rings"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoybqxt2x1bp0",
+    "masterId": "dp-onions-for-lto-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Onions for LTO",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 to 3 days",
+    "smallware": "cutting board, mandolin,",
+    "ingredients": [
+      {
+        "name": "Onions",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "Pull the correct amount of Onions for daily prep",
+      "Slice the Onion into 1/4\" slices using a mandolin.",
+      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
+      "Place unbroken rings into the portion bag",
+      "Use the remainder for sautéed onions",
+      "Rings for an LTO setup are 2 rings"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoybpsranm0cu",
+    "masterId": "dp-onions-for-lto-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Onions for LTO",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 to 3 days",
+    "smallware": "cutting board, mandolin,",
+    "ingredients": [
+      {
+        "name": "Onions",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "Pull the correct amount of Onions for daily prep",
+      "Slice the Onion into 1/4\" slices using a mandolin.",
+      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
+      "Place unbroken rings into the portion bag",
+      "Use the remainder for sautéed onions",
+      "Rings for an LTO setup are 2 rings"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msoybou6ksglh4",
+    "masterId": "dp-onions-for-lto-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Onion Rings",
     "category": "Dinner Prep",
     "yield": "",
@@ -7241,31 +7349,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-44",
-    "masterId": "dp-nb-44-m",
-    "name": "Onion (LTO) Slices",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "See prep numbers",
-    "shelfLife": "2 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Onions",
-        "qty": "4.82",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Slice the Onion into 1/4\" slices using a mandolin.",
-      "Only use outside rings bigger than a 12-oz squeeze bottle for LTO.",
-      "Place rings into the portion bag",
-      "Use the remainder for sautéed onions"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-45",
     "masterId": "dp-nb-45-m",
     "name": "New Orleans Oysters",
@@ -9255,33 +9338,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-41",
-    "masterId": "dp-onions-for-lto-m",
-    "name": "Onions for LTO",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
-    "ingredients": [
-      {
-        "name": "Onions, Red",
-        "qty": "4.82",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "Pull the correct amount of Onions for daily prep",
-      "Slice the Onion into 1/4\" slices using a mandolin.",
-      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
-      "Place unbroken rings into the portion bag",
-      "Use the remainder for sautéed onions",
-      "Rings for an LTO setup are 2 rings"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-30",
     "masterId": "dp-onions-for-lto-m",
     "name": "Onions for LTO",
@@ -9292,8 +9348,8 @@
     "smallware": "cutting board, mandolin,",
     "ingredients": [
       {
-        "name": "Onions, Red",
-        "qty": "4.82",
+        "name": "Onions",
+        "qty": "5",
         "unit": "Lbs."
       }
     ],
@@ -14827,33 +14883,6 @@
       "Cut up a 5.3oz portion of the Boursin Garlic Herb cheese into 5 slices",
       "Add the pieces to the mashed potatoes and mix to combine",
       "Keep the potatoes covered with a lid while on the line"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-82",
-    "masterId": "dp-cbg-82-m",
-    "name": "Onions LTO",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 to 3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Onions",
-        "qty": "4.82",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Pull the correct amount of Onions (bw)for daily prep",
-      "Slice the Onion into 1/4\" slices using a mandolin.",
-      "Only use outside rings bigger than a 12oz squeeze bottle for LTO.",
-      "Place unbroken rings into the portion bag",
-      "Use the remainder for sautéed onions",
-      "Rings for an LTO setup are 2 rings"
     ],
     "notes": "",
     "images": []
