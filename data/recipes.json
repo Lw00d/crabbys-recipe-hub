@@ -13028,38 +13028,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-99",
-    "masterId": "dp-stuffed-mushrooms-m",
-    "name": "Stuffed Mushrooms",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mushrooms",
-        "qty": "2",
-        "unit": "lb"
-      },
-      {
-        "name": "Crab & Spin Dip",
-        "qty": "32",
-        "unit": "Weight oz"
-      }
-    ],
-    "steps": [
-      "Lightly rinse off mushrooms and destem",
-      "Lay the mushroom stem side down on a metal sheet tray.",
-      "Baste with garlic butter and bake for 3 minutes @ 375 degrees",
-      "Place in a walk-in cooler to chill",
-      "Take mushrooms and stuff them with 1 oz of crab and spinach dip each.",
-      "Place 4 to 6 stuffed mushrooms into a large rarebit"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-62",
     "masterId": "dp-stuffed-mushrooms-m",
     "name": "Stuffed Mushrooms",
@@ -13089,7 +13057,8 @@
       "Place 4 to 6 stuffed mushrooms into a large rarebit"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-100",
