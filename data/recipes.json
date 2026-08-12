@@ -8152,7 +8152,9 @@
       "Place 3.75 oz of Spin Dip in a white round Au Gratin dish",
       "Take grouper sandwich and cut a slit in the middle of the piece",
       "Place on top of the spin dip (skin side facing down)",
-      "Make a round hole in the middle of the spinach dip to cook quickly"
+      "Make a round hole in the middle of the spinach dip to cook quickly",
+      "place the Au Gratin dish inside a day portion bag ",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -13206,40 +13208,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-102",
-    "masterId": "dp-stuffed-haddock-m",
-    "name": "Stuffed Haddock",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Haddock",
-        "qty": "1",
-        "unit": "Portion"
-      },
-      {
-        "name": "Cream Cheese stuffing",
-        "qty": "1",
-        "unit": "4oz Portion"
-      }
-    ],
-    "steps": [
-      "Cut one piece of Haddock into 3 slices",
-      "First, cut the filet down the middle, separating the small and large pieces",
-      "Next, cut a large piece right down the middle",
-      "Using a 12-oz rarebit, start building:",
-      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side down",
-      "Next, place the stuffing in the middle of the two pieces, spread out a little to fill in the opening",
-      "Place the final piece of fish over the stuffing",
-      "Place inside a day portion bag, and place in the W.I. cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-64",
     "masterId": "dp-stuffed-haddock-m",
     "name": "Stuffed Haddock",
@@ -13247,7 +13215,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "12 oz Rarebit",
     "ingredients": [
       {
         "name": "Haddock",
@@ -13261,13 +13229,14 @@
       }
     ],
     "steps": [
+      "Haddock:",
       "Cut one piece of Haddock into 3 slices",
       "First, cut the filet down the middle, separating the small and large pieces",
       "Next, cut a large piece right down the middle",
       "Using a 12-oz rarebit, start building:",
-      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side down",
+      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side facing inward towards stuffing",
       "Next, place the stuffing in the middle of the two pieces, spread out a little to fill in the opening",
-      "Place the final piece of fish over the stuffing",
+      "Place the final piece of fish over the stuffing, with the skin side facing inward towards stuffing",
       "Place inside a day portion bag, and place in the W.I. cooler"
     ],
     "notes": "",
@@ -13281,7 +13250,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "12 oz Rarebit",
     "ingredients": [
       {
         "name": "Haddock",
@@ -13295,13 +13264,14 @@
       }
     ],
     "steps": [
+      "Haddock:",
       "Cut one piece of Haddock into 3 slices",
       "First, cut the filet down the middle, separating the small and large pieces",
       "Next, cut a large piece right down the middle",
       "Using a 12-oz rarebit, start building:",
-      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side down",
+      "Use the two long pieces first and wrap them around the bottom wall of the dish, with the skin side facing inward towards stuffing",
       "Next, place the stuffing in the middle of the two pieces, spread out a little to fill in the opening",
-      "Place the final piece of fish over the stuffing",
+      "Place the final piece of fish over the stuffing, with the skin side facing inward towards stuffing",
       "Place inside a day portion bag, and place in the W.I. cooler"
     ],
     "notes": "",
