@@ -1,5 +1,49 @@
 [
   {
+    "name": "Coconut Rice",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans",
+    "ingredients": [
+      {
+        "name": "Cream of Coconut Mix",
+        "qty": "15",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Milk Coconut",
+        "qty": "5",
+        "unit": "Can"
+      },
+      {
+        "name": "Rice Jasmine",
+        "qty": "5",
+        "unit": "lbs."
+      },
+      {
+        "name": "Water (Recipes)",
+        "qty": "100",
+        "unit": "Vol oz"
+      }
+    ],
+    "steps": [
+      "Add coconut milk and Rice to the rice cooker",
+      "Fill with 100oz of water",
+      "Cover and cook on low heat until rice is tender.",
+      "Once cooked, add a cream of coconut and stir",
+      "Lay out on a sheet pan and let cool in a walk-in",
+      "Portion into 1.5# bags",
+      "Yields: 4 - 3.5 lbs. lemon bags",
+      "Note: Please store any unused cream of coconut in an appropriate container with a date."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq8fnjgy2j3mh",
+    "masterId": "dp-rice-coconut-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Ranchero Sauce",
     "category": "Breakfast Prep",
     "yield": "",
@@ -4907,51 +4951,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-11",
-    "masterId": "dp-nb-11-m",
-    "name": "Coconut Rice",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "3 -??? # Lemon bags",
-    "shelfLife": "3 days",
-    "smallware": "Rice cooker, can opener, rubber spatula, 3 full sheet pans, kitchen spoon, rubber spatula, lemon bags",
-    "ingredients": [
-      {
-        "name": "Water",
-        "qty": "100",
-        "unit": "ounces"
-      },
-      {
-        "name": "Jasmine Rice",
-        "qty": "5",
-        "unit": "pounds"
-      },
-      {
-        "name": "Mix-Cream of Coconut",
-        "qty": "1",
-        "unit": "16oz can"
-      },
-      {
-        "name": "Coconut Milk",
-        "qty": "5",
-        "unit": "cans"
-      }
-    ],
-    "steps": [
-      "5/30/24 using 48oz cans, still 16oz of Cream of Coconut",
-      "Rice Cooker Method:",
-      "Add coconut milk and Rice to the rice cooker",
-      "Close lid and cook for 20-25 min. Unplug cooker",
-      "Add a can of Cream of Coconut, and stir, let stand for 10 min.",
-      "Lay out on a sheet pan and let cool down in the cooler until 40 degrees",
-      "Portion into three bags",
-      "Label, date, and store in the cooler",
-      "Note: Please store any unused cream of coconut in an appropriate container with a label and date."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-12",
     "masterId": "dp-nb-12-m",
     "name": "Crab Roll Meat Portions (Cold)",
@@ -5081,45 +5080,6 @@
       "label2": "Full Case"
     },
     "yield2": "60 / 4.5oz Portions"
-  },
-  {
-    "id": "dp-nb-14",
-    "masterId": "dp-roasted-potatoes-m",
-    "name": "Roasted Potatoes",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Baby Bakers",
-        "qty": "1",
-        "unit": "bag"
-      },
-      {
-        "name": "Garlic Butter",
-        "qty": "2",
-        "unit": "Purple scoops"
-      },
-      {
-        "name": "House Spice",
-        "qty": ".5",
-        "unit": "oz"
-      },
-      {
-        "name": "Fresh Rosemary",
-        "qty": "sprinkle",
-        "unit": "In after cooked"
-      }
-    ],
-    "steps": [
-      "Note: Portion enough for daily usage",
-      "In Yellow Cambro pan put potatoes, butter, and house spice",
-      "Label, date, rotate and refrigerate"
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-pl-5",
@@ -12491,7 +12451,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans",
     "ingredients": [
       {
         "name": "Cream of Coconut Mix",
@@ -12515,7 +12475,6 @@
       }
     ],
     "steps": [
-      "Note: Please store any unused cream of coconut in an appropriate container with a date.",
       "Add coconut milk and Rice to the rice cooker",
       "Fill with 100oz of water",
       "Cover and cook on low heat until rice is tender.",
@@ -12523,7 +12482,7 @@
       "Lay out on a sheet pan and let cool in a walk-in",
       "Portion into 1.5# bags",
       "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans"
+      "Note: Please store any unused cream of coconut in an appropriate container with a date."
     ],
     "notes": "",
     "images": []
@@ -12536,7 +12495,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans",
     "ingredients": [
       {
         "name": "Cream of Coconut Mix",
@@ -12560,7 +12519,6 @@
       }
     ],
     "steps": [
-      "Note: Please store any unused cream of coconut in an appropriate container with a date.",
       "Add coconut milk and Rice to the rice cooker",
       "Fill with 100oz of water",
       "Cover and cook on low heat until rice is tender.",
@@ -12568,7 +12526,7 @@
       "Lay out on a sheet pan and let cool in a walk-in",
       "Portion into 1.5# bags",
       "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans"
+      "Note: Please store any unused cream of coconut in an appropriate container with a date."
     ],
     "notes": "",
     "images": []
@@ -12581,7 +12539,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans",
     "ingredients": [
       {
         "name": "Cream of Coconut Mix",
@@ -12605,7 +12563,6 @@
       }
     ],
     "steps": [
-      "Note: Please store any unused cream of coconut in an appropriate container with a date.",
       "Add coconut milk and Rice to the rice cooker",
       "Fill with 100oz of water",
       "Cover and cook on low heat until rice is tender.",
@@ -12613,53 +12570,7 @@
       "Lay out on a sheet pan and let cool in a walk-in",
       "Portion into 1.5# bags",
       "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-96",
-    "masterId": "dp-rice-yellow-rice-cooker-m",
-    "name": "Rice Yellow (rice cooker)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3-day shelf life",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Olive Oil Pure (for salads)",
-        "qty": "6",
-        "unit": "oz"
-      },
-      {
-        "name": "Water (Hot)",
-        "qty": "4",
-        "unit": "Quarts"
-      },
-      {
-        "name": "Rice Yellow",
-        "qty": "3",
-        "unit": "2 lb. Bags (6 lbs.)"
-      }
-    ],
-    "steps": [
-      "Break up the seasoning clumps before opening the bags",
-      "Rice Cooker Preparation:",
-      "Add the olive oil into the cooker",
-      "Add rice and stir by hand to break up the seasoning and coat the rice.",
-      "Once the clumps are broken up and rice is coated with oil,",
-      "Add the water and stir",
-      "Close the lid and cook for roughly 35 - 45 minutes. It will beep when done.",
-      "When done, remove the insert and pour rice onto 3 sheet pans",
-      "Place in the cooler to cool down before portioning up.",
-      "Label, date, and refrigerate. Place in the cooler.",
-      "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 2 full sheet pans",
-      "Same steps as above",
-      "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 4 full sheet pans"
+      "Note: Please store any unused cream of coconut in an appropriate container with a date."
     ],
     "notes": "",
     "images": []
@@ -13421,7 +13332,8 @@
       "Utensils Needed: 5 Full 2\" SS pan, slotted spoon, metal gallon pitcher, aluminum foil, 5 full sheet pans, 5 lemon bags, and 5 date bags,"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-cds-70",
@@ -14025,7 +13937,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans",
     "ingredients": [
       {
         "name": "Cream of Coconut Mix",
@@ -14049,7 +13961,6 @@
       }
     ],
     "steps": [
-      "Note: Please store any unused cream of coconut in an appropriate container with a date.",
       "Add coconut milk and Rice to the rice cooker",
       "Fill with 100oz of water",
       "Cover and cook on low heat until rice is tender.",
@@ -14057,7 +13968,7 @@
       "Lay out on a sheet pan and let cool in a walk-in",
       "Portion into 1.5# bags",
       "Yields: 4 - 3.5 lbs. lemon bags",
-      "Utensils Needed: Rice cooker, slotted spoon, metal gallon pitcher, 3 full sheet pans"
+      "Note: Please store any unused cream of coconut in an appropriate container with a date."
     ],
     "notes": "",
     "images": []
