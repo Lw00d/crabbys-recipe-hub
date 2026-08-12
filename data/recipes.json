@@ -1,5 +1,39 @@
 [
   {
+    "name": "Stuffed Shrimp",
+    "category": "Dinner Prep",
+    "yield": "80 each = 1 Lined full 2\" pan",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp P& D",
+        "qty": "80",
+        "unit": "each"
+      },
+      {
+        "name": "Crab Cake Recipe",
+        "qty": "40",
+        "unit": "Ounce = (10 cakes)"
+      }
+    ],
+    "steps": [
+      "Butterfly shrimp and place them butterflied side down on the pan",
+      "Place 1/2oz. (0.50oz= Silver Scoop) of crab cake mix on top of the shrimp,",
+      "Place completed stuffed shrimp into a full 2\" pan.",
+      "Place lid on 2\" pan, label, date, and refrigerate",
+      "For dinners:",
+      "Place 6 prepped shrimp in tails up",
+      "For shrimp 3 way or combos:",
+      "Place 4 prepped shrimp tails up"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqbni5tg60lqz",
+    "masterId": "dp-nb-56-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Steak Seasoning",
     "category": "Dinner Prep",
     "yield": "",
@@ -3316,7 +3350,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Crab Cake Prep CDS",
+    "name": "Crab Cake Prep",
     "category": "Dinner Prep",
     "yield": "12 lbs. batch = 48 - 4oz Ivory Scoop portions",
     "shelfLife": "3 days",
@@ -6545,7 +6579,7 @@
   {
     "id": "dp-nb-25",
     "masterId": "dp-nb-25-m",
-    "name": "Crab Cake Prep CDS",
+    "name": "Crab Cake Prep",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "12 lbs. batch = 48 - 4oz Ivory Scoop portions",
@@ -8329,10 +8363,9 @@
       "Place 1/2oz. (0.50oz= Silver Scoop) of crab cake mix on top of the shrimp,",
       "Place completed stuffed shrimp into a full 2\" pan.",
       "Place lid on 2\" pan, label, date, and refrigerate",
-      "SCNB- place in 2\" full pan, cover with lid",
       "For dinners:",
       "Place 6 prepped shrimp in tails up",
-      "For shrimp 3 way or combos",
+      "For shrimp 3 way or combos:",
       "Place 4 prepped shrimp tails up"
     ],
     "notes": "",
@@ -12899,49 +12932,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-98",
-    "masterId": "dp-stuffed-shrimp-m",
-    "name": "Stuffed Shrimp",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Shrimp P& D",
-        "qty": "120",
-        "unit": "each"
-      },
-      {
-        "name": "Crab Cake Base",
-        "qty": "1",
-        "unit": "Tub"
-      },
-      {
-        "name": "Crab Claw",
-        "qty": "2",
-        "unit": "Pounds"
-      }
-    ],
-    "steps": [
-      "Gently mix crab meat into the crab cake base mix",
-      "Butterfly shrimp and place butterflied side down on the pan",
-      "Place 1/2oz.(0.50oz = Silver Scoop) of crab cake mix on top of shrimp,",
-      "Place completed stuffed shrimp into full 2\"pan.",
-      "Place lid on 2\" pan label, date and refrigerate",
-      "Yeild: 80 each = 1 Lined full 2\"pan",
-      "For dinners use 8oz rarebit",
-      "Place 6 prepped shrimp in tails up",
-      "For shrimp 3 way or combos use round rarebit",
-      "Place 4 prepped shrimp tails up",
-      "Prepped in a dish",
-      "Prepped in the pan"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-61",
     "masterId": "dp-stuffed-shrimp-m",
     "name": "Stuffed Shrimp",
@@ -12973,56 +12963,10 @@
       "Place 1/2oz.(0.50oz = Silver Scoop) of crab cake mix on top of shrimp,",
       "Place completed stuffed shrimp into full 2\"pan.",
       "Place lid on 2\" pan label, date and refrigerate",
-      "Yeild: 80 each = 1 Lined full 2\"pan",
-      "For dinners use 8oz rarebit",
-      "Place 6 prepped shrimp in tails up",
-      "For shrimp 3 way or combos use round rarebit",
-      "Place 4 prepped shrimp tails up",
-      "Prepped in a dish",
-      "Prepped in the pan"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-24",
-    "masterId": "dp-stuffed-shrimp-m",
-    "name": "Stuffed Shrimp",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Shrimp P& D",
-        "qty": "120",
-        "unit": "each"
-      },
-      {
-        "name": "Crab Cake Base",
-        "qty": "1",
-        "unit": "Tub"
-      },
-      {
-        "name": "Crab Claw",
-        "qty": "2",
-        "unit": "Pounds"
-      }
-    ],
-    "steps": [
-      "Gently mix crab meat into the crab cake base mix",
-      "Butterfly shrimp and place butterflied side down on the pan",
-      "Place 1/2oz.(0.50oz = Silver Scoop) of crab cake mix on top of shrimp,",
-      "Place completed stuffed shrimp into full 2\"pan.",
-      "Place lid on 2\" pan label, date and refrigerate",
-      "Yeild: 80 each = 1 Lined full 2\"pan",
-      "For dinners use 8oz rarebit",
-      "Place 6 prepped shrimp in tails up",
-      "For shrimp 3 way or combos use round rarebit",
-      "Place 4 prepped shrimp tails up",
-      "Prepped in a dish",
-      "Prepped in the pan"
+      "For dinners:",
+      "Place 6 prepped shrimp in tails up in a 8oz rarebit",
+      "For shrimp 3 way or combos:",
+      "Place 4 prepped shrimp tails up in a round rarebit"
     ],
     "notes": "",
     "images": []
