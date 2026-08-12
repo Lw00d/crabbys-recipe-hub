@@ -10686,7 +10686,7 @@
   {
     "id": "dp-pl-60",
     "masterId": "dp-pl-60-m",
-    "name": "Trigger Fish Nugget & Sand",
+    "name": "Trigger Fish Nuggets and Sandwiches",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -10700,14 +10700,14 @@
       }
     ],
     "steps": [
-      "1 filet for a sandwich portion",
+      "Sandwich Portion:",
       "Take and place 10 filets into a date portion bag",
       "Label, date and rotate",
+      "Nugget Portion:",
       "Lay the fillet out on the cutting board and cut in 1/2 lengthwise.",
-      "Cut each half into 4 or 5 equal sizes pieces (depending on the size of the filet.",
+      "Cut each half into 4 or 5 equal sizes pieces (depending on the size of the filet.)",
       "Portion into a day portion bag 7.9- 8.1oz portions",
-      "Portion to 7.9- 8.1oz",
-      "Sandwich Portion = 1 filet"
+      "Portion to 7.9- 8.1oz"
     ],
     "notes": "",
     "images": []
