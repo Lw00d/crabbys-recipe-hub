@@ -1,5 +1,74 @@
 [
   {
+    "name": "Ranchero Sauce",
+    "category": "Breakfast Prep",
+    "yield": "",
+    "shelfLife": "7 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato vine ripe",
+        "qty": "4",
+        "unit": "Each"
+      },
+      {
+        "name": "Onion yellow",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Jalapenos",
+        "qty": "4",
+        "unit": "Each"
+      },
+      {
+        "name": "Cilantro",
+        "qty": "2",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Garlic in water",
+        "qty": "3.5",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Kosher salt",
+        "qty": "1",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Black pepper",
+        "qty": ".5",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Fresh lime juice",
+        "qty": "4",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Sauce Adobe Chipotle",
+        "qty": "1",
+        "unit": "Can"
+      },
+      {
+        "name": "Olive oil",
+        "qty": "4",
+        "unit": "Vol oz"
+      }
+    ],
+    "steps": [
+      "Cut the onion, jalapeno, and tomatoes into chunks",
+      "Add all ingredients (except lime juice and salt) to a large pot and cook on medium-high heat for 15-20 minutes",
+      "Add lime juice and blend all ingredients until smooth."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq7s0h3dww8jj",
+    "masterId": "bp-si-7-m",
+    "location": "CBG"
+  },
+  {
     "name": "Portabella Sauce",
     "category": "Dinner Prep",
     "yield": "",
@@ -6145,129 +6214,9 @@
     "images": []
   },
   {
-    "id": "dp-nb-27",
-    "masterId": "dp-red-sauce-bar-grill-m",
-    "name": "Red Sauce (Bar & Grill)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "recipe = 2 - Lemon Bags",
-    "shelfLife": "4 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Herb Basil (roughly leaves)",
-        "qty": "1.5",
-        "unit": "oz"
-      },
-      {
-        "name": "Olive Oil Pure (For Salads)",
-        "qty": "3.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Tomatoes San Marzano",
-        "qty": "3.00",
-        "unit": "#10 can"
-      },
-      {
-        "name": "Basil",
-        "qty": "1.5",
-        "unit": "oz."
-      },
-      {
-        "name": "Garlic Whole Peeled",
-        "qty": "6.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Pepper Black Ground",
-        "qty": "0.50",
-        "unit": "oz"
-      },
-      {
-        "name": "Salt Kosher",
-        "qty": "1.00",
-        "unit": "oz"
-      }
-    ],
-    "steps": [
-      "Open 3 cans of tomatoes, peeled",
-      "Take the tomatoes out of the can and put them in the Robo-coupe (save the tomato juice left in the cans)",
-      "Blend lightly, just until there are no big chunks but still somewhat thick, and pour into a large Cambro.",
-      "Chop garlic in the Robo-Coupe",
-      "Chop basil by hand finely with a knife",
-      "Put all contents into Cambro (including the rest of the tomato juice from the can of tomatoes, oil, garlic, basil)",
-      "Add salt and pepper and stir with a whisk",
-      "Portion into 2 (double the bags up) lemon bags.",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-11",
-    "masterId": "dp-red-sauce-bar-grill-m",
-    "name": "Red Sauce (Bar & Grill)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "recipe = 2 - Lemon Bags",
-    "shelfLife": "4 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Herb Basil (roughly leaves)",
-        "qty": "1.5",
-        "unit": "oz"
-      },
-      {
-        "name": "Olive Oil Pure (For Salads)",
-        "qty": "3.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Tomatoes San Marzano",
-        "qty": "3.00",
-        "unit": "#10 can"
-      },
-      {
-        "name": "Basil",
-        "qty": "1.5",
-        "unit": "oz."
-      },
-      {
-        "name": "Garlic Whole Peeled",
-        "qty": "6.00",
-        "unit": "oz"
-      },
-      {
-        "name": "Pepper Black Ground",
-        "qty": "0.50",
-        "unit": "oz"
-      },
-      {
-        "name": "Salt Kosher",
-        "qty": "1.00",
-        "unit": "oz"
-      }
-    ],
-    "steps": [
-      "Open 3 cans of tomatoes, peeled",
-      "Take the tomatoes out of the can and put them in the Robo-coupe (save the tomato juice left in the cans)",
-      "Blend lightly, just until there are no big chunks but still somewhat thick, and pour into a large Cambro.",
-      "Chop garlic in the Robo-Coupe",
-      "Chop basil by hand finely with a knife",
-      "Put all contents into Cambro (including the rest of the tomato juice from the can of tomatoes, oil, garlic, basil)",
-      "Add salt and pepper and stir with a whisk",
-      "Portion into 2 (double the bags up) lemon bags.",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-9",
     "masterId": "dp-red-sauce-bar-grill-m",
-    "name": "Red Sauce (Bar & Grill)",
+    "name": "Red Sauce",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "recipe = 2 - Lemon Bags",
@@ -10221,9 +10170,9 @@
     "name": "Rice (Cooker)",
     "location": "Palm",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "3- 3lb bag",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Rice cooker, slotted spoon, measuring pitcher, full sheet pans, lemon bags, and date bags",
     "ingredients": [
       {
         "name": "Water",
@@ -10273,15 +10222,11 @@
       "Remove from the cooker and pour onto a sheet tray, place it into the cool.",
       "Once cool, transfer rice to a full size Lexan's add cilantro & Lime juice, mix well",
       "Portion 3 lbs. into a vacuumed boil in bag.",
-      "Label, date, and rotate. Store in the cooler at 40°F or below, above any raw product",
-      "Yields: 3- 3lb bag",
-      "Utensils Needed: Rice cooker, slotted spoon, measuring pitcher, full sheet pans, lemon bags, and date bags,",
-      "After cooling add lime juice",
-      "& cilantro, mix well",
-      "Portioning in vacuumed sealed bag"
+      "Label, date, and rotate. Store in the cooler at 40°F or below, above any raw product"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-58",
