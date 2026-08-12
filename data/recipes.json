@@ -2244,7 +2244,6 @@
     "steps": [
       "Pull Thaw a case and remove each piece from its bag",
       "Set each piece in a perforated pan with a drip tray underneath",
-      "Cover and let sit until completely thawed",
       "Once thawed, the water has been completely drained.",
       "Weigh each piece separately before cutting; they will vary in thickness and size.",
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
@@ -2275,7 +2274,6 @@
     "steps": [
       "Pull Thaw a case and remove each piece from its bag",
       "Set each piece in a perforated pan with a drip tray underneath",
-      "Cover and let sit until completely thawed",
       "Once thawed, the water has been completely drained.",
       "Weigh each piece separately before cutting; they will vary in thickness and size.",
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
@@ -15707,7 +15705,6 @@
     "steps": [
       "Pull Thaw a case and remove each piece from its bag",
       "Set each piece in a perforated pan with a drip tray underneath",
-      "Cover and let sit until completely thawed",
       "Once thawed, the water has been completely drained.",
       "Weigh each piece separately before cutting; they will vary in thickness and size.",
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
@@ -74521,7 +74518,7 @@
   {
     "id": "dp-cds-104",
     "masterId": "dp-cds-104-m",
-    "name": "Seabass Trimmings",
+    "name": "Seabass Trimmings (Pieces)",
     "location": "CDS",
     "category": "Dinner Prep",
     "submenu": "",
@@ -74536,16 +74533,16 @@
       }
     ],
     "steps": [
-      "Sorting: separate into use for ceviche vs. use for dinner portion",
       "Thaw under refrigeration",
       "Drain completely once thawed",
+      "Sorting:",
       "Add larger chunks to one side of sheet pan and smaller pieces to the other side",
+      "Larger Chunks (Dinners):",
       "Place larger chunks in 8oz portion in plastic day bag",
+      "Small Chunks (Ceviche):",
       "Small chunks will be used for ceviche",
       "Cook off all small pieces",
-      "Portion into 8oz, or 1lb. bags for next batch(s)",
-      "Bag small pieces for cooking off",
-      "Portioning 8oz bags for dinner"
+      "Portion into 8oz, or 1lb. bags for next batch(s)"
     ],
     "notes": "Source doc was marked \"More to Come\" and one step trails off mid-sentence (\"Cook off all small pieces and ...\") — this recipe appears to be a work in progress on the source side. Yield was also left blank in the original.",
     "images": [
