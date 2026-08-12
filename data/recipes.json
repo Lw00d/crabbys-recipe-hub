@@ -1,5 +1,117 @@
 [
   {
+    "name": "Tomato Slices LTO",
+    "category": "Dinner Prep",
+    "yield": "4 or 5 slices per tomato",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato Vine Ripe",
+        "qty": "1",
+        "unit": "tomato"
+      }
+    ],
+    "steps": [
+      "Rinse the tomato with Fruit and Veggie Rinse",
+      "Carefully place the upright tomato against the blades, push the handle towards the blades, creating 3/8\" slices.",
+      "Discard the top and bottom slices of the tomato",
+      "*Should, on average, yield 4-5 slices per tomato.*",
+      "Leftover tomatoes can be diced and used in other applications or thrown away.",
+      "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
+      "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqbyu8hfhn6wu",
+    "masterId": "dp-tomato-slices-lto-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Tomato Slices LTO",
+    "category": "Dinner Prep",
+    "yield": "4 or 5 slices per tomato",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato Vine Ripe",
+        "qty": "1",
+        "unit": "tomato"
+      }
+    ],
+    "steps": [
+      "Rinse the tomato with Fruit and Veggie Rinse",
+      "Carefully place the upright tomato against the blades, push the handle towards the blades, creating 3/8\" slices.",
+      "Discard the top and bottom slices of the tomato",
+      "*Should, on average, yield 4-5 slices per tomato.*",
+      "Leftover tomatoes can be diced and used in other applications or thrown away.",
+      "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
+      "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqbyu2vzxnp6t",
+    "masterId": "dp-tomato-slices-lto-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Tomato Slices LTO",
+    "category": "Dinner Prep",
+    "yield": "4 or 5 slices per tomato",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato Vine Ripe",
+        "qty": "1",
+        "unit": "tomato"
+      }
+    ],
+    "steps": [
+      "Rinse the tomato with Fruit and Veggie Rinse",
+      "Carefully place the upright tomato against the blades, push the handle towards the blades, creating 3/8\" slices.",
+      "Discard the top and bottom slices of the tomato",
+      "*Should, on average, yield 4-5 slices per tomato.*",
+      "Leftover tomatoes can be diced and used in other applications or thrown away.",
+      "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
+      "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqbytkqdpgae8",
+    "masterId": "dp-tomato-slices-lto-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Tomato Slices LTO",
+    "category": "Dinner Prep",
+    "yield": "4 or 5 slices per tomato",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato Vine Ripe",
+        "qty": "1",
+        "unit": "tomato"
+      }
+    ],
+    "steps": [
+      "Rinse the tomato with Fruit and Veggie Rinse",
+      "Carefully place the upright tomato against the blades, push the handle towards the blades, creating 3/8\" slices.",
+      "Discard the top and bottom slices of the tomato",
+      "*Should, on average, yield 4-5 slices per tomato.*",
+      "Leftover tomatoes can be diced and used in other applications or thrown away.",
+      "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
+      "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqbysrskfqdub",
+    "masterId": "dp-tomato-slices-lto-m",
+    "location": "CDS"
+  },
+  {
     "name": "Stuffed Shrimp",
     "category": "Dinner Prep",
     "yield": "80 each = 1 Lined full 2\" pan",
@@ -4680,7 +4792,7 @@
   {
     "id": "dp-nb-2",
     "masterId": "dp-tomato-slices-lto-m",
-    "name": "Tomato Slices (LTO)",
+    "name": "Tomato Slices LTO",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "4 or 5 slices per tomato",
@@ -4694,14 +4806,13 @@
       }
     ],
     "steps": [
-      "Wash the tomato under cold running water.",
+      "Rinse the tomato with Fruit and Veggie Rinse",
       "Carefully place the upright tomato against the blades, push the handle towards the blades, creating 3/8\" slices.",
       "Discard the top and bottom slices of the tomato",
-      "Should, on average, yield 4-5 slices per tomato.",
-      "Use sliced tomatoes in LTO (Prep)",
+      "*Should, on average, yield 4-5 slices per tomato.*",
       "Leftover tomatoes can be diced and used in other applications or thrown away.",
       "Place in a plastic 1/6th pan, cover, label, date, refrigerate in a cooler above any raw foods",
-      "NOTE: Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO"
+      "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
     "images": []
@@ -10573,66 +10684,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-59",
-    "masterId": "dp-tomato-slices-for-lto-m",
-    "name": "Tomato Slices for LTO",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 days",
-    "smallware": "cutting board, mandoline, day portion bags,",
-    "ingredients": [
-      {
-        "name": "Tomato Vine Ripe",
-        "qty": "1",
-        "unit": "tomato"
-      }
-    ],
-    "steps": [
-      "Wash the tomato under cold running water.",
-      "Carefully place an upright tomato into the mandoline against the blade.",
-      "Push the handle towards the blades, creating 3/8\" slices.",
-      "Remove the top core slices and the bottom slices of the tomato",
-      "You should, on average, yield 9 slices per tomato.",
-      "Use sliced tomatoes in LTO (Prep)",
-      "Leftover tomatoes can be diced and used in other applications or thrown away.",
-      "Place inside a day portion bag, label, date, refrigerate",
-      "Note: do not serve any part of the core slices, or heel of the tomato"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-37",
-    "masterId": "dp-tomato-slices-for-lto-m",
-    "name": "Tomato Slices for LTO",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 days",
-    "smallware": "cutting board, mandoline, day portion bags,",
-    "ingredients": [
-      {
-        "name": "Tomato Vine Ripe",
-        "qty": "1",
-        "unit": "tomato"
-      }
-    ],
-    "steps": [
-      "Wash the tomato under cold running water.",
-      "Carefully place an upright tomato into the mandoline against the blade.",
-      "Push the handle towards the blades, creating 3/8\" slices.",
-      "Remove the top core slices and the bottom slices of the tomato",
-      "You should, on average, yield 9 slices per tomato.",
-      "Use sliced tomatoes in LTO (Prep)",
-      "Leftover tomatoes can be diced and used in other applications or thrown away.",
-      "Place inside a day portion bag, label, date, refrigerate",
-      "Note: do not serve any part of the core slices, or heel of the tomato"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-pl-60",
     "masterId": "dp-pl-60-m",
     "name": "Trigger Fish Nugget & Sand",
@@ -14813,33 +14864,6 @@
     "images": []
   },
   {
-    "id": "dp-cbg-88",
-    "masterId": "dp-tomato-slices-lto-m",
-    "name": "Tomato Slices LTO",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tomato Vine Ripe",
-        "qty": "1",
-        "unit": "tomato"
-      }
-    ],
-    "steps": [
-      "Wash the tomato under cold running water.",
-      "Carefully place upright tomato against blade’s,push handle towards blades, creating 3/8\" slices .",
-      "Discard top and bottom slices of tomato",
-      "Should on average yield 9 slices per tomato.",
-      "Use sliced tomatoes in LTO (Prep)",
-      "Leftover tomatoes can be diced and used in other applications or thrown away."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-89",
     "masterId": "dp-cbg-89-m",
     "name": "Whole Romaine",
@@ -15322,31 +15346,6 @@
       "Place 10 Portions into a red mesh bag and place back in the original case.",
       "Label the outside of the box with a date.",
       "Place back in the freezer until ready to use."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-40",
-    "masterId": "dp-si-40-m",
-    "name": "Tomato for LTO",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "2 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tomato Vine Ripe",
-        "qty": "6",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Wash tomatoes, drain, and de-core the top stem part.",
-      "Slice into 3/8 inch thick slices.",
-      "Place in dated prep bags in 1/6 pans and label.",
-      "Yield = 24 slices"
     ],
     "notes": "",
     "images": []
