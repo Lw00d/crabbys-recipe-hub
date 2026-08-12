@@ -1,5 +1,65 @@
 [
   {
+    "name": "Shrimp Steamed 1/2 lb",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day thawed",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp EZ Peel",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "For ease, wrap the mesh bag around a pitcher and add the shrimp to that bag. Prep using still frozen EZ Peel Shrimp.",
+      "Place 9 each shrimp into red mesh bag. Allow enough room for the shrimp to be cooked without being packed to tightly.",
+      "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
+      "Place another 9 shrimp into the empty bag and tie.",
+      "Separate the bags by cutting between the two knots.",
+      "Label, date each 10-count bag.",
+      "Place 10 Portions into a red mesh bag and place back in the original case.",
+      "Label the outside of the box with a date.",
+      "Place back in the freezer until ready to use."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqaos0fnvme2g",
+    "masterId": "dp-si-39-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Shrimp Steamed 1/2 lb",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day thawed",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp EZ Peel",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "For ease, wrap the mesh bag around a pitcher and add the shrimp to that bag. Prep using still frozen EZ Peel Shrimp.",
+      "Place 9 each shrimp into red mesh bag. Allow enough room for the shrimp to be cooked without being packed to tightly.",
+      "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
+      "Place another 9 shrimp into the empty bag and tie.",
+      "Separate the bags by cutting between the two knots.",
+      "Label, date each 10-count bag.",
+      "Place 10 Portions into a red mesh bag and place back in the original case.",
+      "Label the outside of the box with a date.",
+      "Place back in the freezer until ready to use."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqaopbygxtgm4",
+    "masterId": "dp-si-39-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Seafood Ceviche Prep New",
     "category": "Dinner Prep",
     "yield": "",
@@ -6674,39 +6734,6 @@
     "active": false
   },
   {
-    "id": "dp-nb-30",
-    "masterId": "dp-nb-30-m",
-    "name": "Steam Shrimp (EZ Peel)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "5# bag = 10 portions",
-    "shelfLife": "1 day thawed",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Shrimp EZ Peel",
-        "qty": "5",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "For ease, wrap the mesh bag around a pitcher and add shrimp to that bag.",
-      "Prep using still frozen EZ Peel Shrimp.",
-      "Place 9 shrimp each into a red mesh bag.",
-      "Allow enough room for the shrimp to be cooked without being packed too tightly.",
-      "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
-      "Place another 9 shrimp into the empty bag and tie.",
-      "Separate the bags by cutting between the 2 knots.",
-      "Place 10 Portions into a red mesh bag and place back in the original case.",
-      "Store in freezer until ready to use.",
-      "1cs - 40-43 portions",
-      "<<Steam Shrimp 1 portion.jpg>>",
-      "<<Steam Shrimp 10 portions.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-nb-31",
     "masterId": "dp-shrimp-skewers-m",
     "name": "Shrimp Skewers",
@@ -6723,16 +6750,17 @@
       }
     ],
     "steps": [
+      "Pre-Skewered Shrimp:",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
+      "Skewering Instructions:",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
-      "Place in foil 1/2 pan",
-      "Place the foil pan into the Lemon bag",
-      "10# = 1cs = 40 skewers",
-      "20 skewers per tin for easier counting"
+      "Check with manager about the weight and bag size used for storage",
+      "*10# = 1cs = 40 skewers*",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -6754,16 +6782,17 @@
       }
     ],
     "steps": [
+      "Pre-Skewered Shrimp:",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
+      "Skewering Instructions:",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
-      "Place in foil 1/2 pan",
-      "Place the foil pan into the Lemon bag",
-      "10# = 1cs = 40 skewers",
-      "20 skewers per tin for easier counting"
+      "Check with manager about the weight and bag size used for storage",
+      "*10# = 1cs = 40 skewers*",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -6785,16 +6814,17 @@
       }
     ],
     "steps": [
+      "Pre-Skewered Shrimp:",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
+      "Skewering Instructions:",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
-      "Place in foil 1/2 pan",
-      "Place the foil pan into the Lemon bag",
-      "10# = 1cs = 40 skewers",
-      "20 skewers per tin for easier counting"
+      "Check with manager about the weight and bag size used for storage",
+      "*10# = 1cs = 40 skewers*",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -6816,16 +6846,17 @@
       }
     ],
     "steps": [
+      "Pre-Skewered Shrimp:",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
+      "Skewering Instructions:",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
-      "Place in foil 1/2 pan",
-      "Place the foil pan into the Lemon bag",
-      "10# = 1cs = 40 skewers",
-      "20 skewers per tin for easier counting"
+      "Check with manager about the weight and bag size used for storage",
+      "*10# = 1cs = 40 skewers*",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -6847,16 +6878,17 @@
       }
     ],
     "steps": [
+      "Pre-Skewered Shrimp:",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
+      "Skewering Instructions:",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
-      "Place in foil 1/2 pan",
-      "Place the foil pan into the Lemon bag",
-      "10# = 1cs = 40 skewers",
-      "20 skewers per tin for easier counting"
+      "Check with manager about the weight and bag size used for storage",
+      "*10# = 1cs = 40 skewers*",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": []
@@ -8035,56 +8067,6 @@
     "masterId": "dp-steak-filet-tips-m",
     "name": "Steak Filet Tips",
     "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "15 -5oz portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Steak Tips",
-        "qty": "5",
-        "unit": "Pound"
-      }
-    ],
-    "steps": [
-      "Pull and thaw a 5-pound package of fillet tips",
-      "Once thawed, cut into 1-inch cubes",
-      "Portion 5oz of fillet tips into small date portion bags and tie",
-      "Label, date, and store in the cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-22",
-    "masterId": "dp-steak-filet-tips-m",
-    "name": "Steak Filet Tips",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "15 -5oz portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Steak Tips",
-        "qty": "5",
-        "unit": "Pound"
-      }
-    ],
-    "steps": [
-      "Pull and thaw a 5-pound package of fillet tips",
-      "Once thawed, cut into 1-inch cubes",
-      "Portion 5oz of fillet tips into small date portion bags and tie",
-      "Label, date, and store in the cooler"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-17",
-    "masterId": "dp-steak-filet-tips-m",
-    "name": "Steak Filet Tips",
-    "location": "CBG",
     "category": "Dinner Prep",
     "yield": "15 -5oz portions",
     "shelfLife": "3 days",
@@ -14179,7 +14161,7 @@
   {
     "id": "dp-cds-93",
     "masterId": "dp-cds-93-m",
-    "name": "Shrimp Steamed(3/4#)",
+    "name": "Shrimp Steamed 3/4#",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -14198,13 +14180,10 @@
       "Place 12 shrimp into a red mesh bag.",
       "Allow enough room for the shrimp to be cooked without being packed too tightly.",
       "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
-      "Place another 12 shrimp into the empty bag and tie. Separate the bags.",
+      "Place another 12 shrimp into the empty bag and tie. Separate the bags by cutting in between knots.",
       "Place 10 Portions into a red mesh bag and place them back into the original case",
       "Label the box, with number of portions, and date prepped with a Sharpie",
-      "Store in freezer until ready to use.",
-      "10 portions per mesh bag",
-      "Place back in original box",
-      "Label, date, & number of portions"
+      "Store in freezer until ready to use."
     ],
     "notes": "",
     "images": []
@@ -14890,43 +14869,6 @@
     "images": []
   },
   {
-    "id": "dp-cbg-85",
-    "masterId": "dp-cbg-85-m",
-    "name": "Shrimp Steamed 1/2 Lb.",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Shrimp EZ Peel",
-        "qty": "5",
-        "unit": "Lbs."
-      }
-    ],
-    "steps": [
-      "For ease, wrap a mesh bag around a pitcher and add shrimp to that bag.",
-      "Prep while still frozen EZ Peel Shrimp. Place 9 shrimp into a red mesh bag.",
-      "Allow enough room for the shrimp to be cooked without being packed too tightly.",
-      "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
-      "Place another 9 shrimp into the empty bag and tie. Separate the bags.",
-      "Place 10 Portions into a red mesh bag and place them back into the original case.",
-      "Label, with number of portions, and date prepped",
-      "Store in freezer until ready to use.",
-      "Cut in between the 2 knots",
-      "10 portions per mesh bag",
-      "Place back in original box",
-      "Label, date, & number of portions",
-      "Place netting over a container",
-      "Add the correct number of Shrimp",
-      "Tie 2 knots after 1 portion is completed",
-      "Make the 2nd Portion"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-86",
     "masterId": "dp-cbg-86-m",
     "name": "Smoked Salmon (Bar & Grill)",
@@ -15438,7 +15380,7 @@
   {
     "id": "dp-si-39",
     "masterId": "dp-si-39-m",
-    "name": "Shrimp Steamed",
+    "name": "Shrimp Steamed 1/2 lb",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "",
@@ -15460,9 +15402,7 @@
       "Label, date each 10-count bag.",
       "Place 10 Portions into a red mesh bag and place back in the original case.",
       "Label the outside of the box with a date.",
-      "Place back in the freezer until ready to use.",
-      "Yields:",
-      "<<Steam Shrimp 10 portions.jpg>>"
+      "Place back in the freezer until ready to use."
     ],
     "notes": "",
     "images": []
