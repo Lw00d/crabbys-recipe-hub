@@ -1,5 +1,273 @@
 [
   {
+    "name": "Whole Cabbage",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bags",
+    "ingredients": [
+      {
+        "name": "Cabbage Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Place the whole head of cabbage on the cutting board and remove all the loose outer leaves",
+      "Cut the outer part of the core off",
+      "Place the whole cleaned head into a cleaned sink.",
+      "Pour the rinse solution to cover the item",
+      "Remove and let drain for roughly 5-6 minutes.",
+      "Cut the whole head in half from the core end.",
+      "Lay the flat side of the 1/2 of head onto the cutting board and cut in half through the core again. Giving you 4 equal quarters.",
+      "Now remove the core section by holding the knife at a 45° degree angle",
+      "Now slice the cabbage thin, for use and bag accordingly",
+      "Package: 4 to 5Lb. Bags",
+      "If your prepping Cole Slaw portion into 5Lb. Bags",
+      "Clean Head w/ outer core removed",
+      "Soaking 3 to 4 minutes",
+      "Cutting the head in 1/2"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc7i06suopr3",
+    "masterId": "dp-cbg-90-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Whole Cabbage",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bags",
+    "ingredients": [
+      {
+        "name": "Cabbage Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Place the whole head of cabbage on the cutting board and remove all the loose outer leaves",
+      "Cut the outer part of the core off",
+      "Place the whole cleaned head into a cleaned sink.",
+      "Pour the rinse solution to cover the item",
+      "Remove and let drain for roughly 5-6 minutes.",
+      "Cut the whole head in half from the core end.",
+      "Lay the flat side of the 1/2 of head onto the cutting board and cut in half through the core again. Giving you 4 equal quarters.",
+      "Now remove the core section by holding the knife at a 45° degree angle",
+      "Now slice the cabbage thin, for use and bag accordingly",
+      "Package: 4 to 5Lb. Bags",
+      "If your prepping Cole Slaw portion into 5Lb. Bags",
+      "Clean Head w/ outer core removed",
+      "Soaking 3 to 4 minutes",
+      "Cutting the head in 1/2"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc7hvepurksi",
+    "masterId": "dp-cbg-90-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Whole Cabbage",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bags",
+    "ingredients": [
+      {
+        "name": "Cabbage Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Place the whole head of cabbage on the cutting board and remove all the loose outer leaves",
+      "Cut the outer part of the core off",
+      "Place the whole cleaned head into a cleaned sink.",
+      "Pour the rinse solution to cover the item",
+      "Remove and let drain for roughly 5-6 minutes.",
+      "Cut the whole head in half from the core end.",
+      "Lay the flat side of the 1/2 of head onto the cutting board and cut in half through the core again. Giving you 4 equal quarters.",
+      "Now remove the core section by holding the knife at a 45° degree angle",
+      "Now slice the cabbage thin, for use and bag accordingly",
+      "Package: 4 to 5Lb. Bags",
+      "If your prepping Cole Slaw portion into 5Lb. Bags",
+      "Clean Head w/ outer core removed",
+      "Soaking 3 to 4 minutes",
+      "Cutting the head in 1/2"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc7hqs3s9uke",
+    "masterId": "dp-cbg-90-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Whole Cabbage",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bags",
+    "ingredients": [
+      {
+        "name": "Cabbage Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Place the whole head of cabbage on the cutting board and remove all the loose outer leaves",
+      "Cut the outer part of the core off",
+      "Place the whole cleaned head into a cleaned sink.",
+      "Pour the rinse solution to cover the item",
+      "Remove and let drain for roughly 5-6 minutes.",
+      "Cut the whole head in half from the core end.",
+      "Lay the flat side of the 1/2 of head onto the cutting board and cut in half through the core again. Giving you 4 equal quarters.",
+      "Now remove the core section by holding the knife at a 45° degree angle",
+      "Now slice the cabbage thin, for use and bag accordingly",
+      "Package: 4 to 5Lb. Bags",
+      "If your prepping Cole Slaw portion into 5Lb. Bags",
+      "Clean Head w/ outer core removed",
+      "Soaking 3 to 4 minutes",
+      "Cutting the head in 1/2"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc7h43zyz36t",
+    "masterId": "dp-cbg-90-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Whole Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bag",
+    "ingredients": [
+      {
+        "name": "Romaine Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Add the heads of romaine to the clean sink",
+      "Pour the rinse solution to cover the case of Romaine heads",
+      "Be sure the heads are soaking for 3 to 4 minutes before lifting and shaking the water out. Drain them for roughly 5 minutes before spinning the whole heads dry.",
+      "When cutting, cut from about 1\" or 2\" above the core to the top of the head.",
+      "Turn the head a quarter (45°) of a turn and cut from the core through the top of the head.",
+      "Now cut into about 1\" to 1 1/2\" sections. Down to where the color is turning yellow.",
+      "Bag weights 2 to 3Lbs. Each label with day portion bag",
+      "Package: 2 to 3Lb. Bags",
+      "Quarter Turn & Cut again",
+      "Cut into 1\" to 2\" sections",
+      "Store as you normally would"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc73or8u3d7r",
+    "masterId": "dp-cbg-89-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Whole Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bag",
+    "ingredients": [
+      {
+        "name": "Romaine Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Add the heads of romaine to the clean sink",
+      "Pour the rinse solution to cover the case of Romaine heads",
+      "Be sure the heads are soaking for 3 to 4 minutes before lifting and shaking the water out. Drain them for roughly 5 minutes before spinning the whole heads dry.",
+      "When cutting, cut from about 1\" or 2\" above the core to the top of the head.",
+      "Turn the head a quarter (45°) of a turn and cut from the core through the top of the head.",
+      "Now cut into about 1\" to 1 1/2\" sections. Down to where the color is turning yellow.",
+      "Bag weights 2 to 3Lbs. Each label with day portion bag",
+      "Package: 2 to 3Lb. Bags",
+      "Quarter Turn & Cut again",
+      "Cut into 1\" to 2\" sections",
+      "Store as you normally would"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc73jxoz7gap",
+    "masterId": "dp-cbg-89-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Whole Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bag",
+    "ingredients": [
+      {
+        "name": "Romaine Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Add the heads of romaine to the clean sink",
+      "Pour the rinse solution to cover the case of Romaine heads",
+      "Be sure the heads are soaking for 3 to 4 minutes before lifting and shaking the water out. Drain them for roughly 5 minutes before spinning the whole heads dry.",
+      "When cutting, cut from about 1\" or 2\" above the core to the top of the head.",
+      "Turn the head a quarter (45°) of a turn and cut from the core through the top of the head.",
+      "Now cut into about 1\" to 1 1/2\" sections. Down to where the color is turning yellow.",
+      "Bag weights 2 to 3Lbs. Each label with day portion bag",
+      "Package: 2 to 3Lb. Bags",
+      "Quarter Turn & Cut again",
+      "Cut into 1\" to 2\" sections",
+      "Store as you normally would"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc73cuos7jr3",
+    "masterId": "dp-cbg-89-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Whole Romaine",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "Knife, Cutting Board, Lexan, Spinner, Scale, Lemon bags, Day portion Bag",
+    "ingredients": [
+      {
+        "name": "Romaine Heads",
+        "qty": "1",
+        "unit": "Case"
+      }
+    ],
+    "steps": [
+      "Add the heads of romaine to the clean sink",
+      "Pour the rinse solution to cover the case of Romaine heads",
+      "Be sure the heads are soaking for 3 to 4 minutes before lifting and shaking the water out. Drain them for roughly 5 minutes before spinning the whole heads dry.",
+      "When cutting, cut from about 1\" or 2\" above the core to the top of the head.",
+      "Turn the head a quarter (45°) of a turn and cut from the core through the top of the head.",
+      "Now cut into about 1\" to 1 1/2\" sections. Down to where the color is turning yellow.",
+      "Bag weights 2 to 3Lbs. Each label with day portion bag",
+      "Package: 2 to 3Lb. Bags",
+      "Quarter Turn & Cut again",
+      "Cut into 1\" to 2\" sections",
+      "Store as you normally would"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc72hfi3tuwh",
+    "masterId": "dp-cbg-89-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Tuna Steak 4oz (Prep)",
     "category": "Dinner Prep",
     "yield": "Should yield 39-40 Per / 10# case count to double check",
@@ -14917,8 +15185,7 @@
       "Package: 2 to 3Lb. Bags",
       "Quarter Turn & Cut again",
       "Cut into 1\" to 2\" sections",
-      "Store as you normally would",
-      "."
+      "Store as you normally would"
     ],
     "notes": "",
     "images": []
@@ -14951,11 +15218,9 @@
       "Now slice the cabbage thin, for use and bag accordingly",
       "Package: 4 to 5Lb. Bags",
       "If your prepping Cole Slaw portion into 5Lb. Bags",
-      ".",
       "Clean Head w/ outer core removed",
       "Soaking 3 to 4 minutes",
-      "Cutting the head in 1/2",
-      "."
+      "Cutting the head in 1/2"
     ],
     "notes": "",
     "images": []
