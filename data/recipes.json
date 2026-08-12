@@ -1,5 +1,80 @@
 [
   {
+    "name": "Salsa Verde",
+    "category": "Dinner Prep",
+    "yield": "3 / 32oz squeeze bottle",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salsa Verde (pre-made)",
+        "qty": "1",
+        "unit": "8# bag"
+      }
+    ],
+    "steps": [
+      "Pull the amount needed for the day",
+      "Cut the corner of the bag, fill the squeeze bottles,",
+      "Cover with labeled dated bags, screw top back on",
+      "Place in the RI cooler and rotate older product to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9abkpkwy7i5",
+    "masterId": "dp-nb-9-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Salsa Verde",
+    "category": "Dinner Prep",
+    "yield": "3 / 32oz squeeze bottle",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salsa Verde (pre-made)",
+        "qty": "1",
+        "unit": "8# bag"
+      }
+    ],
+    "steps": [
+      "Pull the amount needed for the day",
+      "Cut the corner of the bag, fill the squeeze bottles,",
+      "Cover with labeled dated bags, screw top back on",
+      "Place in the RI cooler and rotate older product to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9a9iy7o49rq",
+    "masterId": "dp-nb-9-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Salsa Verde",
+    "category": "Dinner Prep",
+    "yield": "3 / 32oz squeeze bottle",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salsa Verde (pre-made)",
+        "qty": "1",
+        "unit": "8# bag"
+      }
+    ],
+    "steps": [
+      "Pull the amount needed for the day",
+      "Cut the corner of the bag, fill the squeeze bottles,",
+      "Cover with labeled dated bags, screw top back on",
+      "Place in the RI cooler and rotate older product to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9a6aiuf6o0i",
+    "masterId": "dp-nb-9-m",
+    "location": "CDS"
+  },
+  {
     "name": "Coconut Rice",
     "category": "Dinner Prep",
     "yield": "",
@@ -4697,7 +4772,7 @@
     "name": "Salsa Verde",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
-    "yield": "5 / 32oz squeeze bottle",
+    "yield": "3 / 32oz squeeze bottle",
     "shelfLife": "5 days",
     "smallware": "",
     "ingredients": [
@@ -4711,9 +4786,7 @@
       "Pull the amount needed for the day",
       "Cut the corner of the bag, fill the squeeze bottles,",
       "Cover with labeled dated bags, screw top back on",
-      "Place in the RI cooler and rotate older product to the front",
-      "Puree 1 can of Salsa Verde",
-      "Portion puree into 5 ea. - 32oz squeeze bottle."
+      "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
     "images": []
@@ -7794,7 +7867,8 @@
       "Label, date, and store in the cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-nb-52",
