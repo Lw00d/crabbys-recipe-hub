@@ -13537,57 +13537,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-103",
-    "masterId": "dp-zuch-sum-carrot-prep-m",
-    "name": "Zuch, Sum,&Carrot Prep",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "8",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Carrots Parisian",
-        "qty": "1",
-        "unit": "bag"
-      },
-      {
-        "name": "Seasoning House",
-        "qty": "0.5",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Squash Yellow",
-        "qty": "3",
-        "unit": "lb"
-      },
-      {
-        "name": "Zucchini Green",
-        "qty": "3",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Cut zucchini top and bottom off, then cut in half long ways and if extremely large cut each half in half again long ways",
-      "Cut these pieces into 1 inch slices",
-      "Cut tops and bottom off squash, then cut squash in half long ways, cut the halves in 1 inch slices, then the bottom 2/3rds of the squash cutting in half again",
-      "(the top of the squash, usually like 2 slices, will be half moons then the rest will look like the zucchini)",
-      "Put the zucchini carrots and squash in a mixing bowl then toss with house spice",
-      "Top each pan with garlic butter",
-      "Cover, label and date.",
-      "**pics shown are a half recipe**",
-      "<<zucc cut in half.jpg>>",
-      "<<toss zucc and squash in seasoning.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-65",
     "masterId": "dp-zuch-sum-carrot-prep-m",
     "name": "Zuch, Sum,&Carrot Prep",
@@ -13636,7 +13585,8 @@
       "<<toss zucc and squash in seasoning.jpg>>"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-104",
