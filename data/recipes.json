@@ -1,5 +1,61 @@
 [
   {
+    "name": "Scallop (prep)",
+    "category": "Dinner Prep",
+    "yield": "10# case = 19 / 8oz. Portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops 10/20",
+        "qty": "1",
+        "unit": "Lb."
+      }
+    ],
+    "steps": [
+      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Let thaw under refrigeration",
+      "For optimal results, count all the scallops in the bag.",
+      "Portion into 7.9 - 8.1oz portions",
+      "Enter the amount of pounds used and portions made into the prep production",
+      "**Never vary from the amount of pounds paid for**",
+      "Acceptable weights 7.9 - 8.1oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9o8oz9gg0wz",
+    "masterId": "dp-scallop-prep-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Scallop (prep)",
+    "category": "Dinner Prep",
+    "yield": "10# case = 19 / 8oz. Portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops 10/20",
+        "qty": "1",
+        "unit": "Lb."
+      }
+    ],
+    "steps": [
+      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Let thaw under refrigeration",
+      "For optimal results, count all the scallops in the bag.",
+      "Portion into 7.9 - 8.1oz portions",
+      "Enter the amount of pounds used and portions made into the prep production",
+      "**Never vary from the amount of pounds paid for**",
+      "Acceptable weights 7.9 - 8.1oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9o5eourk1vx",
+    "masterId": "dp-scallop-prep-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Sausage Pieces",
     "category": "Dinner Prep",
     "yield": "",
@@ -7281,64 +7337,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-42",
-    "masterId": "dp-scallop-prep-m",
-    "name": "Scallop (prep)",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "10# case = 19 / 8oz. Portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Scallops 10/20",
-        "qty": "1",
-        "unit": "Lb."
-      }
-    ],
-    "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
-      "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
-      "Portion into 7.9 - 8.1oz portions",
-      "Enter the amount of pounds used and portions made into the prep production",
-      "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz",
-      "<<Short rib 1.jpg>><<SHORT RIB 2.jpg>><<short rib 3.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-pl-18",
-    "masterId": "dp-scallop-prep-m",
-    "name": "Scallop (prep)",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "10# case = 19 / 8oz. Portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Scallops 10/20",
-        "qty": "1",
-        "unit": "Lb."
-      }
-    ],
-    "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
-      "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
-      "Portion into 7.9 - 8.1oz portions",
-      "Enter the amount of pounds used and portions made into the prep production",
-      "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz",
-      "<<Short rib 1.jpg>><<SHORT RIB 2.jpg>><<short rib 3.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cds-16",
     "masterId": "dp-scallop-prep-m",
     "name": "Scallop (prep)",
@@ -7361,37 +7359,7 @@
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz",
-      "<<Short rib 1.jpg>><<SHORT RIB 2.jpg>><<short rib 3.jpg>>"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-14",
-    "masterId": "dp-scallop-prep-m",
-    "name": "Scallop (prep)",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "10# case = 19 / 8oz. Portions",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Scallops 10/20",
-        "qty": "1",
-        "unit": "Lb."
-      }
-    ],
-    "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
-      "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
-      "Portion into 7.9 - 8.1oz portions",
-      "Enter the amount of pounds used and portions made into the prep production",
-      "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz",
-      "<<Short rib 1.jpg>><<SHORT RIB 2.jpg>><<short rib 3.jpg>>"
+      "Acceptable weights 7.9 - 8.1oz"
     ],
     "notes": "",
     "images": []
