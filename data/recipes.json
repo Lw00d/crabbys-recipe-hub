@@ -1,5 +1,145 @@
 [
   {
+    "name": "Seafood Ceviche Prep New",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Mixing bowl, scale, measuring cup, 8oz deli containers w/ lids, lemon bags, day dots",
+    "ingredients": [
+      {
+        "name": "Shrimp Pieces",
+        "qty": "2",
+        "unit": "Pounds"
+      },
+      {
+        "name": "Fresh Catch",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Pineapple Salsa (Prep)",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Pico de Gallo (Prep)",
+        "qty": "40",
+        "unit": "Oz"
+      },
+      {
+        "name": "Limes - Freshly Juiced",
+        "qty": "9",
+        "unit": "Oz (about 9 ea.)"
+      },
+      {
+        "name": "Salt Kosher",
+        "qty": "0.2",
+        "unit": "Oz. wt."
+      }
+    ],
+    "steps": [
+      "Use a crab pot to blanch fresh catch pieces, cook for 1-2 minutes,",
+      "Use a crab pot to blanch shrimp pieces, cook for 2 to 3 minutes,",
+      "Add the chilled shrimp & fresh catch to a mixing bowl, then add lime juice and salt, and mix.",
+      "Now place it in a walk-in refrigerator for 2 hours",
+      "Drain the lime juice from shrimp and fresh catch",
+      "Add Pico de Gallo, and Pineapple Salsa to the mixture",
+      "Now squeeze 1 Fresh lime (Per Batch) across the top and mix",
+      "Portion into 8oz portions",
+      "Place the lid on top",
+      "Label, date, and place in the cooler. Rotate old to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqa9vcxhp1rie",
+    "masterId": "dp-pl-31-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Seafood Ceviche Prep New",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Mixing bowl, scale, measuring cup, 8oz deli containers w/ lids, lemon bags, day dots",
+    "ingredients": [
+      {
+        "name": "Shrimp Pieces",
+        "qty": "2",
+        "unit": "Pounds"
+      },
+      {
+        "name": "Fresh Catch",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Pineapple Salsa (Prep)",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Pico de Gallo (Prep)",
+        "qty": "40",
+        "unit": "Oz"
+      },
+      {
+        "name": "Limes - Freshly Juiced",
+        "qty": "9",
+        "unit": "Oz (about 9 ea.)"
+      },
+      {
+        "name": "Salt Kosher",
+        "qty": "0.2",
+        "unit": "Oz. wt."
+      }
+    ],
+    "steps": [
+      "Use a crab pot to blanch fresh catch pieces, cook for 1-2 minutes,",
+      "Use a crab pot to blanch shrimp pieces, cook for 2 to 3 minutes,",
+      "Add the chilled shrimp & fresh catch to a mixing bowl, then add lime juice and salt, and mix.",
+      "Now place it in a walk-in refrigerator for 2 hours",
+      "Drain the lime juice from shrimp and fresh catch",
+      "Add Pico de Gallo, and Pineapple Salsa to the mixture",
+      "Now squeeze 1 Fresh lime (Per Batch) across the top and mix",
+      "Portion into 8oz portions",
+      "Place the lid on top",
+      "Label, date, and place in the cooler. Rotate old to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqa9r7k58hb1s",
+    "masterId": "dp-pl-31-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Scallop (prep)",
+    "category": "Dinner Prep",
+    "yield": "10# case = 19 / 8oz. Portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops 10/20",
+        "qty": "1",
+        "unit": "Lb."
+      }
+    ],
+    "steps": [
+      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Let thaw under refrigeration",
+      "For optimal results, count all the scallops in the bag.",
+      "Portion into 7.9 - 8.1oz portions",
+      "Enter the amount of pounds used and portions made into the prep production",
+      "**Never vary from the amount of pounds paid for**",
+      "Acceptable weights 7.9 - 8.1oz"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqa3kudt4e8h4",
+    "masterId": "dp-scallop-prep-m",
+    "location": "Palm"
+  },
+  {
     "name": "Scallop (prep)",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
@@ -8864,13 +9004,12 @@
       "Use a crab pot to blanch shrimp pieces, cook for 2 to 3 minutes,",
       "Add the chilled shrimp & fresh catch to a mixing bowl, then add lime juice and salt, and mix.",
       "Now place it in a walk-in refrigerator for 2 hours",
-      "Drain shrimp and fresh catch",
+      "Drain the lime juice from shrimp and fresh catch",
       "Add Pico de Gallo, and Pineapple Salsa to the mixture",
       "Now squeeze 1 Fresh lime (Per Batch) across the top and mix",
       "Portion into 8oz portions",
       "Place the lid on top",
-      "Label, date, and place in the cooler. Rotate old to the front",
-      "Add Pico & Mix"
+      "Label, date, and place in the cooler. Rotate old to the front"
     ],
     "notes": "",
     "images": []
