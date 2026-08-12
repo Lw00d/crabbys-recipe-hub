@@ -1,5 +1,39 @@
 [
   {
+    "name": "Steak Seasoning",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 month",
+    "smallware": "Small mixing bowl, 1- 4\" SS Pan",
+    "ingredients": [
+      {
+        "name": "Seasoning Salt Kosher",
+        "qty": "1",
+        "unit": "cup"
+      },
+      {
+        "name": "Coarse Black pepper",
+        "qty": "2",
+        "unit": "cups"
+      },
+      {
+        "name": "Garlic powder",
+        "qty": "2",
+        "unit": "oz"
+      }
+    ],
+    "steps": [
+      "In a SS mixing bowl, combine all the ingredients",
+      "Place in an appropriate container",
+      "Label and date, store in dry storage."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqatpwucd3aq3",
+    "masterId": "dp-pl-52-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Shrimp Steamed 1/2 lb",
     "category": "Dinner Prep",
     "yield": "",
@@ -15727,40 +15761,6 @@
     "steps": [
       "Wash and dry Lemons",
       "Use a Microplane to zest lemon"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-50",
-    "masterId": "dp-si-50-m",
-    "name": "Steak Seasoning (SI)",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "1 month",
-    "smallware": "Small mixing bowl, 1- 4\" SS Pan",
-    "ingredients": [
-      {
-        "name": "Seasoning Salt Kosher",
-        "qty": "1",
-        "unit": "cup"
-      },
-      {
-        "name": "Coarse Black pepper",
-        "qty": "2",
-        "unit": "cups"
-      },
-      {
-        "name": "Garlic powder",
-        "qty": "2",
-        "unit": "Oz"
-      }
-    ],
-    "steps": [
-      "In a SS mixing bowl, combine all the ingredients",
-      "Place in an appropriate container",
-      "Label and date, store in dry storage."
     ],
     "notes": "",
     "images": []
