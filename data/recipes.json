@@ -1,5 +1,32 @@
 [
   {
+    "name": "Tuna Steak 4oz (Prep)",
+    "category": "Dinner Prep",
+    "yield": "Should yield 39-40 Per / 10# case count to double check",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tuna 4 Ounce Portions",
+        "qty": "",
+        "unit": "oz. each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Place portions into a small day bag",
+      "Lay out on sheet tray - Label, date, refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msqc4vmqutzuds",
+    "masterId": "dp-tuna-steak-4oz-prep-m",
+    "location": "Salty's Island"
+  },
+  {
     "name": "Tomato Slices LTO",
     "category": "Dinner Prep",
     "yield": "4 or 5 slices per tomato",
@@ -14929,31 +14956,6 @@
       "Soaking 3 to 4 minutes",
       "Cutting the head in 1/2",
       "."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-si-29",
-    "masterId": "dp-si-29-m",
-    "name": "Tuna 4oz (Pull Thaw)",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Tuna (4oz)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Cut a slit in the package so gas escape.",
-      "Re-bag in dated prep portion bag",
-      "Date each piece of tuna",
-      "Place on a sheet tray and thaw in the refrigerator"
     ],
     "notes": "",
     "images": []
