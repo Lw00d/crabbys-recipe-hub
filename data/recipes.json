@@ -1,5 +1,55 @@
 [
   {
+    "name": "Sausage Pieces",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 Days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sausage Links",
+        "qty": "1",
+        "unit": "bag"
+      }
+    ],
+    "steps": [
+      "Cut the string between each of the links",
+      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
+      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9mnxs3gd3d2",
+    "masterId": "dp-sausage-pieces-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Sausage Pieces",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 Days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sausage Links",
+        "qty": "1",
+        "unit": "bag"
+      }
+    ],
+    "steps": [
+      "Cut the string between each of the links",
+      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
+      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msq9lr54fjbnje",
+    "masterId": "dp-sausage-pieces-m",
+    "location": "CDS"
+  },
+  {
     "name": "Salsa Verde",
     "category": "Dinner Prep",
     "yield": "3 / 32oz squeeze bottle",
@@ -12700,33 +12750,6 @@
     "images": []
   },
   {
-    "id": "dp-pl-97",
-    "masterId": "dp-sausage-pieces-m",
-    "name": "Sausage Pieces",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 Days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Sausage Links",
-        "qty": "1",
-        "unit": "bag"
-      }
-    ],
-    "steps": [
-      "Cut the string between each of the links",
-      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
-      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
-      "Cut on the Bias",
-      "Bias Cut Oven cooked"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-cbg-60",
     "masterId": "dp-sausage-pieces-m",
     "name": "Sausage Pieces",
@@ -12746,9 +12769,7 @@
       "Cut the string between each of the links",
       "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
       "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
-      "Cut on the Bias",
-      "Bias Cut Oven cooked"
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
     ],
     "notes": "",
     "images": []
@@ -14046,33 +14067,6 @@
       "Portion into 1.5# bags",
       "Yields: 4 - 3.5 lbs. lemon bags",
       "Note: Please store any unused cream of coconut in an appropriate container with a date."
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-92",
-    "masterId": "dp-cds-92-m",
-    "name": "Sausage (smoked) Pieces",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 Days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Sausage Links",
-        "qty": "1",
-        "unit": "bag"
-      }
-    ],
-    "steps": [
-      "Cut the string between each of the links",
-      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
-      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
-      "Then cut on the Bias",
-      "Bias Cut, then cooked in the oven"
     ],
     "notes": "",
     "images": []
