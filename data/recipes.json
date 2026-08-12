@@ -18729,7 +18729,7 @@
   {
     "id": "dm-nb-28",
     "masterId": "dm-nb-28-m",
-    "name": "Pizza Veggie Pizza(SCNB)",
+    "name": "Pizza Veggie Pizza",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -19619,7 +19619,7 @@
   {
     "id": "dm-nb-42",
     "masterId": "dm-nb-42-m",
-    "name": "Stuffed Grouper (SCNB)",
+    "name": "Stuffed Grouper",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -19790,7 +19790,7 @@
   {
     "id": "dm-nb-45",
     "masterId": "dm-nb-45-m",
-    "name": "Ahi Tuna Steak (SCNB)",
+    "name": "Ahi Tuna Steak",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -19918,7 +19918,7 @@
   {
     "id": "dm-nb-48",
     "masterId": "dm-nb-48-m",
-    "name": "Mahi Fresca (SCNB)",
+    "name": "Mahi Fresca",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -19960,7 +19960,7 @@
   {
     "id": "dm-nb-49",
     "masterId": "dm-nb-49-m",
-    "name": "Scallops Panko Crust (SCNB)",
+    "name": "Scallops Panko Crust",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -20539,7 +20539,7 @@
   {
     "id": "dm-nb-58",
     "masterId": "dm-nb-58-m",
-    "name": "Steak & Stuff Shrimp (SCNB)",
+    "name": "Steak & Stuff Shrimp",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -20600,7 +20600,7 @@
   {
     "id": "dm-nb-59",
     "masterId": "dm-nb-59-m",
-    "name": "Coconut Combo (SCNB)",
+    "name": "Coconut Combo",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -20717,7 +20717,7 @@
   {
     "id": "dm-nb-61",
     "masterId": "dm-nb-61-m",
-    "name": "Chicken Melt (SCNB)",
+    "name": "Chicken Melt",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -32499,7 +32499,7 @@
   {
     "id": "dm-cbg-43",
     "masterId": "dm-cbg-43-m",
-    "name": "Cajun Shrimp & Sausage Alfredo(SCNB)",
+    "name": "Cajun Shrimp & Sausage Alfredo",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -47194,7 +47194,7 @@
   {
     "id": "drm-nb-33",
     "masterId": "drm-nb-33-m",
-    "name": "Sangria Red 14 & 20 (SCNB)",
+    "name": "Sangria Red 14 & 20",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -58932,7 +58932,7 @@
   {
     "id": "bm-nb-26",
     "masterId": "bm-nb-26-m",
-    "name": "Burrito Breakfast (SCNB)",
+    "name": "Burrito Breakfast",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -58999,7 +58999,7 @@
   {
     "id": "bm-nb-27",
     "masterId": "bm-nb-27-m",
-    "name": "Burrito Veggie (SCNB)",
+    "name": "Burrito Veggie",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -68254,16 +68254,16 @@
   {
     "id": "dm-cbg-88",
     "masterId": "dm-nb-58-m",
-    "name": "Steak & Stuff Shrimp (SCNB)",
+    "name": "Steak & Stuff Shrimp",
     "location": "CBG",
     "category": "Dinner Menu",
-    "submenu": "Combos",
+    "submenu": "Offshore",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
       {
-        "name": "Steak NY Strip",
+        "name": "Steak NY Strip or Ribeye",
         "qty": "1",
         "unit": "Each"
       },
@@ -68275,17 +68275,12 @@
       {
         "name": "Butter Garlic Spread",
         "qty": "Basting",
-        "unit": "Room temp/end"
+        "unit": "Room temp/ end"
       },
       {
         "name": "Stuffed Shrimp (Prep)",
         "qty": "4",
         "unit": "Each"
-      },
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "Basting",
-        "unit": "Shrimp"
       },
       {
         "name": "Old Bay Seasoning",
@@ -68298,19 +68293,19 @@
       "Generously top with steak seasoning",
       "Cook on a char grill to the desired temperature.",
       "Brush finished steak with 1oz of warm garlic spread.",
-      "Rare - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - a warm red center, otherwise pink 130-140°F",
-      "Medium - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
+      "Rare - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - a warm red center, otherwise pink 130–140°F",
+      "Medium - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
       "Stuff Shrimp Preparation:",
       "Take 4 stuffed shrimp and place them in an Au Gratin dish",
       "Baste with garlic butter",
       "Dust with Old Bay",
-      "Place in a 450-500°F oven for about 7-8 minutes or until done",
+      "Place in a 450-500°F degree oven for about 8 minutes or until done",
       "Drain the excess butter out of the dish",
-      "Garnish: 2 sides, Lemon wedge, Beurre Blanc, Steak Knife",
-      "Plateware: Au Gratin dish, 1/4 Lined Tray, Steak Knife"
+      "Garnish: 2 sides, Lemon wedge, Beurre blanc, Steak Knife",
+      "Plateware: Au Gratin dish, 1/4 Lined Tray"
     ],
     "notes": "",
     "images": [
