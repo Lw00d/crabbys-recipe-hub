@@ -74665,5 +74665,42 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Brussels_Sprouts_Appetizer_1.jpg"
     ],
     "active": true
+  },
+  {
+    "id": "dp-nb-65",
+    "masterId": "dp-nb-65-m",
+    "name": "Roasted Potatoes",
+    "location": "Salty Crab North Beach",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "Thawed 2 days / In use 1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Baby Bakers",
+        "qty": "1",
+        "unit": "bag"
+      },
+      {
+        "name": "Rosemary Sauce (Prep)",
+        "qty": "1",
+        "unit": "4oz Ladle"
+      }
+    ],
+    "steps": [
+      "Note: Portion enough for daily usage",
+      "Put potatoes into a lemon bag",
+      "Add 4oz Rosemary Sauce",
+      "Label, date, rotate back in Freezer till needed"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Roasted_Potatoes_NB_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Roasted_Potatoes_NB_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Roasted_Potatoes_NB_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Roasted_Potatoes_NB_3.jpg"
+    ],
+    "active": true
   }
 ]
