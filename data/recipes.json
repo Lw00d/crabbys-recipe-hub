@@ -16919,48 +16919,8 @@
       "Place in separate Mason Jars labeled and dated"
     ],
     "notes": "",
-    "images": []
-  },
-  {
-    "id": "bp-cbg-11",
-    "masterId": "bp-fruit-cup-m",
-    "name": "Fruit Cup",
-    "location": "CBG",
-    "category": "Breakfast Prep",
-    "yield": "",
-    "shelfLife": "2 day",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Orange Wedge",
-        "qty": "2",
-        "unit": "each"
-      },
-      {
-        "name": "Blueberry",
-        "qty": "5-7",
-        "unit": "each"
-      },
-      {
-        "name": "Strawberry",
-        "qty": "2",
-        "unit": "each"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "2 - 3",
-        "unit": "each"
-      }
-    ],
-    "steps": [
-      "Rinse all the fruit with Fruit & Veggie rinse before cutting",
-      "Use the Lemon cutter for the oranges",
-      "Cut the white off, and slice the strawberry into 3 or 4 slices, depending on the size.",
-      "Blueberries: pick the stems off",
-      "Place in separate Mason Jars labeled and dated"
-    ],
-    "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "bp-nb-11",
