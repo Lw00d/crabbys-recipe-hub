@@ -1729,7 +1729,8 @@
     "images": [],
     "id": "m-msouhn9w3ym32e",
     "masterId": "dp-cbg-80-m",
-    "location": "CDS"
+    "location": "CDS",
+    "active": false
   },
   {
     "name": "Lobster Bites (Coconut)",
