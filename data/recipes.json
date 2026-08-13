@@ -1,5 +1,31 @@
 [
   {
+    "name": "Chicken Wings Portion",
+    "category": "Line Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "qty": "8",
+        "unit": "each"
+      }
+    ],
+    "steps": [
+      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, or 5 and 3 ",
+      "Place in a portion bag, tie shut.",
+      "Place back into the original box, label with the number of portions, and date prepped.",
+      "Place back into the freezer until needed ",
+      "Smallware: portion bags"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msrunv8873dy05",
+    "masterId": "m-msrunv88ptmi82",
+    "location": "Palm"
+  },
+  {
     "name": "Chicken Wings Fried",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
