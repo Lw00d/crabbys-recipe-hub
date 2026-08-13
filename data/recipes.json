@@ -1,5 +1,43 @@
 [
   {
+    "name": "Chicken Wings Fried",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "qty": "8",
+        "unit": "Each"
+      },
+      {
+        "name": "Sauce Requested",
+        "qty": "3",
+        "unit": "Ounces"
+      }
+    ],
+    "steps": [
+      "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
+      "Fry wings for 6 to 12 minutes until hot to the bone",
+      "Place in Sav-A-Day to soak up excess oil",
+      "Toss in the requested sauce",
+      "Place on a lined oval basket",
+      "Plateware:",
+      "Garnish:",
+      "**Datil pepper sauce- 2 parts datil bloody Mary mix & 1 part BBQ sauce**"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Chicken_Wings_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Chicken_Wings_1.jpg"
+    ],
+    "id": "m-msrumovrqh4y9u",
+    "masterId": "dm-cbg-26-m",
+    "location": "Palm"
+  },
+  {
     "name": "Chicken Wings Portion",
     "category": "Dinner Prep",
     "yield": "",
