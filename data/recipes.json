@@ -9590,7 +9590,7 @@
   {
     "id": "dp-pl-34",
     "masterId": "dp-chicken-wings-m",
-    "name": "Chicken Wings",
+    "name": "Chicken Wings Prep",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -9655,7 +9655,7 @@
   {
     "id": "dp-si-14",
     "masterId": "dp-chicken-wings-m",
-    "name": "Chicken Wings",
+    "name": "Chicken Wings Prep",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "",
@@ -62831,7 +62831,8 @@
       "40#/cs fresh - 25 portions"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "lp-pl-7",
