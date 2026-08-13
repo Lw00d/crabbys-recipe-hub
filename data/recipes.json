@@ -1,5 +1,51 @@
 [
   {
+    "name": "Fruit Cup",
+    "category": "Breakfast Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oranges",
+        "qty": "1",
+        "unit": "Wedge"
+      },
+      {
+        "name": "Strawberries",
+        "qty": "3 or 4",
+        "unit": "Slices"
+      },
+      {
+        "name": "Blueberries",
+        "qty": "4 or 5",
+        "unit": "Each"
+      },
+      {
+        "name": "Blackberries",
+        "qty": "2 or 3",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Look for unusable pieces of fruit & berries. Discard & write them on the Waste sheet",
+      "Rinse the oranges and berries off",
+      "Cut the white off, slice the strawberry into 3 or 4 slices, depending on the size of the Strawberries",
+      "Blueberries, pick the stems off",
+      "Blackberries pick off stems",
+      "Plateware: Black 4oz Plastic cup",
+      "Up Charge / Side",
+      "These are made to order, the number depending on size",
+      "Plateware: Black 4oz Souffle cup"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msruxelmzo487c",
+    "masterId": "m-msruxwfh73rib5",
+    "location": "CBG"
+  },
+  {
     "name": "Chicken Wings Portion",
     "category": "Line Prep",
     "yield": "",
@@ -53606,7 +53652,7 @@
   },
   {
     "id": "bm-pl-18",
-    "masterId": "bm-fruit-cup-m",
+    "masterId": "m-msruuxspz2jazk",
     "name": "Fruit Cup",
     "location": "Palm",
     "category": "Breakfast Menu",
@@ -53629,11 +53675,6 @@
         "name": "Blueberries",
         "qty": "4 or 5",
         "unit": "Each"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "2 or 3",
-        "unit": "Each"
       }
     ],
     "steps": [
@@ -53641,57 +53682,10 @@
       "Rinse the oranges and berries off",
       "Cut the white off, slice the strawberry into 3 or 4 slices, depending on the size of the Strawberries",
       "Blueberries, pick the stems off",
-      "Blackberries pick off stems",
       "Plateware: Black 4oz Plastic cup",
       "Up Charge / Side",
       "These are made to order, the number depending on size",
-      "Plateware: Black 5.5oz Plastic dish"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "bm-cbg-5",
-    "masterId": "bm-fruit-cup-m",
-    "name": "Fruit Cup",
-    "location": "CBG",
-    "category": "Breakfast Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oranges",
-        "qty": "1",
-        "unit": "Wedge"
-      },
-      {
-        "name": "Strawberries",
-        "qty": "3 or 4",
-        "unit": "Slices"
-      },
-      {
-        "name": "Blueberries",
-        "qty": "4 or 5",
-        "unit": "Each"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "2 or 3",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Look for unusable pieces of fruit & berries. Discard & write them on the Waste sheet",
-      "Rinse the oranges and berries off",
-      "Cut the white off, slice the strawberry into 3 or 4 slices, depending on the size of the Strawberries",
-      "Blueberries, pick the stems off",
-      "Blackberries pick off stems",
-      "Plateware: Black 4oz Plastic cup",
-      "Up Charge / Side",
-      "These are made to order, the number depending on size",
-      "Plateware: Black 5.5oz Plastic dish"
+      "Plateware: Small Bowl"
     ],
     "notes": "",
     "images": []
@@ -53744,7 +53738,7 @@
   },
   {
     "id": "bm-nb-8",
-    "masterId": "bm-fruit-cup-m",
+    "masterId": "m-msruz6ucza3qin",
     "name": "Fruit Cup",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
@@ -53767,11 +53761,6 @@
         "name": "Blueberries",
         "qty": "4 or 5",
         "unit": "Each"
-      },
-      {
-        "name": "Blackberries",
-        "qty": "2 or 3",
-        "unit": "Each"
       }
     ],
     "steps": [
@@ -53779,7 +53768,6 @@
       "Rinse the oranges and berries off",
       "Cut the white off, slice the strawberry into 3 or 4 slices, depending on the size of the Strawberries",
       "Blueberries, pick the stems off",
-      "Blackberries pick off stems",
       "Plateware: Black 4oz Plastic cup",
       "Up Charge / Side",
       "These are made to order, the number depending on size",
