@@ -1665,7 +1665,7 @@
         "unit": "2# Bag /Each"
       },
       {
-        "name": "Lemon Zest Mayo (Prep)",
+        "name": "Mayo",
         "qty": "1",
         "unit": "8-oz Deli container"
       }
@@ -1674,7 +1674,7 @@
       "Take a 2# bag of lobster meat and remove it from its vacuum packaging.",
       "Place frozen lobster meat into the cooler to thaw.",
       "Once the lobster is thawed, drain the meat and empty it from the bag into a large mixing bowl,",
-      "Then add 1 8-oz Deli Cup of Lemon Zest Mayo (prep)",
+      "Then add 1 8-oz Deli Cup of Mayo",
       "Fold the Lobster meat and mayo until combined. Make sure not to break up the lobster meat when mixing.",
       "Portion 4 oz of the mixture into an 8-oz deli container, lid, label, and date it",
       "Place all portions into a large lemon bag, tie off, label, date, and store.",
@@ -65971,11 +65971,6 @@
         "name": "Lemon Wedges (Prep)",
         "qty": "1",
         "unit": "Each"
-      },
-      {
-        "name": "Lemon Zest",
-        "qty": "Sprinkle",
-        "unit": "Garnish"
       }
     ],
     "steps": [
@@ -65983,7 +65978,7 @@
       "Place on the grill, flipping after 30 seconds on each side, and remove",
       "Place on correct plateware.",
       "Pull one container of prepped Lobster into the grilled bun",
-      "Expo: Garnish of Lemon Zest, Lemon wedge, requested side, steak knife, LTO upon request on side",
+      "Expo: Lemon wedge, requested side, steak knife, LTO upon request on side",
       "Plateware: Rectangular Plate"
     ],
     "notes": "",
