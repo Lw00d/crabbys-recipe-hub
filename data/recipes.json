@@ -1,5 +1,40 @@
 [
   {
+    "name": "Lobster Roll Cold",
+    "category": "Dinner Prep",
+    "yield": "2lb. / 6 - 4.2oz portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Meat (Claw & Body)",
+        "qty": "1",
+        "unit": "2# Bag /Each"
+      },
+      {
+        "name": "Mayo",
+        "qty": "1",
+        "unit": "8-oz Deli container"
+      }
+    ],
+    "steps": [
+      "Take a 2# bag of lobster meat and remove it from its vacuum packaging.",
+      "Place frozen lobster meat into the cooler to thaw.",
+      "Once the lobster is thawed, drain the meat and empty it from the bag into a large mixing bowl,",
+      "Then add 1 8-oz Deli Cup of Mayo",
+      "Fold the Lobster meat and mayo until combined. Make sure not to break up the lobster meat when mixing.",
+      "Portion 4 oz of the mixture into an 8-oz deli container, lid, label, and date it",
+      "Place all portions into a large lemon bag, tie off, label, date, and store.",
+      "You should yield at least 6 portions out of the 2 lb. bag.",
+      "*2lb bag of lobster meat yields 26oz after thawing and draining.*"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msrv3146ihq9o3",
+    "masterId": "m-msoun6wh5ztpcw",
+    "location": "CBG"
+  },
+  {
     "name": "Fruit Cup",
     "category": "Breakfast Menu",
     "submenu": "Sides",
