@@ -1,5 +1,46 @@
 [
   {
+    "name": "Lobster Roll",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Roll (Prep)",
+        "qty": "1",
+        "unit": "Portions"
+      },
+      {
+        "name": "Bread Hot Dog (Brioche)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Lemon Wedges (Prep)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Baste the hot dog bun on both sides with garlic butter,",
+      "Place on the grill, flipping after 30 seconds on each side, and remove",
+      "Place on correct plateware.",
+      "Pull one container of prepped Lobster into the grilled bun",
+      "Expo: Lemon wedge, requested side, steak knife, LTO upon request on side",
+      "Plateware: Rectangular Plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Roll_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Lobster_Roll_1.jpg"
+    ],
+    "id": "m-msrv3n14eg3jc2",
+    "masterId": "dm-cds-68-m",
+    "location": "Palm"
+  },
+  {
     "name": "Lobster Roll Cold",
     "category": "Dinner Prep",
     "yield": "2lb. / 6 - 4.2oz portions",
@@ -29051,47 +29092,6 @@
       "This is served closed w/ a sandwich pick",
       "Add the requested side",
       "Expo: Lemon Aioli, sandwich pick, requested side"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dm-pl-40",
-    "masterId": "dm-pl-40-m",
-    "name": "Lobster Roll",
-    "location": "Palm",
-    "category": "Dinner Menu",
-    "submenu": "Handhelds",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Bread Hot Dog",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Garlic Spread",
-        "qty": "Basting",
-        "unit": "Roll"
-      },
-      {
-        "name": "Lobster Meat (portion)",
-        "qty": "1",
-        "unit": "Portions"
-      },
-      {
-        "name": "Lemon Wedges (Prep)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Baste the hot dog bun on both sides of the bun with garlic spread, and place on the flat top grill, flipping after 30 seconds",
-      "Pull one container of prepped lobster meat and place it on top of the bun.",
-      "Garnish with Old Bay, green onion, lemon, and serve with a side on a rectangular plate",
-      "Expo: Lemon Wedge, requested side"
     ],
     "notes": "",
     "images": []
