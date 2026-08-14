@@ -990,8 +990,28 @@ function openModal(id){
 }
 function getCurrentRecipe(){ return RECIPES.find(r=>r.id===currentModalId); }
 
+// If a recipe id can no longer be found in the current data — most often because
+// the browser is running an old cached copy of this page's JavaScript against
+// freshly-fetched data with a different id, e.g. after the recipe schema evolved
+// — the old code silently left whatever was last successfully shown in the modal
+// (so every click could look like it opens the same unrelated recipe). Show an
+// explicit, actionable message instead of silently doing nothing.
+function showRecipeNotFoundInModal(){
+  document.getElementById('modalHeader').className = 'modal-header';
+  document.getElementById('modalTitle').textContent = 'This recipe couldn\u2019t be loaded';
+  document.getElementById('modalMeta').innerHTML = '';
+  document.getElementById('modalBody').innerHTML = `
+    <div style="padding:32px 24px;text-align:center;color:var(--text-light)">
+      <div style="font-size:40px;margin-bottom:12px">⚠️</div>
+      <p style="margin:0 0 6px">This usually means the page is showing an outdated version.</p>
+      <p style="margin:0 0 20px">Reload the page to fix it.</p>
+      <button class="action-btn primary" onclick="location.reload()">🔄 Reload Page</button>
+    </div>`;
+  document.getElementById('modalFooter').innerHTML = `<button class="action-btn" style="margin-left:auto" onclick="closeModal()">Close</button>`;
+}
+
 function renderModalView(){
-  const recipe = getCurrentRecipe(); if(!recipe) return;
+  const recipe = getCurrentRecipe(); if(!recipe){ showRecipeNotFoundInModal(); return; }
   const lc = LOC_CLASS[recipe.location]||'';
   document.getElementById('modalHeader').className = `modal-header ${lc}`;
   document.getElementById('modalTitle').textContent = recipe.name;
@@ -1066,7 +1086,7 @@ function enterEditMode(){
 }
 
 function renderModalEdit(){
-  const r = getCurrentRecipe(); if(!r) return;
+  const r = getCurrentRecipe(); if(!r){ showRecipeNotFoundInModal(); return; }
   const lc = LOC_CLASS[r.location]||'';
   document.getElementById('modalHeader').className = `modal-header ${lc}`;
   document.getElementById('modalTitle').innerHTML = `<input type="text" id="editNameInput" value="${esc(r.name)}" placeholder="Recipe name" oninput="uF('name',this.value)">`;
