@@ -1,5 +1,35 @@
 [
   {
+    "name": "Lobster Bites (Head & Meat)",
+    "category": "Dinner Prep",
+    "yield": "6 portions per 2# bag",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Head Meat",
+        "qty": "1",
+        "unit": "2# Bag"
+      }
+    ],
+    "steps": [
+      "Let the lobster thaw in the refrigerator whenever possible",
+      "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
+      "Check meat for shell or cartlidge",
+      "Cutting down the large pieces into bite size pieces into bite size pieces",
+      "*Some of the large pieces may need to be cut, but most will not need it*",
+      "*If meat has any sort of discoloration, it is ok to rinse it*",
+      "Once drained, portion into 4 ounces,",
+      "Place into small deli cups",
+      "Lid, label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msx8rjyokbxg58",
+    "masterId": "dp-cds-88-m",
+    "location": "CBG"
+  },
+  {
     "name": "Lobster Roll",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -1809,7 +1839,7 @@
     "active": false
   },
   {
-    "name": "Lobster Bites (Coconut)",
+    "name": "Lobster Bites (Head & Meat)",
     "category": "Dinner Prep",
     "yield": "6 portions per 2# bag",
     "shelfLife": "3 days",
@@ -1839,7 +1869,7 @@
     "location": "Palm"
   },
   {
-    "name": "Lobster Bites (Coconut)",
+    "name": "Lobster Bites (Head & Meat)",
     "category": "Dinner Prep",
     "yield": "6 portions per 2# bag",
     "shelfLife": "3 days",
@@ -14381,7 +14411,7 @@
   {
     "id": "dp-cds-88",
     "masterId": "dp-cds-88-m",
-    "name": "Lobster Bites (Coconut)",
+    "name": "Lobster Bites (Head & Meat)",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "6 portions per 2# bag",
