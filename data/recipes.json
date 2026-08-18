@@ -1,6 +1,37 @@
 [
   {
     "name": "Onion Straws",
+    "category": "Dinner Prep",
+    "yield": "1 ea. onion",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion yellow",
+        "qty": "1ea",
+        "unit": "or Daily usage"
+      },
+      {
+        "name": "Starry Lime Soda",
+        "qty": "cover",
+        "unit": "Onions"
+      }
+    ],
+    "steps": [
+      "*Portion enough for daily usage*",
+      "Peel onions, leaving the root on the end.",
+      "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
+      "Fill container with Starry, separating onions and completely covering.",
+      "Cover with Starry soda, label, date, and refrigerate."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-msyyi9q8wdg566",
+    "masterId": "dp-cds-85-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Onion Straws",
     "category": "Dinner Menu",
     "submenu": "",
     "yield": "1 Order",
