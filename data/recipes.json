@@ -1,5 +1,69 @@
 [
   {
+    "name": "Onion Straws",
+    "category": "Dinner Menu",
+    "submenu": "",
+    "yield": "1 Order",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "Handful",
+        "name": "Onion Straws"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Cajun Flour"
+      }
+    ],
+    "steps": [
+      "Place onion straws in Cajun flour",
+      "Shake of excess flour",
+      "Place in fryer until golden brown"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-msyyestbhaywdg",
+    "masterId": "m-msyybjvrnw4d8a",
+    "location": "CBG"
+  },
+  {
+    "id": "m-msyybjvrnw4d8a",
+    "masterId": "m-msyybjvrnw4d8a",
+    "name": "Onion Straws",
+    "location": "CDS",
+    "category": "Dinner Menu",
+    "submenu": "",
+    "yield": "1 Order",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "Handful",
+        "name": "Onion Straws"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Cajun Flour"
+      }
+    ],
+    "steps": [
+      "Place onion straws in Cajun flour",
+      "Shake of excess flour",
+      "Place in fryer until golden brown"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
     "name": "Lobster Bites (Head & Meat)",
     "category": "Dinner Prep",
     "yield": "6 portions per 2# bag",
