@@ -4290,61 +4290,6 @@
     "location": "Palm"
   },
   {
-    "name": "Chicken Strips",
-    "category": "Dinner Menu",
-    "submenu": "Mainland",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Chicken Strips (Prep)",
-        "qty": "9",
-        "unit": "Chicken Strip"
-      },
-      {
-        "name": "Milkwash",
-        "qty": "",
-        "unit": "Dipping"
-      },
-      {
-        "name": "Chicken Breader",
-        "qty": "",
-        "unit": "Coating"
-      },
-      {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
-        "name": "Old Bay",
-        "qty": "Light",
-        "unit": "Dusting"
-      }
-    ],
-    "steps": [
-      "Fried: Place 9 chicken strips into the milk wash and drain the excess.",
-      "Transfer chicken to the breading and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
-      "Transfer to a sav-a-day to drain excess oil.",
-      "Toss in desired sauce if applicable.",
-      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
-      "Char-Grill - Just Lightly season w/ Requested Seasoning",
-      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
-      "Expo: Requested Sides, Dipping sauce, if requested",
-      "Plateware: Lined round basket"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
-    ],
-    "id": "m-ms8s0184goubjj",
-    "masterId": "dm-cbg-152-m",
-    "location": "Salty Crab North Beach"
-  },
-  {
     "name": "Filet Mignon (SI)",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -18291,7 +18236,8 @@
       "Plateware: Lined Oval basket"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-nb-15",
