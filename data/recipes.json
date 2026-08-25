@@ -1964,36 +1964,6 @@
     "location": "Palm"
   },
   {
-    "name": "Lobster Bites (Head & Meat)",
-    "category": "Dinner Prep",
-    "yield": "6 portions per 2# bag",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lobster Head Meat",
-        "qty": "1",
-        "unit": "2# Bag"
-      }
-    ],
-    "steps": [
-      "Let the lobster thaw in the refrigerator whenever possible",
-      "Drain the bag (2-minute drain) of liquid, but don’t force it out of the meat",
-      "Check meat for shell or cartlidge",
-      "Cutting down the large pieces into bite size pieces into bite size pieces",
-      "*Some of the large pieces may need to be cut, but most will not need it*",
-      "*If meat has any sort of discoloration, it is ok to rinse it*",
-      "Once drained, portion into 4 ounces,",
-      "Place into small deli cups",
-      "Lid, label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": [],
-    "id": "m-msoud3n7nlsndp",
-    "masterId": "dp-cds-88-m",
-    "location": "Salty Crab North Beach"
-  },
-  {
     "name": "Lettuce Romaine",
     "category": "Dinner Prep",
     "yield": "",
@@ -5855,64 +5825,6 @@
     "images": []
   },
   {
-    "id": "dp-nb-10",
-    "masterId": "dp-mango-salsa-m",
-    "name": "Mango Salsa",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cilantro",
-        "qty": "2 bunches",
-        "unit": "4 Weight oz (before chopping)"
-      },
-      {
-        "name": "Lime",
-        "qty": "7",
-        "unit": "Each (squeezed)"
-      },
-      {
-        "name": "Jalapeno (good size)",
-        "qty": "7",
-        "unit": "Ea. Stem removed, seeded, and diced), = 6oz"
-      },
-      {
-        "name": "Mango Chunks",
-        "qty": "1",
-        "unit": "5lb Bag"
-      },
-      {
-        "name": "Pico",
-        "qty": "1",
-        "unit": "5lb Bag (drained)"
-      },
-      {
-        "name": "Grinder Black Pepper",
-        "qty": "1",
-        "unit": "Tablespoon"
-      },
-      {
-        "name": "Seasoning Salt Kosher",
-        "qty": "1",
-        "unit": "Tablespoon"
-      }
-    ],
-    "steps": [
-      "Cut off the bottom half to 2/3s of cilantro stems (either throw away, or pick good for expo line), rough chop the top part of cilantro with skinny stems and mainly leaves, and add to the mix",
-      "Remove stems and seeds from jalapeños and dice into ¼\" pieces.",
-      "In a large mixing bowl add Mango, Jalapenos, and Pico, gently mix with a rubber spatula",
-      "Add salt, pepper, and cilantro, mix",
-      "Squeeze lime over the top of the mixture, and mix",
-      "Place in proper storage container",
-      "Label, date, rotate, and refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "dp-pl-3",
     "masterId": "dp-mango-salsa-m",
     "name": "Mango Salsa",
@@ -6465,7 +6377,8 @@
       "Place in a dated & labeled portion bag"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-nb-17",
@@ -6486,31 +6399,6 @@
     "steps": [
       "Pull from freezer, place in lemon bags",
       "Label, date, rotate, refrigerate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-18",
-    "masterId": "dp-nb-18-m",
-    "name": "Ranchero Sauce",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Salsa Verde (pre-made)",
-        "qty": "1",
-        "unit": "8# bag"
-      }
-    ],
-    "steps": [
-      "Pull the amount needed for the day",
-      "Cut the corner of the bag, fill the squeeze bottles,",
-      "Cover with labeled dated bags, screw top back on",
-      "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
     "images": []
@@ -8406,53 +8294,6 @@
       "Mix sugar, flour, and coconut, then add to panko, mix well",
       "Place into 2 or 3 lemon bags for storing",
       "Label, date, and store accordingly"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-nb-45",
-    "masterId": "dp-nb-45-m",
-    "name": "New Orleans Oysters",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "1 Day",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Oysters on the half shell",
-        "qty": "144",
-        "unit": "Oysters"
-      },
-      {
-        "qty": "",
-        "qty2": "",
-        "unit": "Brushed",
-        "name": "Butter Cajun"
-      },
-      {
-        "qty": "",
-        "qty2": "",
-        "unit": "Light Coat",
-        "name": "Cheese Parmesan Aged Grated"
-      }
-    ],
-    "steps": [
-      "Frozen Oyster Prep:",
-      "These oysters are already shucked; just need to be lightly washed in salt water to have the grit removed and have the muscle detached",
-      "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter(33 oz) of cold water for salt water wash**",
-      "Make sure there is no shell in the oyster.",
-      "Cut the muscle off the bottom of the shell.",
-      "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
-      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
-      "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
-      "Bad Oyster (Dry looking)",
-      "New Orleans Oyster prep:",
-      "Melt Cajun butter slightly so that it can be brushed onto oysters.",
-      "**monitor total oyster amount to not melt too much Cajun butter**",
-      "Brush Oyster with Cajun Butter and ensure fully covered",
-      "Lightly coat with parmesan cheese."
     ],
     "notes": "",
     "images": []
@@ -18799,7 +18640,8 @@
       "Expo: Serve with a pie scoop under a slice of pizza"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dm-nb-25",
@@ -57180,31 +57022,6 @@
     "images": []
   },
   {
-    "id": "bm-nb-21",
-    "masterId": "bm-sausage-links-m",
-    "name": "Sausage links",
-    "location": "Salty Crab North Beach",
-    "category": "Breakfast Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [],
-    "steps": [
-      "Kids 1 ea.",
-      "With plate 2 ea.",
-      "As solo side 2 ea.",
-      "Cook in turbo micro for 10 seconds",
-      "Remove from microwave, or place on a flat top at 400°F for 3-5 minutes.",
-      "Just long enough to put some grill marks on it",
-      "Plateware:",
-      "Entrée -on the plate",
-      "Solo Side-on App plate"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "bm-cbg-50",
     "masterId": "bm-ham-m",
     "name": "Ham",
@@ -59146,7 +58963,7 @@
   {
     "id": "bm-nb-26",
     "masterId": "bm-nb-26-m",
-    "name": "Burrito Breakfast",
+    "name": "Breakfast Burrito",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -59213,7 +59030,7 @@
   {
     "id": "bm-nb-27",
     "masterId": "bm-nb-27-m",
-    "name": "Burrito Veggie",
+    "name": "Veggie Burrito",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -59232,7 +59049,7 @@
         "unit": "2oz cup"
       },
       {
-        "name": "Tomato (Diced)",
+        "name": "Onions",
         "qty": "1",
         "unit": "2oz cup"
       },
@@ -59242,19 +59059,14 @@
         "unit": "6oz ladle"
       },
       {
-        "name": "Spinach",
-        "qty": "10",
-        "unit": "Leaves"
-      },
-      {
         "name": "12\" Herb & Garlic Tortilla",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "Avocado Salsa",
+        "name": "Avocado Cream",
         "qty": "1",
-        "unit": "Green Scoop"
+        "unit": "2oz cup"
       },
       {
         "name": "Pico De Gallo",
@@ -59263,16 +59075,16 @@
       }
     ],
     "steps": [
-      "Lightly butter an 8\" pan and add mushrooms and tomatoes.",
+      "Lightly butter an 8\" pan and add mushrooms and onions.",
       "Add eggs and scramble with veggies for 1 minute",
       "Place tortilla on the flattop for 5-10 seconds on each side",
-      "Add spinach and mix till eggs are done",
+      "Mix till eggs are done",
       "Place tortillas on the cutting board",
       "Add egg mixture evenly across the shell",
       "First, fold the sides of the tortilla inward",
       "Place on the Flat top for 1 or 2 minutes on either side to seal",
       "Cut in half diagonally",
-      "Place on a dinner plate"
+      "Place on a dinner plate, Garnish with Green Onions"
     ],
     "notes": "",
     "images": []
