@@ -5540,7 +5540,7 @@
   },
   {
     "id": "dp-nb-7",
-    "masterId": "dp-salad-mix-m",
+    "masterId": "m-mt8sjxp86p9bf8",
     "name": "Salad Mix",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
@@ -5587,7 +5587,8 @@
       "Once combined, label and date."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "active": false
   },
   {
     "id": "dp-pl-1",
@@ -19698,7 +19699,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Salad Mix",
+        "name": "Lettuce Romaine (Prep)",
         "qty": "2",
         "unit": "12/14 oz logo cup"
       },
@@ -19724,7 +19725,7 @@
       }
     ],
     "steps": [
-      "Place House Salad mix in pasta bowl.",
+      "Place House Romaine in pasta bowl.",
       "Place cherry tomatoes and red onion strips on top of the salad mix",
       "Top with shredded cheese and croutons",
       "Dressing off to the side, place it so it doesn't tip over",
@@ -19745,7 +19746,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Salad Mix (Prep)",
+        "name": "Lettuce Romaine (Prep)",
         "qty": "1",
         "unit": "12/14oz logo cup"
       },
@@ -19771,7 +19772,7 @@
       }
     ],
     "steps": [
-      "Place salad mix on the appetizer plate.",
+      "Place Romaine on the appetizer plate.",
       "Place cherry tomatoes and onion rings on top of the salad mix.",
       "Top with shredded cheddar cheese and croutons.",
       "Garnish: 2oz cup of dressing requested"
@@ -22191,7 +22192,7 @@
   },
   {
     "id": "dm-nb-79",
-    "masterId": "dm-shrimp-po-boy-m",
+    "masterId": "m-mt8scx8jwzxr30",
     "name": "Shrimp Po Boy",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
@@ -22231,9 +22232,9 @@
         "unit": "Oz"
       },
       {
-        "name": "Red onion",
+        "name": "tomato",
         "qty": "1",
-        "unit": "Oz"
+        "unit": "each"
       }
     ],
     "steps": [
@@ -22243,7 +22244,7 @@
       "Take the Hoagie bread and place it in the oven for 1 minute",
       "Once the shrimp is cooked, remove and place in a Sav-A-Day",
       "Move the shrimp from Sav-A-Day to the mixing bowl, add a sprinkle of blackening seasoning to the bowl, and toss",
-      "Add lettuce in the hoagie, then shrimp, top with remoulade, lettuce, and diced red onion",
+      "Add lettuce in the hoagie, then shrimp, top with remoulade, lettuce, and tomato",
       "Expo: Lemon wedge, side"
     ],
     "notes": "",
