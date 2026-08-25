@@ -21443,6 +21443,12 @@
         "name": "Red Onions (Diced)",
         "qty": ".5",
         "unit": "2oz cup"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "2oz cup",
+        "name": "Pico"
       }
     ],
     "steps": [
