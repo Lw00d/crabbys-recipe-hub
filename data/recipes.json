@@ -3832,7 +3832,7 @@
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "4",
         "unit": "slices"
       },
       {
@@ -3896,7 +3896,7 @@
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "4",
         "unit": "slices"
       },
       {
@@ -20443,7 +20443,7 @@
   },
   {
     "id": "dm-nb-51",
-    "masterId": "dm-coconut-shrimp-m",
+    "masterId": "m-mt8s85h82kxuar",
     "name": "Coconut Shrimp",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
@@ -20463,7 +20463,7 @@
         "unit": "Each"
       },
       {
-        "name": "Thai Chili",
+        "name": "Pina Colada Sauce",
         "qty": "2",
         "unit": "Vol oz"
       }
@@ -20472,7 +20472,7 @@
       "Place the Coconut shrimp in a 325 -350°F fryer and cook for approximately 4 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a sav a day to drain excess oil.",
       "Place the shrimp on correct plateware",
-      "Expo: Requested sides, Lemon wedge, Thai Chili",
+      "Expo: Requested sides, Lemon wedge, Pina Colada Sauce",
       "Plateware: 9\" Round Dinner Plate"
     ],
     "notes": "",
@@ -53139,7 +53139,7 @@
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "4",
         "unit": "slices"
       },
       {
