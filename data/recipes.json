@@ -1,5 +1,83 @@
 [
   {
+    "name": "Cajun Chicken & Sausage Alfredo",
+    "category": "Dinner Menu",
+    "submenu": "Pasta / Pizza",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Baste",
+        "unit": ""
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "Evenly",
+        "unit": "Season"
+      },
+      {
+        "name": "Kielbasa (4oz Link)",
+        "qty": "1",
+        "unit": "4 Pieces on the bias"
+      },
+      {
+        "name": "Cajun Butter",
+        "qty": "1",
+        "unit": "Sunflower scoop"
+      },
+      {
+        "name": "Sauce Alfredo",
+        "qty": "1",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Pasta Linguine",
+        "qty": "1",
+        "unit": "16oz Deli cup"
+      },
+      {
+        "name": "Cheese Parmesan",
+        "qty": "Dust",
+        "unit": "Top of pasta"
+      },
+      {
+        "name": "Garlic Bread",
+        "qty": "1",
+        "unit": "Slice"
+      }
+    ],
+    "steps": [
+      "**If using a flat top - based the chicken with garlic spread before cooking**",
+      "Season the breast with Blackening seasoning. Cook the breast on the grill.",
+      "Start the pasta dish process when the breast has been flipped over.",
+      "Add the Cajun butter to the sauté pan",
+      "Add sliced Sausage, cook for 1 to 2 minutes",
+      "Add Alfredo Sauce to the sauté pan and heat.",
+      "Heat pasta in boiling water for approximately 1 minute. Drain",
+      "Add Pasta to the existing pan of ingredients.",
+      "*If the sauce is still a little too thick to toss, adding a little heavy cream to thin it is ok*",
+      "Toss the pasta a couple of times to make sure everything is coated with the sauce.",
+      "Pour finished pasta into a large bowl.",
+      "Place the sausage pieces on top of mix OR around the outside of pasta. Placing the sliced chicken breast on top",
+      "Add the sliced breast on top of the dish",
+      "Sprinkle with Parmesan cheese evenly across the top",
+      "Expo: chopped parsley, Garlic bread, soup spoon",
+      "Plateware: Pasta bowl, Soup spoon"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mta60vef566cou",
+    "masterId": "dm-cds-5-m",
+    "location": "CBG"
+  },
+  {
     "name": "Onion Straws",
     "category": "Dinner Prep",
     "yield": "1 ea. onion",
