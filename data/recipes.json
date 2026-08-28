@@ -563,9 +563,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Chicken Strips (Prep)",
-        "qty": "3",
-        "unit": "Chicken Strip"
+        "name": "Chicken Cutlets",
+        "qty": "2",
+        "unit": "Each"
       },
       {
         "name": "Milk Wash",
@@ -28361,9 +28361,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Chicken Strips (Prep)",
-        "qty": "3",
-        "unit": "Chicken Strip"
+        "name": "Chicken Cutlets",
+        "qty": "2",
+        "unit": "Each"
       },
       {
         "name": "Milk Wash",
