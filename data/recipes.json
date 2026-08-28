@@ -1,5 +1,32 @@
 [
   {
+    "name": "Street Corn Dip",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Street Corn",
+        "qty": "1",
+        "unit": "Ivory Scoop"
+      }
+    ],
+    "steps": [
+      "Use an ivory scoop to put it into a small bowl.",
+      "Place on the plate",
+      "Plateware: Entrée, or Solo - Small Bowl"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Street_Corn_0.jpg"
+    ],
+    "id": "m-mtcu778dkjp4l2",
+    "masterId": "dm-cds-81-m",
+    "location": "CBG"
+  },
+  {
     "name": "Crab Bairdi 1.5# Prep",
     "category": "Dinner Prep",
     "yield": "20# cs. / 12-14 portions",
@@ -70212,7 +70239,7 @@
   {
     "id": "dm-cds-81",
     "masterId": "dm-cds-81-m",
-    "name": "Street Corn",
+    "name": "Street Corn Dip",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -72687,7 +72714,7 @@
   {
     "id": "dm-cbg-119",
     "masterId": "dm-cbg-119-m",
-    "name": "Street Corn",
+    "name": "Street Corn on Cob",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Sides",
