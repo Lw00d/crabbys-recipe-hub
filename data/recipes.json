@@ -1,5 +1,46 @@
 [
   {
+    "name": "Crab Cake App (2 in oven)",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Cake mix",
+        "qty": "2",
+        "unit": "Sunflower Scoops"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "Baste",
+        "unit": "Tops of cakes"
+      },
+      {
+        "name": "Old Bay",
+        "qty": "Lightly",
+        "unit": "Sprinkle"
+      }
+    ],
+    "steps": [
+      "Place 2 sunflower scoops of crab cake mix on a sprayed pizza pan",
+      "Baste with garlic butter and season with Old Bay in a 450°F oven for 6 to 7 minutes until heated thru",
+      "Do a zig-zag squeeze of Remoulade on the app plate.",
+      "Place the cakes on top on the app plate",
+      "Expo: lemon wedge, chopped parsley, see expo chart for sauce",
+      "Plateware: App Plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Crab_Cake_(new_app)_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Crab_Cake_(new_app)_1.jpg"
+    ],
+    "id": "m-mtct6tv9lrfs7h",
+    "masterId": "dm-cds-28-m",
+    "location": "CBG"
+  },
+  {
     "name": "Cajun Chicken & Sausage Alfredo",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -69870,7 +69911,7 @@
   },
   {
     "id": "dm-cds-95",
-    "masterId": "dm-nb-56-m",
+    "masterId": "m-mtct5hhpnwfydd",
     "name": "Crab Cakes",
     "location": "CDS",
     "category": "Dinner Menu",
