@@ -1,5 +1,519 @@
 [
   {
+    "name": "Portabella Tacos 2",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Portabella Mushroom Cap",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Olive Oil",
+        "qty": "Lightly",
+        "unit": "Baste"
+      },
+      {
+        "name": "Blackening Mix",
+        "qty": "Lightly",
+        "unit": "Season"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheddar/Jack Cheese",
+        "qty": "1",
+        "unit": "2 oz cup"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "8oz deli cont."
+      }
+    ],
+    "steps": [
+      "Place the portabella with the top on the flat top",
+      "Baste with balsamic, letting some sit in the portabella cap like a bowl",
+      "Cook for 3 minutes and then flip",
+      "Cook for another 2 minutes, then cut into 2 equal pieces",
+      "Place 2 flour tortillas on the flat top to heat",
+      "Line the taco plate with the taco setup and place tortillas at the ends of the setup",
+      "Add 1/2 of the cheddar cheese to each taco",
+      "Add 1/2 of the cabbage to the top of each taco",
+      "Cabbage should fill shells about halfway",
+      "Place protein on top of cabbage",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctnuxmpzmldj",
+    "masterId": "dm-cds-13-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Haddock Tacos",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Haddock Sandwich",
+        "qty": "1 portion",
+        "unit": "Cut in half, on the bias"
+      },
+      {
+        "name": "Flour",
+        "qty": "Dust",
+        "unit": "fish"
+      },
+      {
+        "name": "Beer batter",
+        "qty": "Coat",
+        "unit": "fish"
+      },
+      {
+        "name": "Taco shells",
+        "qty": "2",
+        "unit": "each"
+      },
+      {
+        "name": "Cheddar /Jack cheese",
+        "qty": "2",
+        "unit": "2oz ramekin"
+      },
+      {
+        "name": "Cabbage shredded",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      },
+      {
+        "name": "Haddock",
+        "qty": "",
+        "unit": ""
+      },
+      {
+        "name": "Mango salsa",
+        "qty": "4oz",
+        "unit": "ramekin"
+      }
+    ],
+    "steps": [
+      "Cut the Haddock on the bias, long ways",
+      "Place in flour, shake off excess",
+      "Place it into the beer batter, coating completely",
+      "With the fry basket submerged or removed, slowly dip the beer-battered fish into a 350°F fryer. While holding the fish by one end so it doesn't drop (stick) to the bottom of the submerged basket",
+      "Flip the fish during cooking or place another empty basket on top to keep the fish submerged",
+      "Once cooked, place it into a Sav-A-Day and hand it back to the expo",
+      "Place 2 taco shells on the flat top and transfer to the taco plate",
+      "Add 1/2 the cheese to each shell",
+      "Add: 1/2 the cabbage to the top of each taco",
+      "Cabbage should fill shells about halfway",
+      "Add protein on top of cabbage",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate",
+      "Cut for Taco Sandwich portion",
+      "Cut in Half = 2 pieces"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctnfneqnkgs0",
+    "masterId": "dm-cds-16-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Grouper Gr/Blk Tacos 2",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Sandwich 5.5oz(Prep)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Baste"
+      },
+      {
+        "name": "Old Bay or Blackening",
+        "qty": "",
+        "unit": "Season"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      }
+    ],
+    "steps": [
+      "Cut the grouper vertically into 2 equal pieces",
+      "Lightly brush the grouper with garlic spread and lightly season with the Requested Seasoning.",
+      "Cooking 3 to 4 minutes on both sides",
+      "Place the 2 Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
+      "Roll the sides of the tortillas up in the classic taco form on the required plate.",
+      "Add 1/2 of the cheddar cheese to each taco shell",
+      "Add: 1/2 of the cabbage to each taco shell",
+      "Cabbage should fill shells about halfway",
+      "Add protein on top of cabbage",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctmyed4wiuey",
+    "masterId": "dm-cds-11-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Grouper Fried Tacos 2",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Sandwich5.5oz(Prep)",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Italian Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      }
+    ],
+    "steps": [
+      "Cut the grouper sandwich into 2 equal pieces and bread in milk wash, then Italian breader.",
+      "Fry in a 350°F fryer for 3 to 5 minutes until done.",
+      "Transfer the grouper to a Sav-a-Day to drain excess oil.",
+      "Place the Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
+      "Roll the sides of the tortillas up in the classic taco form on the required plate.",
+      "Add 1/2 of the cheddar cheese to each taco",
+      "Add 1/2 of the cabbage to the top of each taco.",
+      "Cabbage should fill shells about halfway",
+      "Add protein on top of cabbage",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctmjtlu14w8m",
+    "masterId": "dm-cds-10-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Chicken Tacos 2",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Strips (Prep)",
+        "qty": "3",
+        "unit": "Chicken Strip"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Chicken Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      }
+    ],
+    "steps": [
+      "Bread 3 chicken fingers using milk wash, then chicken breader.",
+      "Fry in a 350°F fryer for 3 minutes",
+      "Transfer chicken fingers to a Sav-a-Day to drain excess oil",
+      "Place 2 Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
+      "Roll the sides of the tortillas up in the classic taco form on the required plate.",
+      "Add 1/2 of the cheddar cheese to each taco",
+      "Add: 1/2 of the cabbage to the top of each taco.",
+      "Cabbage should fill the taco shell about halfway",
+      "Add protein on top of cabbage",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctly2ebrbwin",
+    "masterId": "dm-cds-14-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Boom Boom Shrimp Tacos 2",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp pieces (6oz)",
+        "qty": "1",
+        "unit": "Portion or Yellow spoodle"
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "Dipping"
+      },
+      {
+        "name": "Italian Breader",
+        "qty": "",
+        "unit": "Coating"
+      },
+      {
+        "name": "Bread Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Sauce Boom boom",
+        "qty": "3",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Cheddar Jack cheese",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cabbage Shredded",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      }
+    ],
+    "steps": [
+      "Bread shrimp pieces pre-wash and then Italian Breading and toss in a 350°F fryer for about 3 minutes or until light golden brown in color and cooked thoroughly",
+      "Once the shrimp is cooked, transfer to a Sav-A-Day to drain off excess oil",
+      "Toss them in boom-boom sauce",
+      "Place 2 Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
+      "Place shells in the Taco stand",
+      "Add cheese to the bottom of the shells",
+      "The Cabbage should fill the taco shell about halfway",
+      "Place boom-boom shrimp on top,",
+      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctlfce4038cn",
+    "masterId": "dm-cds-15-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Boom Boom Lobster Bites",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster bites",
+        "qty": "1",
+        "unit": "Portion "
+      },
+      {
+        "name": "Milk Wash",
+        "qty": "",
+        "unit": "For Dipping"
+      },
+      {
+        "name": "Chicken Breading",
+        "qty": "",
+        "unit": "For Coating"
+      },
+      {
+        "name": "Sauce Boom-Boom",
+        "qty": "3",
+        "unit": "oz. for Coating"
+      }
+    ],
+    "steps": [
+      "Place 1 portion lobster bites in milk wash, drain off excess",
+      "Transfer to Italian breading and coat evenly.",
+      "Place lobster bites into 350°F fryer for about 2-3 minutes or until light golden brown in color and cooked thoroughly",
+      "Transfer to a Sav-a-Day to drain off excess oil",
+      "Place in the sauce bowl and toss a few times in Boom-Boom sauce to evenly coat all the shrimp",
+      "Pour the Shrimp and sauce on top",
+      "Expo: Green Onion, Lemon wedge,"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtcthzzd1k2x44",
+    "masterId": "m-mtcthzzdgh6cle",
+    "location": "CBG"
+  },
+  {
+    "name": "Grouper and Shrimp Ceviche ",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper & shrimp Ceviche (prep)",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Avocado Salsa",
+        "qty": "1",
+        "unit": "Green Scoop"
+      }
+    ],
+    "steps": [
+      "Pour the ceviche portion into a small bowl",
+      "Add 1 scoop of avocado salsa and mix",
+      "Pour mixture into 8oz rarebit and top with cilantro",
+      "Put a dish on 1 side of the lined round basket and fill with tortilla chips",
+      "*If going with other food, keep away from the heat lamp*",
+      "Expo:",
+      "Plateware:",
+      "8oz rarebit / Lined Round basket / Spoon"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctfjgxnbb4cu",
+    "masterId": "m-mtctfjgx3xpd1b",
+    "location": "CBG"
+  },
+  {
+    "name": "Grouper & Shrimp Ceviche Prep",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Mixing bowl, scale, measuring cup, 8oz deli containers w/ lids, lemon bags, day dots",
+    "ingredients": [
+      {
+        "name": "Shrimp Pieces",
+        "qty": "2",
+        "unit": "Pounds"
+      },
+      {
+        "name": "Grouper Trimmings",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Mango Salsa (Prep)",
+        "qty": "8",
+        "unit": "Oz"
+      },
+      {
+        "name": "Pico de Gallo (Fresh Point)",
+        "qty": "40",
+        "unit": "Oz"
+      },
+      {
+        "name": "Limes - Freshly Juiced",
+        "qty": "9",
+        "unit": "Oz (about 9 ea.)"
+      },
+      {
+        "name": "Salt Kosher",
+        "qty": "0.2",
+        "unit": "Oz. wt."
+      }
+    ],
+    "steps": [
+      "Use a crab pot to blanch grouper pieces, cook for 1-2 minutes,",
+      "Use a crab pot to blanch shrimp pieces, cook for 2 to 3 minutes,",
+      "Add the chilled shrimp & grouper to a mixing bowl, then add lime juice and salt, and mix.",
+      "Now place it in a walk-in refrigerator for 2 hours",
+      "Drain the lime juice from shrimp and grouper",
+      "Add Pico de Gallo, and mango salsa to the mixture",
+      "Now squeeze 1 Fresh lime (Per Batch) across the top and mix",
+      "Portion into 8oz portions",
+      "Place the lid on top",
+      "Label, date, and place in the cooler. Rotate old to the front"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtctb28ymffd0p",
+    "masterId": "m-mtctb28ycsnf4w",
+    "location": "CBG"
+  },
+  {
     "name": "Crab Cake App (2 in oven)",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
