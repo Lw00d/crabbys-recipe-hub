@@ -1,5 +1,74 @@
 [
   {
+    "name": "Crab Bairdi 1.5# Prep",
+    "category": "Dinner Prep",
+    "yield": "20# cs. / 12-14 portions",
+    "shelfLife": "",
+    "smallware": "scale, red mesh bags, bucket,",
+    "ingredients": [
+      {
+        "name": "Crab Bairdi",
+        "qty": "25",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "***For the best prepping results -",
+      "The crab needs to be sitting out at room temp for at least an hour, you want to be able to easily remove clusters without breaking them apart",
+      "**Never use a knife to break clusters apart",
+      "Important NOTE: If a Cluster weighs under 11oz, place it to the side to see if any other broken pieces or smaller clusters show up.",
+      "Use those to make weight for another portion.",
+      "(BE Sure to cut completely through the knuckle from the piece you're trimming)",
+      "Instructions:",
+      "Portion crab into net bags (22 - 26oz each) ",
+      "If one cluster weighs between 11-13oz, just portion the 2 whole clusters into a white bag",
+      "Place portions back into the box with the lid",
+      "Label how many portions are in the box on the outside (Side & top) with a Sharpie",
+      "Date and store back in the freezer.",
+      "25# cs. / 16-17 port.",
+      "30# cs. / 19-20 port.",
+      "40# cs. / 25-28 port."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtcu2x2nszq48s",
+    "masterId": "m-mtcu2x2nd70uun",
+    "location": "CBG"
+  },
+  {
+    "name": "Crab Bairdi 1# Prep",
+    "category": "Dinner Prep",
+    "yield": "20# cs. / 20 portions ",
+    "shelfLife": "",
+    "smallware": "scale, red mesh bags, bucket,",
+    "ingredients": [
+      {
+        "name": "Crab Bairdi",
+        "qty": "25",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "***For the best prepping results -",
+      "The crab needs to be sitting out at room temp for at least an hour, you want to be able to easily remove clusters without breaking them apart",
+      "**Never use a knife to break clusters apart",
+      "Important NOTE: If a Cluster weighs under 14oz, place it to the side to see if any other broken pieces or smaller clusters show up.",
+      "Use those to make weight for another portion.",
+      "(BE Sure to cut completely through the knuckle from the piece you're trimming)",
+      "Instructions:",
+      "Portion crab into net bags (15-17oz)",
+      "If one cluster weighs between 15-17oz, just portion the whole cluster into a red bag",
+      "Place portions back into the box with the lid",
+      "Label how many portions are in the box on the outside (Side & top) with a Sharpie",
+      "Date and store back in the freezer."
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtcu0bohun446q",
+    "masterId": "m-mtcu0boh41ry4a",
+    "location": "CBG"
+  },
+  {
     "name": "Crab and Shrimp Boil 1#/ea",
     "category": "Dinner Menu",
     "submenu": "Offshore",
