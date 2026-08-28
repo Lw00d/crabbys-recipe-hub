@@ -75776,38 +75776,44 @@
     "category": "Dinner Prep",
     "submenu": null,
     "yield": "",
-    "shelfLife": "",
-    "smallware": "",
+    "shelfLife": "3 days",
+    "smallware": "Stand Mixer, Microplane (zester), Rubber Spatula, 4\" Full Pan",
     "ingredients": [
       {
         "name": "Butter",
         "qty": "12",
-        "unit": "lb"
+        "unit": "lb",
+        "qty2": ""
       },
       {
         "name": "Lemon zest & juice",
         "qty": "20",
-        "unit": "each"
+        "unit": "each",
+        "qty2": ""
       },
       {
         "name": "Salt",
         "qty": "1",
-        "unit": "tbs"
+        "unit": "tbs",
+        "qty2": ""
       },
       {
         "name": "Black pepper",
         "qty": "1",
-        "unit": "tbs"
+        "unit": "tbs",
+        "qty2": ""
       },
       {
         "name": "Parsley",
         "qty": "1",
-        "unit": "Bunch (chopped)"
+        "unit": "Bunch (chopped)",
+        "qty2": ""
       },
       {
         "name": "Basil",
         "qty": "1",
-        "unit": "Stem (chopped)"
+        "unit": "Stem (chopped)",
+        "qty2": ""
       }
     ],
     "steps": [
