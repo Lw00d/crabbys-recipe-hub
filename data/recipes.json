@@ -1,5 +1,209 @@
 [
   {
+    "name": "Crab and Shrimp Boil 1#/ea",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 1# (prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Steamed Shrimp (prep)",
+        "qty": "1",
+        "unit": "Pound"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Sauté: Place steam shrimp portion, and crab portion in the boiling water for 2-3 minutes",
+      "Pour the ladle of Cajun/Garlic sauce into the skillet with shrimp, corn, and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add crab & shrimp to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large beer tray",
+      "If using cream separately, it is 2 oz of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of scampi sauce",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Blue Oyster plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Shrimp_Boil_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Shrimp_Boil_CBG_1.jpg"
+    ],
+    "id": "m-mtctycf1plui3x",
+    "masterId": "m-mtctycf1nn6azv",
+    "location": "CBG"
+  },
+  {
+    "name": "Shrimp Boil 1#",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steamed Shrimp (prep)",
+        "qty": "1",
+        "unit": "Pound"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "Halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Sauté: Pour 1-10oz ladle of Cajun/Garlic sauce in the skillet to get hot",
+      "Add shrimp, corn, and sausage",
+      "Cook for 3 to 4 minutes, stirring occasionally",
+      "If using cream, separate it is a 2-oz cup of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of scampi sauce",
+      "If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large beer tray and sell to expo when called for",
+      "Expo: Put the side on the tray, 2 lemon wedges",
+      "Plateware: Lined Oyster plate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Shrimp_Boil_CBG_2.jpg"
+    ],
+    "id": "m-mtctx1mh1hi3bx",
+    "masterId": "m-mtctx1mh4onulz",
+    "location": "CBG"
+  },
+  {
+    "name": "Crab Boil 1#",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi 1# (prep)",
+        "qty": "1",
+        "unit": "portion"
+      },
+      {
+        "name": "Sausage smoked",
+        "qty": "4",
+        "unit": "Pieces on the bias"
+      },
+      {
+        "name": "Corn 1/2 (prep)",
+        "qty": "2",
+        "unit": "halves"
+      },
+      {
+        "name": "Cajun or Garlic sauce",
+        "qty": "1",
+        "unit": "10oz ladle"
+      }
+    ],
+    "steps": [
+      "Note: If using cream, separate it is a 2-oz cup of cream with either 2 yellow scoops of Cajun butter or 1 8-oz ladle of Scampi sauce",
+      "Sauté: Place crab portion in boiling water for 2-3 minutes",
+      "Put 1-10-oz ladle of Cajun or Garlic sauce in a skillet with corn and sausage",
+      "Cook for 2-3 minutes, stirring occasionally",
+      "Add the heated, drained crab to the skillet",
+      "Cook for another 3 to 4 minutes. If not using premade sauce, add cream and cook for another 3 to 4 minutes",
+      "Pour contents of skillet into a large plastic bag on a lined large blue tray",
+      "Hand off to the expo to be completed",
+      "Expo: Put the side on the tray, Serve with 2 lemon wedges",
+      "Plateware: Lined Blue Oyster tray"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Boil_34_CBG_3.jpg"
+    ],
+    "id": "m-mtctv1o2rufyps",
+    "masterId": "m-mtctv1o24q2g4x",
+    "location": "CBG"
+  },
+  {
+    "name": "Scallops w/ Street Corn",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops 10-20ct (Prep)",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "",
+        "unit": "Basting"
+      },
+      {
+        "name": "Season Salt & Pepper Mixture",
+        "qty": "",
+        "unit": "Lightly Seasoned"
+      },
+      {
+        "name": "Creamy Street Corn",
+        "qty": "1",
+        "unit": "Ivory Scoop"
+      }
+    ],
+    "steps": [
+      "Salt and Pepper Blend consists of: 1 - 16oz deli container of coarse kosher salt combined with 1 - 8oz deli container of ground black pepper",
+      "Take 1 portion of scallops and brush both flat sides with melted garlic butter, sprinkle with salt and pepper blend",
+      "Place the scallops on the flattop, flat side down, let and cook uncovered for 2 to 3 minutes.",
+      "Drizzle with garlic butter and flip the scallops",
+      "Let the scallops finish cooking for 2 to 3 minutes, then transfer them to the rarebit with a bed of creamy street corn",
+      "Use a sav-a-day upside down to cover the scallops to help prevent the scallops from overcooking",
+      "Note: scallops should be cooked to a medium temperature",
+      "Expo: Use an Ivory handle scoop for creamy street corn. Scoop into an 8oz rarebit dish.",
+      "Place a napkin on a large white square plate and place the rarebit dish on the napkin.",
+      "Remove scallops from skewer and place the scallops on top of the street corn.",
+      "Expo: chopped cilantro, Lemon wedge, requested side",
+      "Plateware: Dinner plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtcttvkotl5mqa",
+    "masterId": "dm-cds-103-m",
+    "location": "CBG"
+  },
+  {
     "name": "Portabella Tacos 2",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -70762,7 +70966,7 @@
   {
     "id": "dm-cds-103",
     "masterId": "dm-cds-103-m",
-    "name": "Scallops Salt n Pepper",
+    "name": "Scallops w/ Street Corn",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -70802,13 +71006,11 @@
       "Expo: Use an Ivory handle scoop for creamy street corn. Scoop into an 8oz rarebit dish.",
       "Place a napkin on a large white square plate and place the rarebit dish on the napkin.",
       "Remove scallops from skewer and place the scallops on top of the street corn.",
-      "Expo: chopped parsley, Lemon wedge, requested side",
-      "Plateware: Rectangle plate, 8oz rarebit, napkin"
+      "Expo: chopped cilantro, Lemon wedge, requested side",
+      "Plateware: Dinner plate"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Scallops_Salt_n_Pepper_0.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-cds-104",
