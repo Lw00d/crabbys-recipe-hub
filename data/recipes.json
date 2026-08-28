@@ -75767,5 +75767,57 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Roasted_Potatoes_NB_3.jpg"
     ],
     "active": true
+  },
+  {
+    "id": "dp-nb-66",
+    "masterId": "dp-nb-66-m",
+    "name": "Lemon Butter Sauce",
+    "location": "Salty Crab North Beach",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": "12",
+        "unit": "lb"
+      },
+      {
+        "name": "Lemon zest & juice",
+        "qty": "20",
+        "unit": "each"
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "tbs"
+      },
+      {
+        "name": "Black pepper",
+        "qty": "1",
+        "unit": "tbs"
+      },
+      {
+        "name": "Parsley",
+        "qty": "1",
+        "unit": "Bunch (chopped)"
+      },
+      {
+        "name": "Basil",
+        "qty": "1",
+        "unit": "Stem (chopped)"
+      }
+    ],
+    "steps": [
+      "Let butter sit out for 4 hours to soften.",
+      "After chopping, zesting and juicing, combine everything in stand up mixer.",
+      "On low speed run until full incorporated.",
+      "Portion into 4\" full pan."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
