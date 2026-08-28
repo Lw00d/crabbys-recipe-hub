@@ -1,5 +1,50 @@
 [
   {
+    "name": "Smash Burgers",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hamburger 6oz ball",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Season salt",
+        "qty": "Evenly dust",
+        "unit": "top"
+      },
+      {
+        "name": "Hamburger Bun",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Lightly dust the burger with seasoned salt ",
+      "Spray grill with pan spray and put burger ball season side down",
+      "Let sear for 45 seconds before pushing down with press",
+      "Let sook under press for 2 to 3 minutes",
+      "Remove press, season and flip",
+      "Place press back on burger and cook for another 2 to 3 minutes",
+      "Add toppings and serve on toasted bun",
+      "The Local- 2 slices yellow American",
+      "The South Jetty- 2 slices bacon, 2 slices yellow American, onion straws, bbq sauce",
+      "The Dawn Patrol- fried egg, 2 slices bacon, 2 slices yellow American",
+      "The Cut Back- grilled jalapenos, onion straws, 2 slices pepper jack, boom boom sauce",
+      "The Offshore- grilled mushrooms, 2 slices Swiss cheese",
+      "The Wipeout- 2 slice bacon, fried egg, onion straws, 2 slices American cheese"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtd8qhwh2gwvcx",
+    "masterId": "m-mtd8qhwhzxbre0",
+    "location": "CBG"
+  },
+  {
     "name": "Street Corn Dip",
     "category": "Dinner Menu",
     "submenu": "Sides",
