@@ -1,5 +1,61 @@
 [
   {
+    "name": "Cilantro Cream Slaw",
+    "category": "Dinner Prep",
+    "yield": "1/3 pan",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cabbage Shredded (5# bag)",
+        "qty": ",5",
+        "unit": "Each"
+      },
+      {
+        "name": "Cilantro Cream Sauce",
+        "qty": ",5",
+        "unit": "32oz Bottle"
+      }
+    ],
+    "steps": [
+      "In a 1/3 pan, mix the Cabbage and sauce",
+      "Fold together until fully mixed"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mth92ewr75yl5f",
+    "masterId": "m-mth92ewr3k55z0",
+    "location": "CBG"
+  },
+  {
+    "name": "Baja Slaw",
+    "category": "Dinner Prep",
+    "yield": "1/3 pan",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cabbage Shredded (5# bag)",
+        "qty": ",5",
+        "unit": "Each"
+      },
+      {
+        "name": "Baja Sauce",
+        "qty": ",5",
+        "unit": "32oz Bottle"
+      }
+    ],
+    "steps": [
+      "In a 1/3 pan, mix the Cabbage and sauce",
+      "Fold together until fully mixed"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mth9095mhas02k",
+    "masterId": "m-mth9095mmiiz2a",
+    "location": "CBG"
+  },
+  {
     "name": "Fresh Catch",
     "category": "Dinner Menu",
     "submenu": "Offshore",
