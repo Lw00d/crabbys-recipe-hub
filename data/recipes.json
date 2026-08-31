@@ -1,5 +1,43 @@
 [
   {
+    "name": "Fresh Catch",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fresh Catch (Prep)",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "BLACKENED / GRILLED:",
+      "Baste the Fresh Catch with garlic spread, then season evenly with the requested seasoning.",
+      "Place on a flat top. After 4 minutes, flip, and cook for approximately 3 minutes. Cook until the Fresh Catch is cooked thoroughly.",
+      "Brush with garlic spread to moisten before plating.",
+      "FRIED:",
+      "Place the Fresh Catch into the milk wash and drain the excess.",
+      "Transfer to breading and shake off the excess, making sure to cover the Fresh Catch evenly and thoroughly.",
+      "Transfer Fresh Catch to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
+      "Transfer to a save-a-day to drain excess oil.",
+      "BROILED:",
+      "Place the Fresh Catch on a broil pan with water.",
+      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "Place in a 450-500°F oven for approx. 5 minutes or until fully cooked.",
+      "Brush with garlic spread to moisten before plating.",
+      "Expo: chopped parsley, Lemon wedge, requested side",
+      "Plateware: Dinner Plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mtgrnzpu575fpj",
+    "masterId": "m-mtgrnzpus6x5ec",
+    "location": "CBG"
+  },
+  {
     "name": "Smash Burgers",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -335,13 +373,13 @@
       "Expo: Use an Ivory handle scoop for creamy street corn. Scoop into an 8oz rarebit dish.",
       "Place a napkin on a large white square plate and place the rarebit dish on the napkin.",
       "Remove scallops from skewer and place the scallops on top of the street corn.",
-      "Expo: chopped cilantro, Lemon wedge, requested side",
+      "Expo: Cotija Cheese, chopped cilantro, Lemon wedge, requested side",
       "Plateware: Dinner plate"
     ],
     "notes": "",
     "images": [],
     "id": "m-mtcttvkotl5mqa",
-    "masterId": "dm-cds-103-m",
+    "masterId": "m-mtgrlfffzz59og",
     "location": "CBG"
   },
   {
