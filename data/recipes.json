@@ -1,5 +1,137 @@
 [
   {
+    "name": "Street Style 2 (Slaw Base)",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Protein of Choice",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Requested Cooking",
+        "qty": "Evenly",
+        "unit": "Seasoned"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheddar/Jack Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Baja Slaw",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      },
+      {
+        "name": "Cooked Protein",
+        "qty": "",
+        "unit": ""
+      },
+      {
+        "name": "Salsa Verde",
+        "qty": "Drizzle",
+        "unit": "of"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "oz",
+        "name": "Red Onion"
+      },
+      {
+        "qty": "Few",
+        "qty2": "",
+        "unit": "Leaves",
+        "name": "Chopped Cilantro"
+      }
+    ],
+    "steps": [
+      "Heat 2 taco shells on the flat top to heat",
+      "Place in Taco stand on plate",
+      "Add 1/2 the slaw into each shell",
+      "Add 1/2 the cheese into each shell; the slaw and cheese should fill the taco shell about halfway",
+      "Then place protein on top of cheese",
+      "Then add salsa verde, diced red onion, chopped cilantro",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mth9otr14kajvt",
+    "masterId": "m-mth9otr1r0xfr9",
+    "location": "CBG"
+  },
+  {
+    "name": "Caribbean Style 2 (Slaw Base)",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Protein of Choice",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Requested Cooking",
+        "qty": "Evenly",
+        "unit": "Seasoned"
+      },
+      {
+        "name": "Tortilla Flour 6\"",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Cheddar/Jack Shredded",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cilantro Slaw",
+        "qty": "1",
+        "unit": "8oz deli cup"
+      },
+      {
+        "name": "Cooked Protein",
+        "qty": "",
+        "unit": ""
+      },
+      {
+        "name": "Mango Salsa (Prep)",
+        "qty": "3",
+        "unit": "1oz spoodle"
+      }
+    ],
+    "steps": [
+      "Heat 2 taco shells on the flat top to heat",
+      "Place in Taco stand on plate",
+      "Add 1/2 the slaw into each shell",
+      "Add 1/2 the cheese into each shell; the slaw and cheese should fill the taco shell about halfway",
+      "Then place protein on top of cheese",
+      "Then add Mango salsa",
+      "Expo: 2 Lime wedges, requested side,",
+      "Plateware: Taco stand, rectangular plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mth9m05zbbrvfm",
+    "masterId": "m-mth9m05ziuhb0v",
+    "location": "CBG"
+  },
+  {
     "name": "Cilantro Cream Slaw",
     "category": "Dinner Prep",
     "yield": "1/3 pan",
