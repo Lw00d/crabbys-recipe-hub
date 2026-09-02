@@ -4926,12 +4926,42 @@
         "qty": "1",
         "unit": "portion",
         "name": "Yellow Tail"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "yellow scoop",
+        "name": "Scampi butter"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "round slices",
+        "name": "Lemon"
+      },
+      {
+        "qty": "lightly",
+        "qty2": "",
+        "unit": "coat",
+        "name": "Olive oil"
+      },
+      {
+        "qty": "lightly",
+        "qty2": "",
+        "unit": "coat",
+        "name": "Grill seasoning"
       }
     ],
     "steps": [
-      ""
+      "Oil fish on both sides and place on 1/4 tray",
+      "Sprinkle fish with grill season",
+      "Add scampi butter to top of fish",
+      "Place the lemon slices on top of butter",
+      "Place in oven for 8 to 10 minutes or until cooked to temp",
+      "When done remove lemon slices and place fish on dinner plate",
+      "If there is left over lemon butter from cooking pour over fish on plate"
     ],
-    "notes": "Vendor-\nSale Price-",
+    "notes": "Vendor-\nSale Price- 33.99",
     "images": [],
     "active": true,
     "id": "m-msgcs7vp092jqi",
@@ -4953,12 +4983,42 @@
         "qty": "1",
         "unit": "portion",
         "name": "Yellow Tail"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "yellow scoop",
+        "name": "Scampi butter"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "round slices",
+        "name": "Lemon"
+      },
+      {
+        "qty": "lightly",
+        "qty2": "",
+        "unit": "coat",
+        "name": "Olive oil"
+      },
+      {
+        "qty": "lightly",
+        "qty2": "",
+        "unit": "coat",
+        "name": "Grill seasoning"
       }
     ],
     "steps": [
-      ""
+      "Oil fish on both sides and place on 1/4 tray",
+      "Sprinkle fish with grill season",
+      "Add scampi butter to top of fish",
+      "Place the lemon slices on top of butter",
+      "Place in oven for 8 to 10 minutes or until cooked to temp",
+      "When done remove lemon slices and place fish on dinner plate",
+      "If there is left over lemon butter from cooking pour over fish on plate"
     ],
-    "notes": "Vendor-\nSale Price-",
+    "notes": "Vendor-\nSale Price- 33.99",
     "images": [],
     "active": true
   },
