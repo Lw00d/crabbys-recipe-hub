@@ -35959,12 +35959,12 @@
       },
       {
         "name": "Lemonade (Tropics)",
-        "qty": "6",
+        "qty": "5",
         "unit": "Oz"
       },
       {
         "name": "Flavor Requested",
-        "qty": "1.0",
+        "qty": ".5",
         "unit": "Oz"
       },
       {
@@ -36005,12 +36005,12 @@
       },
       {
         "name": "Lemonade (Tropics)",
-        "qty": "6",
+        "qty": "5",
         "unit": "Oz"
       },
       {
         "name": "Flavor Requested",
-        "qty": "1.0",
+        "qty": ".5",
         "unit": "Oz"
       },
       {
@@ -39044,7 +39044,7 @@
   },
   {
     "id": "drm-nb-21",
-    "masterId": "drm-perfect-pina-colada-m",
+    "masterId": "m-mtlw047ji963p0",
     "name": "Perfect Pina Colada",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
@@ -39072,7 +39072,7 @@
         "qty2": "4"
       },
       {
-        "name": "Agave",
+        "name": "Honey",
         "qty": "Wet",
         "unit": "Rim",
         "qty2": "Wet"
@@ -48748,7 +48748,7 @@
   {
     "id": "drm-nb-35",
     "masterId": "drm-nb-35-m",
-    "name": "Rum Runner 14",
+    "name": "Rum Runner 14 oz",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -48777,7 +48777,7 @@
         "unit": "Oz pour"
       },
       {
-        "name": "Juice Pineapple (46oz Can )",
+        "name": "Juice Pineapple Langers)",
         "qty": "2",
         "unit": "Oz pour"
       },
@@ -49104,7 +49104,7 @@
       }
     ],
     "steps": [
-      "In a 16-oz Glass, add Pantalones and 2 lime wedges, muddle together",
+      "In a 14-oz Glass, add Pantalones and 2 lime wedges, muddle together",
       "Add Grapefruit juice, & Pear syrup",
       "Top with shaker tin, Shake",
       "Now rim the glass with Tajin Spice",
@@ -49497,7 +49497,7 @@
   {
     "id": "drm-nb-50",
     "masterId": "drm-nb-50-m",
-    "name": "Grand Margarita (NB)",
+    "name": "Grand Margarita",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -49553,7 +49553,7 @@
     ],
     "steps": [
       "In a shaker tin, muddle the orange & lime wedges with a splash of water",
-      "Add Tres Generaciones Tequila, and Agave Nectar",
+      "Add Tres Generaciones Tequila, Orange Juice and Agave Nectar",
       "Wet the rim of the glass with honey, rim with salt",
       "Fill the 14-oz glass with ice",
       "Pour the shaker tin back into the glass",
