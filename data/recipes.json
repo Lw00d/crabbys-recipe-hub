@@ -60377,7 +60377,7 @@
         "unit": "2oz cup"
       },
       {
-        "name": "Onions",
+        "name": "Tomato (Diced)",
         "qty": "1",
         "unit": "2oz cup"
       },
@@ -60387,12 +60387,18 @@
         "unit": "6oz ladle"
       },
       {
+        "qty": "10",
+        "qty2": "",
+        "unit": "Leaves",
+        "name": "Spinach"
+      },
+      {
         "name": "12\" Herb & Garlic Tortilla",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "Avocado Cream",
+        "name": "Avocado Mayo",
         "qty": "1",
         "unit": "2oz cup"
       },
@@ -60403,16 +60409,15 @@
       }
     ],
     "steps": [
-      "Lightly butter an 8\" pan and add mushrooms and onions.",
+      "Lightly butter an 8\" pan and add mushrooms and tomatoes.",
       "Add eggs and scramble with veggies for 1 minute",
       "Place tortilla on the flattop for 5-10 seconds on each side",
-      "Mix till eggs are done",
+      "Add spinach to eggs and Mix till eggs are done",
       "Place tortillas on the cutting board",
-      "Add egg mixture evenly across the shell",
-      "First, fold the sides of the tortilla inward",
-      "Place on the Flat top for 1 or 2 minutes on either side to seal",
+      "Add egg mixture evenly across the tortilla and fold the sides inwards then roll tightly",
+      "Place on the Flat top for 20-30 seconds on either side to seal",
       "Cut in half diagonally",
-      "Place on a dinner plate, Garnish with Green Onions"
+      "Place on a dinner plate, Garnish with 2oz cup of Avocado Mayo"
     ],
     "notes": "",
     "images": []
