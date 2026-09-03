@@ -45861,7 +45861,7 @@
   {
     "id": "drm-cbg-81",
     "masterId": "drm-all-american-tito-s-lemonade-ds-menu-m",
-    "name": "All American Tito's Lemonade(DS Menu)",
+    "name": "All American Tito's Lemonade",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45927,7 +45927,7 @@
   {
     "id": "drm-cds-80",
     "masterId": "drm-all-american-tito-s-lemonade-ds-menu-m",
-    "name": "All American Tito's Lemonade(DS Menu)",
+    "name": "All American Tito's Lemonade",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
