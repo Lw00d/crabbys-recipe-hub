@@ -49267,52 +49267,6 @@
     "images": []
   },
   {
-    "id": "drm-nb-45",
-    "masterId": "drm-nb-45-m",
-    "name": "ASalty Crab Rum Punch Batch",
-    "location": "Salty Crab North Beach",
-    "category": "Drink Menu",
-    "submenu": "Signature Cocktails",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "OJ Ocean Spray",
-        "qty": "6",
-        "unit": "Qtrs."
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": "4",
-        "unit": "Qtrs."
-      },
-      {
-        "name": "Cranberry Juice",
-        "qty": "4",
-        "unit": "Qtrs."
-      },
-      {
-        "name": "Rum Cruzan Silver",
-        "qty": "4",
-        "unit": "Liters"
-      },
-      {
-        "name": "Dragon Fruit Monin",
-        "qty": "1",
-        "unit": "Liter"
-      }
-    ],
-    "steps": [
-      "When the Cylinder is empty, clean it with sanitizer, then rinse with hot water.",
-      "Drain the cylinder, clean the syrup connector by dipping it into hot water while moving the hose around.",
-      "Pour all ingredients into the cylinder",
-      "Garnish: Orange slice, and cherry"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "drm-nb-46",
     "masterId": "drm-nb-46-m",
     "name": "Salty Senora",
@@ -49817,7 +49771,7 @@
     "name": "Rum Punch Batch",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
-    "submenu": "Frozen Cocktails",
+    "submenu": "Signature Cocktails",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
