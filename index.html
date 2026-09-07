@@ -324,6 +324,7 @@
     </div>
     <div class="divider"></div>
     <button class="filter-btn inactive-toggle" id="inactiveToggleBtn" onclick="toggleInactiveView()">🗄 Inactive</button>
+    <button class="filter-btn" id="filterLinkBtn" onclick="writeFiltersToUrl()" title="Put the current filters into the address bar, so this page can be bookmarked or added to a Home Screen and reopened already filtered">🔗 Link to These Filters</button>
   </div>
 </header>
 
@@ -688,6 +689,66 @@ function applyFiltersFromUrl(){
   const groupParam = params.get('group');
   if(groupParam === 'BSHGRP' || groupParam === 'BSHGRP2'){ activeGroup = groupParam; applied = true; }
   return applied;
+}
+
+// The write-side counterpart to applyFiltersFromUrl(): takes whatever filters
+// are currently set and puts them into the address bar, so the page can be
+// bookmarked / added to a Home Screen and reopen already filtered. Saves
+// hand-building URLs and getting the encoding wrong (names containing "&"
+// or "/" have to be escaped or the link silently breaks).
+//
+// Uses replaceState, so the address bar changes with no reload and no lost
+// scroll position. Deliberately does NOT emit loc= or group= for a
+// single-store login: those logins are already pinned to their store, and a
+// loc= in the URL is additive, so it would widen what they see rather than
+// narrow it.
+function buildFilterUrl(){
+  // encodeURIComponent leaves apostrophes bare; escape them too so names like
+  // "Kid's Meals" and "Salty's Island" survive being pasted into other tools.
+  const enc = v => encodeURIComponent(v).replace(/'/g, '%27');
+  const parts = [];
+  const add = (key, values) => {
+    const list = Array.from(values);
+    if(list.length) parts.push(key + '=' + list.map(enc).join(','));
+  };
+  add('cat', activeCats);
+  add('sub', activeSubs);
+  if(!IS_LOCATION_RESTRICTED){
+    add('loc', activeLocs);
+    // Only worth writing when it isn't the default — otherwise every link
+    // carries a redundant group=BSHGRP, and an otherwise-unfiltered page
+    // would look like it has a filter set.
+    if(activeGroup && activeGroup !== 'BSHGRP') parts.push('group=' + enc(activeGroup));
+  }
+  const base = window.location.origin + window.location.pathname;
+  return { url: base + (parts.length ? '?' + parts.join('&') : ''), count: parts.length };
+}
+async function writeFiltersToUrl(){
+  // A comma is the separator between multiple values, so a name containing one
+  // can't be round-tripped — the reader would split it in half. No current
+  // category or submenu has a comma; warn rather than emit a broken link if
+  // one is ever added.
+  const commaNames = [...activeCats, ...activeSubs].filter(v => v.includes(','));
+  if(commaNames.length){
+    toast('Can\u2019t build a link: "' + commaNames[0] + '" contains a comma, which separates filter values', 'error');
+    return;
+  }
+  const { url, count } = buildFilterUrl();
+  history.replaceState(null, '', url);
+  if(!count){
+    toast('No filters set \u2014 address bar reset to the unfiltered hub');
+    return;
+  }
+  let copied = false;
+  try {
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      await navigator.clipboard.writeText(url);
+      copied = true;
+    }
+  } catch(e) { /* clipboard blocked (permissions, or not a secure context) — the address bar still updated, which is the main thing */ }
+  toast(copied
+    ? 'Link copied, and it\u2019s in the address bar \u2014 Share \u2192 Add to Home Screen to pin it'
+    : 'Filters are now in the address bar \u2014 bookmark it, or Share \u2192 Add to Home Screen');
 }
 
 async function init(){
