@@ -29618,6 +29618,12 @@
         "name": "Flour",
         "qty": "",
         "unit": "Coating"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "8oz Deli Container",
+        "name": "Onion Straws (cooked) "
       }
     ],
     "steps": [
@@ -29625,12 +29631,15 @@
       "Place the floured gator portion into the milk wash, and drain the excess.",
       "Transfer to flour and add 2oz cherry peppers, coat evenly.",
       "Shake off excess.",
-      "Place breaded gator into a 350 °F fryer until golden brown, approximately. 4 minutes.",
+      "Place breaded gator into a 350°F fryer until golden brown, approximately 4 minutes.",
       "Transfer to a Sav-A-Day to drain excess oil.",
-      "Place onion straws in a lined oval basket.",
+      "Place onion straws on the correct plateware.",
+      "Gator on top",
       "Sprinkle with house spice.",
-      "Expo: Lemon wedge, Remoulade sauce",
-      "Plateware: 7\" Round Plate"
+      "Expo:",
+      "Onion Straws, Lemon wedge, chopped parsley, Remoulade sauce",
+      "Plateware:",
+      "App Plate"
     ],
     "notes": "",
     "images": [
@@ -29678,6 +29687,12 @@
         "name": "Flour",
         "qty": "",
         "unit": "Coating"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "8oz Deli Container",
+        "name": "Onion Straws (cooked) "
       }
     ],
     "steps": [
@@ -29685,12 +29700,15 @@
       "Place the floured gator portion into the milk wash, and drain the excess.",
       "Transfer to flour and add 2oz cherry peppers, coat evenly.",
       "Shake off excess.",
-      "Place breaded gator into a 350 °F fryer until golden brown, approximately. 4 minutes.",
+      "Place breaded gator into a 350°F fryer until golden brown, approximately 4 minutes.",
       "Transfer to a Sav-A-Day to drain excess oil.",
-      "Place onion straws in a lined oval basket.",
+      "Place onion straws on the correct plateware.",
+      "Gator on top",
       "Sprinkle with house spice.",
-      "Expo: Lemon wedge, Remoulade sauce",
-      "Plateware: 7\" Round Plate"
+      "Expo:",
+      "Onion Straws, Lemon wedge, chopped parsley, Remoulade sauce",
+      "Plateware:",
+      "App Plate"
     ],
     "notes": "",
     "images": [
@@ -64851,6 +64869,12 @@
         "name": "Flour",
         "qty": "",
         "unit": "Coating"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "8oz Deli Container",
+        "name": "Onion Straws (cooked) "
       }
     ],
     "steps": [
@@ -64860,11 +64884,13 @@
       "Shake off excess.",
       "Place breaded gator into a 350°F fryer until golden brown, approximately 4 minutes.",
       "Transfer to a Sav-A-Day to drain excess oil.",
-      "Place onion straws in a lined oval basket.",
+      "Place onion straws on the correct plateware.",
       "Gator on top",
       "Sprinkle with house spice.",
-      "Expo: Onion Straws, Lemon wedge, chopped parsley, Remoulade sauce",
-      "Plateware: App Plate"
+      "Expo:",
+      "Onion Straws, Lemon wedge, chopped parsley, Remoulade sauce",
+      "Plateware:",
+      "App Plate"
     ],
     "notes": "",
     "images": [
