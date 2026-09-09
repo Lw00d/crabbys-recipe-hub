@@ -23996,22 +23996,25 @@
       }
     ],
     "steps": [
+      "Grill / Blacken:",
       "Baste Mahi with garlic spread, then lightly and evenly dust with the requested seasoning.",
       "Place on the flat top. Cook for 4 minutes, flip, and cook approximately 3 minutes.",
       "Brush with garlic spread to moisten before plating.",
-      "Place Mahi on a toasted bun and serve.",
+      "Fried:",
       "Place Mahi into the milk wash and drain the excess.",
       "Transfer to appropriate breading and shake off the excess, make sure to cover the Mahi thoroughly.",
       "Transfer Mahi to a 350°F fryer for approx. 4 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Save-a-Day to drain the excess oil.",
-      "Place Mahi on a toasted bun and serve.",
-      "Place Mahi on a broil pan, add water to the pan to keep from burning.",
-      "Baste with garlic spread and lightly dust with Old Bay.",
+      "Broiled:",
+      "Place Mahi on a broil pan, skin side down, and add water to the pan to keep it from burning.",
+      "Baste with garlic spread and lightly dust with requested seasoning.",
       "Place in oven for approx. 5 minutes.",
       "Brush with garlic spread to moisten before plating.",
       "Place Mahi on a toasted bun and serve.",
-      "Expo: side, Lemon Wedge, LTO upon request",
-      "Plateware: Lined round basket"
+      "Expo:",
+      "requested side, Lemon Wedge, LTO upon request ",
+      "Plateware:",
+      "Lined round basket"
     ],
     "notes": "",
     "images": [
@@ -68004,46 +68007,41 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
+        "name": "Butter Garlic Spread",
         "qty": "",
-        "unit": "Baste"
+        "unit": "Basting"
       },
       {
-        "name": "Requested seasoning",
-        "qty": "",
-        "unit": "Season"
+        "name": "Seasoning as (Requested )",
+        "qty": "Lightly",
+        "unit": "Dust"
       },
       {
         "name": "Hamburger Bun",
         "qty": "1",
         "unit": "Each"
-      },
-      {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Finished"
       }
     ],
     "steps": [
-      "GRILLED/BLACKENED:",
-      "Baste Mahi with garlic spread and then lightly and evenly dust with the requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip and cook approximately 3 minutes.",
-      "When Mahi is finished cooking, brush with garlic spread to moisten before plating.",
-      "Serve on a toasted bun.",
-      "BROILED:",
-      "Place Mahi on a broil pan and cover with water.",
-      "Baste with garlic spread, evenly, and lightly dust with Old Bay",
-      "Place in oven at 450-500°F for approximately 5 minutes.",
-      "When finished cooking, brush with garlic spread to moisten before plating.",
-      "Serve on a toasted bun.",
-      "FRIED:",
+      "Grill / Blacken:",
+      "Baste Mahi with garlic spread, then lightly and evenly dust with the requested seasoning.",
+      "Place on the flat top. Cook for 4 minutes, flip, and cook approximately 3 minutes.",
+      "Brush with garlic spread to moisten before plating.",
+      "Fried:",
       "Place Mahi into the milk wash and drain the excess.",
-      "Transfer to breading and shake off the excess, making sure to cover the Mahi thoroughly.",
-      "Transfer mahi to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
-      "Transfer from fryer to Sav-A-Day to drain excess oil.",
-      "Serve on a toasted bun.",
-      "Expo: Lemon Wedge, Side requested",
-      "Plateware: Lined round basket"
+      "Transfer to appropriate breading and shake off the excess, make sure to cover the Mahi thoroughly.",
+      "Transfer Mahi to a 350°F fryer for approx. 4 minutes or until golden brown and cooked thoroughly.",
+      "Transfer to a Save-a-Day to drain the excess oil.",
+      "Broiled:",
+      "Place Mahi on a broil pan, skin side down, and add water to the pan to keep it from burning.",
+      "Baste with garlic spread and lightly dust with requested seasoning.",
+      "Place in oven for approx. 5 minutes.",
+      "Brush with garlic spread to moisten before plating.",
+      "Place Mahi on a toasted bun and serve.",
+      "Expo:",
+      "requested side, Lemon Wedge, LTO upon request ",
+      "Plateware:",
+      "Lined round basket"
     ],
     "notes": "",
     "images": [
