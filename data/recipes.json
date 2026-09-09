@@ -67121,6 +67121,12 @@
     "smallware": "",
     "ingredients": [
       {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Spray ",
+        "name": "Pan Spray "
+      },
+      {
         "name": "Burger 7oz",
         "qty": "1",
         "unit": "each"
@@ -67136,7 +67142,7 @@
         "unit": "slices"
       },
       {
-        "name": "Cheddar cheese",
+        "name": "Cheddar Cheese",
         "qty": "1",
         "unit": "slice"
       },
@@ -67146,24 +67152,27 @@
         "unit": "each"
       },
       {
-        "name": "BBQ sauce",
+        "name": "BBQ Sauce",
         "qty": "drizzle",
         "unit": "On top"
       },
       {
-        "name": "Onion straws",
+        "name": "Onion Straws",
         "qty": "1",
         "unit": "8oz deli cup= (2 w/oz.)"
       }
     ],
     "steps": [
-      "Season the burger patty and place it on the chargrill",
+      "Season the burger patty ",
+      "Spray the flat top, and place the burger on the flat top",
       "Cook to temp, rotating the burger before flipping",
-      "When almost to temp, remove from chargrill lace on cooler side of flat top",
+      "When almost to temp, remove from the chargrill, place the burger on the cooler side of the flat top",
       "Top with bacon then cheese and drizzle with BBQ sauce",
       "Once cheese is melted place on bottom bun and top with onion straws",
-      "Expo: chopped parsley, LTO upon request, requested side, steak knife",
-      "Plateware: Rectangular Plate"
+      "Expo:",
+      "chopped parsley, LTO upon request, requested side, steak knife",
+      "Plateware:",
+      "Rectangular Plate, steak knife"
     ],
     "notes": "",
     "images": [
