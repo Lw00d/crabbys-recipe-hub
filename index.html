@@ -208,12 +208,14 @@
   .photo-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; cursor: pointer; }
   .photo-thumb .photo-del { position: absolute; top: 3px; right: 3px; width: 22px; height: 22px; border-radius: 50%; border: none; background: rgba(0,0,0,0.55); color: white; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; line-height: 1; }
   .photo-thumb .photo-del:hover { background: rgba(192,57,43,0.85); }
-  /* Grip for reordering. touch-action:none is required — without it iOS treats
-     the drag as a page scroll and the pointermove events never arrive. */
-  .photo-thumb .photo-drag { position: absolute; top: 3px; left: 3px; width: 22px; height: 22px; border-radius: 50%; border: none; background: rgba(0,0,0,0.55); color: white; font-size: 12px; cursor: grab; display: flex; align-items: center; justify-content: center; line-height: 1; touch-action: none; padding: 0; }
-  .photo-thumb .photo-drag:hover { background: rgba(0,0,0,0.8); }
-  .photo-thumb .photo-drag:active { cursor: grabbing; }
-  .photo-thumb.photo-dragging { opacity: 0.5; outline: 2px solid var(--teal); outline-offset: 2px; }
+  /* Reorder arrows, in a bar across the bottom of the thumbnail. Full-width
+     halves so they're a reasonable finger target on a 100px tile. */
+  .photo-thumb .photo-move { position: absolute; left: 0; right: 0; bottom: 0; display: flex; background: rgba(0,0,0,0.55); }
+  .photo-thumb .photo-move button { flex: 1; border: none; background: transparent; color: white; font-size: 13px; line-height: 1; padding: 8px 0; cursor: pointer; }
+  .photo-thumb .photo-move button + button { border-left: 1px solid rgba(255,255,255,0.25); }
+  .photo-thumb .photo-move button:disabled { opacity: 0.25; cursor: default; }
+  .photo-thumb .photo-move button:not(:disabled):hover { background: rgba(255,255,255,0.18); }
+  .photo-thumb .photo-move button:not(:disabled):active { background: rgba(255,255,255,0.32); }
   .photo-reorder-hint { font-size: 12px; color: var(--text-light); margin-bottom: 6px; }
   .photo-upload-btn { width: 100px; height: 100px; border-radius: 8px; border: 2px dashed var(--border); background: var(--sand); color: var(--text-light); font-size: 12px; font-weight: 600; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; flex-shrink: 0; transition: all 0.15s; }
   .photo-upload-btn:hover { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
@@ -1212,15 +1214,18 @@ function renderModalEdit(){
     : '';
 
   const images = r.images || [];
-  // The grip only appears when there's something to reorder.
+  // Arrows only appear when there's something to reorder.
   const canReorder = images.length > 1;
   const photoThumbs = images.map((src,i)=>`
     <div class="photo-thumb" data-idx="${i}">
       <img src="${esc(src)}" onclick="openLightbox('${esc(src)}')">
-      ${canReorder?`<button class="photo-drag" title="Drag to reorder" onpointerdown="photoDragStart(event)" onpointermove="photoDragMove(event)" onpointerup="photoDragEnd(event)" onpointercancel="photoDragEnd(event)">&#x283F;</button>`:''}
       <button class="photo-del" onclick="delPhoto(${i})" title="Remove photo">&#xD7;</button>
+      ${canReorder?`<div class="photo-move">
+        <button onclick="movePhoto(${i},-1)"${i===0?' disabled':''} title="Move earlier" aria-label="Move photo earlier">&#x25C0;</button>
+        <button onclick="movePhoto(${i},1)"${i===images.length-1?' disabled':''} title="Move later" aria-label="Move photo later">&#x25B6;</button>
+      </div>`:''}
     </div>`).join('');
-  const reorderHint = canReorder ? '<div class="photo-reorder-hint">Drag the &#x283F; grip to reorder &mdash; the first photo is the one shown first.</div>' : '';
+  const reorderHint = canReorder ? '<div class="photo-reorder-hint">Use the &#x25C0; &#x25B6; arrows to reorder &mdash; the first photo is the one shown first.</div>' : '';
 
   const locField = IS_LOCATION_RESTRICTED
     ? `<div class="ff"><label>Location</label><input type="text" value="${esc(r.location)}" disabled style="background:var(--sand);color:var(--text-light)"></div>`
@@ -1565,62 +1570,24 @@ async function uploadPhotoFile(file){
 }
 
 // ─── PHOTO REORDERING ────────────────────────────────────────────────────────
-// Pointer Events rather than HTML5 drag-and-drop: iOS Safari doesn't fire
-// dragstart at all, and these are mostly iPads. Pointer events give one code
-// path for mouse and touch.
+// Arrow buttons rather than drag-and-drop: dragging a 100px tile with a finger
+// on an iPad proved fiddly in practice. A tap is unambiguous, works the same
+// with gloves or wet hands, and needs no drag/tap disambiguation against the
+// tap-to-open-lightbox behaviour on the thumbnail itself.
 //
-// Note the photo grid ALSO has HTML5 ondragover/ondrop handlers — those are for
-// dropping image FILES in to upload them, which is a separate feature. Pointer
-// events and drag events don't collide, so both work.
-//
-// The dragged thumbnail is moved around the DOM for live feedback; the real
-// r.images array is only rewritten on drop, read back from the DOM order.
-let photoDrag = null;
-function photoDragStart(e){
-  if(e.button !== undefined && e.button > 0) return; // ignore right/middle click
-  const el = e.currentTarget.closest('.photo-thumb');
-  if(!el) return;
-  e.preventDefault();       // stops the grip acting as a click on the image
-  e.stopPropagation();
-  photoDrag = { el, pointerId: e.pointerId };
-  el.classList.add('photo-dragging');
-  // Capture so we keep getting moves even when the finger leaves the grip.
-  try { e.currentTarget.setPointerCapture(e.pointerId); } catch(err) { /* not fatal */ }
-}
-function photoDragMove(e){
-  if(!photoDrag || e.pointerId !== photoDrag.pointerId) return;
-  e.preventDefault();
-  const grid = document.getElementById('photoGrid');
-  if(!grid) return;
-  const over = Array.from(grid.querySelectorAll('.photo-thumb')).find(t=>{
-    if(t === photoDrag.el) return false;
-    const b = t.getBoundingClientRect();
-    return e.clientX >= b.left && e.clientX <= b.right && e.clientY >= b.top && e.clientY <= b.bottom;
-  });
-  if(!over) return;
-  const b = over.getBoundingClientRect();
-  // Past the midpoint means "drop after this one".
-  const after = e.clientX > b.left + b.width/2;
-  grid.insertBefore(photoDrag.el, after ? over.nextSibling : over);
-}
-function photoDragEnd(e){
-  if(!photoDrag) return;
-  const el = photoDrag.el;
-  photoDrag = null;
-  el.classList.remove('photo-dragging');
-  const grid = document.getElementById('photoGrid');
+// delta is -1 (earlier) or +1 (later). Re-renders afterwards so the indices on
+// every button, and the disabled state of the end arrows, stay correct.
+function movePhoto(i, delta){
   const r = getCurrentRecipe();
-  if(!grid || !r || !Array.isArray(r.images)){ renderModalEdit(); return; }
-  // data-idx is the position each thumb held at render time, so reading them
-  // in current DOM order gives the new ordering directly.
-  const order = Array.from(grid.querySelectorAll('.photo-thumb')).map(t=>+t.dataset.idx);
-  const valid = order.length === r.images.length && order.every(i=>Number.isInteger(i) && i>=0 && i<r.images.length);
-  if(valid && order.some((v,i)=>v!==i)){
-    r.images = order.map(i=>r.images[i]);
-    markMod();
-    toast('Photo order changed \u2014 click "Save to GitHub" to push live');
-  }
-  renderModalEdit(); // resyncs data-idx and the delete buttons' indices
+  if(!r || !Array.isArray(r.images)) return;
+  const j = i + delta;
+  // Out-of-range is a no-op rather than an error: the end arrows are disabled,
+  // but a stale render or a double-tap could still get here.
+  if(i < 0 || i >= r.images.length || j < 0 || j >= r.images.length) return;
+  const [moved] = r.images.splice(i, 1);
+  r.images.splice(j, 0, moved);
+  markMod();
+  renderModalEdit();
 }
 
 function delPhoto(i){
