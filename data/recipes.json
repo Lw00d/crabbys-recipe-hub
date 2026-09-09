@@ -5849,25 +5849,25 @@
       {
         "name": "Jalapeno",
         "qty": "4 slices each",
-        "unit": "raw"
+        "unit": "Raw / Fresh"
       },
       {
-        "name": "Fried Cherry peppers",
+        "name": "Fried Cherry Peppers",
         "qty": "",
         "unit": "4oz cup"
       },
       {
-        "name": "Sauté mushrooms",
+        "name": "Sauté Mushrooms",
         "qty": "",
         "unit": "4oz cup on the grill"
       },
       {
-        "name": "Sauté (Diced) onions",
+        "name": "Sauté (Diced) Onions",
         "qty": "",
         "unit": "4oz cup on the grill"
       },
       {
-        "name": "Sautéed (rings) onions",
+        "name": "Sautéed (Rings) Onions",
         "qty": "3 to 4",
         "unit": "Depending on size"
       },
@@ -5887,7 +5887,7 @@
         "unit": "(5 to 6 slices)"
       },
       {
-        "name": "Chipotle topper",
+        "name": "Chipotle Topper",
         "qty": "Sunflower scoop",
         "unit": "Melted on the sandwich"
       }
