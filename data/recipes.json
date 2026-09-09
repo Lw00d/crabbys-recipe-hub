@@ -72558,7 +72558,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Lettuce Spring mix",
+        "name": "Lettuce Spring Mix",
         "qty": "1.5",
         "unit": "12-14oz cup"
       },
@@ -72568,7 +72568,7 @@
         "unit": "12-14oz cup"
       },
       {
-        "name": "Chips plantains",
+        "name": "Chips Plantains",
         "qty": "10-15",
         "unit": "Each"
       },
@@ -72589,8 +72589,10 @@
       "On top of the salad, spread out the ceviche mixture.",
       "Spread out 10-15 Plantain chips on top of the salad",
       "Place a 4-oz cup of mango vinaigrette off to the side",
-      "Plateware: Large Bowl",
-      "Expo/Server: 4oz Mango Vinaigrette Dressing"
+      "Expo/Server:",
+      "4oz Mango Vinaigrette Dressing",
+      "Plateware:",
+      "Large Bowl"
     ],
     "notes": "",
     "images": [
