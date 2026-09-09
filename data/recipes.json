@@ -21441,14 +21441,20 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Tuna Steak (4oz.)",
-        "qty": "2",
-        "unit": "Each"
+        "qty": "1",
+        "qty2": "",
+        "unit": "Spray ",
+        "name": "Pan Spray (flat top)"
       },
       {
         "name": "Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Tuna Steak (4oz.)",
+        "qty": "2",
+        "unit": "Each"
       },
       {
         "name": "Blacken Season",
@@ -21463,11 +21469,15 @@
     ],
     "steps": [
       "Brush Tuna steaks with garlic butter and blackening seasoning",
-      "Place on the flat top. Once on the flat top, butter & season the top side of the tuna",
+      "Spray the flat top where Tuna will go ",
+      "Place on the flat top. Once on the flat top, butter & season the top side of the Tuna",
       "Cook for 2 minutes on each side",
       "Plate with the 2 steaks touching each other, side by side.",
       "Add Salsa Fresca on top where the 2 steaks meet.",
-      "Expo: 2 sides, Lemon wedge, Tomato Salsa"
+      "Expo:",
+      "2 sides, Lemon wedge, Tomato Salsa",
+      "Plateware:",
+      "Dinner Plate "
     ],
     "notes": "",
     "images": []
