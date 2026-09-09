@@ -29581,7 +29581,7 @@
   {
     "id": "dm-pl-23",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All stores)",
+    "name": "Alligator Bites (All Stores)",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -29650,7 +29650,7 @@
   {
     "id": "dm-cbg-5",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All stores)",
+    "name": "Alligator Bites (All Stores)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -64832,7 +64832,7 @@
   {
     "id": "dm-cds-22",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All stores)",
+    "name": "Alligator Bites (All Stores)",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
