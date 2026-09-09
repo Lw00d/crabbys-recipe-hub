@@ -385,13 +385,22 @@
         "name": "Fresh Catch (Prep)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "BLACKENED / GRILLED:",
-      "Baste the Fresh Catch with garlic spread, then season evenly with the requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip, and cook for approximately 3 minutes. Cook until the Fresh Catch is cooked thoroughly.",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Fresh Catch dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "FRIED:",
       "Place the Fresh Catch into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the Fresh Catch evenly and thoroughly.",
@@ -1048,6 +1057,11 @@
         "name": "Cabbage Shredded",
         "qty": "1",
         "unit": "8oz deli cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -1055,9 +1069,13 @@
       "Bread 2 chicken cutlets using milk wash, then chicken breader.",
       "Fry in a 350°F fryer for 3 minutes",
       "Transfer chicken fingers to a Sav-a-Day to drain excess oil",
-      "Grilled:",
-      "Lightly brush the chicken cutlets with garlic spread and lightly season with the Requested Seasoning.",
-      "Cooking 3 to 4 minutes on both sides",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only of the chicken cutlets with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Build:",
       "Place 2 Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
@@ -23811,12 +23829,21 @@
         "name": "Parmesan Cheese",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Blackened / Grilled:",
-      "Take chicken tenders and baste with garlic spread",
-      "Place on the flat top, cook 2 to 3 minutes on both sides",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only of the chicken tenders with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Fried / Cajun fried :",
       "Place chicken tenders into milk wash and drain excess.",
       "Transfer to the Chicken or Cajun breading and shake off excess.",
@@ -23925,12 +23952,19 @@
         "name": "Parm Cheese",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled / Blackened:",
-      "Baste the shrimp with Garlic spread and evenly season with the requested seasoning",
-      "Place on the flat top, cook 4 to 5 minutes while flipping/tossing the shrimp",
+      "GRILLED / BLACKENED:",
+      "Season one side only of the shrimp with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Fried/ Cajun Fried :",
       "Take 1 portion (yellow spoodle) of shrimp pieces, dip into milk wash, and drain off liquid",
       "Transfer to Italian or Cajun breader, shaking off excess over a trash can.",
@@ -24029,13 +24063,22 @@
         "name": "Hamburger Bun",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill / Blacken:",
-      "Baste Mahi with garlic spread, then lightly and evenly dust with the requested seasoning.",
-      "Place on the flat top. Cook for 4 minutes, flip, and cook approximately 3 minutes.",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Fried:",
       "Place Mahi into the milk wash and drain the excess.",
       "Transfer to appropriate breading and shake off the excess, make sure to cover the Mahi thoroughly.",
@@ -24468,14 +24511,24 @@
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
+      }
+    ],
     "steps": [
       "FISH:",
       "NOTE: When seasoning a fish for serving, be sure to baste and season the presentation (flesh) side of fish. Not the Skin side.",
       "GRILLED / BLACKENED:",
-      "Baste fish with garlic spread and then lightly and evenly dust with Requested seasoning.",
-      "Place on flat top. After 4 minutes, flip and cook approx. 3 minutes.",
-      "When fish is finished cooking, brush with garlic spread to moisten before plating.",
+      "Pat the fish dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "BROILED:",
       "Place fish on a broil pan and cover with water.",
       "Baste the fish with garlic spread, evenly and lightly dust with Old Bay",
@@ -24495,16 +24548,19 @@
       "Coat generously with garlic spread and old bay seasoning",
       "Place in salamander for 1 minute or 450-500°F degree oven for 2 to 3 minutes or until seasoning is golden brown. Do not allow to burn",
       "FLAT TOP:",
-      "Baste the chicken breast with garlic spread and season with Requested Seasoning.",
-      "Place on flat top and cook for 3-4minutes,",
-      "Turnover over and continue to cook for additional 3-4 minutes",
-      "Lightly baste with garlic spread before plating",
+      "Season the skin side only of the chicken breast with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "CHAR GRILL:",
-      "Take Chicken breast and just season with Requested Seasoning.",
-      "Place skin (Smooth) side down on grill cook for 2 minutes, turn 45° degrees",
-      "Cook 2-3 minutes more to give the diamond design on the breast,",
-      "Turnover and cook 2 -3 minutes more to complete cooking",
-      "Lightly baste with garlic spread before plating"
+      "Season the skin side only of the chicken breast with the requested seasoning, before it touches the grill. No butter on the char grill.",
+      "Place skin (smooth) side down on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter."
     ],
     "notes": "",
     "images": []
@@ -24519,14 +24575,24 @@
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
+      }
+    ],
     "steps": [
       "FISH:",
       "NOTE: When seasoning a fish for serving, be sure to baste and season the presentation (flesh) side of fish. Not the Skin side.",
       "GRILLED / BLACKENED:",
-      "Baste fish with garlic spread and then lightly and evenly dust with Requested seasoning.",
-      "Place on flat top. After 4 minutes, flip and cook approx. 3 minutes.",
-      "When fish is finished cooking, brush with garlic spread to moisten before plating.",
+      "Pat the fish dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "BROILED:",
       "Place fish on a broil pan and cover with water.",
       "Baste the fish with garlic spread, evenly and lightly dust with Old Bay",
@@ -24546,16 +24612,19 @@
       "Coat generously with garlic spread and old bay seasoning",
       "Place in salamander for 1 minute or 450-500°F degree oven for 2 to 3 minutes or until seasoning is golden brown. Do not allow to burn",
       "FLAT TOP:",
-      "Baste the chicken breast with garlic spread and season with Requested Seasoning.",
-      "Place on flat top and cook for 3-4minutes,",
-      "Turnover over and continue to cook for additional 3-4 minutes",
-      "Lightly baste with garlic spread before plating",
+      "Season the skin side only of the chicken breast with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "CHAR GRILL:",
-      "Take Chicken breast and just season with Requested Seasoning.",
-      "Place skin (Smooth) side down on grill cook for 2 minutes, turn 45° degrees",
-      "Cook 2-3 minutes more to give the diamond design on the breast,",
-      "Turnover and cook 2 -3 minutes more to complete cooking",
-      "Lightly baste with garlic spread before plating"
+      "Season the skin side only of the chicken breast with the requested seasoning, before it touches the grill. No butter on the char grill.",
+      "Place skin (smooth) side down on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter."
     ],
     "notes": "",
     "images": []
@@ -25926,11 +25995,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay or Blackening Seasoning",
         "qty": "",
         "unit": "Dusting"
@@ -25949,12 +26013,22 @@
         "name": "Red Onions",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Blackened or Grilled:",
+      "GRILLED / BLACKENED:",
       "Take 3 chicken strips",
-      "Brush with Garlic Spread and (requested seasoning), place on the flat top grill.",
+      "Season the skin side only of the chicken strips with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Place Tortillas on the flattop for 5-8 seconds on each side. Remove Immediately.",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
       "Add cabbage to the bottom of each taco shell.",
@@ -26181,11 +26255,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay or Blackening Seasoning",
         "qty": "",
         "unit": "Dusting"
@@ -26204,12 +26273,23 @@
         "name": "Red Onions",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Blackened or Grilled:",
+      "GRILLED / BLACKENED:",
       "Cut the Grouper into 3 equal strips",
-      "Brush Grouper with Garlic Spread and (Lightly Blacken or Old Bay), place on the flat top grill.",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place Tortillas on the flattop for 5-8 seconds on each side. Remove Immediately.",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
       "Add cabbage to the bottom of each taco shell.",
@@ -28964,6 +29044,11 @@
         "name": "Cabbage Shredded",
         "qty": "1",
         "unit": "8oz deli cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -28971,9 +29056,13 @@
       "Bread 2 chicken cutlets using milk wash, then chicken breader.",
       "Fry in a 350°F fryer for 3 minutes",
       "Transfer chicken fingers to a Sav-a-Day to drain excess oil",
-      "Grilled:",
-      "Lightly brush the chicken cutlets with garlic spread and lightly season with the Requested Seasoning.",
-      "Cooking 3 to 4 minutes on both sides",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only of the chicken cutlets with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Build:",
       "Place 2 Flour Tortillas on the flat top grill for 5 to 8 seconds. Remove Immediately.",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
@@ -29337,11 +29426,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning (requested )",
         "qty": "Lightly",
         "unit": "Season"
@@ -29365,15 +29449,21 @@
         "name": "Sauce BBQ",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill back/Grill:",
-      "Flat Top- Brush 2 chicken breasts with garlic butter and season as requested",
-      "Char-Grill Just Season 2 chicken breast and put it on the char grill (no butter)",
-      "Cook for 2 minutes, then rotate 45°",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only of 2 chicken breasts with the requested seasoning, then spray the flat top and lay them skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Move chicken to the flat top, put sauce, bacon, onion, and shredded cheese",
       "Cover to melt cheese, put on a dinner plate, and sell to the expo when called for",
       "Expo: Requested sides, chopped parsley, Steak Knife",
@@ -31389,13 +31479,13 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Basting",
+        "name": "Old Bay",
+        "qty": "Dust",
         "unit": ""
       },
       {
-        "name": "Old Bay",
-        "qty": "Dust",
+        "name": "Lemon Butter",
+        "qty": "",
         "unit": ""
       }
     ],
@@ -31404,10 +31494,11 @@
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
       "Place on a lined 1/4 tray",
-      "GRILLED SHRIMP:",
-      "Baste shrimp with garlic butter and season evenly with the requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Shrimp - GRILLED / BLACKENED:",
+      "Season one side only of the shrimp with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place the shrimp alongside the ribs on a lined 1/4 tray",
       "Expo: lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware: Lined 1/4 tray"
@@ -32860,11 +32951,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Blackening Seasoning",
         "qty": "",
         "unit": "Season"
@@ -32878,11 +32964,22 @@
         "name": "Potato Chips",
         "qty": "Fill",
         "unit": "basket"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill:",
-      "Blacken and dice 4 strips of chicken",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only of 4 strips of chicken with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
+      "Dice the chicken.",
       "Expo:",
       "Place kettle chips in a lined round basket",
       "Top with blackened chicken, then cheese",
@@ -65774,13 +65871,13 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Basting",
+        "name": "Old Bay",
+        "qty": "Dust",
         "unit": ""
       },
       {
-        "name": "Old Bay",
-        "qty": "Dust",
+        "name": "Lemon Butter",
+        "qty": "",
         "unit": ""
       }
     ],
@@ -65789,10 +65886,11 @@
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
       "Place on a lined 1/4 tray",
-      "SHRIMP GRILLED:",
-      "Baste shrimp with garlic butter and season evenly with the requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Shrimp - GRILLED / BLACKENED:",
+      "Season one side only of the shrimp with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place the shrimp alongside the ribs on a lined 1/4 tray",
       "Expo: chopped parsley, lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware: White Combo Plate"
@@ -65872,11 +65970,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning (requested)",
         "qty": "Lightly",
         "unit": "Season"
@@ -65900,18 +65993,24 @@
         "name": "Cheese cheddar/jack",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Ribs:",
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
-      "Chicken Grill:",
-      "Flat Top - Baste the chicken breasts with garlic butter and season as requested",
-      "Char-Grill - Season the chicken breast and put it on the char grill",
-      "Cook for 2 minutes, then rotate 45°",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "Chicken - GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only of the chicken breasts with the requested seasoning, then spray the flat top and lay them skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Move chicken to the flat top, add the sauce, then bacon, onion, and last the shredded cheese.",
       "Cover to melt cheese, put on dinner plate, and sell to the expo when called for",
       "Expo: chopped parsley, requested sides, 2oz BBQ sauce, steak knife",
@@ -66071,13 +66170,21 @@
         "name": "Old Bay Or Blackening Mix",
         "qty": "Lightly",
         "unit": "Seasoned"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "BLACKENED/GRILLED:",
-      "Baste grouper and shrimp with garlic butter and season evenly with requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "GRILLED / BLACKENED:",
+      "Season the grouper on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "A light weight may be used on the grouper — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip when the edges begin turning white; the shrimp will cook faster.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "FRIED:",
       "Place the grouper and shrimp into the milk wash and drain the excess.",
       "Transfer to Italian breading and shake off the excess, making sure to cover the grouper and shrimp evenly and thoroughly.",
@@ -66178,6 +66285,11 @@
         "name": "Prepare as requested Blk/Fr/Gr",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -66190,10 +66302,14 @@
       "Coat generously with garlic spread and Old Bay",
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
-      "Grouper - BLACKENED/GRILLED:",
-      "Baste grouper with garlic butter and season evenly with blackened seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Grouper - GRILLED / BLACKENED:",
+      "Pat the grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Grouper - FRIED:",
       "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the Grouper thoroughly.",
@@ -66298,6 +66414,11 @@
         "name": "(Hot) - Scampi Sauce",
         "qty": "1",
         "unit": "4oz ladle"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -66321,10 +66442,11 @@
       "Add the shrimp",
       "Sauté shrimp in Scampi sauce until cooked",
       "Pour the entire contents into the correct plateware.",
-      "Grilled Shrimp:",
-      "Baste shrimp with garlic butter and season evenly with the requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Shrimp - GRILLED / BLACKENED:",
+      "Season one side only of the shrimp with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place the shrimp alongside the crab",
       "Expo: 4oz butter, lemon wedge, requested sides, chopped parsley",
       "Plateware: White Combo Plate"
@@ -68094,13 +68216,22 @@
         "name": "Hamburger Bun",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill / Blacken:",
-      "Baste Mahi with garlic spread, then lightly and evenly dust with the requested seasoning.",
-      "Place on the flat top. Cook for 4 minutes, flip, and cook approximately 3 minutes.",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Fried:",
       "Place Mahi into the milk wash and drain the excess.",
       "Transfer to appropriate breading and shake off the excess, make sure to cover the Mahi thoroughly.",
@@ -68711,13 +68842,21 @@
         "name": "Old Bay Or Blackening Mix",
         "qty": "Lightly",
         "unit": "Seasoned"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "BLACKENED/GRILLED:",
-      "Baste grouper and shrimp with garlic butter and season evenly with requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "GRILLED / BLACKENED:",
+      "Season the grouper on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "A light weight may be used on the grouper — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip when the edges begin turning white; the shrimp will cook faster.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "FRIED:",
       "Place the grouper and shrimp into the milk wash and drain the excess.",
       "Transfer to Italian breading and shake off the excess, making sure to cover the grouper and shrimp evenly and thoroughly.",
@@ -68874,6 +69013,11 @@
         "name": "Cook as requested Fr/G, or Blk",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -68886,10 +69030,14 @@
       "Coat generously with garlic spread and Old Bay",
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
-      "Grouper - BLACKENED/GRILLED:",
-      "Baste grouper with garlic butter and season evenly with blackened seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Grouper - GRILLED / BLACKENED:",
+      "Pat the grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Grouper - FRIED:",
       "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the Grouper thoroughly.",
@@ -69326,11 +69474,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning (requested)",
         "qty": "Lightly",
         "unit": "Season"
@@ -69354,18 +69497,24 @@
         "name": "Cheese cheddar/jack",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Ribs:",
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
-      "Chicken Grill:",
-      "Flat Top - Baste the chicken breasts with garlic butter and season as requested",
-      "Char-Grill - Season the chicken breast and put it on the char grill",
-      "Cook for 2 minutes, then rotate 45°",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "Chicken - GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only of the chicken breasts with the requested seasoning, then spray the flat top and lay them skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Move chicken to the flat top, add the sauce, then bacon, onion, and last the shredded cheese.",
       "Cover to melt cheese, put on dinner plate, and sell to the expo when called for",
       "Expo: requested sides, 2oz BBQ sauce, steak knife",
@@ -69560,13 +69709,13 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Basting",
+        "name": "Old Bay",
+        "qty": "Dust",
         "unit": ""
       },
       {
-        "name": "Old Bay",
-        "qty": "Dust",
+        "name": "Lemon Butter",
+        "qty": "",
         "unit": ""
       }
     ],
@@ -69575,10 +69724,11 @@
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
       "Place on a lined 1/4 tray",
-      "SHRIMP GRILLED:",
-      "Baste shrimp with garlic butter and season evenly with the requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
+      "Shrimp - GRILLED / BLACKENED:",
+      "Season one side only of the shrimp with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place the shrimp alongside the ribs on a lined 1/4 tray",
       "Expo: lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware: Lined 1/4 tray"
@@ -71089,13 +71239,22 @@
         "name": "Grouper Dinner 8oz (Prep)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "BLACKENED / GRILLED:",
-      "Baste the Grouper with garlic spread, then season evenly with the requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip, and cook for approximately 3 minutes. Cook until the Grouper is cooked thoroughly.",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "FRIED:",
       "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the grouper evenly and thoroughly.",
