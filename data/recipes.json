@@ -1,5 +1,137 @@
 [
   {
+    "name": "Lemon Butter ",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Stand Mixer, Microplane (zester), Rubber Spatula, 4\" Full Pan",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "lb",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons squeezed for juice",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place amount of butter needed into pan and squeeze 2 lemons per pound on top",
+      "Store in pans that will be used by grill so ratio is consistent",
+      "**if using natalie's lemon juice it is 4oz per pounds**"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mtu88mxfs8w8xu",
+    "masterId": "dp-nb-66-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Lemon Butter ",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Stand Mixer, Microplane (zester), Rubber Spatula, 4\" Full Pan",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "lb",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons squeezed for juice",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place amount of butter needed into pan and squeeze 2 lemons per pound on top",
+      "Store in pans that will be used by grill so ratio is consistent",
+      "**if using natalie's lemon juice it is 4oz per pounds**"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mtu88m8usvllim",
+    "masterId": "dp-nb-66-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Lemon Butter ",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Stand Mixer, Microplane (zester), Rubber Spatula, 4\" Full Pan",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "lb",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons squeezed for juice",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place amount of butter needed into pan and squeeze 2 lemons per pound on top",
+      "Store in pans that will be used by grill so ratio is consistent",
+      "**if using natalie's lemon juice it is 4oz per pounds**"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mtu88kpsg1ak6p",
+    "masterId": "dp-nb-66-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Lemon Butter ",
+    "category": "Dinner Prep",
+    "submenu": null,
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "Stand Mixer, Microplane (zester), Rubber Spatula, 4\" Full Pan",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "lb",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons squeezed for juice",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place amount of butter needed into pan and squeeze 2 lemons per pound on top",
+      "Store in pans that will be used by grill so ratio is consistent",
+      "**if using natalie's lemon juice it is 4oz per pounds**"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mtu88idxehwvcw",
+    "masterId": "dp-nb-66-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
     "name": "Yellow Tail Baked",
     "category": "Dinner Menu",
     "submenu": "Fresh Catch",
@@ -76095,7 +76227,7 @@
       },
       {
         "name": "Lemons squeezed for juice",
-        "qty": "2",
+        "qty": "3",
         "unit": "each",
         "qty2": ""
       }
