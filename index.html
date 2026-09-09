@@ -452,6 +452,32 @@ let loadedSnapshot = null; // canonical (JSON.stringify'd) snapshot of recipes.j
 let justSavedSnapshot = null; // set right after OUR OWN successful save — we know this is correct, so we wait for the server to actually confirm it rather than trusting any read that disagrees
 let stillConfirmingSave = false; // true when a refresh had to give up early without confirming justSavedSnapshot — lets the UI say so instead of looking broken
 function canon(data){ return JSON.stringify(data); } // normalizes away formatting differences between servers (CDN vs API vs our own save) so only real data changes count as a conflict
+
+// Deterministic JSON with object keys sorted at every level. This MUST match
+// the Worker's stable() byte for byte — it's how the server decides whether a
+// recipe was changed by someone else while we had it open. Array order is
+// deliberately NOT normalised: reordering steps or photos is a real edit.
+function stableStr(v){
+  if (v === null || typeof v !== 'object') return JSON.stringify(v);
+  if (Array.isArray(v)) return '[' + v.map(stableStr).join(',') + ']';
+  return '{' + Object.keys(v).sort().map(k => JSON.stringify(k) + ':' + stableStr(v[k])).join(',') + '}';
+}
+// _modified / _new are local bookkeeping and never belong on the server.
+function stripLocal(r){ const {_modified, _new, ...rest} = r; return rest; }
+
+// Per-recipe baseline: what the server had for each recipe as of our last load
+// or save. Sent alongside each edit so the Worker can tell whether anyone else
+// touched that recipe in the meantime.
+let baseById = new Map();
+// Recipes deleted in this tab but not yet saved. Deletions have to be listed
+// explicitly — with a merge save there's no whole-array absence to infer them
+// from, and inferring would make a stale tab delete other people's new recipes.
+let deletedSinceLoad = new Map();
+function rebaseline(data){
+  baseById = new Map();
+  (data || []).forEach(r => { if (r && r.id != null) baseById.set(String(r.id), stableStr(stripLocal(r))); });
+  deletedSinceLoad.clear();
+}
 let unlocked = false;
 let pending = false;          // unsaved changes not yet pushed to GitHub
 let currentModalId = null;
@@ -579,6 +605,7 @@ async function loadRecipes(url, useCache=true){
     if(!Array.isArray(data)) throw new Error('File does not contain a recipe list');
     RECIPES = data;
     loadedSnapshot = canon(data);
+    rebaseline(data);
     buildCategories(); buildSubmenus();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
@@ -593,6 +620,7 @@ async function loadRecipes(url, useCache=true){
     if(useCache && cached){
       try{
         RECIPES = JSON.parse(cached);
+        rebaseline(RECIPES);
         buildCategories(); buildSubmenus();
         const ts = localStorage.getItem(CACHE_TS_KEY);
         setStatus('offline', `Offline — cached ${ts?new Date(ts).toLocaleDateString():'data'}`);
@@ -652,6 +680,7 @@ async function checkForStaleData(){
     const summary = summarizeRecipeDiff(RECIPES, authoritativeData);
     RECIPES = authoritativeData;
     loadedSnapshot = authoritativeSnapshot;
+    rebaseline(authoritativeData);
     buildCategories(); buildSubmenus();
     render();
     toast(
@@ -816,6 +845,7 @@ async function refreshData(){
       const data = await fetchAuthoritativeRecipesStable();
       RECIPES = data;
       loadedSnapshot = canon(data);
+      rebaseline(data);
       buildCategories(); buildSubmenus();
       try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
       if (stillConfirmingSave) {
@@ -853,78 +883,109 @@ async function saveAndLoad(){
 async function pushToGithub(){
   if (!enteredPassword) { toast('Please unlock editing again to save','err'); openPwModal(); return; }
   const btn = document.getElementById('saveGhBtn');
-  btn.disabled = true; btn.textContent = '☁ Checking for conflicts…';
-  setStatus('saving','Checking for conflicts…');
 
-  // Conflict check: ask the authoritative source (not the CDN, which can lag
-  // behind for a few minutes after any save) whether anything has changed since
-  // this browser tab loaded its data. If it has, our full-array save would
-  // silently overwrite whatever changed.
-  try {
-    const liveData = await fetchAuthoritativeRecipesStable();
-    const liveSnapshot = canon(liveData);
-    if (loadedSnapshot !== null && liveSnapshot !== loadedSnapshot) {
-      let loadedData = null;
-      try { loadedData = JSON.parse(loadedSnapshot); } catch(e) {}
-      const summary = loadedData ? summarizeRecipeDiff(loadedData, liveData) : null;
-      const detail = summary
-        ? `\n\n${summary}`
-        : '\n\n(Could not summarize exactly what changed.)';
-      const proceed = confirm(
-        `⚠️ Someone else has saved changes since you opened this page.${detail}\n\n` +
-        `Saving now will overwrite the live file with what's in THIS browser tab — ` +
-        `their changes could be lost unless they also appear here.\n\n` +
-        `Click OK to reload the latest data first (you'll need to redo any unsaved edits), ` +
-        `or Cancel to stop and review manually.`
-      );
-      btn.disabled = !pending; btn.textContent = '☁ Save to GitHub';
-      setStatus('online','Save paused — conflict detected');
-      if (proceed) {
-        // Apply the authoritative data we already fetched above directly, rather
-        // than re-fetching from the CDN (which is exactly what could be lagging).
-        RECIPES = liveData;
-        loadedSnapshot = liveSnapshot;
-        buildCategories(); buildSubmenus();
-        render();
-        toast('Reloaded latest data — please redo any changes and save again','err');
-      } else {
-        toast('Save cancelled — data was not changed','err');
-      }
-      return;
-    }
-  } catch(e) {
-    // If the conflict check itself fails (offline, rate-limited, etc.), fall
-    // through and let the normal save attempt happen / fail on its own terms below.
+  // Send only what changed, with the version of each recipe we started from.
+  // The Worker merges these into whatever is currently on disk, so edits to
+  // other recipes made by other people in the meantime are simply left alone —
+  // there is no whole-array overwrite to collide with any more.
+  const changed = [];
+  for (const r of RECIPES){
+    if (!r._modified && !r._new) continue;
+    const key = String(r.id);
+    changed.push({
+      id: key,
+      base: baseById.has(key) ? baseById.get(key) : null, // null = brand new
+      recipe: stripLocal(r),
+    });
+  }
+  const deleted = Array.from(deletedSinceLoad, ([id, base]) => ({ id, base }));
+
+  if (!changed.length && !deleted.length){
+    pending = false; setUnsaved(false);
+    toast('Nothing to save — no changes have been made','err');
+    return;
   }
 
+  btn.disabled = true;
   btn.textContent = '☁ Saving…';
   setStatus('saving','Saving…');
-  const clean = RECIPES.map(({_modified,_new,...r})=>r);
+
   try{
     const res = await fetch(WORKER_URL + '/save', {
       method: 'POST',
       headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({ password: enteredPassword, recipes: clean })
+      body: JSON.stringify({ password: enteredPassword, changed, deleted })
     });
     if (res.status === 401) throw new Error('Password rejected — please unlock again.');
-    if (!res.ok) throw new Error(`Save failed (${res.status})`);
+    if (!res.ok){
+      let detail = '';
+      try { const j = await res.json(); detail = j.error ? ` — ${j.error}` : ''; } catch(e){}
+      throw new Error(`Save failed (${res.status})${detail}`);
+    }
+    const out = await res.json();
+
     RECIPES.forEach(r=>{ delete r._modified; delete r._new; });
-    loadedSnapshot = canon(clean);
-    justSavedSnapshot = loadedSnapshot;
+    deletedSinceLoad.clear();
+    justSavedSnapshot = null; // whole-file prediction no longer applies to a merge save
     pending = false;
     setUnsaved(false);
-    buildCategories(); buildSubmenus();
-    render();
+
+    const n = changed.length + deleted.length;
     setStatus('online', `Saved ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
-    toast(`${clean.length} recipes saved — live for everyone ✓`,'ok');
+    toast(`${n} recipe${n!==1?'s':''} saved — live for everyone \u2713`,'ok');
+
+    // Last-writer-wins is the chosen policy, so the save already went through —
+    // but say which recipes stepped on someone else's edit rather than letting
+    // two versions quietly diverge.
+    if (Array.isArray(out.overwrote) && out.overwrote.length){
+      const names = out.overwrote.map(id=>{
+        const m = RECIPES.find(x=>String(x.id)===String(id));
+        return m ? m.name : id;
+      });
+      toast(`\u26A0 Someone else had also changed: ${names.join(', ')} \u2014 your version replaced theirs`,'err');
+    }
+
+    // Pull in anything other people changed while we were working, so this tab
+    // isn't left showing a stale copy of their edits.
+    await refreshAfterSave(changed, deleted);
   }catch(err){
     setStatus('error','Save failed');
     toast('Save failed: '+err.message,'err');
   }finally{
     btn.disabled = !pending;
-    btn.textContent = '☁ Save to GitHub';
+    btn.textContent = '\u2601 Save to GitHub';
   }
 }
+
+// After a merge save, wait until the authoritative copy actually reflects what
+// we just sent, then adopt it wholesale. We can't predict the merged file the
+// way the old whole-array save could (other people's edits are in there too),
+// so instead of comparing the entire file we check only that OUR recipes landed.
+async function refreshAfterSave(changed, deleted){
+  const wantIds = new Map(changed.map(c => [String(c.id), stableStr(c.recipe)]));
+  const goneIds = new Set(deleted.map(d => String(d.id)));
+  const deadline = Date.now() + 20000;
+  let data = null;
+  while (Date.now() < deadline){
+    try { data = await fetchAuthoritativeRecipes(); }
+    catch(e){ break; }
+    const byId = new Map(data.map(r => [String(r.id), r]));
+    const landed =
+      Array.from(wantIds).every(([id, want]) => byId.has(id) && stableStr(byId.get(id)) === want) &&
+      Array.from(goneIds).every(id => !byId.has(id));
+    if (landed) break;
+    await new Promise(r => setTimeout(r, 1500));
+  }
+  if (!data) return; // couldn't reach the API — keep showing what we have
+  const others = summarizeRecipeDiff(RECIPES, data);
+  RECIPES = data;
+  loadedSnapshot = canon(data);
+  rebaseline(data);
+  buildCategories(); buildSubmenus();
+  render();
+  if (others) toast(`Also picked up other changes \u2014 ${others.replace('Since you loaded this page: ','').replace(/\.$/,'')}`);
+}
+
 function summarizeRecipeDiff(before, after){
   try{
     const beforeIds = new Map(before.map(r=>[r.id,r]));
@@ -1634,6 +1695,11 @@ function deleteRecipe(){
   const r=getCurrentRecipe(); if(!r) return;
   if(!confirm(`Delete "${r.name}"? This cannot be undone.`)) return;
   const idx=RECIPES.findIndex(x=>x.id===r.id);
+  // Record it so the save can tell the server to remove this specific recipe.
+  // Only if the server already knows about it — a brand-new unsaved recipe has
+  // no baseline and simply disappears with no deletion to report.
+  const key = String(r.id);
+  if (baseById.has(key)) deletedSinceLoad.set(key, baseById.get(key));
   RECIPES.splice(idx,1);
   setUnsaved(true);
   closeModal();
