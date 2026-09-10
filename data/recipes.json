@@ -40337,7 +40337,7 @@
       },
       {
         "name": "Jim Beam",
-        "qty": ".5",
+        "qty": ".50",
         "unit": "Float",
         "qty2": ".50"
       },
@@ -40349,14 +40349,19 @@
       }
     ],
     "steps": [
+      "14oz Drink:",
       "Pour 1.5oz Jim Beam and all other ingredients into a blender",
       "Add a 12-oz cup of ice and blend completely",
       "Pour in the correct glassware",
-      "Float .5oz of 2.0oz of Jim Beam",
-      "Garnish:",
+      "Float .5oz of the 2.0oz Jim Beam",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "Float .5oz of 2.5oz Jim Beam"
+      "14 oz Glass or Logo cup",
+      "Garnish:",
+      "Orange Slice ",
+      "*20oz Drink:* ",
+      "Float .5oz of 2.5oz Jim Beam",
+      "Glassware:",
+      "20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -40403,7 +40408,7 @@
       },
       {
         "name": "Jim Beam",
-        "qty": ".5",
+        "qty": ".50",
         "unit": "Float",
         "qty2": ".50"
       },
@@ -40415,14 +40420,19 @@
       }
     ],
     "steps": [
+      "14oz Drink:",
       "Pour 1.5oz Jim Beam and all other ingredients into a blender",
       "Add a 12-oz cup of ice and blend completely",
       "Pour in the correct glassware",
-      "Float .5oz of 2.0oz of Jim Beam",
-      "Garnish:",
+      "Float .5oz of the 2.0oz Jim Beam",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "Float .5oz of 2.5oz Jim Beam"
+      "14 oz Glass or Logo cup",
+      "Garnish:",
+      "Orange Slice ",
+      "*20oz Drink:* ",
+      "Float .5oz of 2.5oz Jim Beam",
+      "Glassware:",
+      "20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
