@@ -21659,11 +21659,6 @@
         "unit": "Each"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning Blackening",
         "qty": "",
         "unit": "Season"
@@ -21672,11 +21667,22 @@
         "name": "Avocado Salsa (Prep)",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste Mahi with garlic spread, then season lightly with blackening seasoning.",
-      "Place on the flat top. After 4 minutes, flip and cook for approximately 4 minutes.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place Salsa Fresca on top of Mahi after plating.",
       "Topped with sliced Avocado",
       "Garnish: Lemon Wedge, 2 sides"
@@ -23007,11 +23013,6 @@
         "unit": "portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -23040,11 +23041,22 @@
         "name": "Wonton Strips",
         "qty": "1",
         "unit": "Handful"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Grouper with garlic butter and season (Old Bay or Blacken).",
-      "Place on a flat top for 3-4 minutes on each side",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "In a large Pasta bowl",
       "Place2 scoops of Coco rice on the bottom",
       "Place in quarters of the bowl on top of the rice, carrots, Seaweed salad, Wontons, & Avocado salsa.",
@@ -23393,31 +23405,38 @@
         "name": "Russian Dressing",
         "qty": "1",
         "unit": "Oz squeeze"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Lightly Butter both sides of the Cuban Bread toast, flip for 20-30 seconds. To toast outside",
-      "Cook the Grouper for 3 minutes and flip",
-      "Place sautéed onions on top of the Grouper",
-      "Lightly Butter & evenly Blacken a piece of Grouper,",
-      "Place cheese on top of onions and melt",
-      "Add Russian Dressing to the bottom side of the bread in a zig-zag motion",
-      "Place the Grouper on the bottom part of the bread",
-      "Baste fish with garlic spread, then lightly and evenly dust with requested seasoning.",
-      "Place on the flat top. After 4 minutes, flip and cook approximately 3 minutes.",
-      "When the fish is finished cooking, brush with garlic spread to moisten before plating.",
-      "Serve on a toasted bun.",
-      "FRIED / CAJUN FRIED",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "FRIED / CAJUN FRIED:",
       "Place the fish into the milk wash and drain the excess.",
       "Transfer to appropriate breading and shake off the excess, making sure to cover the fish thoroughly.",
       "Transfer fish to fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer from fryer to Sav-A-Day to drain excess oil.",
-      "Serve on a toasted bun.",
+      "BROILED:",
       "Place the Fish on a broil pan and cover with water.",
-      "Baste with garlic spread, evenly and lightly dust with Old Bay",
+      "Baste with garlic spread, evenly and lightly dust with Requested Seasoning",
       "Place in oven for approx. 5 minutes.",
       "When finished cooking, brush with garlic spread to moisten before plating.",
-      "Serve on a toasted bun.",
+      "ASSEMBLY:",
+      "Lightly Butter both sides of the Cuban Bread toast, flip for 20-30 seconds. To toast outside",
+      "Place sautéed onions on top of the Grouper",
+      "Place cheese on top of onions and melt",
+      "Add Russian Dressing to the bottom side of the bread in a zig-zag motion",
+      "Place the Grouper on the bottom part of the bread",
       "Garnish: LTO, Lemon, requested side, and close bread",
       "Plateware: Line Round Basket",
       "Sandwich is served Closed"
@@ -27713,20 +27732,25 @@
         "unit": "Portion"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "",
-        "unit": "For Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "Lightly",
         "unit": "Dust"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste Mahi with garlic spread, then lightly and evenly dust with Old Bay seasoning.",
-      "Place on flat top. Cook for 4 minutes, flip and cook for an approx. 3 minutes more.",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Expo:"
     ],
     "notes": "",
@@ -56829,11 +56853,6 @@
         "unit": "4oz Portion"
       },
       {
-        "name": "Garlic spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning Requested",
         "qty": "",
         "unit": "Light dusting"
@@ -56852,12 +56871,22 @@
         "name": "Bruere Blanc",
         "qty": "1",
         "unit": "2oz ladle"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste Salmon with garlic spread, then lightly and evenly dust with the requested seasoning.",
-      "Place on flat top. Cook for 4 minutes, flip, and cook for an approx. 3 minutes.",
-      "Brush with garlic butter",
+      "GRILLED / BLACKENED:",
+      "Pat the Salmon dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place a toasted English muffin down(open-faced)",
       "Spinach next, then Salmon",
       "Poached eggs to medium temp.",
@@ -58252,6 +58281,11 @@
         "name": "Eggs Cage Free",
         "qty": "2",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -58260,18 +58294,25 @@
       "Eggs cook as requested",
       "Place eggs next to the grouper, not overlapping.",
       "Place potatoes on the plate",
-      "Expo: side, lemon wedge.",
-      "Baste Grouper with garlic spread, then season evenly with requested seasoning.",
-      "Place on the flat top. After 4 minutes, flip and cook for approximately 3 minutes. Cook until the Grouper is thoroughly cooked",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "FRIED:",
       "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to the breading and shake off the excess, making sure to cover the Grouper evenly and thoroughly.",
       "Transfer Grouper to a 350°F fryer for approx. 5 minutes or until golden brown and thoroughly cooked.",
       "Transfer to a save-a-day to drain excess oil.",
+      "BROILED:",
       "Place the Grouper on a broil pan with water.",
-      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approx. 5 minutes or until fully cooked.",
-      "Brush with garlic spread to moisten before plating."
+      "Brush with garlic spread to moisten before plating.",
+      "Expo: side, lemon wedge."
     ],
     "notes": "",
     "images": []
@@ -58311,6 +58352,11 @@
         "name": "Eggs Cage Free",
         "qty": "2",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -58319,18 +58365,25 @@
       "Eggs cook as requested",
       "Place eggs next to the grouper, not overlapping.",
       "Place potatoes on the plate",
-      "Expo: side, lemon wedge.",
-      "Baste Grouper with garlic spread, then season evenly with requested seasoning.",
-      "Place on the flat top. After 4 minutes, flip and cook for approximately 3 minutes. Cook until the Grouper is thoroughly cooked",
-      "Brush with garlic spread to moisten before plating.",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "FRIED:",
       "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to the breading and shake off the excess, making sure to cover the Grouper evenly and thoroughly.",
       "Transfer Grouper to a 350°F fryer for approx. 5 minutes or until golden brown and thoroughly cooked.",
       "Transfer to a save-a-day to drain excess oil.",
+      "BROILED:",
       "Place the Grouper on a broil pan with water.",
-      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approx. 5 minutes or until fully cooked.",
-      "Brush with garlic spread to moisten before plating."
+      "Brush with garlic spread to moisten before plating.",
+      "Expo: side, lemon wedge."
     ],
     "notes": "",
     "images": []
@@ -67687,11 +67740,6 @@
         "unit": "each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Mahi"
-      },
-      {
         "name": "Blackening season",
         "qty": "Sprinkle",
         "unit": "On top"
@@ -67705,12 +67753,23 @@
         "name": "Bun (Toasted)",
         "qty": "1",
         "unit": "each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste mahi with garlic butter and season with blackening spice",
-      "Place seasoned side down on the flat top and cook for 3 to 4 minutes",
-      "Flip and baste mahi with garlic butter, toast bun",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "Toast the bun.",
       "Place cheese on mahi and let it melt",
       "Expo: chopped parsley, requested side, lemon wedge, LTO upon request, and steak knife",
       "Plateware: Rectangular plate"
@@ -68166,19 +68225,25 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "Light",
         "unit": "Dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste Mahi with garlic spread and then lightly dust with Old Bay seasoning.",
-      "Place on a flat top, after 4 minutes, flip and cook an additional 3 minutes.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Cook until the Mahi is cooked thoroughly.",
       "Expo: Put the side in the basket",
       "Plateware: Lined oval basket"
@@ -71165,20 +71230,26 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "Light",
         "unit": "Dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Cut Mahi into three",
-      "Baste Mahi with garlic spread and then lightly dust with Old Bay seasoning.",
-      "Place on a flat top, after 4 minutes, flip and cook an additional 3 minutes.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Cook until the Mahi is cooked thoroughly.",
       "Expo: Put the side in the basket",
       "Plateware: Lined oval basket"
@@ -72296,11 +72367,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Blacken seasoning",
         "qty": "lightly",
         "unit": "Season"
@@ -72314,12 +72380,23 @@
         "name": "Mango Salsa (Prep) on top",
         "qty": "2",
         "unit": "1oz spoodle"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "BLACKENED:",
-      "Baste Mahi with garlic spread, then season lightly with blackening seasoning.",
-      "Place on the flat top. After 4 minutes, flip and cook for approximately 4 minutes.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "When mahi is finished cooking, top with Pineapple Habanero Glaze or Salsa Verde after plating.",
       "Topped off with Mango Salsa",
       "Expo: requested side, chopped parsley, Lemon wedge",
@@ -74591,11 +74668,6 @@
         "unit": "portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -74624,11 +74696,22 @@
         "name": "Wonton Strips",
         "qty": "1",
         "unit": "Handful"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Grouper with garlic butter and season (Old Bay or Blacken).",
-      "Place on a flat top for 3-4 minutes on each side",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "In a large Pasta bowl",
       "Place the 2 scoops of Coconut rice in the bottom",
       "Add a scoop of Avocado salsa",
@@ -76481,19 +76564,31 @@
         "name": "Grouper Sandwich (Prep)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Fried: Place the grouper into the milk wash and drain the excess.",
+      "FRIED:",
+      "Place the grouper into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the Grouper thoroughly.",
       "Transfer Grouper to a 350°F fryer for approx. 4 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Place Grouper on 1# Plaid Food Tray and serve.",
-      "Grilled/Blackened: Baste grouper with garlic spread, then lightly and evenly dust with the Requested Seasoning.",
-      "Place on a flat top. Cook for 4 minutes, flip, and cook for approximately 3 minutes.",
-      "Brush with garlic butter",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place grouper in a plaid food tray and serve.",
-      "Broiled: Place Grouper on a broil pan, add water to the pan to keep from burning.",
+      "BROILED:",
+      "Place Grouper on a broil pan, add water to the pan to keep from burning.",
       "Baste with garlic spread and lightly dust with Requested Seasoning.",
       "Place in oven for approx. 5 minutes.",
       "Brush with garlic spread to moisten and plating.",
@@ -76613,17 +76708,29 @@
         "name": "Mahi Portions 6oz (Pull Thaw)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled/Blackened: Baste Mahi with garlic spread and then lightly and evenly dust with the requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip and cook for approximately 4 minutes.",
-      "When Mahi is finished cooking, brush with garlic spread to moisten before plating.",
-      "Broiled: Place Mahi on a broil pan and cover with water.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "BROILED:",
+      "Place Mahi on a broil pan and cover with water.",
       "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450°F oven for approx. 5 minutes.",
       "When finished cooking, brush with garlic spread to moisten before plating.",
-      "Fried: Place Mahi into the milk wash and drain the excess.",
+      "FRIED:",
+      "Place Mahi into the milk wash and drain the excess.",
       "Transfer to the breading and shake off the excess, making sure to cover the Mahi thoroughly.",
       "Transfer Mahi to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer from fryer to Sav-A-Day to drain excess oil.",
