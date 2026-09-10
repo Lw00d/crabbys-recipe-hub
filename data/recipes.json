@@ -42587,20 +42587,21 @@
       {
         "name": "Orange Slices",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Garnish"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Each",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Garnish"
       }
     ],
     "steps": [
       "Fill 14oz glass with ice",
       "Combine ingredients with ice",
-      "Garnish:",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz glass or Logo cup",
+      "Garnish:",
+      "Orange slice, cherry "
     ],
     "notes": "",
     "images": []
@@ -42644,20 +42645,21 @@
       {
         "name": "Orange Slices",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Garnish"
       },
       {
-        "name": "Cherry",
+        "name": "Cherry Each",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Garnish"
       }
     ],
     "steps": [
       "Fill 14oz glass with ice",
       "Combine ingredients with ice",
-      "Garnish:",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz glass or Logo cup",
+      "Garnish:",
+      "Orange slice, cherry "
     ],
     "notes": "",
     "images": []
