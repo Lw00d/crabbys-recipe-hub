@@ -1386,11 +1386,20 @@
         "name": "Garlic Bread",
         "qty": "1",
         "unit": "Slice"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with Blackening seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add the Cajun butter to the sauté pan",
       "Add sliced Sausage, cook for 1 to 2 minutes",
@@ -5675,14 +5684,14 @@
         "unit": "Coating"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay",
         "qty": "Light",
         "unit": "Dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -5691,9 +5700,13 @@
       "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
       "Transfer to a sav-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
-      "Char-Grill - Just Lightly season w/ Requested Seasoning",
-      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Expo: Requested Sides, Dipping sauce, if requested",
       "Plateware: Lined round basket"
     ],
@@ -5730,14 +5743,14 @@
         "unit": "Coating"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay",
         "qty": "Light",
         "unit": "Dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -5746,9 +5759,13 @@
       "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
       "Transfer to a sav-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
-      "Char-Grill - Just Lightly season w/ Requested Seasoning",
-      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Expo: Requested Sides, Dipping sauce, if requested",
       "Plateware: Lined round basket"
     ],
@@ -20730,18 +20747,25 @@
         "name": "Cuban Bread",
         "qty": "1",
         "unit": "slice"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Note: **If using flat top, baste chicken with garlic spread before cooking**",
-      "Evenly season the chicken breast with blackening seasoning.",
-      "Place the chicken breast on the chargrill, seasoned side down. After 4 minutes, flip and cook an additional 3 minutes. Cook the chicken until the internal temperature reaches 165°F.",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "In a medium sauté pan on high heat, add Cajun butter, and alfredo sauce, and heat for approximately 2 minutes.",
       "Place 1 portion of pasta in the pasta water for approximately 1 minute, and drain",
       "Add drained pasta to the Cajun butter pan. Toss",
       "Flip the pan a couple of times to make sure everything is coated with the sauce",
       "Pour finished pasta into a large bowl.",
-      "Brush chicken with garlic spread to moisten before cutting.",
       "Slice the chicken into 5 strips and place on top of the pasta.",
       "Sprinkle with grated Parmesan cheese evenly across the top",
       "Expo: Cuban Bread & Soup Spoon",
@@ -20767,11 +20791,6 @@
         "unit": "Breast"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Chicken"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Seasoned"
@@ -20791,11 +20810,20 @@
         "qty2": "",
         "unit": "slice",
         "name": "Cuban Bread"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with Requested seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add Alfredo Sauce to the sauté pan and heat.",
       "Heat pasta in boiling water for approximately 1 minute. Drain",
@@ -22448,11 +22476,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "",
         "unit": "Dusting"
@@ -22471,14 +22494,20 @@
         "name": "Avocado Fresh",
         "qty": ".5",
         "unit": "Each (1/4 on each)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush 2 chicken breasts with garlic spread",
-      "Season 2 chicken breast and put it on the chargrill",
-      "Cook for 2 minutes, then rotate 45 degrees",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "Season the skin side only with the requested seasoning, before it touches the grill. No butter on the char grill.",
+      "Place skin (smooth) side down on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Plate the chicken breast together",
       "Place 4 strips of hot bacon across both breasts,",
       "Cut Avocado 1/2, into 6 slices",
@@ -23519,11 +23548,6 @@
         "unit": "each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Brush",
-        "unit": "Breast"
-      },
-      {
         "name": "Blacken or Old Bay",
         "qty": "Lightly",
         "unit": "Season"
@@ -23542,12 +23566,21 @@
         "name": "Avocado Mayo",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Butter both sides of the Cuban bread. Place on flat top, flip, and let set 20-30 seconds to toast top part.",
-      "Baste the chicken breast and lightly season as requested",
-      "Place on grill and cook for 3-4 minutes on both sides",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Once flipped, add Bacon and Provolone Cheese",
       "Cover with a Pan to melt the cheese",
       "Transfer to the Cuban Bread and the plate",
@@ -24291,20 +24324,23 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "Lightly",
         "unit": "Dust"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste & season 1 side of the breast",
-      "Place seasoned side of breast down on grill",
-      "Cook for 4 minutes, then flip for 3-4 minutes, or until the chicken, internal temperature reaches 165°F.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Plateware: Lined Oval Basket"
     ],
     "notes": "",
@@ -25492,8 +25528,10 @@
     ],
     "steps": [
       "Using a marinated chicken breast.",
-      "Place on the chargrill at an angle and cook for 2 minutes",
-      "Rotate the breast to angle the other way and to form the cross pattern. Cook an additional 2 minutes",
+      "Place skin (smooth) side down on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
       "Place the Pineapple ring on the grill for marking both sides",
       "Flip, and cook another 2 -3 minutes",
       "Place the chicken on a toasted bun, then the grilled pineapple on top of the chicken",
@@ -25597,11 +25635,6 @@
         "unit": "Portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "1",
-        "unit": "Basting"
-      },
-      {
         "name": "Steak Seasoning",
         "qty": "",
         "unit": "Sprinkle"
@@ -25635,10 +25668,20 @@
         "name": "Chipotle Aioli",
         "qty": "2",
         "unit": "Vol oz"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Cook chicken on the chargrill with garlic butter and sprinkle seasoning",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Place buttered Texas Toast face down on the flat top for 30 seconds on both sides",
       "Place 4 par-cooked bacon slices on the flat top, heat both sides for 2 minutes",
       "Once toasted on both sides, place the bacon on the bottom part of the piece",
@@ -25976,11 +26019,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Season"
@@ -26019,12 +26057,20 @@
         "name": "Lime Crema",
         "qty": "2",
         "unit": "Vol oz (Drizzle)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Lightly baste chicken tenders with Garlic spread",
-      "Lightly season with the requested seasoning",
-      "Place the chicken on the grill, with the buttered side down",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cook for 4 minutes",
       "Place 2 scoop rice into center of the bowl, flatten with back of scoop.",
       "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F",
@@ -26228,7 +26274,13 @@
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
+      }
+    ],
     "steps": [
       "Chicken Tenders, lightly blackened, on the flat top, place 1 in each tacos shell.",
       "Shrimp pieces, 1 6oz portion lightly blackened on the flat top, divide evenly among the tacos",
@@ -26236,7 +26288,12 @@
       "Place the portabella with the top on the flat top",
       "Baste with balsamic (Portabella Sauce), letting some sit in the portabella cap like a bowl",
       "Cook for 3 minutes, and then flip",
-      "Cook for another 2 minutes",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cut into 3 pieces and place one in each taco shell",
       "Grouper sandwich portion garlic spread, lightly blackened on the flat top. Cook completely and cut in 3 pieces, add each piece to a taco.",
       "Currently not in use",
@@ -27672,18 +27729,23 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "",
         "unit": "Lightly dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Place the chicken on grill, with the buttered side down",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cook for 4 minutes",
       "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F ."
     ],
@@ -28429,11 +28491,20 @@
         "name": "Garlic Bread",
         "qty": "1",
         "unit": "Slice"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with Blackening seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add the Cajun butter to the sauté pan",
       "Add sliced Sausage, cook for 1 to 2 minutes",
@@ -28487,11 +28558,20 @@
         "name": "Pasta Linguine (Prep)",
         "qty": "1",
         "unit": "16oz Deli Cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with the Requested seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add Alfredo Sauce to the sauté pan and heat.",
       "Heat pasta in boiling water for approximately 1 minute. Drain",
@@ -28542,11 +28622,20 @@
         "name": "Pasta Linguine (Prep)",
         "qty": "1",
         "unit": "16oz Deli Cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with the Requested seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add Alfredo Sauce to the sauté pan and heat.",
       "Heat pasta in boiling water for approximately 1 minute. Drain",
@@ -28597,11 +28686,20 @@
         "name": "Pasta Linguine (Prep)",
         "qty": "1",
         "unit": "16oz Deli Cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
-      "Season the breast with the Requested seasoning. Cook the breast on the grill.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Start the pasta dish process when the breast has been flipped over.",
       "Add Alfredo Sauce to the sauté pan and heat.",
       "Heat pasta in boiling water for approximately 1 minute. Drain",
@@ -28804,19 +28902,27 @@
         "name": "Spinach Leaves",
         "qty": "8-10",
         "unit": "each leaves"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "**If using a flat top - based the chicken with garlic spread before cooking**",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Evenly season with blackening seasoning.",
-      "Place chicken breast on the chargrill, seasoned side down. After 4 minutes, flip and cook an additional 3 minutes. Cook until chicken is thoroughly cooked to an internal temperature of 165°F.",
       "Pass to the stove person",
       "Place 1 portion of pasta in boiling water for approximately 30 seconds",
       "In a medium sauté pan on high heat, add Cajun butter, Parm cheese, sausage, and alfredo sauce, and heat for approximately 2 minutes.",
       "Add the pasta.",
       "Flip the pan a couple of times to make sure all the pasta is coated with the sauce",
       "Pour finished pasta into a large bowl.",
-      "Brush chicken with garlic spread to moisten before cutting.",
       "Slice the chicken into 5 strips and place on top of the pasta.",
       "Sprinkle with grated Parmesan cheese and garnish with garlic bread.",
       "Expo: chopped parsley, Garlic Bread",
@@ -30536,9 +30642,11 @@
     ],
     "steps": [
       "Baste one side of the breast with Teriyaki sauce",
-      "Place on the chargrill at an angle and cook for 2 minutes",
+      "Place skin (smooth) side down on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
       "Now, baste the top side of the breast with Teriyaki Sauce",
-      "Rotate the breast to angle the other way and to form the cross pattern. Cook an additional 2 minutes",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
       "Place the Pineapple ring on the grill for marking both sides",
       "Flip, baste with teriyaki sauce and cook another 2 -3 minutes",
       "Place the chicken on a toasted bun, then the grilled pineapple on top of the chicken",
@@ -32572,14 +32680,14 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Lightly",
-        "unit": "Baste"
-      },
-      {
         "name": "Old Bay",
         "qty": "Light",
         "unit": "Sprinkle"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -32587,9 +32695,13 @@
       "Place into the Chicken Breader and coat evenly",
       "Transfer to a 350°F fryer for approx. 3-4 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Sav-a-Day to drain excess oil",
-      "Baste & season 1 side of the Breast",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Place seasoned side down on flat top",
-      "Cook for 4 minutes, then flip for 3-4 minutes, or until the chicken, internal temperature reaches 165°F.",
       "Plateware: 7\" Round Plate"
     ],
     "notes": "",
@@ -57332,11 +57444,6 @@
         "unit": "Tenders"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Basting",
-        "unit": ""
-      },
-      {
         "name": "Blackened Season",
         "qty": "Lightly",
         "unit": "Seasoned"
@@ -57365,10 +57472,20 @@
         "name": "Queso Chorizo",
         "qty": "1",
         "unit": "2oz ladle on top omelet"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Place the seasoned tenders on the flat top to cook when 1/2 way done",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Butter an omelet pan",
       "Add liquid eggs to the omelet pan and begin to cook",
       "Once eggs are cooked through on the bottom, flip the omelet",
@@ -58350,11 +58467,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Blacken Seasoning",
         "qty": "Lightly",
         "unit": "Season"
@@ -58408,11 +58520,20 @@
         "name": "Cuban Bread",
         "qty": "1",
         "unit": "Slice"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste Chicken tenders with garlic spread",
-      "Dust with Blacken season, place chicken strips on a flat top, and cook for 3-4 minutes on both sides.",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Lightly brush the egg pan, cook eggs as requested",
       "Place the hashbrowns in a bowl, followed by black beans, cheese, then eggs, and chicken on top.",
       "Top with avocado salsa, ranchera sauce, and cilantro",
@@ -67902,18 +68023,23 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "",
         "unit": "Lightly dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Place the chicken on grill, with the buttered side down",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cook for 4 minutes",
       "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F ."
     ],
@@ -68172,11 +68298,6 @@
         "unit": "each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Brush",
-        "unit": "Chicken"
-      },
-      {
         "name": "Blacken or Old Bay",
         "qty": "Lightly",
         "unit": "Seasoning"
@@ -68205,12 +68326,21 @@
         "name": "Pepper Jack Cheese",
         "qty": "1",
         "unit": "Slice"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Butter both sides of the Cuban bread. Place on flat top, flip, and let set 20-30 sec to toast top part.",
-      "Baste chicken breast and lightly season as requested",
-      "Place on grill and cook for 3-4 minutes on both sides,",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Once flipped, add Bacon, avocado mix, and then Cheese",
       "Cover with Pan to melt the cheese",
       "Transfer the bottom part of the Cuban bread, and shingle the top part of the bun against the chicken",
@@ -72488,13 +72618,22 @@
         "name": "Cook as requested",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled / Blackened: Baste 1 chicken breast with garlic spread for the flat top only",
-      "Lightly dust with requested seasoning",
-      "Place chicken breast on grill with buttered side down. After 4 minutes, flip the chicken and cook for an additional approx. 3 minutes to an internal temperature of 165°F.",
-      "Brush with garlic spread to moisten, then slice the chicken into 5 strips before plating.",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
+      "Slice the chicken into 5 strips before plating.",
       "Fried: Place 1 chicken breast in milk wash and drain the excess.",
       "Transfer to chicken breader, and coat evenly, and shake off excess.",
       "After breading, place in a 350°F fryer for approx. 4-5 minutes or until lightly golden brown in color and an internal temperature of 165°F.",
@@ -73144,13 +73283,22 @@
         "name": "Cook as requested",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled / Blackened: Baste 1 chicken breast with garlic spread for the flat top only",
-      "Lightly dust with requested seasoning",
-      "Place chicken breast on grill with buttered side down. After 4 minutes, flip the chicken and cook for an additional approx. 3 minutes to an internal temperature of 165°F.",
-      "Brush with garlic spread to moisten, then slice the chicken into 5 strips before plating.",
+      "GRILLED / BLACKENED:",
+      "Season the skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy.",
+      "Slice the chicken into 5 strips before plating.",
       "Fried: Place 1 chicken breast in milk, wash and drain the excess.",
       "Transfer to a separate container, chicken breader, and coat evenly, and shake off excess.",
       "After breading, place in a 350°F fryer for approx. 4-5 minutes or until lightly golden brown in color and an internal temperature of 165°F.",
@@ -75056,11 +75204,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread (if using flat top)",
-        "qty": "Brush",
-        "unit": "Breast"
-      },
-      {
         "name": "Old Bay",
         "qty": "Evenly",
         "unit": "Season"
@@ -75079,14 +75222,20 @@
         "name": "Ranchero Sauce",
         "qty": "Drizzle",
         "unit": "On top"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "If using a flat top: Brush 2 chicken breasts with garlic butter and lightly season.",
-      "If using a char grill: just season the 2 chicken breasts",
-      "Cook for 2 minutes, then rotate 45° degrees angle",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Place the avocado salsa on the chicken and the cheese on top of the salsa.",
       "Finish with warm/hot ranchero sauce.",
       "Expo: Cilantro, sides requested",
@@ -75125,14 +75274,14 @@
         "unit": "Coating"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay",
         "qty": "Light",
         "unit": "Dusting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -75141,9 +75290,13 @@
       "Place breaded chicken into a 350°F fryer for approximately 5 minutes or until chicken begins to float and is golden brown to an internal temperature of 165°F.",
       "Transfer to a sav-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Grilled: Flat Top - Baste 9 chicken tenders with garlic spread & requested seasonings",
-      "Char-Grill - Just Lightly season w/ Requested Seasoning",
-      "Place chicken strips on the grill with the buttered side down for 4 minutes and then flip for 3 more minutes or until the chicken internal temperature reaches 165°F.",
+      "GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Expo: Requested Sides, Dipping sauce, if requested",
       "Plateware: Lined round basket"
     ],
@@ -75170,11 +75323,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Seasoning (requested)",
         "qty": "Lightly",
         "unit": "Season"
@@ -75198,14 +75346,21 @@
         "name": "Sauce BBQ",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill/Flat top: Brush 2 chicken breasts with garlic butter (if using a flat top)",
-      "Just Season 2 chicken breasts and put on the char grill (no butter if using the char grill)",
-      "Cook for 2 minutes, then rotate 45°",
-      "Cook for another 2 minutes and flip",
-      "Cook for another 2 minutes",
+      "GRILLED / BLACKENED:",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Move chicken to the flat top, put sauce, bacon, onion, and shredded cheese",
       "Cover to melt cheese, put on a dinner plate, and sell to the expo when called for",
       "Expo: Requested 2 sides, Steak Knife",
@@ -75397,11 +75552,6 @@
         "unit": "Breast"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "Lightly",
         "unit": "Season"
@@ -75415,12 +75565,20 @@
         "name": "Mango Salsa (Prep)",
         "qty": "4",
         "unit": "Weight oz"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush 2 chicken breasts with garlic butter if using a flat top",
-      "Season 2 chicken breasts and put them on a char grill or a flat top",
-      "Place chicken breasts on a chargrill with seasoned side down. After 4 minutes, flip and cook an additional 3 minutes. Cook until chicken is cooked throughout, to an internal temperature of 165°F.",
+      "Flat Top - Season the skin side only with the requested seasoning, then spray the flat top and lay the chicken skin (smooth) side down.",
+      "Char-Grill - Season the skin side only and place on the char grill, skin (smooth) side down. No butter on the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Finish on the cooler zone of the flat top, brushed with pre-melted lemon butter.",
       "Baste with honey mustard.",
       "Top with drained mango salsa.",
       "Expo: Requested sides",
