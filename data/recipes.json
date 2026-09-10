@@ -50323,12 +50323,17 @@
       }
     ],
     "steps": [
-      "NOTE: Choose from Corona, Corona Light, or Modelo",
+      "*NOTE: Choose from Corona, Corona Light, or Modelo*",
       "Add ingredients into the Shaker tin except the Bottle of Beer",
       "Take a 20oz Glass, RIM the Glass if requested",
-      "Open the Beer, requested. Tilt the cup sideways until the Margarita liquid is almost spilling out, then tilt the beer sideways into the cup.",
+      "Open the Beer, as requested. ",
+      "Tilt the cup sideways until the Margarita liquid is almost spilling out, then tilt the beer sideways into the cup.",
       "Twist and pull the cup back up right quickly.",
-      "Add Ice to fill the cup if needed"
+      "Add Ice to fill the cup if needed",
+      "Glassware:",
+      "20oz Glass or Logo cup",
+      "Garnish:",
+      "Lime wedge"
     ],
     "notes": "",
     "images": []
