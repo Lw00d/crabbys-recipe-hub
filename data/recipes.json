@@ -6066,11 +6066,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay",
         "qty": "",
         "unit": "Dusting"
@@ -6079,11 +6074,20 @@
         "name": "Honey Mustard",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush (2) Shrimp skewers, and Grouper with garlic butter, add Old Bay lightly.",
-      "Place on flat top after 4 minutes flip skewers and Grouper.",
+      "Season the grouper on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "A light weight may be used on the fish — never press, smash, or dome.",
+      "Flip when the edges begin turning white; the shrimp cook faster and come off first.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush both with pre-melted lemon butter until glossy.",
       "Brush with honey mustard and finish cooking",
       "Place both Grouper and Shrimp on the plate, but not overlapping",
       "Expo: Lemon wedge, requested 2 sides"
@@ -21476,11 +21480,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Basting",
-        "unit": "Fish & Shrimp"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "",
         "unit": "Season both"
@@ -21492,9 +21491,10 @@
       }
     ],
     "steps": [
-      "Brush (2) Shrimp skewers and Mahi with garlic butter & evenly season with Old Bay",
-      "Place on a flat top and cook for 2 to 3 minutes, flip, and NOW brush with honey mustard",
-      "Cook for another 2 to 3 minutes until thoroughly cooked",
+      "Season the mahi on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "Flip when the edges begin turning white, then brush with honey mustard.",
+      "Cook for another 2 to 3 minutes until cooked through.",
       "Place Mahi on the plate, with the Shrimp alongside.",
       "Be sure the Mahi and Shrimp are not overlapped, laid side by side.",
       "Expo: Lemon wedge, 2 sides,"
@@ -22018,22 +22018,22 @@
         "unit": "Each"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Brush on",
-        "unit": "melted"
-      },
-      {
         "name": "Old Bay or Blackening Season",
         "qty": "Dust",
         "unit": "evenly"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste 2 skewers with garlic spread and dust evenly with the requested seasoning.",
-      "Place skewers on the flat top.",
-      "Flip skewers, and cook for approx. 2 minutes.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
-      "Baste shrimp with garlic spread before plating.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place skewers on the dinner plate.",
       "Expo: 2 sides, Lemon Wedge"
     ],
@@ -23083,11 +23083,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -23121,11 +23116,19 @@
         "name": "Lemon",
         "qty": "1",
         "unit": "Wedge"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Shrimp skewers with garlic butter and season with Requested Seasoning.",
-      "Place on a flat top for 2-3 minutes on each side",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "In a large Pasta bowl",
       "Place 2 scoops of Coco rice in the bottom",
       "Place in quarters of the bowl on top of the rice, carrots, Seaweed salad, Wontons,& avocado mix",
@@ -26477,11 +26480,6 @@
         "unit": "Portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Blackening Or Old Bay",
         "qty": "",
         "unit": "Seasoning"
@@ -26500,11 +26498,19 @@
         "name": "Red Onions",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Take shrimp baste with Garlic spread, top with requested seasoning",
-      "Place on the flattop cook 2-3 minutes on both sides. Cook thoroughly",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the shrimp seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Heat tortilla shells on the flattop for 5-8 seconds on either side",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
       "Add cabbage to the bottom of each taco shell.",
@@ -26816,22 +26822,22 @@
         "unit": "Each"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay Seasoning",
         "qty": "",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste 2 skewers with garlic spread and dust evenly with Old Bay.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
-      "Baste shrimp with garlic spread before plating.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place skewers on the plate.",
       "Garnish: Lemon Wedge, requested sides"
     ],
@@ -27116,11 +27122,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Old Bay",
         "qty": "",
         "unit": "Dusting"
@@ -27129,11 +27130,20 @@
         "name": "Honey Mustard",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush (2) Shrimp skewers, and Grouper with garlic butter, add Old Bay lightly.",
-      "Place on flat top after 4 minutes flip skewers and Grouper.",
+      "Season the grouper on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "A light weight may be used on the fish — never press, smash, or dome.",
+      "Flip when the edges begin turning white; the shrimp cook faster and come off first.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush both with pre-melted lemon butter until glossy.",
       "Brush with honey mustard and finish cooking",
       "Place both Grouper and Shrimp on the plate, but not overlapping",
       "Expo: Lemon wedge, requested 2 sides"
@@ -31331,11 +31341,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Butter",
-        "qty": "Baste",
-        "unit": "Shrimp"
-      },
-      {
         "name": "Old Bay",
         "qty": "sprinkle",
         "unit": "On shrimp"
@@ -31349,10 +31354,19 @@
         "name": "Cotija Cheese",
         "qty": "Sprinkled",
         "unit": "On Shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste 2 shrimp skewers with garlic butter and lightly season with Old Bay",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Grill the skewers on the flat top for 2 minutes",
       "Flip and let cook until shrimp are done.",
       "Add Creamy Street Corn to side of plate",
@@ -31617,11 +31631,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Fish & Shrimp"
-      },
-      {
         "name": "Old Bay",
         "qty": "Evenly",
         "unit": "Season"
@@ -31633,9 +31642,10 @@
       }
     ],
     "steps": [
-      "Brush (2) shrimp skewers and FC with garlic butter, and evenly season with Old Bay",
-      "Place on a flat top and cook for 2 to 3 minutes, flip, then brush with honey mustard",
-      "Cook for another 2 to 3 minutes until cooked through",
+      "Season the Fresh Catch on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "Flip when the edges begin turning white, then brush with honey mustard.",
+      "Cook for another 2 to 3 minutes until cooked through.",
       "Place FC on the plate, with the shrimp alongside the FC, not overlapping.",
       "Expo:",
       "Lemon wedge, 2 sides, 2oz Honey Mustard",
@@ -31909,6 +31919,11 @@
         "name": "Old Bay",
         "qty": "Light Dust",
         "unit": "Shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -31916,7 +31931,7 @@
       "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
       "Drain before plating on a lined 1/4 tray",
-      "Grilled/ Fire Roasted:",
+      "Crab Grilled / Fire Roasted:",
       "Place drained boiled crab on a large sizzler pan",
       "Coat generously with garlic spread and Old Bay",
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown.",
@@ -31926,11 +31941,14 @@
       "Place in the Italian breader and coat evenly, shake off excess",
       "Place in 350°F fryer 4-5 minutes until golden brown.",
       "Place in a Sav a Day to drain excess oil",
-      "Once the Ribs are done, place them on a lined 1/4 tray, and place the Shrimp alongside the Ribs",
-      "Baste shrimp with garlic butter and season evenly with the requested seasoning",
-      "Cook on each side for 2 to 3 minutes until cooked through",
-      "Baste with garlic butter to moisten before serving",
-      "Place the shrimp alongside the ribs on a lined 1/4 tray",
+      "Once the Crab is done, place them on a lined 1/4 tray, and place the Shrimp alongside the Crab",
+      "Grilled / Blackened Shrimp:",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the shrimp seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
+      "Place the shrimp alongside the crab on a lined 1/4 tray",
       "Expo: 4oz butter, lemon wedge, 2 sides",
       "Plateware: Lined 1/4 Tray"
     ],
@@ -66467,11 +66485,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Mahi & Shrimp"
-      },
-      {
         "name": "Old Bay",
         "qty": "Evenly",
         "unit": "season"
@@ -66488,9 +66501,10 @@
       }
     ],
     "steps": [
-      "Brush (2) shrimp skewers and mahi with garlic butter, and evenly season with Old Bay",
-      "Place on a flat top and cook for 2 to 3 minutes, flip, then brush with honey mustard",
-      "Cook for another 2 to 3 minutes until cooked through",
+      "Season the mahi on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "Flip when the edges begin turning white, then brush with honey mustard.",
+      "Cook for another 2 to 3 minutes until cooked through.",
       "When mahi and shrimp are flipped, place conch fritters in a 350°F fryer for approx. 3 minutes (less time if par-cooked) or until they float.",
       "Place mahi on the plate, with the shrimp, alongside the mahi, not overlapping.",
       "Add the conch fritters on the plate",
@@ -67035,11 +67049,20 @@
         "name": "Honey mustard",
         "qty": "drizzle",
         "unit": "On shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Fry the coconut shrimp in a 300-325°F fryer; transfer to a Sav-A-Day to drain excess oil.",
-      "Baste skewer shrimp with garlic butter and season evenly with Old Bay. Cook 2 minutes, then flip and drizzle with honey mustard.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place tail on shrimp in 8oz rarebit, tails up and add 2oz ladle of scampi sauce. Bake in a 450-500°F oven for 5-6 minutes or until the shrimp is done",
       "Expo: Pina Colada sauce, mango salsa, requested sides, lemon wedge, chopped parsley",
       "Plateware: Combo Plate"
@@ -69668,11 +69691,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Mahi & Shrimp"
-      },
-      {
         "name": "Old Bay",
         "qty": "Evenly",
         "unit": "season"
@@ -69689,9 +69707,10 @@
       }
     ],
     "steps": [
-      "Brush (2) shrimp skewers and mahi with garlic butter, and evenly season with Old Bay",
-      "Place on a flat top and cook for 2 to 3 minutes, flip, then brush with honey mustard",
-      "Cook for another 2 to 3 minutes until cooked through",
+      "Season the mahi on the non-skin side only and the shrimp on one side only, before they touch the grill.",
+      "Spray the flat top, then lay both seasoned side down.",
+      "Flip when the edges begin turning white, then brush with honey mustard.",
+      "Cook for another 2 to 3 minutes until cooked through.",
       "When mahi and shrimp are flipped, place conch fritters in a 350°F fryer for approx. 3 minutes (less time if par-cooked) or until they float.",
       "Place mahi on the plate, with the shrimp, alongside the mahi, not overlapping.",
       "Add the conch fritters on the plate",
@@ -70451,9 +70470,11 @@
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
       "Shrimp:",
-      "Baste 2 skewers with garlic spread and dust evenly with Old Bay.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
       "Baste shrimp with garlic spread before plating.",
       "Place skewers on the correct plateware.",
@@ -71775,12 +71796,19 @@
         "name": "Old Bay or Blackening Season",
         "qty": "Dust",
         "unit": "evenly"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste 2 skewers with garlic spread and dust evenly with Old Bay.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
       "Baste shrimp with garlic spread before plating.",
       "Place skewers on a plate.",
@@ -72138,11 +72166,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Butter",
-        "qty": "Baste",
-        "unit": "Shrimp"
-      },
-      {
         "name": "Old Bay",
         "qty": "sprinkle",
         "unit": "On shrimp"
@@ -72154,7 +72177,10 @@
       }
     ],
     "steps": [
-      "Baste 2 shrimp skewers with garlic butter and lightly season with Old Bay",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
       "Grill the skewers on the flat top for 2 minutes",
       "Flip and baste with Salsa Verde or Habanero glaze",
       "Let cook until shrimp are done",
@@ -72203,11 +72229,20 @@
         "name": "Honey mustard",
         "qty": "drizzle",
         "unit": "On shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Place 4 tails on shrimp into an 8oz rarebit, tails up, and add 2oz ladle of scampi sauce. Place in a 450-500°F oven for about 5-6 minutes or until fully cooked.",
-      "Baste 1 skewer of shrimp with garlic butter and lightly season evenly with Old Bay. Cook for 2 minutes, flip, and drizzle with honey mustard.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place the Coconut Shrimp in a 300-325°F fryer, and when done, transfer to a Sav-A-Day to drain excess oil.",
       "Expo: chopped parsley, Pina Colada sauce, requested side, lemon wedge",
       "Plateware: Combo Plate/1/4 lined tray"
@@ -74617,11 +74652,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -74650,11 +74680,19 @@
         "name": "Wonton Strips",
         "qty": "1",
         "unit": "Handful"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Shrimp skewers with garlic butter and season (Old Bay or Blacken).",
-      "Place on a flat top for 2-3 minutes on each side",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "In a large Pasta bowl",
       "Place the 2 scoops of Coconut rice in the bottom",
       "Place in quarters of the bowl on top of the rice, add wontons, carrots, seaweed salad, & avocado salsa",
@@ -76546,12 +76584,19 @@
         "name": "Garlic Spread",
         "qty": "Brush",
         "unit": "Finished"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste skewers with garlic spread and dust evenly with Old Bay.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
       "Baste shrimp with garlic spread before plating.",
       "Place skewers on the correct plateware.",
