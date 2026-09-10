@@ -447,8 +447,8 @@
     "steps": [
       "Lightly dust the burger with seasoned salt ",
       "Spray grill with pan spray and put burger ball season side down",
-      "Let sear for 45 seconds before pushing down with press",
-      "Let sook under press for 2 to 3 minutes",
+      "Let sear for 45 seconds before pressing.",
+      "Press firmly with wax paper over the meat and cook under the press for 2 to 3 minutes.",
       "Remove press, season and flip",
       "Place press back on burger and cook for another 2 to 3 minutes",
       "Add toppings and serve on toasted bun",
@@ -25776,14 +25776,22 @@
         "name": "Chipotle Aioli",
         "qty": "1",
         "unit": "oz"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Place 2 onion rings in the fryer and cook to a golden brown",
       "Place in a Sav-A-Day",
-      "Lightly dust the burger with Salty seasoning.",
-      "Place a Hamburger on the grill,",
-      "While cooking to the desired temperature.",
+      "Season both sides with Salty seasoning.",
+      "Spray the flat top, then place the patty seasoned side down.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Cook to the requested temperature.",
+      "Finish with pre-melted lemon butter on the cooler zone.",
       "Place 2 slices of Bacon on the flat top to heat",
       "Serve on a toasted bun.",
       "Rare - a cool red center; pink otherwise 125–130°F",
@@ -60701,11 +60709,20 @@
         "name": "Burger",
         "qty": "1",
         "unit": "7oz patty"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Butter and place the bun face down on the flat top for 1 minute on both sides",
-      "Lightly dust the burger with steak teak seasoning. Place the burger on the grill,",
+      "Season both sides with Requested Seasoning.",
+      "Spray the flat top, then place the patty seasoned side down.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Finish with pre-melted lemon butter on the cooler zone.",
       "In a clean buttered 8\" pan",
       "Cook 2 eggs as requested",
       "Place the burger on a toasted bun.",
@@ -68614,7 +68631,9 @@
     "steps": [
       "Sauté onions",
       "Baste patty with olive oil (not pan spray), then season evenly with blackening seasoning",
-      "Cook patty on flat top 3-4 min per side until fully cooked.",
+      "Place the patty on the flat top, seasoned side down.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white, and cook until fully heated through.",
       "Place sautéed onions on top of the patty and place on a toasted bun",
       "Expo: LTO upon request, Side requested",
       "Plateware: Lined Round Basket"
@@ -69137,12 +69156,21 @@
         "name": "Hamburger Bun",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Brush the inside of a hamburger bun with garlic butter and put it on the flat top for 1 to 2 minutes",
-      "Brush the turkey burger with garlic butter, sprinkle with blackened seasoning, and place on a flat top",
-      "Cook 4 to 5 minutes on each side till cooked all the way through (165°F)",
+      "Season both sides with blackening seasoning.",
+      "Spray the flat top, then place the patty seasoned side down.",
+      "A light weight may be used — never press.",
+      "Flip when the edges begin turning white.",
+      "Cook all the way through to 165°F.",
+      "Finish with pre-melted lemon butter on the cooler zone.",
       "Sell to the grill when ready",
       "Place the cooked burger on the bottom part of the bun in a lined round basket",
       "Expo: LTO if requested, side requested",
