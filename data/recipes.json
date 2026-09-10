@@ -59510,7 +59510,7 @@
       {
         "name": "Bacon",
         "qty": "1",
-        "unit": "Bacon Strip"
+        "unit": "Each / Strip"
       },
       {
         "name": "Olives Stuffed",
@@ -59527,6 +59527,7 @@
       "In a 14-oz glass /cup with ice, ",
       "Add Vodka and Bloody Mary Mix. Shake well.",
       "Rim cup with house spice.",
+      "Pour the drink back into the rimmed glass",
       "Garnish:",
       "Inside the glass, place 1- Bacon Strip, 3 Olives, Lemon & Lime wedge",
       "Glassware:",
