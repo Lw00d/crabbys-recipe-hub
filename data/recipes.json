@@ -36851,6 +36851,12 @@
         "unit": "oz. pour"
       },
       {
+        "qty": "1 ",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Ice "
+      },
+      {
         "name": "Planetary Dark Rum",
         "qty": ".50",
         "unit": "oz Float"
@@ -36862,11 +36868,16 @@
       }
     ],
     "steps": [
-      "Note: Flavors available - Strawberry, Peach, Mango",
-      "In a blender container, add Rum",
-      "Pour into a 14-oz glass",
+      "*Note: Flavors available - Strawberry, Peach, Mango*",
+      "In a blender container, add Rum, then a cup of Ice",
+      "Add the requested Flavoring ",
+      "Blend on high till smooth",
+      "Pour into correct glassware",
+      "Pour the Float of Planetary Dark Rum on top",
       "Glassware:",
-      "Garnish:"
+      "14-oz glass or  plastic Logo cup",
+      "Garnish:",
+      " Lime Wedge"
     ],
     "notes": "",
     "images": []
