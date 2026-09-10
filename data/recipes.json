@@ -72713,18 +72713,30 @@
         "name": "Cook as Requested",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Fried: Place the Grouper into the milk wash and drain the excess.",
+      "FRIED:",
+      "Place the Grouper into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the grouper evenly and thoroughly.",
       "Transfer Grouper to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a save-a-day to drain excess oil.",
-      "Blackened / Grilled: Baste Grouper with garlic spread, then season evenly with requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip and cook for approximately 3 minutes. Cook until the grouper is cooked thoroughly.",
-      "Brush with garlic spread to moisten before plating.",
-      "Broiled: Place the Grouper on a broil pan with water.",
-      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "GRILLED / BLACKENED:",
+      "Pat the Grouper dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "BROILED:",
+      "Place the Grouper on a broil pan with water.",
+      "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approx. 5 minutes or until fully cooked.",
       "Brush with garlic spread to moisten before plating.",
       "Expo: chopped parsley",
@@ -72756,17 +72768,29 @@
         "name": "Cook as Requested",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Blackened / Grilled: Baste Mahi with garlic spread, then season evenly with requested seasoning.",
-      "Place on a flat top. After 4 minutes, flip and cook for approximately 3 minutes. Cook until thoroughly cooked.",
-      "Brush with garlic spread to moisten before plating.",
-      "Broiled: Place the Mahi on a broil pan with water.",
-      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "BROILED:",
+      "Place the Mahi on a broil pan with water.",
+      "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approx. 5 minutes or until fully cooked.",
       "Brush with garlic spread to moisten before plating.",
-      "Fried: Place the Mahi into the milk wash and drain the excess.",
+      "FRIED:",
+      "Place the Mahi into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover evenly and thoroughly.",
       "Transfer to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a save-a-day to drain excess oil.",
@@ -72795,24 +72819,26 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Lightly",
         "unit": "Seasoned"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled: Baste 2 skewers with garlic spread and dust evenly with the requested seasoning.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
-      "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
-      "Baste shrimp with garlic spread before plating.",
+      "GRILLED / BLACKENED:",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place skewers on the correct serving plate.",
-      "Fried if Requested: Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating evenly in Italian breading.",
+      "FRIED (if requested):",
+      "Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating evenly in Italian breading.",
       "Place breaded shrimp in a 350°F fryer and cook for approximately 4 minutes, or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-A-Day to drain excess oil.",
       "Transfer to the plaid boat",
@@ -73542,17 +73568,29 @@
         "name": "Cook as requested",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled/Blackened: Baste Mahi with garlic spread and then lightly and evenly dust with Old Bay or Blackening Seasoning.",
-      "Place on a flat top. After 4 minutes, flip and cook for approximately 4 minutes.",
-      "When Mahi is finished cooking, brush with garlic spread to moisten before plating.",
-      "Broiled: Place Mahi on a broil pan and cover with water.",
-      "Baste with garlic spread and lightly and evenly dust with Old Bay.",
+      "GRILLED / BLACKENED:",
+      "Pat the Mahi dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
+      "BROILED:",
+      "Place Mahi on a broil pan and cover with water.",
+      "Baste with garlic spread and lightly and evenly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approximately 5 minutes.",
       "When finished cooking, brush with garlic spread to moisten before plating.",
-      "Fried: Place Mahi into the milk wash and drain the excess.",
+      "FRIED:",
+      "Place Mahi into the milk wash and drain the excess.",
       "Transfer to breading and shake off the excess, making sure to cover the Mahi thoroughly.",
       "Transfer Mahi to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Transfer from fryer to Sav-A-Day to drain excess oil.",
@@ -73588,15 +73626,26 @@
         "name": "Requested Seasoning",
         "qty": "Lightly",
         "unit": "Seasoned"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled / Blackened: Baste Salmon with garlic spread, then lightly and evenly dust with Old Bay or blackening seasoning.",
-      "Place on a flat top. Cook for 4 minutes, then flip and cook for approximately 3 minutes.",
-      "Brush with garlic butter",
+      "GRILLED / BLACKENED:",
+      "Pat the Salmon dry.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the fish seasoned side down.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
+      "Move to the cooler zone of the flat top.",
+      "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place the Salmon on an app plate and serve.",
-      "Broiled: Place the Salmon on a broil pan, and add water to the pan to keep from burning.",
-      "Baste with garlic spread and lightly dust with Old Bay.",
+      "BROILED:",
+      "Place the Salmon on a broil pan, and add water to the pan to keep from burning.",
+      "Baste with garlic spread and lightly dust with Requested Seasoning.",
       "Place in a 450-500°F oven for approx. 5 minutes.",
       "Brush with garlic spread to moisten and plating.",
       "Place the Salmon on an app plate and serve.",
@@ -73625,11 +73674,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Honey Mustard",
         "qty": "Brush on",
         "unit": "Shrimp"
@@ -73641,10 +73685,11 @@
       }
     ],
     "steps": [
-      "Baste 2 skewers with garlic spread and dust evenly with Old Bay.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
-      "Baste shrimp with honey mustard",
+      "GRILLED / BLACKENED:",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Baste the shrimp with honey mustard.",
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
       "Place the skewers on the app plate.",
       "Plateware: App Plate"
@@ -73671,24 +73716,26 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Lightly",
         "unit": "Seasoned"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grilled: Baste 2 skewers with garlic spread and dust evenly with the requested seasoning.",
-      "Place skewers on the flat top.",
-      "Flip skewers after approx. 2 minutes.",
-      "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
-      "Baste shrimp with garlic spread before plating.",
+      "GRILLED / BLACKENED:",
+      "Season one side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the skewers seasoned side down.",
+      "Cook quickly — flip when the edges begin turning white.",
+      "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
+      "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place skewers on the correct serving plate.",
-      "Fried if Requested: Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating them evenly in Italian breading.",
+      "FRIED (if requested):",
+      "Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating them evenly in Italian breading.",
       "Place breaded shrimp in a 350°F fryer and cook for approximately 4 minutes, or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-A-Day to drain excess oil.",
       "Transfer to the plaid boat",
