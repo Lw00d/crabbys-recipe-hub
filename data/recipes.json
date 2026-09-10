@@ -48767,7 +48767,7 @@
   {
     "id": "drm-cbg-108",
     "masterId": "drm-banana-painkiller-zero-proof-m",
-    "name": "Banana Painkiller Zero Proof",
+    "name": "Banana Painkiller Zero Proof ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48811,8 +48811,10 @@
       "Shake vigorously for 5-10 seconds",
       "Rim glass with desired garnish for the rim.",
       "Pour into a 14oz cup or glass",
-      "Glassware: 14oz logo cup or glass",
-      "Garnish:"
+      "Glassware:",
+      "14oz glass or logo cup  ",
+      "Garnish:",
+      "A cherry, an orange slice, and a dash of Nutmeg "
     ],
     "notes": "",
     "images": []
@@ -48820,7 +48822,7 @@
   {
     "id": "drm-cds-104",
     "masterId": "drm-banana-painkiller-zero-proof-m",
-    "name": "Banana Painkiller Zero Proof",
+    "name": "Banana Painkiller Zero Proof ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48864,8 +48866,10 @@
       "Shake vigorously for 5-10 seconds",
       "Rim glass with desired garnish for the rim.",
       "Pour into a 14oz cup or glass",
-      "Glassware: 14oz logo cup or glass",
-      "Garnish:"
+      "Glassware:",
+      "14oz glass or logo cup  ",
+      "Garnish:",
+      "A cherry, an orange slice, and a dash of Nutmeg "
     ],
     "notes": "",
     "images": []
