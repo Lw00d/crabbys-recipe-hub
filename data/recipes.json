@@ -5625,16 +5625,19 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
+        "name": "Lemon Butter",
         "qty": "",
-        "unit": "Basting"
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -5777,25 +5780,25 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
+        "name": "Lemon Butter",
         "qty": "",
-        "unit": "Basting"
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Place on chargrill for 2 minutes",
-      "Rotate the steak 90degrees and cook for 2 minutes to make cross marks",
-      "Flip the steak and grill for 2 minutes",
-      "Place the steak on a pizza tray and place it in 450°F oven",
-      "Follow the time guide below for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130–140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150–160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130–140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered med-well and well will be butterflied unless the guest does not want it.",
       "Expo: Steak knife, requested sides"
     ],
@@ -21465,11 +21468,6 @@
         "name": "Pan Spray (flat top)"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Tuna Steak (4oz.)",
         "qty": "2",
         "unit": "Each"
@@ -21483,13 +21481,20 @@
         "name": "Avocado Salsa (prep)",
         "qty": "1",
         "unit": "Green Scoop"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Tuna steaks with garlic butter and blackening seasoning",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Spray the flat top where Tuna will go ",
       "Place on the flat top. Once on the flat top, butter & season the top side of the Tuna",
       "Cook for 2 minutes on each side",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "Plate with the 2 steaks touching each other, side by side.",
       "Add Avocado Salsa on top where the 2 steaks meet.",
       "Expo:",
@@ -22177,13 +22182,22 @@
         "name": "Bairdi 3/4 (prep)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush the finished steak with 1oz. of warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -22241,13 +22255,22 @@
         "name": "Old Bay Seasoning",
         "qty": "Lightly",
         "unit": "Dust Shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -22465,17 +22488,19 @@
         "unit": "Seasoning"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Brush on",
-        "unit": "Room temp"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the Ribeye with steak seasoning",
-      "Place on the Char Grill for 2 minutes, then rotate 45 degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush finished steak with room-temperature garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -22509,17 +22534,19 @@
         "unit": "Seasoning"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Brush on",
-        "unit": "Room temp"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the NY Strip with steak seasoning",
-      "Place on Char Grill for 2 minutes, then rotate 45 degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush finished steak with room temperature garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -22793,11 +22820,6 @@
         "unit": "portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -22831,11 +22853,18 @@
         "name": "Lemon",
         "qty": "1",
         "unit": "Wedge"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush Tuna steaks with garlic butter and season as requested",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Place on a flat top for 2 minutes on each side",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "In a large Pasta bowl",
       "Place 2 scoops of Coco rice on the bottom",
       "Place in quarters of the bowl on top of rice, carrots, wonton strips, seaweed salad, & avocado salsa",
@@ -23091,10 +23120,15 @@
         "name": "Limes",
         "qty": "1",
         "unit": "Wedge"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the steak with steak seasoning on the grill",
+      "Generously season both sides with requested seasoning.",
       "Cook to the desired temperature",
       "Take a large Pasta bowl",
       "Place 2 scoops of Coco rice on the bottom",
@@ -25670,11 +25704,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Season"
@@ -25713,11 +25742,18 @@
         "name": "Lime Crema",
         "qty": "1",
         "unit": "Vol oz(Drizzle)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste a 4-oz steak of sushi-grade with melted garlic butter and sprinkle lightly with Old Bay seasoning.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Sear Tuna to rare temp on flat top for 1.5 minutes per side.",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "Place 2 scoops coconut rice in bottom of a serving bowl, flatten with back of scoop",
       "Slice the seared Tuna, thin into 4 pieces and place atop the rice.",
       "Fill 1st corner of the bowl with cabbage.",
@@ -25750,11 +25786,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Season"
@@ -25793,11 +25824,18 @@
         "name": "Lime Crema",
         "qty": "1",
         "unit": "Vol oz(Drizzle)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste a 4-oz steak of sushi-grade with melted garlic butter and sprinkle lightly with Old Bay seasoning.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Sear Tuna to rare temp on flat top for 1.5 minutes per side.",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "Place 2 scoops coconut rice in bottom of a serving bowl, flatten with back of scoop",
       "Slice the seared Tuna, thin into 4 pieces and place atop the rice.",
       "Fill 1st corner of the bowl with cabbage.",
@@ -25831,11 +25869,6 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Season"
@@ -25874,11 +25907,18 @@
         "name": "Lime Crema",
         "qty": "1",
         "unit": "Vol oz(Drizzle)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste a 4-oz steak of sushi-grade with melted garlic butter and sprinkle lightly with Old Bay seasoning.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Sear Tuna to rare temp on flat top for 1.5 minutes per side.",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "Place 2 scoops coconut rice in bottom of a serving bowl, flatten with back of scoop",
       "Slice the seared Tuna, thin into 4 pieces and place atop the rice.",
       "Fill 1st corner of the bowl with cabbage.",
@@ -26372,11 +26412,6 @@
         "unit": "Portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Blackening Or Old Bay",
         "qty": "",
         "unit": "Seasoning"
@@ -26395,17 +26430,24 @@
         "name": "Red Onions",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Take the Tuna and baste with Garlic spread, top with the requested seasoning",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Place on the flattop cook for 2 minutes on both sides. Cook thoroughly",
       "Heat tortilla shells on the flattop for 5-8 seconds on either side",
       "Cut the tuna into 6 equal pieces and place 2 pieces in each taco shell",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
       "Add cabbage to the bottom of each taco shell.",
       "Place 2 slices of Tuna in each taco shell on top of the cabbage",
-      "Expo: Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
+      "Expo: Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
     ],
     "notes": "",
     "images": []
@@ -26816,16 +26858,19 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
+        "name": "Lemon Butter",
         "qty": "",
-        "unit": "Basting"
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -26904,25 +26949,25 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
+        "name": "Lemon Butter",
         "qty": "",
-        "unit": "Basting"
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Place on chargrill for 2 minutes",
-      "Rotate the steak 90degrees and cook for 2 minutes to make cross marks",
-      "Flip the steak and grill for 2 minutes",
-      "Place the steak on a pizza tray and place it in 450°F oven",
-      "Follow the time guide below for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130–140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150–160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130–140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered med-well and well will be butterflied unless the guest does not want it.",
       "Expo: Steak knife, requested sides"
     ],
@@ -29390,14 +29435,21 @@
         "qty2": "",
         "unit": "oz",
         "name": "Onion Straws"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the Ribeye with steak seasoning",
-      "Place on the Char Grill for 2 minutes, then rotate 45° degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush the diamond design side of the finished steak with warm Cajun Butter.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, brushed with warm Cajun Butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -29489,22 +29541,24 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Butter",
-        "qty": "Brush on",
-        "unit": "Finished Room temp"
-      },
-      {
         "name": "Steak Seasoning",
         "qty": "",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the filet with steak seasoning",
-      "Place on the Char Grill for 2 minutes, then rotate 45°degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush the diamond design side of the finished steak with warm Garlic Butter.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -29533,22 +29587,24 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Butter",
-        "qty": "Brush on",
-        "unit": "Finished Room temp"
-      },
-      {
         "name": "Steak Seasoning",
         "qty": "",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the filet with steak seasoning",
-      "Place on the Char Grill for 2 minutes, then rotate 45°degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush the diamond design side of the finished steak with warm Garlic Butter.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -31008,11 +31064,6 @@
         "unit": "Portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "Evenly",
         "unit": "Season"
@@ -31061,11 +31112,18 @@
         "name": "Siracha Mayo",
         "qty": "1",
         "unit": "Vol oz(Drizzle)"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste a 4-oz steak of sushi-grade with melted garlic butter and sprinkle lightly with Old Bay seasoning.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Sear Tuna to rare temp on flat top for 1.5 minutes per side.",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "Place 2 scoops coconut rice in the bottom of a serving bowl, flatten with back of scoop",
       "Place the Spring Mix to the side of the rice.",
       "Slice the seared Tuna, thin into 5-7 slices and place atop the rice and spring mix.",
@@ -31235,16 +31293,19 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
+        "name": "Lemon Butter",
         "qty": "",
-        "unit": "Basting"
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -31730,6 +31791,11 @@
         "name": "Butter Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -31743,19 +31809,19 @@
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
       "Filet Mignon:",
-      "Generously top with steak seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes.",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130–140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150–160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130–140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo: 2 sides, 2oz butter, lemon wedge, steak knife",
       "Plateware: Lined 1/4 tray"
@@ -31793,6 +31859,11 @@
         "name": "Butter Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -31806,19 +31877,19 @@
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
       "Ribeye:",
-      "Generously top with steak seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes.",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 2 minutes in oven - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - 4 minutes in oven - a warm red center, otherwise pink 130–140°F",
-      "Medium - 5 minutes in oven - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - 7 minutes in oven - mostly brown with a gray center, very little, if any pink, 150–160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 2 minutes on flat top - a cool red center; pink otherwise 125–130°F",
+      "Medium Rare - 4 minutes on flat top - a warm red center, otherwise pink 130–140°F",
+      "Medium - 5 minutes on flat top - warm pink center, otherwise brown 140–150°F",
+      "Medium Well - 7 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo: 2 sides, 2oz butter, lemon wedge, steak knife",
       "Plateware: Lined 1/4 tray"
@@ -31919,6 +31990,11 @@
         "name": "Butter Garlic Spread",
         "qty": "Baste",
         "unit": "Finished Steak"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -31929,14 +32005,14 @@
       "Now re-baste with garlic spread, lightly dust with Old Bay.",
       "Return to oven for approximately 4- 5 minutes until lobster tail is cooked",
       "When finished cooking, brush with garlic spread to moisten before plating.",
-      "Generously top the steak with the steak seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for 2 minutes to make cross marks",
-      "Flip the steak and grill for another 2 minutes",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide below for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
       "Expo: Lemon wedge, 2oz of butter, requested sides",
       "Plateware: 1/4 Lined sheet tray"
     ],
@@ -57636,17 +57712,21 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Finished Steak"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "When the steak is just about done",
       "Butter the egg pan, cook eggs as requested",
-      "Brush finished steak with 1oz of warm garlic spread and plate.",
       "Place eggs next to the steak on the plate",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
@@ -60001,17 +60081,20 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Finish Steak"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Season the steak and place it on the chargrill, and season the top",
-      "Cook for 2 minutes, turn 45°, and cook another 2 minutes. Creates a diamond on the steak presentation side.",
-      "Flip and cook the steak( to requested temperature) for another 2-3 minutes",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "When the steak is 3/4 done, start the Eggs",
-      "Brush finished (diamond side) steak with 1oz of warm garlic spread.",
       "When plating, the proteins should not overlap with each other",
       "Add the toast next to one side of eggs",
       "Eggs:",
@@ -60999,17 +61082,20 @@
         "unit": "Each"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Brush",
-        "unit": "Finished Steak"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the steak with steak seasoning",
-      "Place the steak on the char grill lengthwise for 2 minutes. Now, turn the steak 45°degrees and cook for another 2 minutes.",
-      "This will create the diamond effect on the presentation side of the steak.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Cook to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
       "When the Steak is 3/4 of the way cooked, start your Eggs",
       "Brush 8\" pan with butter",
       "Cook Eggs as requested",
@@ -66051,9 +66137,9 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Basting",
-        "unit": "Top steak"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -66061,18 +66147,19 @@
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
       "Filet Mignon:",
-      "Generously top with steak seasoning",
-      "Place it on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for another 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes",
-      "Follow the time guide listed below for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well will be butterflied unless the guest requests not to.",
       "Expo: chopped parsley, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware: White Combo Plate"
@@ -66352,6 +66439,11 @@
         "name": "Butter Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -66365,18 +66457,19 @@
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
       "Filet Mignon:",
-      "Generously top with steak seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes.",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo: requested sides, 2oz butter, chopped parsley, lemon wedge, steak knife",
       "Plateware: White Combo Plate"
@@ -66938,6 +67031,11 @@
         "name": "Butter Garlic Spread",
         "qty": "Finished",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -66956,18 +67054,19 @@
       "Return to the oven for approximately 5 minutes until the lobster tail is cooked",
       "When finished cooking, brush with garlic spread to moisten before plating.",
       "Filet:",
-      "Generously top the steak with seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook the steak for another 2 minutes, to make cross marks.",
-      "Flip the steak and grill for another 2 minutes",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room-temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well will be butterflied unless the guest does not want it.",
       "Expo: chopped parsley, steak knife, requested sides, 2oz butter, lemon wedge",
       "Plateware: White Combo Plate"
@@ -68531,10 +68630,16 @@
         "name": "Dressing Cusabi",
         "qty": "Drizzle on",
         "unit": "tuna"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste the Tuna with garlic butter and evenly sprinkle with Blackening seasoning.",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Place seasoned side on the flat top and let cook 2 minutes",
       "Flip and brush with Garlic butter and let cook another 2 minutes",
       "Put 1 ciabatta roll/Bun inside down on the flat top for 1 minute",
@@ -68543,7 +68648,8 @@
       "Place fish on a dressed ciabatta roll,",
       "The expo will top with a drizzle of Cusabi dressing",
       "Expo: 1 oz drizzle of cucumber wasabi, Lemon wedge, LTO if requested, side requested",
-      "Plateware: Lined Round basket"
+      "Plateware: Lined Round basket",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
     ],
     "notes": "",
     "images": [
@@ -69080,6 +69186,11 @@
         "name": "Butter Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -69093,19 +69204,19 @@
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
       "Place on a lined 1/4 tray",
       "Filet Mignon:",
-      "Generously top with steak seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes.",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo: 2 sides, 2oz butter, lemon wedge, steak knife",
       "Plateware: Lined 1/4 Tray, app plate"
@@ -69416,9 +69527,9 @@
         "unit": "Season"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Basting",
-        "unit": "Top steak"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -69426,19 +69537,19 @@
       "Unwrap ribs and glaze with BBQ sauce",
       "Cook in a 450-500°F oven on a silver pan for 8 to 15 minutes (depending on oven) until heated through",
       "Filet Mignon:",
-      "Generously top with steak seasoning",
-      "Place it on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook for another 2 minutes to make cross marks.",
-      "Flip the steak and grill it for another 2 minutes",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide listed below for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well will be butterflied unless the guest requests not to.",
       "Expo: requested sides, 2oz BBQ sauce, steak knife",
       "Plateware: Lined 1/4 tray, app plate"
@@ -69915,13 +70026,22 @@
         "name": "Old Bay Seasoning",
         "qty": "Lightly",
         "unit": "Dust Shrimp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -69991,13 +70111,22 @@
         "name": "Fried Shrimp P&D",
         "qty": "8",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Place on the correct plateware",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
@@ -70059,13 +70188,22 @@
         "name": "Old Bay or Blackened Season",
         "qty": "",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
       "Medium - warm pink center, otherwise brown 140-150°F",
@@ -70117,13 +70255,22 @@
         "name": "Bairdi 3/4 (prep)",
         "qty": "1",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
       "Steak Preparation:",
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with warm garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Place the steak on the correct plateware",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
@@ -70453,6 +70600,11 @@
         "name": "Butter Garlic Spread",
         "qty": "Finished",
         "unit": "Basting"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
@@ -70471,19 +70623,19 @@
       "Return to oven for approximately 4-5 minutes until lobster tail is cooked",
       "When finished cooking, brush with garlic spread to moisten before plating.",
       "Filet:",
-      "Generously top the steak with seasoning",
-      "Place on the chargrill for 2 minutes",
-      "Rotate the steak 90° and cook the steak for another 2 minutes, to make cross marks.",
-      "Flip the steak and grill for another 2 minutes",
-      "Place the steak on a pizza tray and place it in a 450°F oven",
-      "Follow the time guide underneath for cooking times",
-      "Brush finished steak with room temperature garlic spread.",
-      "Make sure the spread is melted before serving",
-      "Rare - 4 minutes in oven - a cool red center; pink otherwise 125-130°F",
-      "Medium Rare - 5 minutes in oven - a warm red center, otherwise pink 130-140°F",
-      "Medium - 7 minutes in oven - warm pink center, otherwise brown 140-150°F",
-      "Medium Well - 8 minutes in oven - mostly brown with a gray center, very little, if any pink, 150-160°F",
-      "Well done - 10 minutes in oven - Brown throughout with no sign of pink >160°F",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Steak Time Guide:",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
+      "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well will be butterflied unless the guest does not want it.",
       "Expo: steak knife, 2 sides, 2oz butter, lemon wedge",
       "Plateware: Lined 1/4 tray, app plate"
@@ -73332,19 +73484,21 @@
         "unit": "Bag"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Seasoning Requested",
         "qty": "dust",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Grill/Blackened: Brush tuna with garlic butter and season as requested on both sides",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Place on a flat top for 2 minutes on each side",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "When done, plate and give to the expo",
       "Expo: lemon wedge",
       "Plateware: App Plate"
@@ -73376,15 +73530,15 @@
         "unit": "dust"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Brush on",
-        "unit": "Room temp"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Top with Tips with steak seasoning",
+      "Generously season both sides with requested seasoning.",
       "Cook on the flat top to the desired temperature.",
-      "Brush finished tips with 1oz of room temperature garlic spread.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -74030,10 +74184,15 @@
         "name": "Pico De Gallo",
         "qty": "1",
         "unit": "2oz cup"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the steak tips with steak seasoning on the grill",
+      "Generously season both sides with requested seasoning.",
       "Cook to the desired temperature",
       "Take a large bowl",
       "Place the 2 scoops of Coco rice in the bottom",
@@ -74257,11 +74416,6 @@
         "unit": "portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Basting"
-      },
-      {
         "name": "Requested Seasoning",
         "qty": "",
         "unit": "Seasoning"
@@ -74290,11 +74444,18 @@
         "name": "Wonton Strips",
         "qty": "1",
         "unit": "Handful"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Brush the Tuna steaks with garlic butter and season both sides",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Place on a flat top for 1.5-2 minutes on each side",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "In a large Pasta bowl",
       "Place the 2 scoops of Coconut rice in the bottom",
       "Place in quarters of the bowl on top of the rice, wontons, carrots, seaweed salad, & avocado mix",
@@ -74810,15 +74971,19 @@
         "unit": "dust"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Brush on",
-        "unit": "Room temp"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of room temperature garlic spread.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Place on correct plateware.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
@@ -75037,13 +75202,22 @@
         "name": "Butter Garlic Spread",
         "qty": "Brush on",
         "unit": "Finished Room temp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top with steak seasoning",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Do not use pan spray on steak",
-      "Cook on a char grill to the desired temperature.",
-      "Brush finished steak with 1oz of warm garlic spread.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -75242,14 +75416,21 @@
         "name": "Cajun Butter",
         "qty": "Brush on",
         "unit": "Finished Room temp"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Generously top the Ribeye with steak seasoning",
-      "Place on the Char Grill for 2 minutes, then rotate 45° degrees",
-      "Cook for 2 minutes; this will create a diamond design",
-      "Flip and cook to the desired temperature.",
-      "Brush the diamond design side of the finished steak with warm Cajun Butter.",
+      "Generously season both sides with requested seasoning.",
+      "Place on the hot zone of the char grill.",
+      "Rotate 10 → 2 to set the diamond marks.",
+      "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
+      "A light weight may be used — never press, smash, or dome.",
+      "Cook to the requested temperature.",
+      "Finish on the cooler zone of the flat top, brushed with warm Cajun Butter.",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -76158,31 +76339,27 @@
         "unit": "portion"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "",
-        "unit": "Baste"
-      },
-      {
         "name": "Seasoning Requested",
         "qty": "dust",
         "unit": "Seasoning"
       },
       {
-        "name": "Garlic Spread",
-        "qty": "Baste",
-        "unit": "Finished"
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
       }
     ],
     "steps": [
-      "Baste the Tuna with garlic spread",
+      "Season the non-skin side only with the requested seasoning, before it touches the grill.",
+      "Spray the flat top, then lay the tuna seasoned side down.",
       "Season as requested",
       "Place on a flat top",
       "Cook 2 minutes, baste and flip",
       "Cook another 1.5-2 minutes",
-      "Brush the Tuna with garlic spread to moisten before plating",
       "Place on the correct plateware",
       "Expo: lemon wedge",
-      "Plateware: App Plate"
+      "Plateware: App Plate",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
     ],
     "notes": "",
     "images": [
