@@ -34449,12 +34449,14 @@
       }
     ],
     "steps": [
-      "In a sanitizer bucket, fill it with Warm Water, 3/4 way full.",
+      "In a bucket, add a gallon of Warm Water. ",
       "Add 1 tablet, and mix till tablet is totally dissolved.",
-      "Label the bucket with the date, and time..",
+      "Split the mixture between 2 buckets ",
+      "Label the sanitizer bucket with the date and time.",
       "Add 1 or 2 towels to the bucket. If the towel turns blue, the mixture is to strong.",
-      "Discard after water is soiled, or at 4 hours of time.",
-      "Container: Red Sani Bucket"
+      "Discard after water if it is soiled, or after a 4-hour time.",
+      "Smallware:",
+      " Red Sani Bucket"
     ],
     "notes": "",
     "images": []
