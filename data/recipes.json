@@ -49802,14 +49802,14 @@
         "unit": "oz pour"
       },
       {
-        "name": "Root Beer Soda",
-        "qty": "4",
-        "unit": "oz"
-      },
-      {
         "name": "Bitters",
         "qty": "6",
         "unit": "Dashes"
+      },
+      {
+        "name": "Root Beer Soda",
+        "qty": "4",
+        "unit": "oz"
       },
       {
         "name": "Grand Mariner",
@@ -49823,7 +49823,7 @@
       },
       {
         "name": "Cherry",
-        "qty": "1",
+        "qty": "1 ea",
         "unit": "Garnish"
       }
     ],
@@ -49832,8 +49832,12 @@
       "Add Basil Hayden",
       "Add a good Splash of Root Beer",
       "Add 6 dashes of Bitters",
-      "Garnish: Orange Rhine twist, cherry",
-      "Glassware: 9oz Rocks Glass"
+      "Stir the drink",
+      "Float the Grandma",
+      "Glassware:",
+      "9oz Rocks Glass",
+      "Garnish:",
+      "Orange Rhine twist, Cherry"
     ],
     "notes": "",
     "images": []
