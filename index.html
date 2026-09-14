@@ -425,6 +425,14 @@ const IS_LOCATION_RESTRICTED = (ASSIGNED_LOCATION !== 'all' && ASSIGNED_LOCATION
 // True whenever this page was served through the Worker's login gate (any user,
 // including "all" access) — false only when viewed directly via the raw GitHub Pages link.
 const IS_AUTHENTICATED_SESSION = (ASSIGNED_LOCATION !== 'ASSIGNED_LOCATION_PLACEHOLDER');
+// The individual site this login belongs to. Several stores share one recipe
+// book, so ASSIGNED_LOCATION (the book) drives filtering while ASSIGNED_STORE
+// is what the person actually sees. Falls back to the book name for older
+// USERS_JSON entries that have no "store" field, and for direct Pages views.
+const ASSIGNED_STORE = 'ASSIGNED_STORE_PLACEHOLDER';
+const STORE_LABEL = (ASSIGNED_STORE && ASSIGNED_STORE !== 'ASSIGNED_STORE_PLACEHOLDER')
+  ? ASSIGNED_STORE
+  : (LOC_SHORT[ASSIGNED_LOCATION] || ASSIGNED_LOCATION);
 
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island",'Mar Vista','Sandbar','Beach House'];
 // Base set of categories always offered, even if a category temporarily has no
@@ -827,7 +835,14 @@ function applyLocationRestrictionUI(){
   const wrap = document.getElementById('locationFilters').parentElement;
   const label = wrap.querySelector('.filter-label');
   if (label) label.style.display = 'none';
-  document.getElementById('locationFilters').outerHTML = `<span class="mode-badge unlocked" style="background:rgba(255,255,255,0.12);color:rgba(255,255,255,0.85)">📍 ${LOC_SHORT[ASSIGNED_LOCATION]||ASSIGNED_LOCATION}</span>`;
+  // Show the store; append the book only when they differ, so a cook at a
+  // shared-book site can see which book they're reading.
+  const bookShort = LOC_SHORT[ASSIGNED_LOCATION] || ASSIGNED_LOCATION;
+  // Suppress the book when it adds nothing — "Salty Crab North Beach" already
+  // contains "North Beach", so showing both just reads as a stutter.
+  const bookRedundant = STORE_LABEL === bookShort || STORE_LABEL.toLowerCase().includes(bookShort.toLowerCase());
+  const badgeText = bookRedundant ? esc(STORE_LABEL) : `${esc(STORE_LABEL)} <span style="opacity:.6">· ${esc(bookShort)}</span>`;
+  document.getElementById('locationFilters').outerHTML = `<span class="mode-badge unlocked" style="background:rgba(255,255,255,0.12);color:rgba(255,255,255,0.85)">📍 ${badgeText}</span>`;
 }
 async function refreshData(){
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
