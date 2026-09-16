@@ -216,6 +216,17 @@
   .photo-thumb .photo-move button:disabled { opacity: 0.25; cursor: default; }
   .photo-thumb .photo-move button:not(:disabled):hover { background: rgba(255,255,255,0.18); }
   .photo-thumb .photo-move button:not(:disabled):active { background: rgba(255,255,255,0.32); }
+  .sheet-station { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--teal); margin: 18px 0 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
+  .sheet-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  .sheet-table th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--text-light); padding: 4px 6px; font-weight: 600; }
+  .sheet-table td { padding: 5px 6px; border-top: 1px solid var(--border); vertical-align: top; }
+  .sheet-par { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .sheet-thaw { display: inline-block; font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: 8px; background: #fff3d6; color: #8a6410; margin-left: 5px; }
+  .sheet-note { font-size: 11px; color: var(--text-light); }
+  .sheet-asof { font-size: 11px; color: var(--text-light); font-style: italic; margin-bottom: 4px; }
+  .sheet-storepick { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+  .sheet-storepick button { font-size: 12px; padding: 4px 9px; border-radius: 12px; border: 1px solid var(--border); background: white; cursor: pointer; }
+  .sheet-storepick button.on { background: var(--teal); color: white; border-color: var(--teal); }
   .ing-link { color: var(--teal); cursor: pointer; border-bottom: 1px dotted currentColor; }
   .ing-link:hover { opacity: .75; }
   .ing-link .ing-arrow { font-size: 10px; opacity: .7; margin-left: 2px; }
@@ -340,6 +351,7 @@
     </div>
     <div class="divider"></div>
     <button class="filter-btn inactive-toggle" id="inactiveToggleBtn" onclick="toggleInactiveView()">🗄 Inactive</button>
+    <button class="filter-btn" id="prepSheetBtn" onclick="openPrepSheet()" title="Your store's prep list — stations, pars and pull/thaw">📋 Prep Sheet</button>
     <button class="filter-btn" id="filterLinkBtn" onclick="writeFiltersToUrl()" title="Put the current filters into the address bar, so this page can be bookmarked or added to a Home Screen and reopened already filtered">🔗 Link to These Filters</button>
   </div>
 </header>
@@ -375,6 +387,20 @@
 <!-- PASSWORD MODAL -->
 <!-- Second layer: a prep recipe opened from an ingredient. The recipe that
      linked here stays open underneath, so closing this returns to it. -->
+<div class="modal-backdrop" id="sheetBackdrop" onclick="handleSheetBackdropClick(event)">
+  <div class="modal">
+    <div class="modal-header" id="sheetHeader">
+      <div class="modal-header-text">
+        <div class="modal-title" id="sheetTitle"></div>
+        <div class="card-meta" id="sheetMeta"></div>
+      </div>
+      <button class="modal-close" onclick="closePrepSheet()">&#x2715;</button>
+    </div>
+    <div class="modal-body" id="sheetBody"></div>
+    <div class="modal-footer" id="sheetFooter"></div>
+  </div>
+</div>
+
 <div class="modal-backdrop" id="prepBackdrop" onclick="handlePrepBackdropClick(event)">
   <div class="modal">
     <div class="modal-header" id="prepHeader">
@@ -1340,6 +1366,105 @@ function renderModalView(){
     ${editBtn}
     <button class="action-btn" style="margin-left:auto" onclick="closeModal()">Close</button>`;
 }
+
+// ─── PREP SHEET ─────────────────────────────────────────────────────────────
+// A read-only per-store prep list imported from the Prep Hub, which remains the
+// system of record for pars and daily counts. A store login sees only its own
+// sheet; the all-stores admin can switch between all nine.
+const PREP_SHEET_URL = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/prep.json';
+let PREP_SHEET = null;
+let sheetStore = null;
+
+async function openPrepSheet(){
+  document.getElementById('sheetBackdrop').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  if(!PREP_SHEET){
+    document.getElementById('sheetTitle').textContent = 'Prep Sheet';
+    document.getElementById('sheetMeta').innerHTML = '';
+    document.getElementById('sheetBody').innerHTML =
+      '<div style="padding:32px;text-align:center;color:var(--text-light)">Loading\u2026</div>';
+    document.getElementById('sheetFooter').innerHTML = '';
+    try{
+      const res = await fetch(PREP_SHEET_URL, { headers:{'Accept':'application/vnd.github.v3.raw'}, cache:'no-store' });
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      PREP_SHEET = await res.json();
+    }catch(e){
+      document.getElementById('sheetBody').innerHTML =
+        `<div style="padding:32px;text-align:center;color:var(--text-light)">
+           <div style="font-size:40px;margin-bottom:12px">\u26a0\ufe0f</div>
+           <p>The prep sheet could not be loaded.</p>
+           <p class="sheet-note">${esc(e.message)}</p>
+         </div>`;
+      return;
+    }
+  }
+  if(!sheetStore) sheetStore = defaultSheetStore();
+  renderPrepSheet();
+}
+function defaultSheetStore(){
+  const codes = Object.keys(PREP_SHEET.stores || {});
+  // A store login is pinned to its own sheet; admin starts on the first store.
+  if(ASSIGNED_STORE_CODE && codes.includes(ASSIGNED_STORE_CODE)) return ASSIGNED_STORE_CODE;
+  return codes[0] || null;
+}
+function pickSheetStore(code){ sheetStore = code; renderPrepSheet(); }
+
+function renderPrepSheet(){
+  const store = PREP_SHEET.stores[sheetStore];
+  if(!store){
+    document.getElementById('sheetBody').innerHTML =
+      '<div style="padding:32px;text-align:center;color:var(--text-light)">No prep sheet for this store yet.</div>';
+    return;
+  }
+  document.getElementById('sheetHeader').className = 'modal-header ' + (LOC_CLASS[store.book]||'');
+  document.getElementById('sheetTitle').textContent = 'Prep Sheet \u2014 ' + store.name;
+  document.getElementById('sheetMeta').innerHTML =
+    `<span class="badge badge-loc">${esc(LOC_SHORT[store.book]||store.book)} book</span>` +
+    `<span class="badge badge-cat">${store.itemCount} items</span>`;
+
+  // Only the all-stores admin may switch store; a store login stays on its own.
+  let picker = '';
+  if(!ASSIGNED_STORE_CODE){
+    picker = '<div class="sheet-storepick">' + Object.values(PREP_SHEET.stores).map(st =>
+      `<button class="${st.code===sheetStore?'on':''}" onclick="pickSheetStore('${esc(st.code)}')">${esc(st.name)}</button>`
+    ).join('') + '</div>';
+  }
+
+  const sections = Object.keys(store.stations).map(st => {
+    const rows = store.stations[st].map(it => {
+      const link = it.recipeId
+        ? `<span class="ing-link" onclick="openPrepLayer('${esc(it.recipeId)}')">${esc(it.name)}<span class="ing-arrow">\u2197</span></span>`
+        : esc(it.name);
+      const thaw = it.pullThaw ? '<span class="sheet-thaw">PULL/THAW</span>' : '';
+      const bits = [];
+      if(it.batchYieldNote) bits.push(esc(it.batchYieldNote));
+      if(it.shelfLifeDays) bits.push(esc(it.shelfLifeDays) + ' day shelf life');
+      if(it.storageNotes) bits.push(esc(it.storageNotes));
+      const note = bits.length ? `<div class="sheet-note">${bits.join(' \u00b7 ')}</div>` : '';
+      return `<tr><td>${link}${thaw}${note}</td><td class="sheet-par">${esc(it.parFloor)||'\u2014'}</td>`
+           + `<td>${esc(it.unit)}</td><td class="sheet-note">${esc(it.parMode)}</td></tr>`;
+    }).join('');
+    const label = st === 'None' ? 'Unassigned' : st;   // Prep Hub stores a literal "None"
+    return `<div class="sheet-station">${esc(label)}</div>
+      <table class="sheet-table"><thead><tr><th>Item</th><th class="sheet-par">Par</th><th>Unit</th><th>Par mode</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+  }).join('');
+
+  document.getElementById('sheetBody').innerHTML =
+    picker +
+    `<div class="sheet-asof">Imported from the Prep Hub on ${esc(PREP_SHEET.generatedAt)}. ` +
+    `The Prep Hub is the system of record for pars and daily counts \u2014 this is a reference copy.</div>` +
+    sections;
+  document.getElementById('sheetBody').scrollTop = 0;
+  document.getElementById('sheetFooter').innerHTML =
+    `<button class="action-btn" onclick="window.print()">\ud83d\udda8 Print</button>` +
+    `<button class="action-btn" style="margin-left:auto" onclick="closePrepSheet()">Close</button>`;
+}
+function closePrepSheet(){
+  document.getElementById('sheetBackdrop').classList.remove('open');
+  document.body.style.overflow = '';
+}
+function handleSheetBackdropClick(e){ if(e.target && e.target.id==='sheetBackdrop') closePrepSheet(); }
 
 // ─── PREP LAYER (second modal, opened from an ingredient) ───────────────────
 let prepLayerId = null;
