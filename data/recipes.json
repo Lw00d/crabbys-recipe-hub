@@ -78406,5 +78406,117 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Steak Pull Thaw",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": "As Needed",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "*Only use if receiving Frozen product*",
+      "Pull the daily needs for the next day's prep",
+      "Remove the steak from the sealed bag",
+      "Place them on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of steaks"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mu48i53u6w6zy8",
+    "masterId": "m-mu48e8gp0rniki",
+    "location": "CBG"
+  },
+  {
+    "name": "Steak Pull Thaw",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": "As Needed",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "*Only use if receiving Frozen product*",
+      "Pull the daily needs for the next day's prep",
+      "Remove the steak from the sealed bag",
+      "Place them on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of steaks"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mu48i4o0pgda2x",
+    "masterId": "m-mu48e8gp0rniki",
+    "location": "CDS"
+  },
+  {
+    "name": "Steak Pull Thaw",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": "As Needed",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "*Only use if receiving Frozen product*",
+      "Pull the daily needs for the next day's prep",
+      "Remove the steak from the sealed bag",
+      "Place them on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of steaks"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mu48i3wib2b430",
+    "masterId": "m-mu48e8gp0rniki",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Steak Pull Thaw",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": "As Needed",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "*Only use if receiving Frozen product*",
+      "Pull the daily needs for the next day's prep",
+      "Remove the steak from the sealed bag",
+      "Place them on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Storage recommendations - large day portion bag",
+      "Label, date, and write number of steaks"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mu48e8gp3kfakl",
+    "masterId": "m-mu48e8gp0rniki",
+    "location": "Palm"
   }
 ]
