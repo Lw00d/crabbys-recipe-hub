@@ -612,7 +612,18 @@ function propagateToLinked(r){
   // Clone fresh for every sibling individually — reusing one clone across multiple
   // siblings would just move the same shared-reference bug one level over, leaving
   // siblings sharing arrays with each other instead of with the source recipe.
-  siblings.forEach(s => { Object.assign(s, shareContentFields(r)); s._modified = true; });
+  siblings.forEach(s => {
+    // Keep each sibling's own submenu. A masterId group can legitimately
+    // contain more than one row in the SAME book when a recipe is deliberately
+    // cross-listed — SI's Grouper sits under Handhelds, Tacos / Bowls and
+    // Offshore; French Toast is both a Breakfast Entree and a Kid's Meal.
+    // Propagating submenu would collapse all of them onto the edited row's
+    // submenu and make the recipe vanish from the other menus.
+    const keepSubmenu = s.submenu;
+    Object.assign(s, shareContentFields(r));
+    s.submenu = keepSubmenu;
+    s._modified = true;
+  });
   return siblings.length;
 }
 function newUid(){ return 'm-'+Date.now().toString(36)+Math.random().toString(36).slice(2,8); }
