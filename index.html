@@ -216,6 +216,13 @@
   .photo-thumb .photo-move button:disabled { opacity: 0.25; cursor: default; }
   .photo-thumb .photo-move button:not(:disabled):hover { background: rgba(255,255,255,0.18); }
   .photo-thumb .photo-move button:not(:disabled):active { background: rgba(255,255,255,0.32); }
+  .ing-link { color: var(--teal); cursor: pointer; border-bottom: 1px dotted currentColor; }
+  .ing-link:hover { opacity: .75; }
+  .ing-link .ing-arrow { font-size: 10px; opacity: .7; margin-left: 2px; }
+  /* Second layer sits above the recipe modal so the recipe stays open beneath. */
+  #prepBackdrop { z-index: 1200; }
+  #prepBackdrop .modal { max-width: 640px; }
+  .prep-layer-hint { font-size: 12px; opacity: .8; }
   .photo-reorder-hint { font-size: 12px; color: var(--text-light); margin-bottom: 6px; }
   .photo-upload-btn { width: 100px; height: 100px; border-radius: 8px; border: 2px dashed var(--border); background: var(--sand); color: var(--text-light); font-size: 12px; font-weight: 600; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; flex-shrink: 0; transition: all 0.15s; }
   .photo-upload-btn:hover { border-color: var(--teal); color: var(--teal); background: #EBF5FA; }
@@ -366,6 +373,22 @@
 </div>
 
 <!-- PASSWORD MODAL -->
+<!-- Second layer: a prep recipe opened from an ingredient. The recipe that
+     linked here stays open underneath, so closing this returns to it. -->
+<div class="modal-backdrop" id="prepBackdrop" onclick="handlePrepBackdropClick(event)">
+  <div class="modal">
+    <div class="modal-header" id="prepHeader">
+      <div class="modal-header-text">
+        <div class="modal-title" id="prepTitle"></div>
+        <div class="card-meta" id="prepMeta"></div>
+      </div>
+      <button class="modal-close" onclick="closePrepLayer()">&#x2715;</button>
+    </div>
+    <div class="modal-body" id="prepBody"></div>
+    <div class="modal-footer" id="prepFooter"></div>
+  </div>
+</div>
+
 <div class="modal-backdrop" id="pwBackdrop">
   <div class="pw-modal">
     <div class="pw-icon">🔒</div>
@@ -614,7 +637,7 @@ async function loadRecipes(url, useCache=true){
     RECIPES = data;
     loadedSnapshot = canon(data);
     rebaseline(data);
-    buildCategories(); buildSubmenus();
+    buildCategories(); buildSubmenus(); buildPrepIndex();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     render();
@@ -629,7 +652,7 @@ async function loadRecipes(url, useCache=true){
       try{
         RECIPES = JSON.parse(cached);
         rebaseline(RECIPES);
-        buildCategories(); buildSubmenus();
+        buildCategories(); buildSubmenus(); buildPrepIndex();
         const ts = localStorage.getItem(CACHE_TS_KEY);
         setStatus('offline', `Offline — cached ${ts?new Date(ts).toLocaleDateString():'data'}`);
         render(); return;
@@ -689,7 +712,7 @@ async function checkForStaleData(){
     RECIPES = authoritativeData;
     loadedSnapshot = authoritativeSnapshot;
     rebaseline(authoritativeData);
-    buildCategories(); buildSubmenus();
+    buildCategories(); buildSubmenus(); buildPrepIndex();
     render();
     toast(
       summary
@@ -703,6 +726,38 @@ async function checkForStaleData(){
     // primary load; not worth surfacing an error for a background sanity check.
   }
 }
+// ─── PREP LINKS ─────────────────────────────────────────────────────────────
+// Ingredients that share a name with a prep recipe in the SAME book become
+// tappable. Matching is by normalised name rather than a stored id, so it needs
+// no schema change and improves on its own as names are tidied up. Scoped to
+// the book (and therefore the group) so a login can never reach another book's
+// recipe through an ingredient.
+const PREP_CATEGORIES = ['Dinner Prep','Breakfast Prep','Line Prep'];
+let PREP_INDEX = new Map();
+function prepKey(loc, name){
+  return loc + '||' + String(name||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+}
+function buildPrepIndex(){
+  PREP_INDEX = new Map();
+  RECIPES.forEach(r=>{
+    if(!PREP_CATEGORIES.includes(r.category)) return;
+    if(r.active === false) return;              // don't link to a hidden recipe
+    const k = prepKey(r.location, r.name);
+    if(!PREP_INDEX.has(k)) PREP_INDEX.set(k, r.id);   // first match wins
+  });
+}
+function prepLinkFor(recipe, ingName){
+  if(!recipe || !ingName) return null;
+  const id = PREP_INDEX.get(prepKey(recipe.location, ingName));
+  return (id && id !== recipe.id) ? id : null;   // never link a recipe to itself
+}
+// Renders an ingredient name, as a link when a matching prep recipe exists.
+function ingCell(recipe, name){
+  const id = prepLinkFor(recipe, name);
+  if(!id) return hl(name);
+  return `<span class="ing-link" onclick="openPrepLayer('${esc(String(id))}')" title="Open the prep recipe">${hl(name)}<span class="ing-arrow">\u2197</span></span>`;
+}
+
 function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
 function buildCategories(){ const set=new Set(BASE_CATEGORIES); RECIPES.forEach(r=>{ if(r.category) set.add(r.category); }); CATS = Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'})); renderCatDropdown(); }
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
@@ -861,7 +916,7 @@ async function refreshData(){
       RECIPES = data;
       loadedSnapshot = canon(data);
       rebaseline(data);
-      buildCategories(); buildSubmenus();
+      buildCategories(); buildSubmenus(); buildPrepIndex();
       try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
       if (stillConfirmingSave) {
         setStatus('loading','Still confirming your save — try refresh again in a few seconds');
@@ -996,7 +1051,7 @@ async function refreshAfterSave(changed, deleted){
   RECIPES = data;
   loadedSnapshot = canon(data);
   rebaseline(data);
-  buildCategories(); buildSubmenus();
+  buildCategories(); buildSubmenus(); buildPrepIndex();
   render();
   if (others) toast(`Also picked up other changes \u2014 ${others.replace('Since you loaded this page: ','').replace(/\.$/,'')}`);
 }
@@ -1190,11 +1245,11 @@ function renderModalView(){
       const l3col = bCount>=3 ? `<th>${esc(recipe.dualBatch.label3||'Batch 3')}</th>` : '';
       const rows=recipe.ingredients.map(i=>{
         const c3 = bCount>=3 ? `<td class="qty-cell">${i.qty3||'—'}</td>` : '';
-        return `<tr><td class="qty-cell">${i.qty||'—'}</td><td class="qty-cell">${i.qty2||'—'}</td>${c3}<td class="unit-cell">${i.unit||''}</td><td>${hl(i.name)}</td></tr>`;
+        return `<tr><td class="qty-cell">${i.qty||'—'}</td><td class="qty-cell">${i.qty2||'—'}</td>${c3}<td class="unit-cell">${i.unit||''}</td><td>${ingCell(recipe, i.name)}</td></tr>`;
       }).join('');
       ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>${l1}</th><th>${l2}</th>${l3col}<th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
     } else {
-      const rows=recipe.ingredients.map(i=>`<tr><td class="qty-cell">${i.qty||'—'}</td><td class="unit-cell">${i.unit||''}</td><td>${hl(i.name)}</td></tr>`).join('');
+      const rows=recipe.ingredients.map(i=>`<tr><td class="qty-cell">${i.qty||'—'}</td><td class="unit-cell">${i.unit||''}</td><td>${ingCell(recipe, i.name)}</td></tr>`).join('');
       ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>Qty</th><th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
     }
   }
@@ -1221,6 +1276,62 @@ function renderModalView(){
     <button class="action-btn" onclick="window.print()">🖨 Print</button>
     ${editBtn}
     <button class="action-btn" style="margin-left:auto" onclick="closeModal()">Close</button>`;
+}
+
+// ─── PREP LAYER (second modal, opened from an ingredient) ───────────────────
+let prepLayerId = null;
+function openPrepLayer(id){
+  const r = RECIPES.find(x=>x.id===id);
+  if(!r){ toast('That prep recipe could not be found — try reloading','err'); return; }
+  prepLayerId = id;
+  const lc = LOC_CLASS[r.location]||'';
+  document.getElementById('prepHeader').className = `modal-header ${lc}`;
+  document.getElementById('prepTitle').textContent = r.name;
+  const from = getCurrentRecipe();
+  document.getElementById('prepMeta').innerHTML =
+    `<span class="badge badge-cat">${esc(r.category)}</span>` +
+    (from ? `<span class="prep-layer-hint">from ${esc(from.name)}</span>` : '');
+
+  const metas=[];
+  if(r.yield) metas.push(`<div class="meta-pill">\u2696\ufe0f <strong>Yield:</strong> ${esc(r.yield)}</div>`);
+  if(r.shelfLife) metas.push(`<div class="meta-pill">\ud83d\udd50 <strong>Shelf Life:</strong> ${esc(r.shelfLife)}</div>`);
+  if(r.smallware) metas.push(`<div class="meta-pill">\ud83c\udf73 <strong>Smallware:</strong> ${esc(r.smallware)}</div>`);
+  const metaHTML = metas.length?`<div class="detail-section"><div class="meta-pills">${metas.join('')}</div></div>`:'';
+
+  let ingHTML='';
+  if(r.ingredients && r.ingredients.length){
+    // Deliberately not linked again — one hop is enough, and chaining layers
+    // on a line iPad gets disorienting fast.
+    const rows=r.ingredients.map(i=>`<tr><td class="qty-cell">${esc(i.qty)||'\u2014'}</td><td class="unit-cell">${esc(i.unit)||''}</td><td>${esc(i.name)}</td></tr>`).join('');
+    ingHTML=`<div class="detail-section"><div class="detail-heading">Ingredients</div><table class="ingredients-table"><thead><tr><th>Qty</th><th>Unit</th><th>Ingredient</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
+  let stepsHTML='';
+  if(r.steps && r.steps.length){
+    let n=0;
+    const items=r.steps.map(x=>{
+      if(isSection(x)) return `<div class="step-section-label">${esc(x.slice(0,-1))}</div>`;
+      if(isHighlight(x)) return `<div class="step-item highlight"><div class="step-text">${esc(x)}</div></div>`;
+      n++; return `<div class="step-item"><div class="step-num">${n}</div><div class="step-text">${esc(x)}</div></div>`;
+    }).join('');
+    stepsHTML=`<div class="detail-section"><div class="detail-heading">Preparation</div><div class="steps-list">${items}</div></div>`;
+  }
+  let photoHTML='';
+  if(r.images && r.images.length){
+    photoHTML=`<div class="detail-section"><div class="photo-view-grid">${r.images.map(src=>`<img src="${esc(src)}" onclick="openLightbox('${esc(src)}')" loading="lazy">`).join('')}</div></div>`;
+  }
+  document.getElementById('prepBody').innerHTML = photoHTML+metaHTML+ingHTML+stepsHTML;
+  document.getElementById('prepBody').scrollTop = 0;
+  document.getElementById('prepFooter').innerHTML =
+    `<button class="action-btn" style="margin-left:auto" onclick="closePrepLayer()">\u2190 Back${from?' to '+esc(from.name):''}</button>`;
+  document.getElementById('prepBackdrop').classList.add('open');
+}
+function closePrepLayer(){
+  prepLayerId = null;
+  document.getElementById('prepBackdrop').classList.remove('open');
+  // body overflow stays hidden: the recipe modal underneath is still open.
+}
+function handlePrepBackdropClick(e){
+  if(e.target && e.target.id === 'prepBackdrop') closePrepLayer();
 }
 
 // ─── MODAL: EDIT MODE ────────────────────────────────────────────────────────
