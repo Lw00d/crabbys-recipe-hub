@@ -456,6 +456,13 @@ const ASSIGNED_STORE = 'ASSIGNED_STORE_PLACEHOLDER';
 const STORE_LABEL = (ASSIGNED_STORE && ASSIGNED_STORE !== 'ASSIGNED_STORE_PLACEHOLDER')
   ? ASSIGNED_STORE
   : (LOC_SHORT[ASSIGNED_LOCATION] || ASSIGNED_LOCATION);
+// Stable per-store key, shared verbatim with the Prep Hub. Display names may be
+// renamed; this must not. Per-store data (prep sheets, yields) keys off it.
+// Empty string when the page is viewed outside the login gate, or for the
+// all-stores admin, which belongs to no single store.
+const ASSIGNED_STORE_CODE =
+  ('ASSIGNED_STORE_CODE_PLACEHOLDER' === 'ASSIGNED_STORE_CODE' + '_PLACEHOLDER')
+    ? '' : 'ASSIGNED_STORE_CODE_PLACEHOLDER';
 
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island",'Mar Vista','Sandbar','Beach House'];
 // Base set of categories always offered, even if a category temporarily has no
