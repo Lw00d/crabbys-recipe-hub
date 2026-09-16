@@ -863,6 +863,51 @@ async function init(){
   applyFiltersFromUrl();
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
+  openRecipeFromUrl();
+}
+
+// ─── DEEP LINKS TO A SINGLE RECIPE ──────────────────────────────────────────
+// ?recipe=<id>      opens that exact row.
+// ?master=<masterId> opens whichever row in that linked group belongs to the
+//                   viewer's OWN book. This is the one external systems should
+//                   use: the Prep Hub stores a single URL per recipe and each
+//                   store's login lands on its own version, so neither system
+//                   needs to know the other's store-to-book mapping.
+// Both respect the login gate — a store can only ever open a recipe from its
+// own book, and never across the BSHGRP / BSHGRP2 divide.
+function openRecipeFromUrl(){
+  const params = new URLSearchParams(window.location.search);
+  const byId = (params.get('recipe') || '').trim();
+  const byMaster = (params.get('master') || '').trim();
+  if(!byId && !byMaster) return;
+
+  const visible = r => {
+    if(!r) return false;
+    if(IS_LOCATION_RESTRICTED) return r.location === ASSIGNED_LOCATION;
+    return (LOC_GROUP[r.location] || 'BSHGRP') === activeGroup;
+  };
+
+  let target = null;
+  if(byId){
+    target = RECIPES.find(r => String(r.id) === byId) || null;
+  } else {
+    const group = RECIPES.filter(r => String(r.masterId) === byMaster);
+    // Prefer this viewer's own book; otherwise any row they're allowed to see.
+    const ownBook = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : null;
+    target = (ownBook && group.find(r => r.location === ownBook))
+          || group.find(visible)
+          || null;
+  }
+
+  if(!target){
+    toast('That recipe link could not be opened \u2014 it may have been removed','err');
+    return;
+  }
+  if(!visible(target)){
+    toast('That recipe belongs to another store\u2019s book','err');
+    return;
+  }
+  openModal(target.id);
 }
 async function logoutUser(){
   if (!confirm('Log out? You\'ll need to sign back in to view this site.')) return;
