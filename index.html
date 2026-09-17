@@ -1449,11 +1449,14 @@ function prepActor(){
 async function savePrepCount(itemId, field, value, el){
   const who = prepActor();
   if(!who){ el.value=''; return; }
-  const body = { prep_item_id: itemId, counted_by: who };
+  // The item id belongs in the PATH, not the body — a body-only prep_item_id
+  // matches no route at all and returns 404.
+  const seg = field === 'prepped_qty' ? 'prepped' : 'count';
+  const body = { counted_by: who };
   body[field] = value === '' ? null : Number(value);
   el.classList.remove('saved','err');
   try{
-    const r = await fetch('/prep/prep-days/' + prepDate() + '/count' + prepQS(), {
+    const r = await fetch('/prep/prep-days/' + prepDate() + '/' + seg + '/' + encodeURIComponent(itemId) + prepQS(), {
       method:'PUT', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
     if(!r.ok){
       let msg = 'HTTP ' + r.status;
@@ -1473,9 +1476,9 @@ async function savePrepMode(itemId, mode, el){
   const who = prepActor();
   if(!who) return;
   try{
-    const r = await fetch('/prep/prep-days/' + prepDate() + '/count' + prepQS(), {
+    const r = await fetch('/prep/prep-days/' + prepDate() + '/count/' + encodeURIComponent(itemId) + prepQS(), {
       method:'PUT', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ prep_item_id: itemId, par_mode: mode, counted_by: who }) });
+      body: JSON.stringify({ par_mode: mode, counted_by: who }) });
     if(!r.ok){ let m='HTTP '+r.status; try{ m=(await r.json()).error||m; }catch(e){} toast(m,'err'); }
   }catch(e){ toast('Could not save \u2014 ' + e.message,'err'); }
 }
