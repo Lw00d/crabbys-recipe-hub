@@ -1368,95 +1368,125 @@ function renderModalView(){
 }
 
 // ─── PREP SHEET ─────────────────────────────────────────────────────────────
-// A read-only per-store prep list imported from the Prep Hub, which remains the
-// system of record for pars and daily counts. A store login sees only its own
-// sheet; the all-stores admin can switch between all nine.
-const PREP_SHEET_URL = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/prep.json';
-let PREP_SHEET = null;
+// Reads LIVE from the Prep Hub through our own Worker (/prep/...), which adds
+// the service key and pins the store to the logged-in user. The Prep Hub
+// remains the system of record; nothing is cached here beyond the session.
+//
+// One call returns both the item definitions and today's day state, so the
+// sheet shows pars and what has already been counted without a second request.
+const PREP_LINKS_URL = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/prep-links.json';
+let PREP_LINKS = null;      // prepHubId -> Recipe Hub recipe id
+let PREP_ITEMS = null;
 let sheetStore = null;
+
+const SHEET_STORES = [
+  ['csc-stcloud','St. Cloud'], ['cbg-nsb','New Smyrna'], ['cbp-staugustine','St. Augustine'],
+  ['cbg-beachwalk','Beachwalk'], ['cds-dockside','Dockside'], ['cds-oceanside','Oceanside'],
+  ['si-island',"Salty's Island"], ['nb-crab','North Beach'], ['cbp-pavilion','Pavilion'],
+];
 
 async function openPrepSheet(){
   document.getElementById('sheetBackdrop').classList.add('open');
   document.body.style.overflow = 'hidden';
-  if(!PREP_SHEET){
-    document.getElementById('sheetTitle').textContent = 'Prep Sheet';
-    document.getElementById('sheetMeta').innerHTML = '';
-    document.getElementById('sheetBody').innerHTML =
-      '<div style="padding:32px;text-align:center;color:var(--text-light)">Loading\u2026</div>';
-    document.getElementById('sheetFooter').innerHTML = '';
-    try{
-      const res = await fetch(PREP_SHEET_URL, { headers:{'Accept':'application/vnd.github.v3.raw'}, cache:'no-store' });
-      if(!res.ok) throw new Error('HTTP '+res.status);
-      PREP_SHEET = await res.json();
-    }catch(e){
-      document.getElementById('sheetBody').innerHTML =
-        `<div style="padding:32px;text-align:center;color:var(--text-light)">
-           <div style="font-size:40px;margin-bottom:12px">\u26a0\ufe0f</div>
-           <p>The prep sheet could not be loaded.</p>
-           <p class="sheet-note">${esc(e.message)}</p>
-         </div>`;
-      return;
-    }
-  }
-  if(!sheetStore) sheetStore = defaultSheetStore();
-  renderPrepSheet();
+  if(!sheetStore) sheetStore = ASSIGNED_STORE_CODE || SHEET_STORES[0][0];
+  await loadPrepSheet();
 }
-function defaultSheetStore(){
-  const codes = Object.keys(PREP_SHEET.stores || {});
-  // A store login is pinned to its own sheet; admin starts on the first store.
-  if(ASSIGNED_STORE_CODE && codes.includes(ASSIGNED_STORE_CODE)) return ASSIGNED_STORE_CODE;
-  return codes[0] || null;
-}
-function pickSheetStore(code){ sheetStore = code; renderPrepSheet(); }
+async function pickSheetStore(code){ sheetStore = code; await loadPrepSheet(); }
 
-function renderPrepSheet(){
-  const store = PREP_SHEET.stores[sheetStore];
-  if(!store){
+async function loadPrepSheet(){
+  document.getElementById('sheetTitle').textContent = 'Prep Sheet';
+  document.getElementById('sheetMeta').innerHTML = '';
+  document.getElementById('sheetFooter').innerHTML = '';
+  document.getElementById('sheetBody').innerHTML =
+    '<div style="padding:32px;text-align:center;color:var(--text-light)">Loading\u2026</div>';
+  // The link map is static and small; fetch it once.
+  if(!PREP_LINKS){
+    try{
+      const r = await fetch(PREP_LINKS_URL, { headers:{'Accept':'application/vnd.github.v3.raw'}, cache:'no-store' });
+      PREP_LINKS = r.ok ? (await r.json()).links : {};
+    }catch(e){ PREP_LINKS = {}; }   // links are a nicety, not required
+  }
+  // Only the all-stores admin may name a store; for a store login the Worker
+  // ignores it and uses the login's own code regardless.
+  const qs = ASSIGNED_STORE_CODE ? '' : ('?store=' + encodeURIComponent(sheetStore));
+  try{
+    const res = await fetch('/prep/prep-items' + qs, { cache:'no-store' });
+    if(!res.ok){
+      let msg = 'HTTP ' + res.status;
+      try{ msg = (await res.json()).error || msg; }catch(e){}
+      throw new Error(msg);
+    }
+    PREP_ITEMS = await res.json();
+  }catch(e){
     document.getElementById('sheetBody').innerHTML =
-      '<div style="padding:32px;text-align:center;color:var(--text-light)">No prep sheet for this store yet.</div>';
+      `<div style="padding:32px;text-align:center;color:var(--text-light)">
+         <div style="font-size:40px;margin-bottom:12px">\u26a0\ufe0f</div>
+         <p>The prep sheet could not be loaded.</p>
+         <p class="sheet-note">${esc(e.message)}</p>
+       </div>`;
     return;
   }
-  document.getElementById('sheetHeader').className = 'modal-header ' + (LOC_CLASS[store.book]||'');
-  document.getElementById('sheetTitle').textContent = 'Prep Sheet \u2014 ' + store.name;
-  document.getElementById('sheetMeta').innerHTML =
-    `<span class="badge badge-loc">${esc(LOC_SHORT[store.book]||store.book)} book</span>` +
-    `<span class="badge badge-cat">${store.itemCount} items</span>`;
+  renderPrepSheet();
+}
 
-  // Only the all-stores admin may switch store; a store login stays on its own.
+function renderPrepSheet(){
+  const items = PREP_ITEMS || [];
+  const label = (SHEET_STORES.find(x=>x[0]===sheetStore)||[null,sheetStore])[1];
+  document.getElementById('sheetHeader').className = 'modal-header';
+  document.getElementById('sheetTitle').textContent = 'Prep Sheet \u2014 ' + label;
+  const day = items.length ? items[0].date : '';
+  const counted = items.filter(i=>i.onHandQty!==null && i.onHandQty!==undefined).length;
+  document.getElementById('sheetMeta').innerHTML =
+    `<span class="badge badge-cat">${items.length} items</span>` +
+    (day ? `<span class="badge badge-loc">${esc(day)}</span>` : '') +
+    (counted ? `<span class="badge badge-cat">${counted} counted</span>` : '');
+
   let picker = '';
   if(!ASSIGNED_STORE_CODE){
-    picker = '<div class="sheet-storepick">' + Object.values(PREP_SHEET.stores).map(st =>
-      `<button class="${st.code===sheetStore?'on':''}" onclick="pickSheetStore('${esc(st.code)}')">${esc(st.name)}</button>`
+    picker = '<div class="sheet-storepick">' + SHEET_STORES.map(([c,n]) =>
+      `<button class="${c===sheetStore?'on':''}" onclick="pickSheetStore('${c}')">${esc(n)}</button>`
     ).join('') + '</div>';
   }
 
-  const sections = Object.keys(store.stations).map(st => {
-    const rows = store.stations[st].map(it => {
-      const link = it.recipeId
-        ? `<span class="ing-link" onclick="openPrepLayer('${esc(it.recipeId)}')">${esc(it.name)}<span class="ing-arrow">\u2197</span></span>`
-        : esc(it.name);
-      const thaw = it.pullThaw ? '<span class="sheet-thaw">PULL/THAW</span>' : '';
+  // Group by station, preserving the order the Prep Hub returned.
+  const byStation = new Map();
+  items.forEach(i=>{
+    const st = i.station || 'None';
+    if(!byStation.has(st)) byStation.set(st, []);
+    byStation.get(st).push(i);
+  });
+
+  const sections = Array.from(byStation, ([st, rows]) => {
+    const body = rows.map(i=>{
+      const rid = PREP_LINKS[i.id];
+      const name = rid
+        ? `<span class="ing-link" onclick="openPrepLayer('${esc(rid)}')">${esc(i.name)}<span class="ing-arrow">\u2197</span></span>`
+        : esc(i.name);
+      const thaw = i.needsPullThaw ? '<span class="sheet-thaw">PULL/THAW</span>' : '';
       const bits = [];
-      if(it.batchYieldNote) bits.push(esc(it.batchYieldNote));
-      if(it.shelfLifeDays) bits.push(esc(it.shelfLifeDays) + ' day shelf life');
-      if(it.storageNotes) bits.push(esc(it.storageNotes));
+      if(i.pullThawNote) bits.push(esc(i.pullThawNote));
+      if(i.recipeYieldNote) bits.push(esc(i.recipeYieldNote));
+      if(i.shelfLifeDays) bits.push(esc(i.shelfLifeDays) + ' day shelf life');
+      if(i.recipeText) bits.push(esc(i.recipeText));
       const note = bits.length ? `<div class="sheet-note">${bits.join(' \u00b7 ')}</div>` : '';
-      return `<tr><td>${link}${thaw}${note}</td><td class="sheet-par">${esc(it.parFloor)||'\u2014'}</td>`
-           + `<td>${esc(it.unit)}</td><td class="sheet-note">${esc(it.parMode)}</td></tr>`;
+      const onHand = (i.onHandQty===null||i.onHandQty===undefined) ? '\u2014' : esc(i.onHandQty);
+      return `<tr><td>${name}${thaw}${note}</td>`
+           + `<td class="sheet-par">${i.parLevel===null||i.parLevel===undefined?'\u2014':esc(i.parLevel)}</td>`
+           + `<td class="sheet-par">${onHand}</td>`
+           + `<td>${esc(i.unit)||''}</td></tr>`;
     }).join('');
-    const label = st === 'None' ? 'Unassigned' : st;   // Prep Hub stores a literal "None"
-    return `<div class="sheet-station">${esc(label)}</div>
-      <table class="sheet-table"><thead><tr><th>Item</th><th class="sheet-par">Par</th><th>Unit</th><th>Par mode</th></tr></thead>
-      <tbody>${rows}</tbody></table>`;
+    const heading = st === 'None' ? 'Unassigned' : st;
+    return `<div class="sheet-station">${esc(heading)}</div>
+      <table class="sheet-table"><thead><tr><th>Item</th><th class="sheet-par">Par</th>
+      <th class="sheet-par">On hand</th><th>Unit</th></tr></thead><tbody>${body}</tbody></table>`;
   }).join('');
 
-  document.getElementById('sheetBody').innerHTML =
-    picker +
-    `<div class="sheet-asof">Imported from the Prep Hub on ${esc(PREP_SHEET.generatedAt)}. ` +
-    `The Prep Hub is the system of record for pars and daily counts \u2014 this is a reference copy.</div>` +
-    sections;
+  document.getElementById('sheetBody').innerHTML = picker +
+    '<div class="sheet-asof">Live from the Prep Hub, which stays the system of record for pars and daily counts. ' +
+    'Counting and prep logging happen there.</div>' + sections;
   document.getElementById('sheetBody').scrollTop = 0;
   document.getElementById('sheetFooter').innerHTML =
+    `<button class="action-btn" onclick="loadPrepSheet()">\u21bb Refresh</button>` +
     `<button class="action-btn" onclick="window.print()">\ud83d\udda8 Print</button>` +
     `<button class="action-btn" style="margin-left:auto" onclick="closePrepSheet()">Close</button>`;
 }
