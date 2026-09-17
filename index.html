@@ -226,6 +226,17 @@
   .sheet-asof { font-size: 11px; color: var(--text-light); font-style: italic; margin-bottom: 4px; }
   .sheet-storepick { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
   .sheet-storepick button { font-size: 12px; padding: 4px 9px; border-radius: 12px; border: 1px solid var(--border); background: white; cursor: pointer; }
+  .sheet-day { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:9px 11px; border-radius:7px; background:var(--bg-alt,#f5f7f8); margin-bottom:10px; }
+  .sheet-day .phase { font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.05em; padding:3px 9px; border-radius:11px; }
+  .phase-not_started { background:#e8e8e8; color:#555; }
+  .phase-counting { background:#fff3d6; color:#8a6410; }
+  .phase-prepping { background:#ddebf7; color:#1b4f72; }
+  .phase-finished { background:#c6efce; color:#216e39; }
+  .sheet-day .who { font-size:12px; color:var(--text-light); }
+  .sheet-day .acts { margin-left:auto; display:flex; gap:6px; }
+  .sheet-day button { font-size:12px; padding:4px 11px; border-radius:6px; border:1px solid var(--border); background:white; cursor:pointer; }
+  .sheet-day button.primary { background:var(--teal); color:white; border-color:var(--teal); }
+  .sheet-day button:disabled { opacity:.45; cursor:default; }
   .sheet-storepick button.on { background: var(--teal); color: white; border-color: var(--teal); }
   .ing-link { color: var(--teal); cursor: pointer; border-bottom: 1px dotted currentColor; }
   .ing-link:hover { opacity: .75; }
@@ -1377,7 +1388,53 @@ function renderModalView(){
 const PREP_LINKS_URL = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/prep-links.json';
 let PREP_LINKS = null;      // prepHubId -> Recipe Hub recipe id
 let PREP_ITEMS = null;
+let PREP_DAY = null;
 let sheetStore = null;
+
+// The store param is only meaningful for the all-stores admin; for a store
+// login the Worker ignores it and uses the login's own code.
+function prepQS(extra){
+  const p = [];
+  if(!ASSIGNED_STORE_CODE) p.push('store=' + encodeURIComponent(sheetStore));
+  if(extra) p.push(extra);
+  return p.length ? ('?' + p.join('&')) : '';
+}
+async function fetchPrepDay(date){
+  try{
+    const r = await fetch('/prep/prep-days/' + date + '/status' + prepQS(), { cache:'no-store' });
+    return r.ok ? await r.json() : null;
+  }catch(e){ return null; }
+}
+// not_started -> counting -> prepping -> finished
+function prepPhase(){
+  if(!PREP_DAY) return 'not_started';
+  if(PREP_DAY.status === 'finished') return 'finished';
+  if(PREP_DAY.status === 'not_started') return 'not_started';
+  return PREP_DAY.countingComplete ? 'prepping' : 'counting';
+}
+const PHASE_LABEL = { not_started:'Not started', counting:'Counting', prepping:'Prepping', finished:'Finished' };
+
+// start / finish / reopen all require a name; Prep Hub rejects them without one.
+async function prepDayAction(action){
+  const verb = { start:'starting', finish:'finishing', reopen:'reopening' }[action];
+  const who = (prompt('Your name (recorded against ' + verb + ' this day):') || '').trim();
+  if(!who) return;
+  const date = (PREP_ITEMS[0] && PREP_ITEMS[0].date) || new Date().toISOString().slice(0,10);
+  const body = action === 'start' ? { started_by: who }
+             : action === 'finish' ? { completed_by: who }
+             : { reopened_by: who };
+  try{
+    const r = await fetch('/prep/prep-days/' + date + '/' + action + prepQS(), {
+      method:'PUT', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
+    if(!r.ok){
+      let msg = 'HTTP ' + r.status;
+      try{ msg = (await r.json()).error || msg; }catch(e){}
+      // 409 is the phase gate, not a failure: re-read and re-render.
+      toast(msg, r.status === 409 ? '' : 'err');
+    }
+  }catch(e){ toast('Could not reach the Prep Hub \u2014 ' + e.message, 'err'); }
+  await loadPrepSheet();
+}
 
 const SHEET_STORES = [
   ['csc-stcloud','St. Cloud'], ['cbg-nsb','New Smyrna'], ['cbp-staugustine','St. Augustine'],
@@ -1417,6 +1474,10 @@ async function loadPrepSheet(){
       throw new Error(msg);
     }
     PREP_ITEMS = await res.json();
+    // Day status drives the two-phase gate: nothing can be counted before the
+    // day is started, and nothing prepped until every item has been counted.
+    const today = (PREP_ITEMS[0] && PREP_ITEMS[0].date) || new Date().toISOString().slice(0,10);
+    PREP_DAY = await fetchPrepDay(today);
   }catch(e){
     document.getElementById('sheetBody').innerHTML =
       `<div style="padding:32px;text-align:center;color:var(--text-light)">
@@ -1481,7 +1542,23 @@ function renderPrepSheet(){
       <th class="sheet-par">On hand</th><th>Unit</th></tr></thead><tbody>${body}</tbody></table>`;
   }).join('');
 
-  document.getElementById('sheetBody').innerHTML = picker +
+  const phase = prepPhase();
+  const d = PREP_DAY || {};
+  const who = [];
+  if(d.startedBy) who.push('started by ' + esc(d.startedBy));
+  if(d.finishedBy) who.push('finished by ' + esc(d.finishedBy));
+  if(d.activeMinutes) who.push(esc(d.activeMinutes) + ' min active');
+  const acts =
+    phase === 'not_started' ? `<button class="primary" onclick="prepDayAction('start')">Start the day</button>`
+  : phase === 'finished'   ? `<button onclick="prepDayAction('reopen')">Reopen</button>`
+  : `<button onclick="prepDayAction('finish')">Finish the day</button>`;
+  const dayBar =
+    `<div class="sheet-day"><span class="phase phase-${phase}">${PHASE_LABEL[phase]}</span>` +
+    (phase === 'counting' ? `<span class="who">Count every item before logging prep</span>` : '') +
+    (who.length ? `<span class="who">${who.join(' \u00b7 ')}</span>` : '') +
+    `<span class="acts">${acts}</span></div>`;
+
+  document.getElementById('sheetBody').innerHTML = picker + dayBar +
     '<div class="sheet-asof">Live from the Prep Hub, which stays the system of record for pars and daily counts. ' +
     'Counting and prep logging happen there.</div>' + sections;
   document.getElementById('sheetBody').scrollTop = 0;
