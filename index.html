@@ -1449,60 +1449,58 @@ function prepActor(){
 async function savePrepCount(itemId, field, value, el){
   const who = prepActor();
   if(!who){ el.value=''; return; }
-  // The item id belongs in the PATH, not the body — a body-only prep_item_id
-  // matches no route at all and returns 404.
-  const seg = field === 'prepped_qty' ? 'prepped' : 'count';
-  const body = { counted_by: who };
-  body[field] = value === '' ? null : Number(value);
   el.classList.remove('saved','err');
+  // Both calls hang off the ITEM: /prep-items/{id}/count records the on-hand
+  // count, /count/complete records what was actually prepped. The date is a
+  // body field, not a path segment.
+  const prepped = field === 'prepped_qty';
+  const path = '/prep/prep-items/' + encodeURIComponent(itemId) + '/count' + (prepped ? '/complete' : '');
+  const num = value === '' ? null : Number(value);
+  const body = prepped
+    ? { date: prepDate(), prepped_qty: num, completed_by: who }
+    : { date: prepDate(), on_hand_qty: num, usage_qty: null, counted_by: who, par_mode: itemMode(itemId) };
   try{
-    const r = await fetch('/prep/prep-days/' + prepDate() + '/' + seg + '/' + encodeURIComponent(itemId) + prepQS(), {
+    const r = await fetch(path + prepQS(), {
       method:'PUT', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
     if(!r.ok){
       let msg = 'HTTP ' + r.status;
       try{ msg = (await r.json()).error || msg; }catch(e){}
       el.classList.add('err');
       toast(msg, r.status === 409 ? '' : 'err');
-      if(r.status === 409) await loadPrepSheet();   // phase changed under us
+      if(r.status === 409) await loadPrepSheet();
       return;
     }
     el.classList.add('saved');
     const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
-    if(it) it[field === 'on_hand_qty' ? 'onHandQty' : 'preppedQty'] = Number(value);
+    if(it) it[prepped ? 'preppedQty' : 'onHandQty'] = num;
     updateCountProgress();
   }catch(e){ el.classList.add('err'); toast('Could not save \u2014 ' + e.message,'err'); }
 }
+function itemMode(itemId){
+  const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
+  return (it && it.parMode) || null;
+}
+// The par basis rides on the same count call, so it is stored locally and sent
+// with the next on-hand save; sending it alone would blank the count.
 async function savePrepMode(itemId, mode, el){
-  const who = prepActor();
-  if(!who) return;
-  try{
-    const r = await fetch('/prep/prep-days/' + prepDate() + '/count/' + encodeURIComponent(itemId) + prepQS(), {
-      method:'PUT', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ par_mode: mode, counted_by: who }) });
-    if(!r.ok){ let m='HTTP '+r.status; try{ m=(await r.json()).error||m; }catch(e){} toast(m,'err'); }
-  }catch(e){ toast('Could not save \u2014 ' + e.message,'err'); }
+  const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
+  if(it) it.parMode = mode || null;
+  if(it && it.onHandQty !== null && it.onHandQty !== undefined){
+    const fake = { value:String(it.onHandQty), classList:{ add(){}, remove(){} } };
+    await savePrepCount(itemId, 'on_hand_qty', String(it.onHandQty), fake);
+  }
 }
 function updateCountProgress(){
   const items = PREP_ITEMS || [];
   const done = items.filter(i=>i.onHandQty!==null && i.onHandQty!==undefined).length;
   const el = document.getElementById('countProgress');
-  if(el) el.innerHTML = done === items.length
-    ? `<span class="sheet-done">All ${items.length} counted</span>`
+  if(el) el.innerHTML = done === items.length && items.length
+    ? `<span class="sheet-done">All ${items.length} counted \u2014 reopen the sheet to log prep</span>`
     : `${done} of ${items.length} counted`;
-  const btn = document.getElementById('completeCountBtn');
-  if(btn) btn.disabled = done !== items.length;
 }
-async function completeCounting(){
-  const who = prepActor();
-  if(!who) return;
-  try{
-    const r = await fetch('/prep/prep-days/' + prepDate() + '/count/complete' + prepQS(), {
-      method:'PUT', headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ completed_by: who }) });
-    if(!r.ok){ let m='HTTP '+r.status; try{ m=(await r.json()).error||m; }catch(e){} toast(m, r.status===409?'':'err'); }
-  }catch(e){ toast('Could not complete counting \u2014 ' + e.message,'err'); }
-  await loadPrepSheet();
-}
+// Counting has no explicit completion call: the Prep Hub derives
+// countingComplete once every item has a count. Re-read rather than post.
+async function completeCounting(){ await loadPrepSheet(); }
 
 async function prepDayAction(action){
   const verb = { start:'starting', finish:'finishing', reopen:'reopening' }[action];
@@ -1666,7 +1664,7 @@ function renderPrepSheet(){
   const dayBar =
     `<div class="sheet-day"><span class="phase phase-${phase}">${PHASE_LABEL[phase]}</span>` +
     (phase === 'counting' ? `<span class="who" id="countProgress"></span>` +
-      `<button id="completeCountBtn" onclick="completeCounting()" disabled>Finish counting</button>` : '') +
+      `<button id="completeCountBtn" onclick="completeCounting()">Check progress</button>` : '') +
     (who.length ? `<span class="who">${who.join(' \u00b7 ')}</span>` : '') +
     `<span class="acts">${acts}</span></div>`;
 
