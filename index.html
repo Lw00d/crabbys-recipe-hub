@@ -497,9 +497,13 @@ const STORE_LABEL = (ASSIGNED_STORE && ASSIGNED_STORE !== 'ASSIGNED_STORE_PLACEH
 // renamed; this must not. Per-store data (prep sheets, yields) keys off it.
 // Empty string when the page is viewed outside the login gate, or for the
 // all-stores admin, which belongs to no single store.
+// The Worker replaces the FIRST occurrence of the placeholder, so the literal
+// must appear exactly once here. A previous version compared it against itself
+// and the comparison consumed the substitution, leaving the constant set to the
+// placeholder text. A real store code can never contain "_PLACEHOLDER".
+const ASSIGNED_STORE_CODE_RAW = 'ASSIGNED_STORE_CODE_PLACEHOLDER';
 const ASSIGNED_STORE_CODE =
-  ('ASSIGNED_STORE_CODE_PLACEHOLDER' === 'ASSIGNED_STORE_CODE' + '_PLACEHOLDER')
-    ? '' : 'ASSIGNED_STORE_CODE_PLACEHOLDER';
+  ASSIGNED_STORE_CODE_RAW.indexOf('_PLACEHOLDER') > -1 ? '' : ASSIGNED_STORE_CODE_RAW;
 
 const LOCS = ['Salty Crab North Beach','CDS','Palm','CBG',"Salty's Island",'Mar Vista','Sandbar','Beach House'];
 // Base set of categories always offered, even if a category temporarily has no
@@ -1393,6 +1397,12 @@ let sheetStore = null;
 
 // The store param is only meaningful for the all-stores admin; for a store
 // login the Worker ignores it and uses the login's own code.
+// esc() assumes a string and throws on a number. The Prep Hub returns parLevel,
+// shelfLifeDays and onHandQty as numbers, so anything from the API goes through
+// here first. Null and undefined become an em dash, but 0 is a real count.
+function pnum(v){ return (v === null || v === undefined || v === '') ? '\u2014' : esc(String(v)); }
+function ptxt(v){ return (v === null || v === undefined) ? '' : esc(String(v)); }
+
 function prepQS(extra){
   const p = [];
   if(!ASSIGNED_STORE_CODE) p.push('store=' + encodeURIComponent(sheetStore));
@@ -1499,7 +1509,7 @@ function renderPrepSheet(){
   const counted = items.filter(i=>i.onHandQty!==null && i.onHandQty!==undefined).length;
   document.getElementById('sheetMeta').innerHTML =
     `<span class="badge badge-cat">${items.length} items</span>` +
-    (day ? `<span class="badge badge-loc">${esc(day)}</span>` : '') +
+    (day ? `<span class="badge badge-loc">${ptxt(day)}</span>` : '') +
     (counted ? `<span class="badge badge-cat">${counted} counted</span>` : '');
 
   let picker = '';
@@ -1521,22 +1531,22 @@ function renderPrepSheet(){
     const body = rows.map(i=>{
       const rid = PREP_LINKS[i.id];
       const name = rid
-        ? `<span class="ing-link" onclick="openPrepLayer('${esc(rid)}')">${esc(i.name)}<span class="ing-arrow">\u2197</span></span>`
-        : esc(i.name);
+        ? `<span class="ing-link" onclick="openPrepLayer('${esc(rid)}')">${ptxt(i.name)}<span class="ing-arrow">\u2197</span></span>`
+        : ptxt(i.name);
       const thaw = i.needsPullThaw ? '<span class="sheet-thaw">PULL/THAW</span>' : '';
       const bits = [];
-      if(i.pullThawNote) bits.push(esc(i.pullThawNote));
-      if(i.recipeYieldNote) bits.push(esc(i.recipeYieldNote));
-      if(i.shelfLifeDays) bits.push(esc(i.shelfLifeDays) + ' day shelf life');
-      if(i.recipeText) bits.push(esc(i.recipeText));
+      if(i.pullThawNote) bits.push(ptxt(i.pullThawNote));
+      if(i.recipeYieldNote) bits.push(ptxt(i.recipeYieldNote));
+      if(i.shelfLifeDays) bits.push(ptxt(i.shelfLifeDays) + ' day shelf life');
+      if(i.recipeText) bits.push(ptxt(i.recipeText));
       const note = bits.length ? `<div class="sheet-note">${bits.join(' \u00b7 ')}</div>` : '';
-      const onHand = (i.onHandQty===null||i.onHandQty===undefined) ? '\u2014' : esc(i.onHandQty);
+      const onHand = pnum(i.onHandQty);
       return `<tr><td>${name}${thaw}${note}</td>`
-           + `<td class="sheet-par">${i.parLevel===null||i.parLevel===undefined?'\u2014':esc(i.parLevel)}</td>`
+           + `<td class="sheet-par">${pnum(i.parLevel)}</td>`
            + `<td class="sheet-par">${onHand}</td>`
-           + `<td>${esc(i.unit)||''}</td></tr>`;
+           + `<td>${ptxt(i.unit)}</td></tr>`;
     }).join('');
-    const heading = st === 'None' ? 'Unassigned' : st;
+    const heading = st === 'None' ? 'Unassigned' : String(st);
     return `<div class="sheet-station">${esc(heading)}</div>
       <table class="sheet-table"><thead><tr><th>Item</th><th class="sheet-par">Par</th>
       <th class="sheet-par">On hand</th><th>Unit</th></tr></thead><tbody>${body}</tbody></table>`;
@@ -1545,9 +1555,9 @@ function renderPrepSheet(){
   const phase = prepPhase();
   const d = PREP_DAY || {};
   const who = [];
-  if(d.startedBy) who.push('started by ' + esc(d.startedBy));
-  if(d.finishedBy) who.push('finished by ' + esc(d.finishedBy));
-  if(d.activeMinutes) who.push(esc(d.activeMinutes) + ' min active');
+  if(d.startedBy) who.push('started by ' + ptxt(d.startedBy));
+  if(d.finishedBy) who.push('finished by ' + ptxt(d.finishedBy));
+  if(d.activeMinutes) who.push(ptxt(d.activeMinutes) + ' min active');
   const acts =
     phase === 'not_started' ? `<button class="primary" onclick="prepDayAction('start')">Start the day</button>`
   : phase === 'finished'   ? `<button onclick="prepDayAction('reopen')">Reopen</button>`
