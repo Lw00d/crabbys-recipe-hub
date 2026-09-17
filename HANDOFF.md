@@ -3,7 +3,7 @@
 Paste this whole document as your first message in a new chat to resume.
 As of this writing: **1,688 recipes**, latest code commit `1d35852`.
 
-**Everything is now in the repo.** `worker.js`, the 178-test suite and this
+**Everything is now in the repo.** `worker.js`, the 182-test suite and this
 document all live in git. A new session can rebuild full context from a
 checkout — it does not need a chat transcript.
 
@@ -152,6 +152,18 @@ login physically cannot request another store's data. The all-stores admin may
 name a store, but only one of the nine. Paths are allowlisted, not passed
 through. All of this is covered by `tests/prep_proxy.test.mjs`.
 
+`PREP_PATHS` is now exactly the confirmed shapes — the four `index.html` calls
+plus the two the yield UI will need. While counting's real route was unknown
+the allowlist also carried several guesses at it (`prep-days/{date}/count`,
+`/counts`, `/prepped/{id}`); counting turned out to hang off the item, so those
+never carried traffic and were removed on 2026-09-17. A test asserts they stay
+404. Adding an endpoint means adding the one shape it uses, not a family.
+
+Both the proxy and the site gate authenticate through the same
+`authenticatedUser()` helper. The gate used to have its own copy with a bare
+`atob()`, which threw on a malformed `Authorization` header instead of
+returning 401.
+
 ### The endpoints (the id is a PATH segment, never a body field)
 
 - On-hand: `PUT /api/stores/{store}/prep-items/{itemId}/count` —
@@ -268,7 +280,7 @@ npm install jsdom
 node tests/run-all.mjs
 ```
 
-178 tests across ten suites, all reading the real `index.html` and `worker.js`
+182 tests across ten suites, all reading the real `index.html` and `worker.js`
 rather than copies. `tests/README.md` lists what each covers and why it exists.
 No suite reads anything outside the repo: `prep_proxy` builds its own user
 fixture with placeholder passwords, and the live `USERS_JSON` is gitignored.

@@ -67,6 +67,13 @@ await t('no credentials is 401', async()=>{
   const r=await call('/prep/prep-items',null);
   assert.strictEqual(r.status,401);
 });
+await t('a malformed Authorization header is 401, not a crash', async()=>{
+  // The site gate used to decode this with a bare atob() outside a try/catch.
+  for(const h of ['Basic !!!not-base64!!!','Basic','Basic '+Buffer.from('nocolon').toString('base64'),'Bearer abc']){
+    const r=await worker.fetch(new Request('https://w.dev/prep/prep-items',{headers:{Authorization:h}}),ENV);
+    assert.strictEqual(r.status,401,h);
+  }
+});
 await t('a wrong password is 401', async()=>{
   const r=await worker.fetch(new Request('https://w.dev/prep/prep-items',
     {headers:{Authorization:'Basic '+Buffer.from('beachwalk:wrong').toString('base64')}}),ENV);
@@ -88,8 +95,10 @@ await t('every login is sent as manager', async()=>{
 
 console.log('\npath allowlist');
 await t('the documented endpoints are allowed', async()=>{
-  for(const p of ['prep-items','prep-days/2026-09-16/status','prep-days/2026-09-16/start',
-                  'prep-days/2026-09-16/count','prep-days/2026-09-16/count/complete',
+  // Every shape index.html actually calls, and the two the yield UI will.
+  for(const p of ['prep-items','prep-items/abc-123/count','prep-items/abc-123/count/complete',
+                  'prep-days/2026-09-16/status','prep-days/2026-09-16/start',
+                  'prep-days/2026-09-16/finish','prep-days/2026-09-16/reopen',
                   'yield-items','yield-items/abc-123/tests']){
     const r=await call('/prep/'+p,'beachwalk');
     assert.strictEqual(r.status,200,p);
@@ -100,6 +109,17 @@ await t('anything else is 404, not proxied', async()=>{
                   'prep-days/2026-09-16/delete','yield-items/x/tests/y']){
     const r=await call('/prep/'+p,'beachwalk');
     assert.strictEqual(r.status,404,p||'(empty)');
+  }
+});
+await t('the abandoned guesses at the counting route are gone', async()=>{
+  // These were allowed while the real counting endpoint was unknown. It turned
+  // out to hang off the item, not the day, so they never carried traffic —
+  // they only widened the allowlist. index.html calls none of them.
+  for(const p of ['prep-days/2026-09-16/count','prep-days/2026-09-16/count/complete',
+                  'prep-days/2026-09-16/count/abc-123','prep-days/2026-09-16/counts',
+                  'prep-days/2026-09-16/prepped/abc-123','prep-days/2026-09-16/on-hand/abc-123']){
+    const r=await call('/prep/'+p,'beachwalk');
+    assert.strictEqual(r.status,404,p);
   }
 });
 await t('traversal is normalised away before it reaches the proxy', async()=>{
@@ -121,7 +141,7 @@ console.log('\npassthrough');
 await t('a 409 phase gate reaches the page intact', async()=>{
   globalThis.fetch=async()=>({ok:false,status:409,
     text:async()=>JSON.stringify({error:'Start this day before entering counts.'})});
-  const r=await call('/prep/prep-days/2026-09-16/count','beachwalk',{method:'PUT',body:'{}'});
+  const r=await call('/prep/prep-items/abc-123/count','beachwalk',{method:'PUT',body:'{}'});
   assert.strictEqual(r.status,409);
   assert.ok((await r.json()).error.includes('Start this day'));
   globalThis.fetch=async(u,init)=>{ seen={url:String(u),init};

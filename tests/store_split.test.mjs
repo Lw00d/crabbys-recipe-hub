@@ -73,6 +73,23 @@ for (const [user, store, book] of STORES) {
   });
 }
 
+console.log('\nthe site gate');
+await t('a malformed Authorization header is 401, not a crash', async () => {
+  // This is the page route, not /prep — it had its own copy of the auth logic
+  // with a bare atob(). Garbage in the header threw instead of returning 401.
+  globalThis.fetch = async () => ({ ok: true, status: 200, headers: new Map(), text: async () => PAGE });
+  for (const h of ['Basic !!!not-base64!!!', 'Basic', 'Bearer abc',
+                   'Basic ' + Buffer.from('nocolon').toString('base64')]) {
+    const res = await worker.fetch(new Request('https://w.dev/', { headers: { Authorization: h } }), ENV);
+    assert.strictEqual(res.status, 401, h);
+  }
+});
+await t('no Authorization header at all is 401', async () => {
+  const res = await worker.fetch(new Request('https://w.dev/'), ENV);
+  assert.strictEqual(res.status, 401);
+  assert.ok(res.headers.get('WWW-Authenticate').includes('Basic'));
+});
+
 console.log('\nfallbacks');
 await t('a login with no "store" field falls back to the book name', async () => {
   const js = (await serve('legacy')).match(/<script>([\s\S]*)<\/script>/)[1];

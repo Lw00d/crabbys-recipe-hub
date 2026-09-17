@@ -81,20 +81,20 @@ const PREP_STORE_CODES = [
 ];
 // Allowlisted sub-paths. An allowlist rather than a pass-through so this can
 // never be used to reach arbitrary Prep Hub endpoints.
+//
+// These are the confirmed shapes and nothing more. An earlier version also
+// allowed several guesses at where counting might live — prep-days/{date}/count,
+// /counts, /prepped/{id} and so on — so the real one could be found without a
+// redeploy. It was found: counting hangs off the ITEM, the item id is a path
+// segment after prep-items, and the date travels in the body. The guesses were
+// then dead entries widening the allowlist for nothing. If a new endpoint is
+// needed, add the one shape it actually uses.
 const PREP_PATHS = [
   /^prep-items$/,
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/status$/,
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/(start|finish|reopen)$/,
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/count(\/complete)?$/,
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/count\/[A-Za-z0-9._~:@+-]+$/,
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/counts$/,
-  // The item id lives in the PATH, not the body. Several plausible shapes are
-  // allowed so the exact one can be confirmed without another deploy.
-  /^prep-days\/\d{4}-\d{2}-\d{2}\/(prepped|prep|on-hand|onhand)\/[A-Za-z0-9._~:@+-]+$/,
-  // Counting and prep logging hang off the ITEM, not the day: the item id is a
-  // path segment after prep-items and the date travels in the body.
   /^prep-items\/[A-Za-z0-9._~:@+-]+\/count$/,
   /^prep-items\/[A-Za-z0-9._~:@+-]+\/count\/complete$/,
+  /^prep-days\/\d{4}-\d{2}-\d{2}\/status$/,
+  /^prep-days\/\d{4}-\d{2}-\d{2}\/(start|finish|reopen)$/,
   /^yield-items$/,
   /^yield-items\/[A-Za-z0-9._~:@+-]+\/tests$/,
 ];
@@ -555,21 +555,11 @@ export default {
     // then proxy through to the actual GitHub Pages content, injecting
     // which store (if any) this specific user is restricted to. ──
     if (request.method === "GET") {
-      const authHeader = request.headers.get("Authorization");
-      let users;
-      try { users = JSON.parse(env.USERS_JSON); } catch(e) { users = {}; }
-
-      let matchedUser = null;
-      if (authHeader && authHeader.startsWith("Basic ")) {
-        const decoded = atob(authHeader.slice(6));
-        const sepIdx = decoded.indexOf(":");
-        const user = decoded.slice(0, sepIdx);
-        const pass = decoded.slice(sepIdx + 1);
-        if (users[user] && users[user].password === pass) {
-          matchedUser = users[user];
-        }
-      }
-
+      // Use the same helper the /prep proxy does rather than a second copy of
+      // the logic. The copy that used to live here called atob() outside a
+      // try/catch, so a malformed "Authorization: Basic ..." header threw
+      // instead of returning 401 — and it could drift from the real check.
+      const matchedUser = authenticatedUser(request, env);
       if (!matchedUser) {
         return new Response("Authentication required", {
           status: 401,
