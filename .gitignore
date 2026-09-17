@@ -1,0 +1,8 @@
+# The live USERS_JSON: real logins and passwords. It lives in Cloudflare only.
+# The test suite uses its own fixture and must never read this file.
+users_full.min.json
+users*.json
+
+node_modules/
+package-lock.json
+package.json

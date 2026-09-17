@@ -1,8 +1,30 @@
 // Prep Hub proxy. The property that matters: the store scope comes from the
 // LOGIN, never from the request, so a store login cannot reach another store.
-import fs from 'fs'; import assert from 'assert';
-const worker=(await import('./worker.js?v=2')).default;
-const USERS=fs.readFileSync('users_full.min.json','utf8');
+import assert from 'assert';
+const worker=(await import('../worker.js?v=2')).default;
+
+// A FIXTURE, not the real user table. This used to read users_full.min.json —
+// the live USERS_JSON, complete with real passwords — which meant the suite
+// could only run on a machine that happened to have that file sitting in the
+// working directory, and crashed on a clean checkout. Nothing here is a
+// credential; what is under test is that the store code comes from the login
+// and never from the request, and that holds whatever the passwords are.
+// The nine codes must stay in step with PREP_STORE_CODES in worker.js.
+const STORES=[
+  ['stcloud',      'CBG',                    'csc-stcloud',     "Crabby's on the Lakefront — St. Cloud"],
+  ['newsmyrna',    'CBG',                    'cbg-nsb',         "Crabby's Bar & Grill — New Smyrna Beach"],
+  ['staugustine',  'CBG',                    'cbp-staugustine', "Crabby's Beachside — Saint Augustine"],
+  ['beachwalk',    'CBG',                    'cbg-beachwalk',   "Crabby's Bar & Grill — Clearwater Beach"],
+  ['dockside',     'CDS',                    'cds-dockside',    "Crabby's Dockside — Clearwater"],
+  ['oceanside',    'CDS',                    'cds-oceanside',   "Crabby's Oceanside — Daytona Beach"],
+  ['saltysisland', "Salty's Island",         'si-island',       "Salty's Island"],
+  ['northbeach',   'Salty Crab North Beach', 'nb-crab',         'Salty Crab North Beach'],
+  ['pavilion',     'Palm',                   'cbp-pavilion',    "Crabby's Beachside at the Pavilion"],
+];
+const USERS=JSON.stringify(Object.fromEntries([
+  ...STORES.map(([u,book,code,store])=>[u,{password:'pw-'+u,location:book,code,store}]),
+  ['admin',{password:'pw-admin',location:'all',store:'All Stores'}],
+]));
 const ENV={USERS_JSON:USERS,EDIT_PASSWORDS:'{"admin":"x"}',PREP_HUB_KEY:'SEKRIT'};
 let seen=null;
 globalThis.fetch=async(u,init)=>{ seen={url:String(u),init};

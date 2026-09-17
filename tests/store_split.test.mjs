@@ -18,7 +18,7 @@ const STORES = [
   ['stcloud',         "Crabby's on the Lakefront \u2014 St. Cloud",   'CBG'],
   ['newsmyrna',       "Crabby's Bar & Grill \u2014 New Smyrna Beach", 'CBG'],
   ['staugustine',     "Crabby's Beachside \u2014 Saint Augustine",    'CBG'],
-  ['clearwaterbeach', "Crabby's Bar & Grill \u2014 Clearwater Beach", 'CBG'],
+  ['beachwalk',       "Crabby's Bar & Grill \u2014 Clearwater Beach", 'CBG'],
   ['dockside',        "Crabby's Dockside \u2014 Clearwater",          'CDS'],
   ['oceanside',       "Crabby's Oceanside \u2014 Daytona Beach",      'CDS'],
   ['saltysisland',    "Salty's Island",                              "Salty's Island"],
@@ -33,7 +33,7 @@ const t = async (d, fn) => {
 };
 
 // ── Worker: substitute into a stand-in page, then check the result parses ──
-const worker = (await import('./worker.js')).default;
+const worker = (await import('../worker.js')).default;
 const PAGE = `<script>
 const ASSIGNED_LOCATION = 'ASSIGNED_LOCATION_PLACEHOLDER';
 const ASSIGNED_STORE = 'ASSIGNED_STORE_PLACEHOLDER';
@@ -89,7 +89,7 @@ await t('the all-stores admin is unrestricted', async () => {
 console.log('\nstores sharing a book resolve to the same book');
 await t('all four CBG stores map to CBG', async () => {
   const books = [];
-  for (const u of ['stcloud','newsmyrna','staugustine','clearwaterbeach']) {
+  for (const u of ['stcloud','newsmyrna','staugustine','beachwalk']) {
     const js = (await serve(u)).match(/<script>([\s\S]*)<\/script>/)[1];
     books.push(new Function(js + '; return ASSIGNED_LOCATION;')());
   }
