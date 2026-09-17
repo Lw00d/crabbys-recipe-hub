@@ -1,11 +1,19 @@
 # Beachside Recipe Hub — Handoff
 
 Paste this whole document as your first message in a new chat to resume.
-As of this writing: **1,688 recipes**, latest commit `b583724825`.
+As of this writing: **1,688 recipes**, latest code commit `1d35852`.
 
-**Everything is now in the repo.** `worker.js`, the 173-test suite and this
+**Everything is now in the repo.** `worker.js`, the 178-test suite and this
 document all live in git. A new session can rebuild full context from a
 checkout — it does not need a chat transcript.
+
+The suite genuinely runs from a clean clone — `npm install jsdom &&
+node tests/run-all.mjs`, nothing else. It did not on 2026-09-17: three suites
+imported `./worker.js` (which resolves to `tests/worker.js`) and had silently
+not run since `worker.js` moved to the repo root, and `prep_proxy` read the
+live `users_full.min.json` out of the working directory. Both are fixed. If a
+suite ever reports CRASHED rather than a pass count, treat that as a failure —
+`run-all.mjs` does, but the line is easy to skim past.
 
 This supersedes all earlier handoff docs. The architecture changed
 substantially on 2026-09-10 — the save path, the Worker, and the read method
@@ -29,15 +37,18 @@ older handoff's workflow section.**
 | GitHub PAT | **not recorded here — see below** |
 
 **On secrets.** Earlier handoffs pasted the PAT, the edit password and every
-store login directly into the document. That put live credentials into every
+store login directly into the document. The same values also reached a test
+fixture that was read from disk at runtime (see bug 15). That put live credentials into every
 chat transcript the doc was ever pasted into. Don't do that again. Paste the
 PAT into the chat only when work actually needs it, and keep it out of any
 file. **The PAT that was in the previous handoff still needs rotating** —
 it has been exposed in multiple transcripts.
 
 Cloudflare config (values not recorded here): `EDIT_PASSWORDS`,
-`GITHUB_TOKEN`, `GH_REPO_OWNER`, `GH_REPO_NAME`, `USERS_JSON`, `PREP_HUB_KEY`.
-Legacy `EDIT_PASSWORD` is ignored once `EDIT_PASSWORDS` is set.
+`GITHUB_TOKEN`, `GH_REPO_OWNER`, `GH_REPO_NAME`, `USERS_JSON`, `PREP_HUB_KEY`,
+`PREP_HUB_ROLE`. Legacy `EDIT_PASSWORD` is ignored once `EDIT_PASSWORDS` is
+set. `PREP_HUB_ROLE` is optional and defaults to `manager` — see "Roles" below;
+it is the one lever that changes what the proxy claims every login is.
 
 **These are currently plain Variables, not encrypted Secrets** — their values
 are readable in the dashboard and would land in `wrangler.jsonc` if anyone
@@ -58,26 +69,41 @@ recipes.
 Nine physical stores share **five recipe books**. A recipe's `location` field
 means the **book**, not the store. Do not add store names to recipe data.
 
-| Store code | Site | Book (`location`) |
-|---|---|---|
-| `stcloud` | Crabby's on the Lakefront — St. Cloud | `CBG` |
-| `newsmyrna` | Crabby's Bar & Grill — New Smyrna Beach | `CBG` |
-| `staugustine` | Crabby's Beachside — Saint Augustine | `CBG` |
-| `clearwaterbeach` | Crabby's Bar & Grill — Clearwater Beach | `CBG` |
-| `dockside` | Crabby's Dockside — Clearwater | `CDS` |
-| `oceanside` | Crabby's Oceanside — Daytona Beach | `CDS` |
-| `saltysisland` | Salty's Island | `Salty's Island` |
-| `northbeach` | Salty Crab North Beach | `Salty Crab North Beach` |
-| `pavilion` | Crabby's Beachside at the Pavilion | `Palm` |
+**Three different identifiers, and they are not interchangeable.** The login
+name, the store code shared with the Prep Hub, and the book. An earlier version
+of this table had one column headed "Store code" holding login names, which is
+how a session once assumed the Clearwater Beach login was `clearwaterbeach`.
+It is `beachwalk`.
 
-Each `USERS_JSON` entry is `{password, location, store}` — `location` is the
-book (drives filtering, unchanged behaviour), `store` is the site name shown
-in the header. `store` is optional and falls back to the book name.
+| Login | Prep code (`code`) | Site (`store`) | Book (`location`) |
+|---|---|---|---|
+| `stcloud` | `csc-stcloud` | Crabby's on the Lakefront — St. Cloud | `CBG` |
+| `newsmyrna` | `cbg-nsb` | Crabby's Bar & Grill — New Smyrna Beach | `CBG` |
+| `staugustine` | `cbp-staugustine` | Crabby's Beachside — Saint Augustine | `CBG` |
+| `beachwalk` | `cbg-beachwalk` | Crabby's Bar & Grill — Clearwater Beach | `CBG` |
+| `dockside` | `cds-dockside` | Crabby's Dockside — Clearwater | `CDS` |
+| `oceanside` | `cds-oceanside` | Crabby's Oceanside — Daytona Beach | `CDS` |
+| `saltysisland` | `si-island` | Salty's Island | `Salty's Island` |
+| `northbeach` | `nb-crab` | Salty Crab North Beach | `Salty Crab North Beach` |
+| `pavilion` | `cbp-pavilion` | Crabby's Beachside at the Pavilion | `Palm` |
 
-The Worker substitutes both `ASSIGNED_LOCATION_PLACEHOLDER` and
-`ASSIGNED_STORE_PLACEHOLDER`. The page filters by book and displays the store,
-appending the book in faded text only when it isn't already implied by the
-store name.
+The `admin` login has `location: "all"` and no `code` — it must name a store
+on every Prep Hub call, and only one of the nine above. The same nine codes are
+hardcoded as `PREP_STORE_CODES` in `worker.js` and duplicated in the test
+fixture; change one and you must change all three.
+
+Each `USERS_JSON` entry is `{password, location, store, code}` — `location` is
+the book (drives filtering, unchanged behaviour), `store` is the site name shown
+in the header, and `code` is the stable per-store key the Prep Hub knows the
+site by. `store` is optional and falls back to the book name. `code` is what all
+per-store data keys off, so it must never be changed once it is in use — the
+display name can be changed freely, which is the whole point of having both.
+
+The Worker substitutes three placeholders: `ASSIGNED_LOCATION_PLACEHOLDER`,
+`ASSIGNED_STORE_PLACEHOLDER` and `ASSIGNED_STORE_CODE_PLACEHOLDER`. The page
+filters by book, displays the store — appending the book in faded text only
+when it isn't already implied by the store name — and sends the code to the
+Prep Hub. Each must appear exactly once in `index.html`; see bug 9 below.
 
 **No recipe data changed for this.** One edit to a CBG recipe still serves all
 four CBG stores.
@@ -167,8 +193,14 @@ Every Recipe Hub login is sent as `manager`, because our logins carry no role.
 Prep Hub restricts **finish** and **reopen** to managers, so today every store
 login can do both. The intended model is store logins counting in the Recipe
 Hub and managers using Prep Hub directly. Closing the gap means adding a
-`role` field to `USERS_JSON`, sending it instead of the hardcoded value, and
+`role` field to `USERS_JSON`, sending it instead of the current value, and
 hiding those buttons for staff. Deliberately deferred.
+
+The value is not quite hardcoded: the proxy sends `env.PREP_HUB_ROLE ||
+"manager"`, so the Worker can be made to claim a different role for *everyone*
+without a deploy. That is a blunt instrument — it is per-Worker, not per-login —
+and it is not the fix. It is worth knowing the variable exists, because setting
+it would change the role on all nine stores at once.
 
 ### Linking the two datasets
 
@@ -236,8 +268,10 @@ npm install jsdom
 node tests/run-all.mjs
 ```
 
-173 tests across ten suites, all reading the real `index.html` and `worker.js`
+178 tests across ten suites, all reading the real `index.html` and `worker.js`
 rather than copies. `tests/README.md` lists what each covers and why it exists.
+No suite reads anything outside the repo: `prep_proxy` builds its own user
+fixture with placeholder passwords, and the live `USERS_JSON` is gitignored.
 
 **Run the tests and push as separate steps.** Chaining them with `&&` let a
 failing suite through twice in one session, because the last command in the
@@ -249,7 +283,7 @@ chain succeeded.
 
 ### Saving is a merge, not an overwrite
 
-Previously every save sent the **entire 1,684-recipe array** and overwrote the
+Previously every save sent the **entire recipe array** (1,684 at the time) and overwrote the
 file. Two people editing at once meant one lost everything.
 
 Now the page sends only `changed` (each with the version it loaded as `base`)
@@ -272,19 +306,33 @@ stale copy.
 - `stable()` in the Worker and `stableStr()` in index.html **must stay
   byte-identical**. Object keys are sorted; array order is deliberately NOT
   normalised, because reordering steps or photos is a real edit. Verified
-  against all 1,684 recipes.
+  against all 1,688 recipes.
 
 ### Worker (`worker.js`)
 
-Not in the repo — it exists only in Cloudflare. **Worth committing** (it holds
-no secrets, only `env.*` references). Current features:
+**In the repo at the root**, and the tests import it from there. It holds no
+secrets, only `env.*` references. Cloudflare is still the thing that actually
+runs it, so editing the repo copy changes nothing until it is pasted into the
+dashboard and deployed — **they can drift, and only a paste closes the gap.**
+Check them against each other before trusting either. Current features:
 
 - `EDIT_PASSWORDS`: a JSON object of label → password. Any one unlocks editing.
   Revoke by deleting the entry. The label goes into the commit message, so
   history now reads `Update recipes.json — 1 edited (Tim)`.
 - Merge save with retry (above).
-- Refuses to write an empty recipe list.
-- Reads via the blob API.
+- Reads via the blob API, on **both** save paths.
+- **Two guards against a save that destroys the file.** Neither can be tested
+  against production without sending the input that does the damage, so they
+  are covered by tests only:
+  - Refuses to write an empty recipe list. This used to live inside the merge
+    branch, which meant the legacy whole-array path skipped it — `isFull` is
+    only an `Array.isArray` check, so `recipes: []` passed validation and wrote
+    an empty file over all 1,688 recipes. Fixed 2026-09-17.
+  - Refuses a **legacy** save that would leave less than half the file, with a
+    409 telling the person to hard-refresh. Same accident short of zero: a tab
+    that loaded 1,688 and saves back 40. Exactly half still passes. Merge saves
+    are exempt, because there every removal arrives as an explicit id with its
+    base, so a large shrink is something a person asked for.
 
 ### index.html features added
 
@@ -426,6 +474,19 @@ for `\n` or `\t` inside a step catches it.
     temporal dead zone, and looks identical to a hung network call.
 12. **Two bad pastes of the same JSON.** Retyping a verified file by hand
     corrupted one password twice. Print the file, never retype it.
+13. **A guard that only ran on one of two paths.** The empty-recipe-list check
+    sat inside `if (isMerge)`, so the legacy whole-array save walked straight
+    past it. When a safety check lives inside a branch, ask what the other
+    branch does.
+14. **Tests that pass because they never ran.** Three suites imported
+    `./worker.js` and had been crashing on module resolution since `worker.js`
+    moved to the repo root. `run-all.mjs` prints CRASHED and exits non-zero,
+    but a crash reads like noise next to nine lines of pass counts. Check the
+    total, not the last line.
+15. **A test that depended on a file full of live passwords.** `prep_proxy`
+    read `users_full.min.json` from the working directory, so it only ran on
+    one machine and the repo was one `git add .` from publishing every store
+    login. Tests get fixtures; there is now a `.gitignore` as a second line.
 
 ---
 
@@ -469,49 +530,58 @@ for `\n` or `\t` inside a step catches it.
 
 ### Security / hygiene
 
-5. **Rotate the GitHub PAT.** Outstanding all session; exposed in multiple
-   transcripts.
-6. **Commit `worker.js` to the repo.** It exists in exactly one place with no
-   version history.
-7. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
+5. **Rotate the GitHub PAT.** Outstanding across several sessions now, and
+   exposed in more transcripts each time it is pasted. A fine-grained token
+   scoped to this one repo with Contents: read and write is all any session
+   needs — not a classic `repo`-scoped one.
+6. **Rotate the nine store logins and the admin password.** They were pasted
+   into a transcript on 2026-09-17. All nine stores currently share a single
+   password, so one leak is nine stores; worth giving each site its own while
+   changing them anyway.
+7. **Re-add the Cloudflare config as encrypted Secrets.** Still plain Variables.
+   See the top of this document.
+8. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
    convention. Recoverable from git history if unintended.
+
+Done since the last handoff: `worker.js` and the test suite are committed, and
+the suite runs from a clean checkout.
 
 ### Data quality
 
-8. **46 linked groups are internally divergent** (out of 358). The old
+9. **46 linked groups are internally divergent** (out of 358). The old
    `Beachside_Linked_Recipe_Mismatches.xlsx` is stale — regenerate before
    acting. Every fish group opened this session turned out divergent, and the
    fix was the same shape each time: normalise wording, standardise headers,
    pick one Expo line. Worth one systematic sweep rather than discovering them
    group by group. `Grouper Sandwich` (4 stores) and `Grouper Dinner` are done.
-9. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
-   throughout because it was copied from a ribs plate. Scan for recipes
-   mentioning a protein absent from their ingredients.
-10. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
+10. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
+    throughout because it was copied from a ribs plate. Scan for recipes
+    mentioning a protein absent from their ingredients.
+11. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
     or copy-paste?
-11. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
+12. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
     requested seasoning.
-12. **Clear filters doesn't reset the address bar** — if someone clicks the
+13. **Clear filters doesn't reset the address bar** — if someone clicks the
     Link button then clears filters, a pin at that moment captures stale
     filters.
-13. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
+14. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
     store login opening `?loc=Mar Vista` would see it, crossing the
     BSHGRP/BSHGRP2 boundary. The Link button sidesteps this by never emitting
     `loc=` for those logins, but the reader is still permissive. Three-line fix.
 
 ### Older threads, untouched all session
 
-14. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
+15. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
     Island still not sent. Also unresolved: the Miami Vice rum-brand mismatch
     ("Planteray Dark Rum" saved vs "Cruzan 137 Rum" in the newer doc).
-15. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
+16. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
     (Appetizer)` vs `Brussels Sprout Side`. Never got a yes/no.
-16. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
+17. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
     `steps_es[]`, per-ingredient `name_es`) so `masterId` propagation keeps
     working; language toggle in the UI; batches by location + category; a
     fluent speaker spot-checks before it goes on the line. **Still unanswered:
     which Spanish variant** (neutral/Latin American, Mexican, Caribbean).
-17. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
+18. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
     name, diff content, check ID prefix vs location field. Not re-run in a long
     while.
 
