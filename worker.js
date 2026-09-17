@@ -308,45 +308,73 @@ export default {
         }
         const currentFile = await getRes.json();
 
+        // The Contents API refuses to inline files over ~1MB — it returns
+        // encoding:"none" with an empty content field, which is why reading
+        // currentFile.content here used to blow up on a 2MB recipes.json.
+        // Fetch the blob by the sha we're about to write against instead:
+        // that's both size-safe and guaranteed to be the exact same version.
+        // Using the raw media type also means we get proper UTF-8 text, where
+        // atob() would have mangled every "450°F" into mojibake.
+        //
+        // Read on BOTH paths, not just the merge: the legacy whole-array save
+        // needs the current length too, or the empty-list guard below has
+        // nothing to compare against and a stale tab posting `recipes: []`
+        // silently wipes the file.
+        const blobUrl = `https://api.github.com/repos/${env.GH_REPO_OWNER}/${env.GH_REPO_NAME}/git/blobs/${currentFile.sha}`;
+        const blobRes = await fetch(blobUrl, {
+          headers: { ...ghHeaders, "Accept": "application/vnd.github.v3.raw" },
+        });
+        if (!blobRes.ok) {
+          const text = await blobRes.text();
+          return jsonResponse({ error: `Could not read current file blob (${blobRes.status})`, detail: text }, 502);
+        }
+        const rawText = await blobRes.text();
+        let currentArr;
+        try {
+          currentArr = JSON.parse(rawText);
+        } catch (e) {
+          return jsonResponse({
+            error: "Stored recipes.json could not be parsed",
+            detail: `${e.message} (read ${rawText.length} chars for sha ${currentFile.sha})`,
+          }, 500);
+        }
+        if (!Array.isArray(currentArr)) {
+          return jsonResponse({ error: "Stored recipes.json is not an array" }, 500);
+        }
+
         let out, report = null;
         if (isMerge) {
-          // The Contents API refuses to inline files over ~1MB — it returns
-          // encoding:"none" with an empty content field, which is why reading
-          // currentFile.content here used to blow up on a 2MB recipes.json.
-          // Fetch the blob by the sha we're about to write against instead:
-          // that's both size-safe and guaranteed to be the exact same version.
-          // Using the raw media type also means we get proper UTF-8 text, where
-          // atob() would have mangled every "450°F" into mojibake.
-          const blobUrl = `https://api.github.com/repos/${env.GH_REPO_OWNER}/${env.GH_REPO_NAME}/git/blobs/${currentFile.sha}`;
-          const blobRes = await fetch(blobUrl, {
-            headers: { ...ghHeaders, "Accept": "application/vnd.github.v3.raw" },
-          });
-          if (!blobRes.ok) {
-            const text = await blobRes.text();
-            return jsonResponse({ error: `Could not read current file blob (${blobRes.status})`, detail: text }, 502);
-          }
-          const rawText = await blobRes.text();
-          let currentArr;
-          try {
-            currentArr = JSON.parse(rawText);
-          } catch (e) {
-            return jsonResponse({
-              error: "Stored recipes.json could not be parsed",
-              detail: `${e.message} (read ${rawText.length} chars for sha ${currentFile.sha})`,
-            }, 500);
-          }
-          if (!Array.isArray(currentArr)) {
-            return jsonResponse({ error: "Stored recipes.json is not an array" }, 500);
-          }
           const merged = mergeRecipes(currentArr, changed, deleted);
           out = merged.merged;
           report = merged.report;
-          // A merge should never empty the file — bail rather than write that.
-          if (!out.length && currentArr.length) {
-            return jsonResponse({ error: "Refusing to write an empty recipe list" }, 500);
-          }
         } else {
           out = body.recipes;   // legacy whole-array save, unchanged behaviour
+        }
+
+        // No save should ever empty the file — bail rather than write that.
+        // This guard covers the legacy path as well as the merge: an empty
+        // `recipes` array used to sail past validation, because isFull is only
+        // an Array.isArray check, and land as a write that destroyed every
+        // recipe in the repo.
+        if (!out.length && currentArr.length) {
+          return jsonResponse({ error: "Refusing to write an empty recipe list" }, 500);
+        }
+
+        // A legacy save replaces the whole file with whatever the tab happens
+        // to be holding, so a badly stale one silently drops every recipe
+        // added since it loaded. Emptying the file is caught above; this
+        // catches the same accident short of zero. Refuse when less than half
+        // would survive — exactly half still passes.
+        //
+        // Deliberately NOT applied to merge saves: there every removal arrives
+        // as an explicit id with the version it was based on, so a large
+        // shrink is something a person actually asked for, not a stale copy.
+        if (isFull && out.length * 2 < currentArr.length) {
+          return jsonResponse({
+            error: `Refusing to shrink recipes.json from ${currentArr.length} to ${out.length}. ` +
+                   `This usually means the page has been open a long time and is saving a stale copy — ` +
+                   `hard-refresh and make the change again.`,
+          }, 409);
         }
 
         const content = JSON.stringify(out, null, 2);

@@ -176,7 +176,7 @@ await t('empty change set leaves the data identical', () => {
 // ── endpoint-level tests against a fake GitHub ────────────────────────────
 console.log('\nthe /save endpoint end to end');
 
-const workerMod = await import('./worker.js');
+const workerMod = await import('../worker.js');
 const worker = workerMod.default;
 
 function fakeGitHub(initial, opts = {}) {
@@ -276,6 +276,50 @@ await t('a merge that would empty the file is refused', async () => {
   const res = await post({ password: 'pw', deleted: [{ id: '1', base: base(R('1', 'a')) }] });
   assert.strictEqual(res.status, 500);
   assert.strictEqual(gh.arr.length, 1, 'nothing should have been written');
+});
+// The legacy path used to skip this guard entirely: isFull is only an
+// Array.isArray check, so `recipes: []` passed validation, went straight to
+// `out = body.recipes`, and wrote an empty file over every recipe in the repo.
+// A stale tab is all it would have taken.
+await t('a LEGACY whole-array save of [] is refused too', async () => {
+  const gh = fakeGitHub([R('1', 'a'), R('2', 'b')]);
+  const res = await post({ password: 'pw', recipes: [] });
+  assert.strictEqual(res.status, 500);
+  assert.strictEqual(gh.puts, 0, 'nothing should have been written');
+  assert.deepStrictEqual(gh.arr.map(r => r.name), ['a', 'b'], 'the data must survive');
+});
+await t('a legacy save that keeps at least one recipe still lands', async () => {
+  const gh = fakeGitHub([R('1', 'a'), R('2', 'b')]);
+  const res = await post({ password: 'pw', recipes: [R('1', 'a')] });
+  assert.strictEqual(res.status, 200);
+  assert.deepStrictEqual(gh.arr.map(r => r.name), ['a']);
+});
+// Short of zero, the same accident: a tab that loaded 1,688 recipes and saves
+// back 40 destroys everything added since. Refuse when less than half survives.
+const many = (n, tag = 'r') => Array.from({ length: n }, (_, i) => R(String(i + 1), tag + i));
+await t('a legacy save that drops most of the file is refused', async () => {
+  const gh = fakeGitHub(many(100));
+  const res = await post({ password: 'pw', recipes: many(40) });
+  assert.strictEqual(res.status, 409);
+  assert.strictEqual(gh.puts, 0, 'nothing should have been written');
+  assert.strictEqual(gh.arr.length, 100, 'the data must survive');
+  assert.ok((await res.json()).error.includes('100 to 40'));
+});
+await t('exactly half is still allowed — the guard is "more than half"', async () => {
+  const gh = fakeGitHub(many(100));
+  const res = await post({ password: 'pw', recipes: many(50) });
+  assert.strictEqual(res.status, 200);
+  assert.strictEqual(gh.arr.length, 50);
+});
+await t('a MERGE save may delete freely — the ids are explicit', async () => {
+  const disk = many(10);
+  const gh = fakeGitHub(disk);
+  const res = await post({
+    password: 'pw',
+    deleted: disk.slice(0, 9).map(r => ({ id: r.id, base: base(r) })),
+  });
+  assert.strictEqual(res.status, 200);
+  assert.strictEqual(gh.arr.length, 1, 'an explicit bulk delete is not a stale copy');
 });
 
 console.log(`\n${pass} passed${process.exitCode ? ' — WITH FAILURES' : ', 0 failed'}\n`);
