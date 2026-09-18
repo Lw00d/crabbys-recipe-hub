@@ -48,6 +48,8 @@ function env(code,{fail=null}={}){
     ${grab('pnum')}
     ${grab('ptxt')}
     ${grab('prepQS')}
+    ${grab('localToday')}
+    ${grab('prepDate')}
     ${grab('fetchPrepDay')}
     ${grab('prepPhase')}
     ${grab('loadPrepSheet')}

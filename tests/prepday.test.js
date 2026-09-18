@@ -16,6 +16,43 @@ function phaseOf(day){
 let pass=0; const t=(d,fn)=>{ try{ fn(); console.log('  ok  '+d); pass++; }
   catch(e){ console.log('  FAIL '+d+'\n       '+e.message); process.exitCode=1; } };
 
+function dateFns(){
+  return new Function(`${grab('localToday')}; ${grab('prepDate')};
+    return { localToday, prepDate: items => { PREP_ITEMS = items; return prepDate(); } };`)();
+}
+
+console.log('\nthe prep date is local, not UTC');
+// Pin the clock to a Florida evening. Node re-reads TZ, so this genuinely
+// exercises the bug rather than asserting around it: in UTC the two agree.
+process.env.TZ = 'America/New_York';
+const EVENING = new Date(2026, 8, 18, 20, 30);      // 8:30pm, 18 Sep, in store time
+
+t('the old UTC expression really did roll the date forward', () => {
+  assert.strictEqual(EVENING.getTimezoneOffset(), 240, 'TZ did not take — test is meaningless');
+  assert.strictEqual(EVENING.toISOString().slice(0, 10), '2026-09-19',
+    'this is the bug: 8:30pm on the 18th reads as the 19th in UTC');
+});
+t('8:30pm on the 18th is the 18th', () => {
+  assert.strictEqual(dateFns().localToday(EVENING), '2026-09-18');
+});
+t('localToday never goes through UTC', () => {
+  assert.ok(!/toISOString|toUTC|getUTC/.test(grab('localToday')));
+});
+t('one minute to midnight is still today', () => {
+  assert.strictEqual(dateFns().localToday(new Date(2026, 11, 31, 23, 59)), '2026-12-31');
+});
+t('months and days are zero-padded', () => {
+  assert.strictEqual(dateFns().localToday(new Date(2026, 0, 5)), '2026-01-05');
+});
+t("the Prep Hub's own date wins over the fallback", () => {
+  assert.strictEqual(dateFns().prepDate([{ date: '2026-09-14' }]), '2026-09-14');
+});
+t('an empty sheet falls back rather than throwing', () => {
+  const { prepDate, localToday } = dateFns();
+  assert.strictEqual(prepDate([]), localToday());
+  assert.strictEqual(prepDate(null), localToday());
+});
+
 console.log('\nphase derives from status + countingComplete');
 t('the real not_started payload maps to not_started', ()=>{
   assert.strictEqual(phaseOf({date:'2026-09-17',status:'not_started',startedBy:null,

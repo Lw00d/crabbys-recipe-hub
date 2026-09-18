@@ -1440,8 +1440,20 @@ const PHASE_LABEL = { not_started:'Not started', counting:'Counting', prepping:'
 // Counting: on-hand plus a par basis per item, then a completion call that
 // unlocks prep logging. Field names are snake_case to match started_by, which
 // the Prep Hub accepted; responses come back camelCase.
+// Today in the STORE's timezone, not UTC. toISOString() converts to UTC first,
+// so from 8pm Florida time (UTC-4) it returns tomorrow's date — and dinner
+// service is exactly when someone opens a prep sheet. Build it from local
+// parts instead. en-CA gives YYYY-MM-DD, which is the format the Prep Hub wants.
+function localToday(d){
+  const t = d || new Date();
+  const p = n => String(n).padStart(2,'0');
+  return t.getFullYear() + '-' + p(t.getMonth()+1) + '-' + p(t.getDate());
+}
+// The Prep Hub decides which day is open; we follow whatever date it puts on
+// the items. localToday() is only a fallback for an empty sheet, which is the
+// one case where we would otherwise invent a date — so it had better be right.
 function prepDate(){
-  return (PREP_ITEMS && PREP_ITEMS[0] && PREP_ITEMS[0].date) || new Date().toISOString().slice(0,10);
+  return (PREP_ITEMS && PREP_ITEMS[0] && PREP_ITEMS[0].date) || localToday();
 }
 function prepActor(){
   // Asked once per session rather than per item — counting a full sheet is
@@ -1511,7 +1523,7 @@ async function prepDayAction(action){
   const verb = { start:'starting', finish:'finishing', reopen:'reopening' }[action];
   const who = (prompt('Your name (recorded against ' + verb + ' this day):') || '').trim();
   if(!who) return;
-  const date = (PREP_ITEMS[0] && PREP_ITEMS[0].date) || new Date().toISOString().slice(0,10);
+  const date = prepDate();
   const body = action === 'start' ? { started_by: who }
              : action === 'finish' ? { completed_by: who }
              : { reopened_by: who };
@@ -1568,7 +1580,7 @@ async function loadPrepSheet(){
     PREP_ITEMS = await res.json();
     // Day status drives the two-phase gate: nothing can be counted before the
     // day is started, and nothing prepped until every item has been counted.
-    const today = (PREP_ITEMS[0] && PREP_ITEMS[0].date) || new Date().toISOString().slice(0,10);
+    const today = prepDate();
     PREP_DAY = await fetchPrepDay(today);
   }catch(e){
     document.getElementById('sheetBody').innerHTML =
