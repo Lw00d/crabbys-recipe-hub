@@ -1,24 +1,27 @@
 # Beachside Recipe Hub — Handoff
 
 Paste this whole document as your first message in a new chat to resume.
-As of this writing: **1,688 recipes**, latest code commit `1d35852`.
+As of this writing: **2,039 recipes** across **two companies**, latest commit
+`e5bed3c`.
 
-**Everything is now in the repo.** `worker.js`, the 182-test suite and this
-document all live in git. A new session can rebuild full context from a
-checkout — it does not need a chat transcript.
+**Everything is in the repo.** `index.html`, `worker.js`, `data/recipes.json`,
+the 192-test suite and this document all live in git. A new session can rebuild
+full context from a checkout — it does not need a chat transcript.
 
-The suite genuinely runs from a clean clone — `npm install jsdom &&
-node tests/run-all.mjs`, nothing else. It did not on 2026-09-17: three suites
-imported `./worker.js` (which resolves to `tests/worker.js`) and had silently
-not run since `worker.js` moved to the repo root, and `prep_proxy` read the
-live `users_full.min.json` out of the working directory. Both are fixed. If a
-suite ever reports CRASHED rather than a pass count, treat that as a failure —
-`run-all.mjs` does, but the line is easy to skim past.
+The suite runs from a clean clone: `npm install jsdom && node tests/run-all.mjs`,
+nothing else, no fixture files to find. If a suite ever reports CRASHED rather
+than a pass count, treat that as a failure — `run-all.mjs` does, but the line is
+easy to skim past next to nine lines of green.
 
-This supersedes all earlier handoff docs. The architecture changed
-substantially on 2026-09-10 — the save path, the Worker, and the read method
-are all different from what previous handoffs described. **Do not follow an
-older handoff's workflow section.**
+**Two companies, deliberately separate.** BSHGRP (1,688 recipes, five books)
+and BSHGRP2 (351 recipes, three books). `LOC_GROUP` in `index.html` keeps them
+apart structurally: a masterId in one cannot reach a row in the other, even if
+the ids collided. They do not share recipes, submenu vocabulary, or naming
+conventions, and a convention from one is not evidence for the other.
+
+This supersedes all earlier handoff docs. **Do not follow an older handoff's
+workflow section** — the save path, the Worker and the read method all changed
+on 2026-09-10.
 
 ---
 
@@ -28,7 +31,7 @@ older handoff's workflow section.**
 |---|---|
 | GitHub repo | `Lw00d/crabbys-recipe-hub` |
 | App file | `index.html` at repo root |
-| Data file | `data/recipes.json` (~2.1 MB) |
+| Data file | `data/recipes.json` (~2.6 MB, 2,039 recipes) |
 | Images | `images/` in the same repo |
 | Worker source | `worker.js` — **in the repo**; edit there and paste into Cloudflare |
 | Prep Hub API | `https://bshg-prep-hub.bshgrp.workers.dev` (Jon's system) |
@@ -41,8 +44,10 @@ store login directly into the document. The same values also reached a test
 fixture that was read from disk at runtime (see bug 15). That put live credentials into every
 chat transcript the doc was ever pasted into. Don't do that again. Paste the
 PAT into the chat only when work actually needs it, and keep it out of any
-file. **The PAT that was in the previous handoff still needs rotating** —
-it has been exposed in multiple transcripts.
+file. Tokens were rotated on 2026-09-17 and again during the 2026-09-18 session;
+**every token used in a chat should be revoked when that chat ends.** A
+fine-grained token scoped to this one repo with Contents: read and write is all
+any session needs — never a classic `repo`-scoped one.
 
 Cloudflare config (values not recorded here): `EDIT_PASSWORDS`,
 `GITHUB_TOKEN`, `GH_REPO_OWNER`, `GH_REPO_NAME`, `USERS_JSON`, `PREP_HUB_KEY`,
@@ -64,10 +69,14 @@ recipes.
 
 ---
 
-## Stores vs recipe books — **important model change**
+## Stores vs recipe books
 
-Nine physical stores share **five recipe books**. A recipe's `location` field
+**Twelve stores, eight books, two companies.** A recipe's `location` field
 means the **book**, not the store. Do not add store names to recipe data.
+
+BSHGRP's nine stores share five books — four CBG sites read one book. BSHGRP2's
+three stores have one book each, so store and book happen to coincide there;
+that is a coincidence of the current layout, not a rule to build on.
 
 **Three different identifiers, and they are not interchangeable.** The login
 name, the store code shared with the Prep Hub, and the book. An earlier version
@@ -86,11 +95,24 @@ It is `beachwalk`.
 | `saltysisland` | `si-island` | Salty's Island | `Salty's Island` |
 | `northbeach` | `nb-crab` | Salty Crab North Beach | `Salty Crab North Beach` |
 | `pavilion` | `cbp-pavilion` | Crabby's Beachside at the Pavilion | `Palm` |
+| `marvista` | `mv-marvista` † | Mar Vista | `Mar Vista` |
+| `sandbar` | `sb-sandbar` † | Sandbar | `Sandbar` |
+| `beachhouse` | `bh-beachhouse` † | Beach House | `Beach House` |
 
-The `admin` login has `location: "all"` and no `code` — it must name a store
-on every Prep Hub call, and only one of the nine above. The same nine codes are
-hardcoded as `PREP_STORE_CODES` in `worker.js` and duplicated in the test
-fixture; change one and you must change all three.
+† **Proposed, not agreed.** The three BSHGRP2 codes were invented to fill the
+field and have never been checked against Jon's Prep Hub. They are also **not
+in `PREP_STORE_CODES`**, so the proxy answers `Unknown or inactive store` (403)
+for those three today. Settle them with Jon before any prep data keys off them;
+a code can never change once it is in use.
+
+The `admin` login has `location: "all"` and no `code` — it must name a store on
+every Prep Hub call, and only one of the codes in `PREP_STORE_CODES`. Those
+codes are hardcoded in `worker.js` and duplicated in the `prep_proxy` test
+fixture; change one and you must change both.
+
+**All twelve store logins share one password.** One leak is twelve stores.
+Changing them means someone re-entering credentials on every iPad, since Safari
+has them saved — worth planning rather than doing on a Friday.
 
 Each `USERS_JSON` entry is `{password, location, store, code}` — `location` is
 the book (drives filtering, unchanged behaviour), `store` is the site name shown
@@ -108,24 +130,143 @@ Prep Hub. Each must appear exactly once in `index.html`; see bug 9 below.
 **No recipe data changed for this.** One edit to a CBG recipe still serves all
 four CBG stores.
 
-**Five of the nine store names contain an apostrophe and two contain an
-ampersand.** They get substituted into single-quoted JS string literals. An
+**Five store names contain an apostrophe and two contain an ampersand.** They get substituted into single-quoted JS string literals. An
 unescaped apostrophe in "Salty's Island" once killed the entire script. The
 escape handles backslashes and single quotes, and `store_split.test.mjs`
-substitutes every one of the nine and then *parses the result as JavaScript*.
+substitutes every one of them and then *parses the result as JavaScript*.
 Keep that test if the names ever change.
 
-**Prep and yield sheets are coming**, built by a colleague, to be added later.
-They should key off the **store code**, not the display name — renaming a site
-shouldn't orphan its rows. Recipes stay keyed to the book. Note the merge-save
-endpoint is hardcoded to `recipes.json`; a second data file needs a
-generalised endpoint taking a path, not a copy-pasted handler. Also decide
-whether a per-store yield **overrides** the recipe's existing `yield` field or
-is a separate measurement — two sources of truth for one number will drift.
+Note the merge-save endpoint is hardcoded to `recipes.json`; a second data file
+would need a generalised endpoint taking a path, not a copy-pasted handler.
 
 The old usernames (`cds`, `cbg`, `palm`, `si`, `scnb`) no longer exist. Devices
 with them saved in Safari will fail to authenticate; add aliases pointing at
 the same book if that bites.
+
+---
+
+---
+
+## BSHGRP2 — loaded 2026-09-18
+
+351 recipes from 283 spreadsheets: **Mar Vista 133, Sandbar 104, Beach House
+114**. Source was a zip of `.xlsx` files arranged `Location / Menu / Sub Menu`.
+The converters are not in the repo — they were one-shot scripts — but every
+decision they encoded is below, because the same decisions govern any future
+load.
+
+### How the shared recipes work
+
+34 spreadsheets sat in a "Beachside 2 Shared Recipes" folder. Each became
+**three rows**, one per store, sharing a masterId — because that is what
+linking already is here (`Lemon Butter` is five rows under `dp-nb-66-m`). There
+is no such thing as a shared book: a login carries exactly one `location` and
+filters on it, so a fourth "shared" book would be invisible to every store.
+
+The cost is drift, which is the same tax BSHGRP1 pays. `propagateToLinked()`
+shares content fields and deliberately keeps each sibling's own `submenu`, so
+cross-listing survives an edit.
+
+### Submenus are per store, on purpose
+
+| Store | Prep submenus |
+|---|---|
+| Sandbar | Cold Prep, Hot Prep |
+| Beach House | Prep, Proteins, Hot Prep |
+| Mar Vista | Cold Prep, Hot Prep, Pantry Prep |
+
+Three stores, three vocabularies, kept as the folders had them. BSHGRP1 leaves
+`submenu` null on all 550 Dinner Prep recipes; BSHGRP2 does not. `Apps` was
+mapped to `Appetizers` because **Mar Vista** uses Appetizers, not because CBG
+does.
+
+### Two spreadsheet templates
+
+- **Plate sheet** (231 files) — `Ingredient | Qty | Measure | [Yld %] |
+  Instructions`, numbered steps below. Note the `Yld %` column is present on
+  some files and absent on others: **read columns from the header row, never by
+  position.** Reading by position silently put `100` in the instruction slot on
+  four files and threw the real instruction away.
+- **Costing sheet** (52 files, all Mar Vista Dinner Prep) — `INGREDIENTS | QTY |
+  UOM | COST | EXT COST`, a `Menu Item Name:` header block, uncalculated
+  `=IF(...)` formulas that read back as literal text, steps under
+  `Prep / Plating Instructions`, and **a 70-row unit-of-measure lookup table
+  pasted into every file**. Cut everything from `Menu Category Index` onward or
+  each recipe gains 70 fake ingredients. Yield on these is loose text in the
+  ingredient column — `yield is 6#`, `7.25 qts yield`, `106 each is yeild` —
+  spelled three ways and sometimes with a price attached.
+
+Cost data is dropped. There is no field for it and the figures are dated
+7.13.24. If pricing ever matters, those sheets are the only place it exists.
+
+### Read every sheet in a workbook
+
+Three workbooks hold more than one recipe. Reading only the first would have
+lost **Bread Pudding** — 16 croissants, 15 eggs, cream, Jim Beam — which exists
+nowhere else. `openpyxl`'s `read_only=True` also returns **empty rows** for
+these files; use the default mode.
+
+Five sheets in `Prep MV Risotto Base.xlsx` and `Prep MV whiskey bread
+pudding .xlsx` were excluded on review: two pair risotto ingredients with
+crouton steps and a crouton name (a copied sheet nobody finished), plus a
+byte-identical duplicate, a one-ingredient costing fragment, and a plate sheet
+the Dinner Menu already covers properly.
+
+### The Instructions column becomes steps
+
+Ingredient-level instructions have no home in the schema, so they were sorted
+four ways. Every distinct value was mapped **by hand** — roughly 170 of them
+across the four loads — rather than by pattern, so nothing could fall through
+unnoticed. The builds asserted zero unmapped.
+
+| Bucket | Becomes | Example |
+|---|---|---|
+| Action | a step, ahead of the sheet's own | `Seasoned with S/P` → "Season the 4oz. Burger Patty with S/P." |
+| Plating | a line under `Expo:` | `garnish on top` → "Micro Cilantro — garnish on top." |
+| Cut state | parenthetical on the ingredient | `small diced` → "Red Onion (small diced)" |
+| Restatement | dropped | `Kosher Salt \| 1 \| tablespoon \| "1 tablespoon"` |
+
+That last bucket matters: those rows already had a correct qty and unit.
+Writing the instruction into qty/unit would have replaced good data with a
+duplicate.
+
+**`Expo:` is the only section header in BSHGRP2.** 144 recipes have one. A
+`Garnish with X, Y and Z` step that duplicated the Expo block was removed (39)
+or folded into it (19). BSHGRP1 keeps its own 316 `Garnish:` headers — its four
+affected pasta recipes are linked, so an edit propagates across books, and that
+was left alone deliberately.
+
+### Corrections made to the source data
+
+Recorded here because they are not recoverable from the spreadsheets:
+
+- `Mango Salsa` (Beach House) listed Black Pepper as `0.1 teaspoon` in the qty
+  column and `1 teaspoon` in the instruction. **1 teaspoon** is correct.
+- `Lua Bread 2` / `Lua Bread 4` → **Luau**. The sheets spell it Lua, the
+  filenames spell it Luau.
+- Store prefixes (`PREP SB`, `MI BH`) stripped from every name — `location`
+  already carries the store. Four Sandbar files were prefixed for the *wrong*
+  store and were loaded as Sandbar regardless, since that is the folder they
+  are in.
+- 50 spelling fixes across 14 words. Three are judgement rather than error and
+  are easy to reverse if the kitchen spells them its own way: `saute` → `sauté`
+  (27), `Bronzino` → `Branzino` (4), `Tator` → `Tater` (1).
+- Broken title cells: three sheets have `#VALUE!` where the name should be, one
+  says `need picture`, and one says `Master` with the real name (`Sushi Rice`)
+  under `Recipe Name:`. The name rule prefers `Recipe Name:`, then a row
+  starting `MI`/`PREP`, then the first sane row.
+
+### Known imperfections, left as they are
+
+- **`mango lime butter` exists twice** in Mar Vista, from two files with
+  identical contents. One is probably meant to be Mango Lime Base.
+- **`Bairdi Crab 1.5LB`** came from a file named `(not current)`. Loaded
+  `active: true` on request.
+- **27 recipes have no method.** Their sheets number the steps 1 to 12 and
+  leave every line blank. Not a parser failure.
+- **Calamari's Expo block ends with `Pickled vegetables — garnish.`**, which is
+  the umbrella term for two lines above it. The redundancy check matches word
+  for word, not concept to concept, so it missed this.
 
 ---
 
@@ -318,7 +459,28 @@ stale copy.
 - `stable()` in the Worker and `stableStr()` in index.html **must stay
   byte-identical**. Object keys are sorted; array order is deliberately NOT
   normalised, because reordering steps or photos is a real edit. Verified
-  against all 1,688 recipes.
+  against the whole file.
+
+### The recipe schema
+
+Required on every row: `id`, `masterId`, `location`, `name`, `category`,
+`ingredients`, `steps`, `images`, `notes`, `yield`, `shelfLife`, `smallware`.
+An ingredient is `{name, qty, unit}` plus optional `qty2`/`qty3` — **there is
+no note or instruction field**, which is why the source Instructions column had
+to be redistributed.
+
+Optional and sparse, absent from most rows: `submenu` (1,582), `active` (456),
+`portions` and `portionSize` (249 each), `dualBatch` (106), `yield2` (12).
+Anything reading this file must tolerate every one of them being missing.
+
+`portions` and `portionSize` were added 2026-09-18 and render as two separate
+pills in Details — **# of Portions** (`36`) and **Portion** (`2 OZ-fl`). Both
+are free text, because the sheets write `1`, `12` and `12 each`
+interchangeably and a number would lose the unit. They need no special handling
+in `shareContentFields`: content fields are whatever is left after `id`,
+`masterId`, `location` and the local flags, so they propagate already.
+`tests/portions.test.js` covers both, including that a row without them renders
+nothing rather than `undefined`.
 
 ### Worker (`worker.js`)
 
@@ -339,10 +501,10 @@ Check them against each other before trusting either. Current features:
   - Refuses to write an empty recipe list. This used to live inside the merge
     branch, which meant the legacy whole-array path skipped it — `isFull` is
     only an `Array.isArray` check, so `recipes: []` passed validation and wrote
-    an empty file over all 1,688 recipes. Fixed 2026-09-17.
+    an empty file over every recipe in the repo. Fixed 2026-09-17.
   - Refuses a **legacy** save that would leave less than half the file, with a
     409 telling the person to hard-refresh. Same accident short of zero: a tab
-    that loaded 1,688 and saves back 40. Exactly half still passes. Merge saves
+    that loaded 2,000 recipes and saves back 40. Exactly half still passes. Merge saves
     are exempt, because there every removal arrives as an explicit id with its
     base, so a large shrink is something a person asked for.
 
@@ -453,7 +615,9 @@ for `\n` or `\t` inside a step catches it.
 
 ---
 
-## Bugs found and fixed this session — worth not repeating
+## Bugs worth not repeating
+
+Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
 
 1. **Contents API >1 MB returns empty content.** Caused a live 500. Use the
    blob API. My test's fake GitHub returned populated content at every size,
@@ -499,6 +663,23 @@ for `\n` or `\t` inside a step catches it.
     read `users_full.min.json` from the working directory, so it only ran on
     one machine and the repo was one `git add .` from publishing every store
     login. Tests get fixtures; there is now a `.gitignore` as a second line.
+16. **Reading a spreadsheet by column position.** Some sheets carry an extra
+    `Yld %` column. A positional parser put `100` in the instruction slot on
+    four files and threw the real instruction away, silently. **Read the header
+    row.**
+17. **`openpyxl`'s `read_only=True` returned empty rows** for every file in
+    this set, so a structural survey reported "no header" across the board.
+    A fast path that lies is worse than a slow one.
+18. **Reading only the first sheet of a workbook.** Three files held more than
+    one recipe; one held the only copy of Bread Pudding. This went unnoticed
+    through three loads before Mar Vista made it obvious.
+19. **Restarting id numbering at 1.** `dm-sb-1` collided with 33 rows the
+    shared load had already written. Derive the next id from the live file,
+    never from the batch.
+20. **Running a text transform in the wrong order.** Fixing the typo `mirco` →
+    `micro` *after* comparing garnish text against the Expo block meant the
+    line did not match and survived as a duplicate. Normalise first, then
+    compare.
 
 ---
 
@@ -511,8 +692,12 @@ for `\n` or `\t` inside a step catches it.
 - Deep-clone anything that creates a new recipe object from an existing one.
   Shallow copies caused a bidirectional-editing bug once already.
 - Diff-check before starting and immediately before pushing, every time. Two
-  people (Tim and Kory/bodzak) edit concurrently and both were active
-  throughout this session.
+  people (Tim and Kory/bodzak) edit concurrently.
+- **Preview before writing, always.** Every load in this project surfaced
+  something in review that no amount of staring at the parser would have:
+  corrupted sheets, a tenfold quantity error, a recipe that existed only on a
+  second worksheet. The previews are the reason those were caught.
+- **Derive ids from the live file, never from the batch.**
 - When mismatches are found in linked groups, flag for human review rather than
   auto-merging or auto-unlinking.
 
@@ -522,78 +707,96 @@ for `\n` or `\t` inside a step catches it.
 
 ### Prep Hub follow-ups
 
-0. **Yield tests are not built.** The endpoint is allowlisted and the body
+1. **Yield tests are not built.** The endpoint is allowlisted and the body
    shape is known — UI work only.
-1. **Roles** — see the gap above.
-2. **~40 unlinked prep items** need a human decision.
+2. **Roles** — see the gap above.
+3. **~40 unlinked prep items** need a human decision.
 
 ### Blocked on you / the SOP
 
-1. **Char Grill Method for sirloin burgers.** SOP §8 says *"(Steps to be
+4. **Char Grill Method for sirloin burgers.** SOP §8 says *"(Steps to be
    added.)"*. Four recipes waiting: `Sirloin Burger (All Stores)` (CBG + NB,
    linked), `Palm (Sirloin) Burger`, `Backyard Burger`.
-2. **Scallops — 7 recipes, no SOP section.** They sear on *both* flat sides,
+5. **Scallops — 7 recipes, no SOP section.** They sear on *both* flat sides,
    which none of the existing rules cover. Currently untouched by design.
-3. **Do smash burgers finish with lemon butter?** §7 doesn't say; the universal
+6. **Do smash burgers finish with lemon butter?** §7 doesn't say; the universal
    rule says always. `Smash Burgers` (CBG) currently has none.
-4. **Five kid burgers** deliberately skipped — currently two lines each
+7. **Five kid burgers** deliberately skipped — currently two lines each
    ("Place the burger on the grill. Turn over halfway"). Decide whether they
    should get the full technique.
 
 ### Security / hygiene
 
-5. **Rotate the GitHub PAT.** Outstanding across several sessions now, and
+8. **Rotate the GitHub PAT.** Outstanding across several sessions now, and
    exposed in more transcripts each time it is pasted. A fine-grained token
    scoped to this one repo with Contents: read and write is all any session
    needs — not a classic `repo`-scoped one.
-6. **Rotate the nine store logins and the admin password.** They were pasted
-   into a transcript on 2026-09-17. All nine stores currently share a single
-   password, so one leak is nine stores; worth giving each site its own while
-   changing them anyway.
-7. **Re-add the Cloudflare config as encrypted Secrets.** Still plain Variables.
-   See the top of this document.
-8. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
-   convention. Recoverable from git history if unintended.
+9. **Rotate all twelve store logins and the admin password.** Pasted into
+   transcripts on 2026-09-17 and again on 2026-09-18, and exported to a
+   spreadsheet. Every store shares one password, so one leak is twelve stores.
+   Worth giving each site its own while changing them anyway — and note that
+   every iPad has the old one saved in Safari, so someone has to go round.
+10. **Re-add the Cloudflare config as encrypted Secrets.** Still plain Variables.
+    See the top of this document.
+11. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
+    convention. Recoverable from git history if unintended.
 
-Done since the last handoff: `worker.js` and the test suite are committed, and
-the suite runs from a clean checkout.
+Done since the last handoff: `worker.js` and the test suite are committed, the
+suite runs from a clean checkout, the site gate and the proxy share one auth
+path, `PREP_PATHS` carries only real routes, and both save guards are in place.
+
+### BSHGRP2 follow-ups
+
+12. **Agree the three prep codes with Jon**, then add them to `PREP_STORE_CODES`
+    in `worker.js`, deploy, and build `prep-links.json` entries. Until then
+    BSHGRP2 has no prep sheets. **This is the one to do first** — the codes are
+    currently invented, and they become permanent the moment real data uses them.
+13. **Decide whether `mango lime butter` (×2, Mar Vista) should be one recipe**,
+    with one renamed to Mango Lime Base.
+14. **27 BSHGRP2 recipes have no method.** Someone who cooks them has to write
+    it; there is nothing in the source to recover.
+15. **Drop `Pickled vegetables — garnish.`** from Mar Vista Calamari's Expo
+    block if you agree it duplicates the two lines above it.
+16. **BSHGRP1's four pasta recipes** still have a `Garnish with garlic bread`
+    step alongside an Expo block. Left alone because they are linked; decide
+    whether the BSHGRP2 treatment should apply there too.
 
 ### Data quality
 
-9. **46 linked groups are internally divergent** (out of 358). The old
-   `Beachside_Linked_Recipe_Mismatches.xlsx` is stale — regenerate before
-   acting. Every fish group opened this session turned out divergent, and the
-   fix was the same shape each time: normalise wording, standardise headers,
-   pick one Expo line. Worth one systematic sweep rather than discovering them
-   group by group. `Grouper Sandwich` (4 stores) and `Grouper Dinner` are done.
-10. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
+17. **46 linked groups are internally divergent** (out of 358). The old
+    `Beachside_Linked_Recipe_Mismatches.xlsx` is stale — regenerate before
+    acting. Every fish group opened this session turned out divergent, and the
+    fix was the same shape each time: normalise wording, standardise headers,
+    pick one Expo line. Worth one systematic sweep rather than discovering them
+    group by group. `Grouper Sandwich` (4 stores) and `Grouper Dinner` are done.
+18. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
     throughout because it was copied from a ribs plate. Scan for recipes
     mentioning a protein absent from their ingredients.
-11. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
+19. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
     or copy-paste?
-12. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
+20. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
     requested seasoning.
-13. **Clear filters doesn't reset the address bar** — if someone clicks the
+21. **Clear filters doesn't reset the address bar** — if someone clicks the
     Link button then clears filters, a pin at that moment captures stale
     filters.
-14. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
+22. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
     store login opening `?loc=Mar Vista` would see it, crossing the
     BSHGRP/BSHGRP2 boundary. The Link button sidesteps this by never emitting
     `loc=` for those logins, but the reader is still permissive. Three-line fix.
 
 ### Older threads, untouched all session
 
-15. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
+23. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
     Island still not sent. Also unresolved: the Miami Vice rum-brand mismatch
     ("Planteray Dark Rum" saved vs "Cruzan 137 Rum" in the newer doc).
-16. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
+24. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
     (Appetizer)` vs `Brussels Sprout Side`. Never got a yes/no.
-17. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
+25. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
     `steps_es[]`, per-ingredient `name_es`) so `masterId` propagation keeps
     working; language toggle in the UI; batches by location + category; a
     fluent speaker spot-checks before it goes on the line. **Still unanswered:
     which Spanish variant** (neutral/Latin American, Mexican, Caribbean).
-18. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
+26. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
     name, diff content, check ID prefix vs location field. Not re-run in a long
     while.
 
@@ -604,17 +807,23 @@ the suite runs from a clean checkout.
 The pattern that worked, eleven times running:
 
 1. Sweep the data for the pattern, and **show the counts and the distinct
-   variants before proposing anything**. The variety is always larger than
+    variants before proposing anything**. The variety is always larger than
    expected — 30 spellings of one header, 16 spellings of one finishing line.
 2. Separate what's genuinely in scope from what merely matches. Most sweeps
-   catch two to three times more than they should.
+    catch two to three times more than they should.
 3. Build a transform with **explicit per-recipe line indices** where possible,
-   or careful patterns plus a content-loss detector that flags any consumed
+    or careful patterns plus a content-loss detector that flags any consumed
    line carrying non-procedure text.
 4. Generate a before/after HTML preview, green for added and red for removed,
-   both steps and ingredients. **Push nothing until it's approved.**
+    both steps and ingredients. **Push nothing until it's approved.**
 5. Apply with a fresh fetch, a drift check on the targets only, an assertion
-   that the diff set is exactly the intended set, then verify against live.
+    that the diff set is exactly the intended set, then verify against live.
 
 Batch by protein rather than by store — linking means one edit often covers
-three stores, and grouping keeps linked siblings together.
+three stores, and grouping keeps linked siblings together. For a bulk import,
+batch by store and do the simplest store first: Sandbar before Mar Vista meant
+the costing-sheet parser was the only new problem when it finally arrived.
+
+**Say what you changed and why, in the commit.** These messages are the only
+record of the judgement calls once the chat is gone — which sheet was excluded,
+which quantity was corrected, which spelling was a decision rather than a fix.
