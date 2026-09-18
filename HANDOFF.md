@@ -5,7 +5,7 @@ As of this writing: **2,039 recipes** across **two companies**, latest commit
 `e5bed3c`.
 
 **Everything is in the repo.** `index.html`, `worker.js`, `data/recipes.json`,
-the 192-test suite and this document all live in git. A new session can rebuild
+the 216-test suite and this document all live in git. A new session can rebuild
 full context from a checkout — it does not need a chat transcript.
 
 The suite runs from a clean clone: `npm install jsdom && node tests/run-all.mjs`,
@@ -671,20 +671,26 @@ Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
     read `users_full.min.json` from the working directory, so it only ran on
     one machine and the repo was one `git add .` from publishing every store
     login. Tests get fixtures; there is now a `.gitignore` as a second line.
-16. **Reading a spreadsheet by column position.** Some sheets carry an extra
+16. **A filter that widens instead of replacing.** `init()` put a store's own
+    book into `activeLocs`; `applyFiltersFromUrl()` added a second from the
+    URL, and `getFiltered()` reads the set as "show any of these" while
+    skipping the group check for restricted logins. Two books in a set meant
+    both were shown. The write side never emitted `loc=` for those logins, so
+    the read side looked safe — **check the reader, not the writer.**
+17. **Reading a spreadsheet by column position.** Some sheets carry an extra
     `Yld %` column. A positional parser put `100` in the instruction slot on
     four files and threw the real instruction away, silently. **Read the header
     row.**
-17. **`openpyxl`'s `read_only=True` returned empty rows** for every file in
+18. **`openpyxl`'s `read_only=True` returned empty rows** for every file in
     this set, so a structural survey reported "no header" across the board.
     A fast path that lies is worse than a slow one.
-18. **Reading only the first sheet of a workbook.** Three files held more than
+19. **Reading only the first sheet of a workbook.** Three files held more than
     one recipe; one held the only copy of Bread Pudding. This went unnoticed
     through three loads before Mar Vista made it obvious.
-19. **Restarting id numbering at 1.** `dm-sb-1` collided with 33 rows the
+20. **Restarting id numbering at 1.** `dm-sb-1` collided with 33 rows the
     shared load had already written. Derive the next id from the live file,
     never from the batch.
-20. **Running a text transform in the wrong order.** Fixing the typo `mirco` →
+21. **Running a text transform in the wrong order.** Fixing the typo `mirco` →
     `micro` *after* comparing garnish text against the Expo block meant the
     line did not match and survived as a duplicate. Normalise first, then
     compare.

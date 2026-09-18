@@ -851,9 +851,20 @@ function applyFiltersFromUrl(){
   };
   addAll('cat', activeCats);
   addAll('sub', activeSubs);
-  addAll('loc', activeLocs);
-  const groupParam = params.get('group');
-  if(groupParam === 'BSHGRP' || groupParam === 'BSHGRP2'){ activeGroup = groupParam; applied = true; }
+  // loc= and group= are ignored for a store login, and this is a security
+  // boundary rather than a tidy-up. init() has already put that login's own
+  // book into activeLocs; adding a second one here leaves BOTH in the set, and
+  // getFiltered() reads the set as "show any of these" while skipping the
+  // group check entirely for restricted logins. So a CBG login opening
+  // ?loc=Mar Vista would see CBG and Mar Vista together — across the
+  // BSHGRP / BSHGRP2 divide. The Link button never emits either param for
+  // these logins, but a hand-typed or forwarded URL would have worked.
+  // cat= and sub= stay allowed: they narrow within the book, never widen it.
+  if(!IS_LOCATION_RESTRICTED){
+    addAll('loc', activeLocs);
+    const groupParam = params.get('group');
+    if(groupParam === 'BSHGRP' || groupParam === 'BSHGRP2'){ activeGroup = groupParam; applied = true; }
+  }
   return applied;
 }
 
