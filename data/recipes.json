@@ -93411,5 +93411,5933 @@
     "id": "dp-bh-41",
     "masterId": "dp-bh-41-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Baked Scallops",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stuffed Scallops",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified butter",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan. Grated",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "MV Breadcrumbs",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon, chopped",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Scallions, curly cut",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Baby Arugula",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bake the Clarified butter on top of each scallop.",
+      "Bake the Parmesan. Grated on top of each scallop.",
+      "Bake the MV Breadcrumbs on top of each scallop.",
+      "Place 3 scallops on sizzle platter, top with melted clarified butter",
+      "Bake for 7 minutes, until a little color and scallops are cooked through.",
+      "Add chopped bacon and curly scallions on top for garnish.",
+      "Expo plates scallops on top of a small bed of arugula.",
+      "Expo:",
+      "Bacon, chopped — garnish on top.",
+      "Scallions, curly cut — garnish on top.",
+      "Baby Arugula — garnish underneath, to hold the scallops."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-35",
+    "masterId": "dm-mv-35-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Brussels App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brussels sprouts, halved (deli pint for portioning)",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "BB Sauce (boom boom)",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mixed Sesame Seeds",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Soy Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Portion brussels and drop in fryer. Cook for 3 minutes until crispy. NOT BURNT",
+      "Place brussels in mixing bowl and toss in ginger soy sauce.",
+      "Plate brussels, don’t add the excess ginger soy sauce to the plate****",
+      "Garnish with sesame seeds and a ramekin of bb sauce"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-36",
+    "masterId": "dm-mv-36-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Calamari",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Calamari Portion (9oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Thai coconut sauce",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Carrots and Cucumber",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Red Onions",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Remove calamari from portion bag into pre dip batter",
+      "Strain out of pre dip and into calamari breader.",
+      "Make sure calamari is coated well.",
+      "Cook for 2 minutes until calamari is nice and crispy. Drain in save-a-day",
+      "Plate Calamari and sell to expo.",
+      "Garnish with pickled vegetables, mirco cilantro, thai coconut sauce and lime wedge",
+      "Expo:",
+      "Thai coconut sauce — on expo in a monkey dish.",
+      "Pickled Carrots and Cucumber — garnish.",
+      "Pickled Red Onions — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-37",
+    "masterId": "dm-mv-37-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Shrimp Ceviche",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp portion (4oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Ceviche Juice",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and Pepper",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, fine julienne",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple, sm diced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Fresno Chilis",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Avocado, fan",
+        "qty": "0.25",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Fried Tortilla Chips",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix shrimp, red onion, fresno peppers, pineapple, cilantro and juice together.",
+      "Plate in soup bowl.",
+      "Place 3 tortilla chips in back, sticking out of the bowl",
+      "Garnish with micro cilantro and a avocado fan",
+      "Expo:",
+      "Avocado, fan — garnish on top.",
+      "Micro Cilantro — garnish on top.",
+      "Fried Tortilla Chips — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-38",
+    "masterId": "dm-mv-38-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Sweet n Spicy Shrimp",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp tail on",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "BB Sauce (boom boom)",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sesame seeds",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Coleslaw Mix",
+        "qty": "3.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "BB Sauce (boom boom)",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss the shrimp in the BB Sauce (boom boom).",
+      "Use the BB Sauce (boom boom) to make the coleslaw.",
+      "Follow breading procedure using pre-wash and calamari breader",
+      "Cook Shrimp and toss in bb sauce.",
+      "Mix coleslaw mix with remaining bb sauce to make slaw",
+      "Plate slaw down first with shrimp on top, Garnish with micro cilantro and sesame seeds",
+      "Expo:",
+      "Micro Cilantro — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-39",
+    "masterId": "dm-mv-39-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tater Tots",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tater Tots",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Chipotle honey mustard",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Scallions, sliced",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "fry tater tots and drain in save a day",
+      "Add sauce to plate with ladel, spreading out in a circle with bottom of the ladel.",
+      "Plate tater tots, garnish with chopped scallions in center of sauce on plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-40",
+    "masterId": "dm-mv-40-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Fettuccine",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shallots, sliced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, mince",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Roasted Mushrooms",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Broccolini, blanched and cut",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Crushed Red pepper Flakes",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Heirloom Tomatoes, halved",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "0.75",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Fettuccine",
+        "qty": "1",
+        "unit": "portion",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat oil in saute pan, add shallots, garlic, pepperflakes and broccolini to saute",
+      "Deglaze with white wine, and reduce down.",
+      "Add Cream and reduce by half, fold in half the parmesan cheese.",
+      "Drop pasta in boiling water, drain and add to saute pan, toss.",
+      "Plate Pasta, Garnish with remaining shaved parm and chopped parsley.",
+      "Served with foaccia bread."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-41",
+    "masterId": "dm-mv-41-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Filet Mignon",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "6oz. Filet, marinated",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Mash side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Broccolini side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Steak Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Marinate the 6oz. Filet, marinated in olive oil and thyme.",
+      "Season filet well and grill to guests ordered temperature.",
+      "Rest steak and sell.",
+      "The filet is served with a side of broccolini and boursin mash.",
+      "Steak sauce on side.",
+      "Expo:",
+      "Steak Sauce — ramekin on the side, on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-42",
+    "masterId": "dm-mv-42-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Fried Chicken Entree",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Flour",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Boursin Mash",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Collards",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Country Gravy",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Scallion, curly cut",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out chicken breast and add to buttermilk, drain , calamari flour, sift and fry.",
+      "Make sure chicken reachses 165 degrees and is fully cooked",
+      "Plate mash and collards, add chicken.",
+      "Heat up gravy and pour down the front side of the chicken breast.",
+      "Garnish with curly scallions."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-43",
+    "masterId": "dm-mv-43-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Island Trio",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp, Tail on",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "10/20 Scallops",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Snapper",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Jerk Seasoned Flour",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Shaved Corn (3 oz spoodle)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Zucchini, diced (3 oz spoodle)",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, soft",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cillantro, chopped",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Mango Lime butter",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "PREP MV Mango Lime Butter",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Coat shrimp, scallops, and snapper in jerk flower. Sear on flat top.",
+      "Cook for 2 minutes and turn to sear other side of seafood until cooked through.",
+      "On Saute… heat a saute pan, add oil, corn, zucchini and garlic.",
+      "Once cooked, add butter and chopped cilantro to set.",
+      "Spread veggies on in center of plate. Arrange seafood on top and around.",
+      "Drizzle mango lime butter around the plate.",
+      "Expo:",
+      "Mango Lime butter — warm on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-44",
+    "masterId": "dm-mv-44-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Jalapeno Grouper",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper portion (8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Jalapeno Glaze",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Brussels Sprouts, shaved",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots, sliced thin",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, chopped",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Roasted Sweet Potatoes",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Dried Cranberries",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Almond slices",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Quinoa, cooked",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat Saute pan, add oil and sear seasoned fish, flip after 2 minutes and sear other side.",
+      "Remove fish and add to sizzle pan. Glaze with jalapeno glaze and finish in oven.",
+      "Heat another saute pan, add oil, brussels, shallots and garlic and saute.",
+      "Add Sweet potato, quinoa, cranberries and almonds to heat up.",
+      "Plate veggies in middle of plate with glazed fish on top.",
+      "Pour sauce around the plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-45",
+    "masterId": "dm-mv-45-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Swordfish Risotto",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Swordfish Portion (8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Asparagus",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Risotto Base",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Corn Stock",
+        "qty": "8",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mascarpone Cheese (purple scoop)",
+        "qty": "purple",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan Cheese, Shaved",
+        "qty": "2",
+        "unit": "tablespoons",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, Chopped",
+        "qty": "1",
+        "unit": "tablespoons",
+        "qty2": ""
+      },
+      {
+        "name": "Rosemary, Chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, grilled half",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Vinaigrette",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grill the Swordfish Portion (8oz) to order.",
+      "Season swordfish and grill. Brush with lemon butter and set aside.",
+      "Season and grill 1 side of asparagus.",
+      "Add risotto base and corn stock to cold saute pan, fire on stove.",
+      "Slowly melt the remaining stock into the rice.",
+      "Fold in the mascarpone, parmesan and herbs.",
+      "Season with salt and pepper.",
+      "Pour risotto in base of pasta bowl. Cross the asparagus on top.",
+      "Add grilled swordfish, grilled lemon garnish and lemon  vinagrette",
+      "Expo:",
+      "Lemon Vinaigrette — squeeze bottle on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-46",
+    "masterId": "dm-mv-46-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tuna Poke Bowl",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tuna portion (4oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Soy Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumber, diced",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Scallions, Sliced",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Seaweed Salad",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sushi rice round portion",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Cornstach",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Togarashi",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Avocado, fan",
+        "qty": "0.25",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the Cornstach to cook the sushi rice.",
+      "Season the sushi rice with the Togarashi.",
+      "Open tuna bag and add cucumber, scallions and ginger soy sauce. Mix in bag,",
+      "Coat rice in cornstach, fry for 2 minutes until crispy, season with togarashi spice mix",
+      "Plate tuna mix, avocado fan and seaweed salad.",
+      "Cut rice cake in half and plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-47",
+    "masterId": "dm-mv-47-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "BlackJack w/ Redfish",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Redfish portion",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Blackening spice",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Cheddar",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Burger Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "LTO Set",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Season one side of fish and blacken on flat top, Cook through",
+      "Once fish is cooked, melt cheddar on top of fish.",
+      "Toast bun on flat top and plate sandwich.",
+      "Garnish with LTO, tartar sauce and lemon wedge.",
+      "Expo:",
+      "Tartar Sauce — ramekin on expo.",
+      "LTO Set — garnish.",
+      "Lemon wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-48",
+    "masterId": "dm-mv-48-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Brisket Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Braised Brisket portion 4oz",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coleslaw mix",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cotija Cheese, grated",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Jalapeno, sliced thin",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Watermelon Radish, fine julienne",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Cream",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat Brisket in microwave and set aside",
+      "Build Taco, cabbage, brisket, cheese, sour cream, jalapeno pepper, radish and cilantro.",
+      "Expo:",
+      "Jalapeno, sliced thin — garnish on top.",
+      "Watermelon Radish, fine julienne — garnish on top.",
+      "Sour Cream — garnish on top.",
+      "Cilantro, Chopped — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-49",
+    "masterId": "dm-mv-49-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Crab Cake Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Cake",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Red onion",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Baby Arugula",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Remoulade Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add butter to flat top and cook crab cake and brioche bun.",
+      "Plate crab cake on bun and sell to expo.",
+      "Garnish crab cake with pickled red onions and baby arugula. Remoulade on side.",
+      "Expo:",
+      "Pickled Red onion — on expo.",
+      "Baby Arugula — on expo.",
+      "Remoulade Sauce — ramekin on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-50",
+    "masterId": "dm-mv-50-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pepperjack Cheese",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon strips",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Guacamole",
+        "qty": "0.75",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lettuce and tomato set",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season and grill chicken breast to 165 degrees",
+      "Add bacon and melt cheese on chicken breast",
+      "Toast bun and add chicken to build sandwich.",
+      "Garnish with guacamole, lettuce and tomato"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-51",
+    "masterId": "dm-mv-51-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Pub Burger",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "7oz Burger Patty",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon Strips",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Cheddar, sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "LTO Set",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickle spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified butter.",
+      "Season and grill burger to guest temperature.",
+      "Add bacon and cheddar to burger and melt.",
+      "Toast bun on flat top, add burger, sell to expo",
+      "Garnish with lettuce, tomato, onion and pickle"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-52",
+    "masterId": "dm-mv-52-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Asparagus",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "1.0 Each",
+    "portions": "1.0",
+    "portionSize": "1.0 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "PREP MV Blanched Asparagus",
+        "qty": "4.0",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-53",
+    "masterId": "dm-mv-53-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side BBQ Fries",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "BBQ Fry Spice",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cooked French Fries",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season with BBQ Fry Spice as needed.",
+      "Drop fries in fryer until golden brown and crispy.",
+      "Toss in a separate bowl with BBQ spice."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-54",
+    "masterId": "dm-mv-54-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Broccolini",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Garlic, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Broccolini, blanched",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat butter and garlic in saute pan, a little color on the garlic is ok.",
+      "Heat up broccolini in vegetable water.",
+      "Drain broccolini and toss in garlic butter. Season with salt and pepper"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-55",
+    "masterId": "dm-mv-55-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "SIde Chips",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "House Chips, Cooked",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Greek Seasoning",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season the Greek Seasoning once cooked.",
+      "Turn fryer down to 325 and slowly cook chips to golden brown.",
+      "Season with greek seasoning.",
+      "This is done ahead of time and kept warm on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-56",
+    "masterId": "dm-mv-56-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Coleslaw",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coleslaw",
+        "qty": "3.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Coleslaw — stored cold on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-57",
+    "masterId": "dm-mv-57-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Collards",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Collards, prepared",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Collards, prepared — kept hot in the steamwell."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-58",
+    "masterId": "dm-mv-58-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Fries",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Greek Seasoning",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cooked French Fries",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season with Greek Seasoning as needed.",
+      "Drop fries in fryer until golden brown and crispy.",
+      "Toss in a separate bowl with Greek Seasoning"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-59",
+    "masterId": "dm-mv-59-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Mash",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Boursin Mashed Potatoes",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parlsey, chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Boursin Mashed Potatoes — kept hot in the steamwell.",
+      "Parlsey, chopped — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-60",
+    "masterId": "dm-mv-60-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Side Risotto",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Risotto Base",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Vegetable/Corn stock",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and pepper",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Zest & Juice",
+        "qty": "a",
+        "unit": "splash",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Mascarpone Cheese (purple scoop)",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add risotto base and stock to saute pan and begin heating.",
+      "Mix risotto until stock is absorbed.",
+      "Once risotto is ready, fold in both cheeses, lemon and parsley.",
+      "Adjust seasoning with salt and pepper as needed"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-61",
+    "masterId": "dm-mv-61-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Whiskey Bread Pudding",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bread pudding",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Vanilla Ice Cream (green scoop)",
+        "qty": "1",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Caramel Sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat bread pudding in mircowave.",
+      "Plate bread pudding, add scoop of vanilla ice cream on top",
+      "Garnish with caramel sauce.",
+      "Expo:",
+      "Caramel Sauce — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-62",
+    "masterId": "dm-mv-62-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Burratta Salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Baby arugula",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Vinegar and Olive oil",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Heirloom Tomato, halves",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Fresh Basil, chiffonade",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Burrata Cheese",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "MV Bread Crumbs",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Reduction",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix the Balsamic Vinegar and Olive oil 3 parts balsamic to 1 part oil in a squeeze bottle.",
+      "Mix arugula, with tomato, basil, balsamic and oil.",
+      "Plate salad in bowl with burrata cheese on top.",
+      "Sell to expo, garnish with bread crumbs and balsamic reduction.",
+      "Expo:",
+      "MV Bread Crumbs — garnish.",
+      "Balsamic Reduction — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-63",
+    "masterId": "dm-mv-63-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Caesar Salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Romaine Lettuce, washed/chopped",
+        "qty": "6.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Caesar Dressing",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Croutons",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, zest",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Black pepper",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place the Black pepper on top of the salad.",
+      "Add salad, half the cheese and dressing in a bowl and toss.",
+      "Plate in salad bowl.",
+      "Garnish with croutons, remaining shaved parm, lemon zest and a pinch of pepper.",
+      "Expo:",
+      "Lemon, zest — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-64",
+    "masterId": "dm-mv-64-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chocolate Cake",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chocolate Cake",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chocolate sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Plate chocolate cake on dessert plate.",
+      "Garnish with whipped cream and chocolate sauce.",
+      "Expo:",
+      "Whipped Cream — garnish.",
+      "Chocolate sauce — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-65",
+    "masterId": "dm-mv-65-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chowder",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chowder Base",
+        "qty": "10",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Clams",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp tail on",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Chicken Stock",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat up soup and set aside.",
+      "Heat up sauce pan, add a little oil with the clams and shrimp. Cook until starts to dry.",
+      "Deglaze with chicken stock, cover until clams open.",
+      "Pull out shrimp early  to not overcook.",
+      "Plate Soup in bowl, add clams and shrimp, garnish with chopped parsley."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-66",
+    "masterId": "dm-mv-66-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "House Salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Spring Mix lettuce",
+        "qty": "5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Heirloom Tomato, halves",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumbers, peel and diced",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Watermelon Radish, shaved",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Carrot, shaved",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Onion Vinaigrette",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "salt and pepper",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add Green to bowl and toss with sweet onion vinaigrette. Plate in salad bowl.",
+      "Garnish with shaved radish, shaved carrot, tomato and cucumber on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-67",
+    "masterId": "dm-mv-67-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Trio Ice Cream",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chocolate Ice Cream (green-handle disher)",
+        "qty": "1",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Vanilla Ice Cream (green-handle disher)",
+        "qty": "1",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry Ice Cream (green-handle disher)",
+        "qty": "1",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Waffle",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chocolate Sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Warm the Waffle in the microwave.",
+      "Heat up waffle and plate in ice cream bowl.",
+      "Add one scoop of each flavor to the bowl.",
+      "Garnish with whipped cream and chocolate sauce.",
+      "Expo:",
+      "Whipped Cream — garnish on top.",
+      "Chocolate Sauce — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-68",
+    "masterId": "dm-mv-68-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Key Lime Pie",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Keylime pie",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Kiwi Sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime, zest",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Plate keylime pie on dessert plate.",
+      "garnish with whipped cream, kiwi sauce, and lime zest.",
+      "Expo:",
+      "Whipped Cream — garnish on top.",
+      "Kiwi Sauce — garnish on top.",
+      "Lime, zest — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-69",
+    "masterId": "dm-mv-69-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mango Creme Brulee",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango Crème Brulee",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Tropical fruit salad",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Mint leaf",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Lightly coat top of brulee with sugar, burn with torch to caramelize sugar, set aside.",
+      "When sugar cools and hardents, garnish with fruit salad and fresh mint or flowers.",
+      "Expo:",
+      "Tropical fruit salad — garnish on top.",
+      "Mint leaf — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-70",
+    "masterId": "dm-mv-70-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "NY Cheesecake",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "NY Cheesecake",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Raspberry Sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Plate cheesecake on dessert plate.",
+      "Garnish with raspberry sauce and whipped cream."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-71",
+    "masterId": "dm-mv-71-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Reese's PB Pie Plate",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Peanut Butter Pie",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chocolate Sauce",
+        "qty": "0.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Plate pie on dessert plate.",
+      "Garnish with whipped cream and chocolate sauce."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-72",
+    "masterId": "dm-mv-72-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Quinoa Cobb Salad Plate",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Icebergm, shredded",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Quinoa",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Old Derby Dressing",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Hard Boiled Egg, sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Scallions, sliced",
+        "qty": "0.6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Heirloom Tomato, halves",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon, chopped",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Avocado, diced",
+        "qty": "0.25",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "DAIRY Cheese Blue Crumble",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss iceberg and quinoa with the old derby dressing in a bowl, plate in salad bowl.",
+      "Garnish in rows with remaining ingredients."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-73",
+    "masterId": "dm-mv-73-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Strawberry Avocado salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bibb Lettuce, leaves",
+        "qty": "0.75",
+        "unit": "heads",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry Vinaigrette",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumber, peel / diced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Goat Cheese, crumbles",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Pecans, chopped",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberries, sliced",
+        "qty": "2.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Avocado, diced",
+        "qty": "0.5",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Clean bibb lettuce and lay leaves down on plate.",
+      "Drizzle strawberry vinaigrette over greens.",
+      "Garnish with cucumber, strawberries, pecans, goat cheese and avocado."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-74",
+    "masterId": "dm-mv-74-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "BB Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "3 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mayo",
+        "qty": "2",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili sauce",
+        "qty": "2",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Siracha Sauce",
+        "qty": "2",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Measure everything out and mix in a bowl",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-1",
+    "masterId": "dp-mv-1-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chicken Brine",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "106 each",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "5",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons (cut in half)",
+        "qty": "10",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard Seed",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Jerk Seasoning",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "1.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Salt",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Chicken",
+        "qty": "40",
+        "unit": "Lbs",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add water, sugar and salt into large lexon and mix until dissolved.",
+      "Add lemons, parsley, garlic, mustard seed, jerk seasoning to cheese clothe",
+      "add to brine",
+      "With yellow cutting board and meat mallet, tenderize / clean chicken before brine.",
+      "Remove from brine and pan up the next day."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-2",
+    "masterId": "dp-mv-2-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chipotle honey Mustard",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2.5 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Honey Mustard",
+        "qty": "2.5",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "Chipotle Peppers ( 7oz can)",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Puree chipotle peppers in robo cope",
+      "Mix prepared honey mustard and chipotle together",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-3",
+    "masterId": "dp-mv-3-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Cocktail Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "3 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ketchup",
+        "qty": "1",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "Chili Sauce",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "Horseradish",
+        "qty": "48",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Worchestershire",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "hot Sauce",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "0.75",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Salt / Pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients together",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-4",
+    "masterId": "dp-mv-4-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Cole Slaw",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "5.5#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Slaw Mix",
+        "qty": "5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Cole slaw dressing",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "salt / pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "Celery Seed",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add preparedd slaw mix a  mixing bowl.",
+      "Add remaining ingredients.",
+      "Wrap /Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-5",
+    "masterId": "dp-mv-5-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Crab Cake",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "34 portioned crab cakes",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Carb Meat",
+        "qty": "6",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Panko",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayo",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon , juice",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "paprkia",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "scallions ,  sliced",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "dijon mustard",
+        "qty": "3",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "cayenne pepper",
+        "qty": "0.5",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "horseradish",
+        "qty": "3",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "hot sauce",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "s / p",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "panko, ground in robo coupe",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add all ingredients except 2nd panko to a bowl for the crab cake mix,",
+      "Blend remaining panko in robo coupe to make fine.",
+      "Portion crab cake with grey scoop",
+      "Form crab cake and coat in ground panko",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-6",
+    "masterId": "dp-mv-6-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "guac",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "6 cups",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "avocado ( rough chop )",
+        "qty": "10",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "red onion ( sm dice)",
+        "qty": "5.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro, chopped",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "limes, juice",
+        "qty": "7",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "cumin",
+        "qty": "2",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "jalapeno, sm diced",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "s/p",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "chili powder",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add all ingredients to a bowl and mix well.",
+      "Adjust seasoning if needed",
+      "wrap / label / date",
+      "push plastic onto guac to help with oxidizing"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-7",
+    "masterId": "dp-mv-7-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Honey mustard",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "4 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mayo",
+        "qty": "3",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "Whole Grain Mustard",
+        "qty": "8",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "10",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cider Vinager",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "White Pepper",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Worcesterchire Sauce",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients together. Make sure it is mix well.",
+      "Transfer to clean cambro once mixed",
+      "Save 2.5 gallons of honey mustard to make chipotle honey mustard",
+      "wrap / label / date the remaining honey mustard"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-8",
+    "masterId": "dp-mv-8-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Jerk Rice Flour",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "9 cups / 55 ounce",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rice Flour  ( 6 cups )",
+        "qty": "37",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Jerk Seasoning ( 3 cup)",
+        "qty": "18",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-9",
+    "masterId": "dp-mv-9-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Marinated Cucumber / Carrot",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2# = 2 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Carrot (fine julienne) 6 ea",
+        "qty": "30",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumber ( fine julienne ) 12 ea",
+        "qty": "4",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Rice wine vinegar",
+        "qty": "6",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Peel and slice vegetables into fine julienne strips",
+      "Add the rest of the ingredients to vegetables to marinate.",
+      "Let sit overnight before using",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-10",
+    "masterId": "dp-mv-10-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Slaw Mix",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "11#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Slaw bag mix",
+        "qty": "2",
+        "unit": "Bag",
+        "qty2": ""
+      },
+      {
+        "name": "Red onion ( sliced thin)",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro ( chopped )",
+        "qty": "2",
+        "unit": "Bunch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Open slaw mix bags , cabbage/ red babbage / carrots into a lexon",
+      "add onions and cilantro, mix well.",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-11",
+    "masterId": "dp-mv-11-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tartar Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "4.5 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Red Onion, sm diced",
+        "qty": "12",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Capers , chopped",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Dill relish",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "dried dill",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "lemon juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayo",
+        "qty": "4",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "white pepper",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley , chopped",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients together. Make sure it is mix well.",
+      "Transfer to clean cambro once mixed",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-12",
+    "masterId": "dp-mv-12-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tator Tots",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "8 lbs",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Idaho Potatoes, Cooked/Cleaned",
+        "qty": "30",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Onion ( chopped )",
+        "qty": "3",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "shredded pepperjack cheese",
+        "qty": "10",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Granulated Garlic",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Cream",
+        "qty": "4",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Granulated Onion",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Cornstach",
+        "qty": "16",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bake potatoes for 45 minutes at 350 until cooked through, cool down",
+      "Peel cooled potatoes and pass through breader basket to dice up",
+      "add remaining ingredients and mix well",
+      "Add corn starch to a bowl",
+      "use the black scoop to portion tots and place in corn starch to coat",
+      "Layer with deli paper in 1/3 pans",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-13",
+    "masterId": "dp-mv-13-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Thai Coconut Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "4 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Serranos ( cut out seeds )",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "fish sauce",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "egg yolk",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "lime juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "coconut milk (13.5OZ)",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "Blended oil",
+        "qty": "6",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "parsley",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "remove Seeds from peppers, doesn’t need to be perfect",
+      "add blend everything but the oil in the blender.",
+      "With the machine running slowly pour oil in to emulsify.",
+      "May need to do in two batchs.",
+      "Adjust seasoning if needed",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-14",
+    "masterId": "dp-mv-14-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "BBQ Spice rub for Fries",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2.75 cup",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "brown sugar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "paprika",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "chili powder",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "granulated garlic",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "granulated onion",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "3",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "dry mustard powder",
+        "qty": "2",
+        "unit": "Teaspoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients, store in airtight container",
+      "label /date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-15",
+    "masterId": "dp-mv-15-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Blackening Spice",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "68.37oz / 7.25 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Paprika  22.5oz",
+        "qty": "10",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Chili Powder  6.75oz",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Onion, Granulated  7.5 oz",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Black pepper ground   4oz",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt  11.25",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cayenne Pepper  3.37oz",
+        "qty": "1.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cumin    4oz",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Dry Oregano    1.5oz",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, Granulated  7.5oz",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients in a bowl well",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-16",
+    "masterId": "dp-mv-16-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Lemon Vinaigrette",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "6 cup",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "lemon juice",
+        "qty": "1.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "shallot",
+        "qty": "0.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "garlic",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "dijon mustard",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "honey",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "egg yolk",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "s/p",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "turmeric",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "blended oil",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "L"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-17",
+    "masterId": "dp-mv-17-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mignonette",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "6 cups",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shallot ( 2 cup) minced",
+        "qty": "22",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "White Balsamic Vinegar",
+        "qty": "2",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "White Pepper",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-18",
+    "masterId": "dp-mv-18-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Pasta",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "40 portions",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "00 flour",
+        "qty": "2",
+        "unit": "Kilograms",
+        "qty2": ""
+      },
+      {
+        "name": "eggs ( yolk )",
+        "qty": "800",
+        "unit": "Grams",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "400",
+        "unit": "Grams",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Weigh Egg yolk, water and flour with a scale.",
+      "Add flour first to mixer then the water and egg.",
+      "With the dough hook, mix until well combined.",
+      "kneed dough into a ball and wrap in plastic. Let rest for at least 30 minutes.",
+      "Roll out and tri fold pasta with a rolling pin to fit inside the machine.",
+      "Roll out pasta to setting 2. Fold about half way through.",
+      "When you get to 2, pass through twice.",
+      "dust both side with flour and let dry.",
+      "Cut in 10-12 in sections and cut into fettucine.",
+      "Portion is 2.8 ounce"
+    ],
+    "notes": "portion is about 2.8 oz",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-19",
+    "masterId": "dp-mv-19-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Pickled Red Onions",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "7# drained",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "red onions ( fine julienne )20ea?",
+        "qty": "15",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Red Wine vinegar",
+        "qty": "1.5",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "4",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cinnamon stick ( 4 each)",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "whole cloves ( 1 table spoon)",
+        "qty": "0.25",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "peppercorn",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Peel and slice onions, set aside in cambro",
+      "Bring rest of ingredients to a simmer until sugar is dissolved.",
+      "Pour hot liquid over onions and mix to break onions up.",
+      "Cool down before serving.",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-20",
+    "masterId": "dp-mv-20-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Pico",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "6#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": "5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "red onion",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "salt / pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "lime juice",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Chop tomatoes and onions with choppe/dicer and add to a bowl",
+      "wash and chop cilantro, add to bowl.",
+      "Add lime juice , salt , pepper .",
+      "Wrap / Label /  Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-21",
+    "masterId": "dp-mv-21-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "remoulade sauce",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2 gallon",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "mayo",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "chipotle can (7oz CAN)",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "roasted red peppers ( drained ) #10 can",
+        "qty": "1",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "Capers ( drainded ) (16oz)",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "scallions, chopped",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "lemon, juice",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "black pepper",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "paprika",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "dried dill",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add chipotle peppers, roasted red peppers, capers to robo coupe to blend",
+      "Add blend to a bowl with mayo, chopped scallions and remaining ingredients",
+      "adjust seasoning if needed.",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-22",
+    "masterId": "dp-mv-22-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Blanched Asparagus",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3.1 LB",
+    "portions": "1",
+    "portionSize": "3.1 LB",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Asparagus",
+        "qty": "4",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring salted water to a boil.",
+      "Add asparagus to water and cook for 2 minutes.",
+      "Drain asparagus and dunk in ice bath. Cool Completely",
+      "Drain well and store",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-23",
+    "masterId": "dp-mv-23-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Whipped Potatoes",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "5 LB",
+    "portions": "10",
+    "portionSize": "8 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mashed Potatoes",
+        "qty": "5",
+        "unit": "bag",
+        "qty2": ""
+      },
+      {
+        "name": "DAIRY CHEESE Boursin Herb French",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Mashed Potatoes in water.",
+      "Heat mash in simmering water. Add to mixing bowl.",
+      "Open up boursin cheese and fold into mashed potatoes",
+      "Keep mash warm in steam well."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-24",
+    "masterId": "dp-mv-24-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Blanched Broccolini",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "4 LB",
+    "portions": "18",
+    "portionSize": "3.5 oz-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "PROD Broccolini",
+        "qty": "9",
+        "unit": "bunches",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring salted water to a boil.",
+      "Add broccolini to water and cook for 2 minutes.",
+      "Drain broccolini and dunk in ice bath. Cool Completely",
+      "Drain well and store",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-25",
+    "masterId": "dp-mv-25-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Corn Stock",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3 Gallon",
+    "portions": "48",
+    "portionSize": "1 cup",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "3",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Corn cobs, scrap",
+        "qty": "18",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Save all corn and add to pot with water. \n 2. Bring to simmer for 45 minutes.\n 3. Strain and cool.\n\n 4. Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-26",
+    "masterId": "dp-mv-26-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Braised Brisket",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "50 portions",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "brisket ( 2 ea)",
+        "qty": "30",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "black pepper",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "paprika",
+        "qty": "5",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "small onion ( large dice )",
+        "qty": "2.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "garlic cloves ( whole )",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "chipotle peppers ( whole )",
+        "qty": "2",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "root beer",
+        "qty": "1",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "ketchup",
+        "qty": "1",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "yellow mustard",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "molasses",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "worcestershire",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Trim and split brisket to remove thick portions of fat.",
+      "Season each side to the meat with salt, pepper and paprika",
+      "Sear brisket on both sides.",
+      "Add onions and garlc to saute.",
+      "Deglaze with 1 quart of water.",
+      "Add Onions and garlic, brisket and remaining ingredients to 6\" hotel pan",
+      "Cover with plastic wrap and aluminum foil",
+      "Braise for 14 hours at 220",
+      "Pull meat out and cut/shred .",
+      "Add braising liquid back to meat",
+      "Portion by weight (4oz) in cup / lid container"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-27",
+    "masterId": "dp-mv-27-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Beurre Blanc",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2 quarts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shallots, sm diced",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cream",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "3",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "S/P",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Parlsey",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "dice butter and get to room temp",
+      "Add white wine and shallots to a pan and reduce all the way down",
+      "Add cream to pan and reduce by half",
+      "Strain mixtures.",
+      "while the cream is still hot whisk ( or blend ) butter into the sauce",
+      "Adjust seasoning with lemon juice/ salt and pepper",
+      "Finish with fresh chopped parsley"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-28",
+    "masterId": "dp-mv-28-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chowder Base",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "12qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chowder Can",
+        "qty": "8",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "6",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Idaho Potato ( baked ) diced",
+        "qty": "16",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon Pieces, diced",
+        "qty": "48",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Corn",
+        "qty": "8",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "onion , diced",
+        "qty": "24",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic , diced",
+        "qty": "8",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "cobia , diced",
+        "qty": "48",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "white wine",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Render bacon in large pot.",
+      "Add onions and garlic and sweat untill cooked.",
+      "Add cobia and cook for 5 minutes",
+      "Deglaze with white wine and reduce",
+      "Add soup, cream, potatoes, corn and bring to a simmer for 10 minutes"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-29",
+    "masterId": "dp-mv-29-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Collard Greens",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "22.75#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Collard Greens (24ct)  16#",
+        "qty": "1",
+        "unit": "Case",
+        "qty2": ""
+      },
+      {
+        "name": "onions( 5 each)",
+        "qty": "3.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "chicken stock ( 2 gallons )",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "ham hock ( 2 ea )",
+        "qty": "1.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "garlic",
+        "qty": "2.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "apple cider vinegar",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "4",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "red pepper flake 1.5 T",
+        "qty": "0.3",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "1 case clean = 9.5#",
+      "1 case cooked = 22.75 #"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-30",
+    "masterId": "dp-mv-30-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Country Gravy",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "pork breakfast sausage",
+        "qty": "5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "onion ( diced )",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "garlic ( chopped )",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "fresh rosemary ( chopped )",
+        "qty": "0.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "chicken stock",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "heavy cream",
+        "qty": "1",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "butter",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "ap flour",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "salt / pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add sausage to small pot and cook until fat is removed.",
+      "Remove and drain sausage",
+      "Add a little bit of the sausage fat back to the pot",
+      "Sweat the onions, garlic and rosemary untill translucent.",
+      "Add chicken stock and cream and bring to a simmer for about 10 minutes",
+      "Make a roux by cooking the butter and flour together in a separate pot",
+      "Add roux to gravy to thicken",
+      "Blend gravy with the burr mixer",
+      "Adjust seasoning if needed and cool",
+      "wrap / label / date"
+    ],
+    "notes": "roux",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-31",
+    "masterId": "dp-mv-31-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "crab and corn stuffing",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "4# 4 oz / 68 oz",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "corn, fresh  ( 40 oz )",
+        "qty": "8",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "butter",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "shaved parm",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "salt / pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "turmeric",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "crab meat lump",
+        "qty": "2",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "parsley",
+        "qty": "0.5",
+        "unit": "Bunch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Blend corn well in robo coupe and add to the smaller pot",
+      "Cook on low heat to reduce the corn juice and cook the corn.",
+      "Add butter and melt into the corn. Place mixture in a bowl.",
+      "Fold in the cheese and turmeric ;   cool down in the walk in.",
+      "Fold in the fresh parsley and crab meat",
+      "Adjust seasoning if needed.",
+      "Season scallops with salt and pepper",
+      "Fill scallop shells with 1 purple scoop of crab filling. And spread",
+      "Top with the \" burrata bread brumbs\" and grated parm",
+      "For Service. Add a little melted butter to each and bake @350 for 7-8 minutes.",
+      "Garnish with crispy bacon and curly scallions"
+    ],
+    "notes": "purple scoop / 1 oz / scallop",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-32",
+    "masterId": "dp-mv-32-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Ginger Soy Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2.25 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger  (1 cup chopped )",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic (1 cup chopped",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "sesame oil",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "plum sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "red pepper flake",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "rice wine vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "green onion",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat sesame oil in large pot",
+      "Add garlic and ginger, cook for about 5 minutes and turn heat off",
+      "Add plum sauce, soy sauce, vinegar, sugar, and pepper flakes.",
+      "Bring sauce to a simmer to dissolve sugar.",
+      "Cool down",
+      "Once cool, add the chopped cilantro and scallions",
+      "Adjust seasoning if needed.",
+      "Wrap label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-33",
+    "masterId": "dp-mv-33-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Quinoa",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "11 cup",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Quinoa (6.5oz/cup)",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "7",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "pepper",
+        "qty": "2",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Rinse quinoa well and drain water",
+      "Add to a sauce pot with the remiaining ingredients and bring to a simmer",
+      "turn down heat and cover for 15 minutes",
+      "remove from heat and let sit covered for another 15 minutes",
+      "fluff quinao and cool down on a sheet tray",
+      "wrap / label date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-34",
+    "masterId": "dp-mv-34-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Risotto Base",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "23.75#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Aborio Rice 4qt",
+        "qty": "8",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Onion, Sm dice",
+        "qty": "1.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, chopped",
+        "qty": "4",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Thyme, dry",
+        "qty": "0.2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Corn Stock ( in house )",
+        "qty": "8",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "Oil",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-35",
+    "masterId": "dp-mv-35-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Steak Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "6 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion",
+        "qty": "4",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "garlic clove",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "golden raisins",
+        "qty": "8",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "paprika",
+        "qty": "4",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "black pepper",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "celery seed",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "gochujang",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Worcesterchire sauce",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "dijon mustard",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "brown sugar",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "ketchup #10 can",
+        "qty": "1",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "sweat onion, garlic, raisins for 5 minutes",
+      "Add spices, sweat a couple more minutes",
+      "add Gojohngo, cook until it starts to stick to pan",
+      "Deglaze with Orange juice",
+      "Add remaining ingredients except ketucup and simmer for 30-45 minutes",
+      "Blend well, add ketchup and adjust seasoning if needed. Salt to taste"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-36",
+    "masterId": "dp-mv-36-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Balsamic Roasted Mushrooms",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "50 ounce",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cremini Mushrooms (3.7# Cleaned)",
+        "qty": "5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Blended oil",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "black pepper",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Remove large stems and dirt from mushrooms, do not soak in water.",
+      "Cut mushrooms in half",
+      "Add everything to a bowl and let soak for 30 minutes.",
+      "remove mushrooms from marinade onto a sheet tray and roast @ 375 for 10 - 15 minutes."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-37",
+    "masterId": "dp-mv-37-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Jalapeno Glaze",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "1 quart",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jalapeno",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "lemon juice",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "corn starch",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "parsley",
+        "qty": "2",
+        "unit": "Bunch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fry jalapeno peppers for one minute until blistered",
+      "place in a container and wrap to steam, 5-10 minutes",
+      "Remove skin and stem from jalapeno",
+      "Blend prepped jalapeno, water, sugar and parsley on high.",
+      "Strain and add to a sauce pan",
+      "Make a slurry with the corn strach",
+      "Bring sauce to simmer and add slurry",
+      "Once thinkened, place in hotel pan and into the freezer to cool fast",
+      "Add lemon juice and salt for  seasoning",
+      "Strain one more time.",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-38",
+    "masterId": "dp-mv-38-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mango Crème Brulee",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "25 each",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango Puree",
+        "qty": "2",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "3",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "vanilla extract",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "egg yolk",
+        "qty": "22",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "whole egg",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Defrost frozen mango and puree in blender well.",
+      "Add cream and mango to a simmer and remove from heat",
+      "let sit for 5 minutes",
+      "in a separate bowl mix sugar, vanilla and eggs",
+      "Slowly Pour hot cream mixture to egg to temper eggs.",
+      "Strain custard and skim foam",
+      "Pour into dishes, into hotel pan with the boiling water half way up the dishes",
+      "Bake at 300 for about 20 minutes until firm",
+      "check for the jiggle"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-39",
+    "masterId": "dp-mv-39-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "mango lime butter",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango Lime Base",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "2",
+        "unit": "Lbs",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-40",
+    "masterId": "dp-mv-40-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "mango lime butter",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango Lime Base",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "2",
+        "unit": "Lbs",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-41",
+    "masterId": "dp-mv-41-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Stuffed Scallops",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops on shell   8.5oz",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Mix for scallop",
+        "qty": "3",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan grated",
+        "qty": "0.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Crouton bread crumbs",
+        "qty": "0.5",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-42",
+    "masterId": "dp-mv-42-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Roasted Sweet Potato",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3.59 LB",
+    "portions": "1",
+    "portionSize": "3.59 LB",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Blended Oil",
+        "qty": "8",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Potatoes, peeled (large dice)",
+        "qty": "6",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and Pepper",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice sweet potato, add oil, salt and pepper to a bowl and toss well.",
+      "Lay out sweet potatos on lined sheet tray.",
+      "Roasted at 350 for about 20 minutes",
+      "Sweet potatoes should be a little soft, not mash/mush.",
+      "Cool sweet Potatoes completely .",
+      "Store in 1/6 pan, wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-43",
+    "masterId": "dp-mv-43-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Ceviche Juice",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "6 Cup",
+    "portions": "24",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all 3 juices together.",
+      "Wrap / label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-44",
+    "masterId": "dp-mv-44-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Balsamic Vinaigrette",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "9 cup",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Balsamic Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Dijon",
+        "qty": "2",
+        "unit": "Teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Egg yolk",
+        "qty": "4",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "honey",
+        "qty": "6",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "s/p",
+        "qty": "2",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "blended oil",
+        "qty": "6",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "fresh basil",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add vinegar, shallots, garlic, dijon, egg, and honey to blender.",
+      "Blend on high",
+      "with machine running slowly add oil to blender to emulsify,",
+      "Add basil, s/p and blend one more time.",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-45",
+    "masterId": "dp-mv-45-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Caesar Dressing",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "2.5 gallon",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "anchovy (13oz)",
+        "qty": "1",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "lemon ( juice)",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "red wine vinegar",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "dijon mustard",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan Shaved",
+        "qty": "24",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "egg yolk (pasterized)",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "worcestershire sauce",
+        "qty": "0.75",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "garlic",
+        "qty": "2.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "black pepper",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "blended oil",
+        "qty": "6",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "add all ingredients except oil to 12 qt container",
+      "Blend with burr mixer well before strating to add the oil",
+      "After blend and with the machine still running slowly add oil to emulsify dressing",
+      "take your time and make sure not to break dressing",
+      "see me if break so we can fix",
+      "adjust seasoning if needed",
+      "wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-46",
+    "masterId": "dp-mv-46-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Candied Pecans",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "4.75 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pecans",
+        "qty": "3",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Salt",
+        "qty": "0.5",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Ground Cinnamon",
+        "qty": "0.5",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Soak pecans in hot water from the coffee machine for 30 minutes",
+      "Drain well,and add to a bowl.",
+      "Add remaining ingredients and mix well.",
+      "Spread evenly on a sheet tray",
+      "Bake at 300 for about 10  minutes.",
+      "Mix nuts around and bake for another 10 minute",
+      "repeat one more time until nuts have dried ,",
+      "remove from sheet while hot or will stick to sheet tray.",
+      "let come to room temp before wrapping.",
+      "Keep stored at room temp."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-47",
+    "masterId": "dp-mv-47-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Croutons",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "8.75 lbs",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ciabata Bread, diced",
+        "qty": "30",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "butter, melted",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Granulated Garlic",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "0.5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan",
+        "qty": "8",
+        "unit": "Ounce",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice ciabatta bread and put in a mixing bowl,",
+      "Add remaining ingredients and toss.",
+      "Place on a sheet tray with parchment paper.",
+      "Bake @350 for 5-10 minutes, Moving around to make sure they get evenly cooked"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-48",
+    "masterId": "dp-mv-48-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Strawberry Vinaigrette",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "7 cups",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Strawberries",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot",
+        "qty": "0.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic",
+        "qty": "0.25",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Egg yolk",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Salt/Pepper",
+        "qty": "1",
+        "unit": "To Taste",
+        "qty2": ""
+      },
+      {
+        "name": "honey",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "blended oil",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-49",
+    "masterId": "dp-mv-49-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Sushi Vinegar",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "6 qts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "4",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "2",
+        "unit": "Quart - Dry Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Salt",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring vinegar, salt and sugar to a simmer until dissolved.",
+      "Cool down before storing or using",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-50",
+    "masterId": "dp-mv-50-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Old Derby Dressing",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "10 cup",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Thyme leaves",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "3",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Egg Yolks pastriezed",
+        "qty": "3",
+        "unit": "Fluid ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive Oil",
+        "qty": "5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "add egg,thyme, vinegar, honey and blend well.",
+      "Slowly add oil to emulsify dressing",
+      "adjust  salt and pepper.",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-51",
+    "masterId": "dp-mv-51-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Peel n Eat Shrimp",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "5#",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shell On easy peel  shrimp",
+        "qty": "5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "lemon",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "gulf bay seasoning",
+        "qty": "1",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "2",
+        "unit": "Gallons",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring water, lemon and old bay to a boil",
+      "Get ice bath ready",
+      "Add shrimp to water and cook for 3 minutes",
+      "Remove from water and shock in ice bath",
+      "wrap / label / date",
+      "store with an ice bag"
+    ],
+    "notes": "6.93 / lbs",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-52",
+    "masterId": "dp-mv-52-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Strawberry Vinegar",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "7 cups",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Strawberries",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "White Balsamic Vinegar",
+        "qty": "6",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-53",
+    "masterId": "dp-mv-53-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Sushi Rice",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "24 round circles",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sushi Rice  1.5 qt",
+        "qty": "3.37",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "water",
+        "qty": "1.5",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "2",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Sushi Vinegar",
+        "qty": "1.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Measure rice and run under cold water until water is clear and starch is removed.",
+      "Drain rice and add to rice cookers with measured rice and salt.",
+      "Cook in rice cooker.",
+      "When ready, place warm rice in bowl to add vinegar. Add more salt if needed",
+      "wrap 2\" hotel pan with plastice and press the entire batch of rice into the pan,",
+      "Mold it to the pan,",
+      "Place another piece of plastic directly on top do doesn’t dry out.",
+      "When rice is cool, cut into small disk.",
+      "Wrap / label / date,,, give to fry station"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-54",
+    "masterId": "dp-mv-54-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Sweet Onion Ving.",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "4.18 qt",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion Puree ( 24oz)",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "honey",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "apple cider vinegar",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "blended oil",
+        "qty": "8",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "dijon mustard",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "salt",
+        "qty": "8",
+        "unit": "Teaspoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "add all ingredients to vita prep and blend on high",
+      "with machine running slowly add oil to blender to emulsify,",
+      "adjust with s/p if needed",
+      "Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-55",
+    "masterId": "dp-mv-55-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bread Pudding",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "30 each",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crossiants",
+        "qty": "16",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "eggs",
+        "qty": "15",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "cream",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "milk",
+        "qty": "6",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "vanilla extract",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "cinnamon",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      },
+      {
+        "name": "Whiskey Jim Beam",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "butter",
+        "qty": "2",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "brown sugar",
+        "qty": "1",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "flour",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cinnamon",
+        "qty": "1",
+        "unit": "Table spoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-56",
+    "masterId": "dp-mv-56-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tropical Salad for brulee",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "1.33# - 21.28oz",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango, sm diced",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Kiwi, sm diced",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple, sm diced",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-57",
+    "masterId": "dp-mv-57-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Shrimp for Ceviche",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "1.4 LB",
+    "portions": "5.6",
+    "portionSize": "4 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "SEAFOOD Shrimp 21/25 P&D T/OFF",
+        "qty": "2",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring salted water to a boil",
+      "Add Shrimp and turn down fire to poach.",
+      "Remove shrimp and cool immediately.",
+      "Dice shrimp and portion in 4oz day bags"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-58",
+    "masterId": "dp-mv-58-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Whipped Cream",
+    "category": "Dinner Prep",
+    "submenu": "Pantry Prep",
+    "yield": "1.5lbs",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Heavy Cream",
+        "qty": "1",
+        "unit": "Quart - Liquid Measure",
+        "qty2": ""
+      },
+      {
+        "name": "Powdered Sugar ( .5cup)",
+        "qty": "2.5",
+        "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Vanilla extract",
+        "qty": "1",
+        "unit": "Teaspoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-mv-59",
+    "masterId": "dp-mv-59-m",
+    "location": "Mar Vista"
   }
 ]
