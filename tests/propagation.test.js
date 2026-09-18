@@ -110,6 +110,22 @@ t('two siblings do not share arrays with each other', () => {
   assert.strictEqual(e.RECIPES[2].steps.length, 1);
 });
 
+console.log('\nportions');
+t('portions propagates to linked siblings like any other content field', () => {
+  const a = R('a','m-1','CBG','Sides','X'), b = R('b','m-1','CDS','Sides','X');
+  a.portions = '12'; b.portions = '';
+  const e = env([a, b]);
+  e.propagateToLinked(e.RECIPES[0]);
+  assert.strictEqual(e.RECIPES[1].portions, '12');
+});
+t('portions is not carried across books', () => {
+  const a = R('a','m-1','CBG','S','X'), z = R('z','m-1','Mar Vista','S','X');
+  a.portions = '12'; z.portions = '';
+  const e = env([a, z]);
+  e.propagateToLinked(e.RECIPES[0]);
+  assert.strictEqual(e.RECIPES[1].portions, '');
+});
+
 console.log('\ngroup isolation');
 t('propagation never crosses BSHGRP / BSHGRP2', () => {
   const e = env([R('a','m-1','CBG','S','X'), R('z','m-1','Mar Vista','S','X')]);
