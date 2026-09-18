@@ -62,10 +62,10 @@ Secret. `PREP_HUB_KEY` was also visible in a screenshot and should be rotated
 with Jon; the value only has to match on both sides, the variable names differ
 (`PREP_HUB_KEY` here, `RECIPE_HUB_SHARED_SECRET` on his).
 
-Logins live in `USERS_JSON`. See "Stores vs recipe books" below — there are
-now nine store logins plus an all-stores admin. Only BSHGRP has data today;
-BSHGRP2 (Mar Vista, Sandbar, Beach House) exists in the code but has no
-recipes.
+Logins live in `USERS_JSON`. See "Stores vs recipe books" below — twelve store
+logins plus an all-stores admin. Both companies have recipes, and prep sheets
+work for all twelve stores: verified end to end on 2026-09-18 by logging in as
+`sandbar`, seeing its 104 recipes, and loading a live prep sheet with items.
 
 ---
 
@@ -278,7 +278,7 @@ Recorded here because they are not recoverable from the spreadsheets:
 
 ---
 
-## Prep Hub integration — LIVE
+## Prep Hub integration — LIVE, all twelve stores
 
 Jon's BSHG Prep Hub (Cloudflare Worker + D1) handles prep sheets, daily
 counting, par suggestions and yield tests. The Recipe Hub now drives it, so
