@@ -46,7 +46,8 @@
  *                      "code" is the stable per-store key shared with the Prep
  *                      Hub (csc-stcloud, cbg-nsb, cbp-staugustine,
  *                      cbg-beachwalk, cds-dockside, cds-oceanside, si-island,
- *                      nb-crab, cbp-pavilion). Per-store data keys off this,
+ *                      nb-crab, cbp-pavilion, mv-dockside, sb-seafood,
+ *                      bh-waterfront). Per-store data keys off this,
  *                      so never change one once it is in use.
  *                      "location" must exactly match one of: "Salty Crab North Beach",
  *                      "CDS", "Palm", "CBG", "Salty's Island", "Mar Vista",
@@ -73,11 +74,23 @@ const CORS_HEADERS = {
 const ORIGIN_BASE = "https://lw00d.github.io/crabbys-recipe-hub";
 
 const PREP_HUB_BASE = "https://bshg-prep-hub.bshgrp.workers.dev";
-// The nine live stores. Shared verbatim with the Prep Hub; the three deferred
-// sites (Mar Vista, Beach House, Sandbar) are deliberately absent.
+// The twelve live stores. Shared verbatim with the Prep Hub — these strings
+// are the Prep Hub's own ids, not ours to choose, and per-store data keys off
+// them, so none may ever be edited once in use.
+//
+// The three BSHGRP2 codes were confirmed against live production on
+// 2026-09-18. An earlier draft of this file guessed at them (mv-marvista,
+// sb-sandbar, bh-beachhouse) and every one was wrong; they were never
+// deployed. If a store ever 403s with "Unknown or inactive store", check this
+// list against the Prep Hub before assuming the login is broken.
 const PREP_STORE_CODES = [
+  // BSHGRP
   "csc-stcloud", "cbg-nsb", "cbp-staugustine", "cbg-beachwalk",
   "cds-dockside", "cds-oceanside", "si-island", "nb-crab", "cbp-pavilion",
+  // BSHGRP2
+  "mv-dockside",    // Mar Vista Dockside
+  "sb-seafood",     // The Sandbar
+  "bh-waterfront",  // The Beach House — Waterfront
 ];
 // Allowlisted sub-paths. An allowlist rather than a pass-through so this can
 // never be used to reach arbitrary Prep Hub endpoints.

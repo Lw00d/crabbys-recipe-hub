@@ -95,15 +95,23 @@ It is `beachwalk`.
 | `saltysisland` | `si-island` | Salty's Island | `Salty's Island` |
 | `northbeach` | `nb-crab` | Salty Crab North Beach | `Salty Crab North Beach` |
 | `pavilion` | `cbp-pavilion` | Crabby's Beachside at the Pavilion | `Palm` |
-| `marvista` | `mv-marvista` † | Mar Vista | `Mar Vista` |
-| `sandbar` | `sb-sandbar` † | Sandbar | `Sandbar` |
-| `beachhouse` | `bh-beachhouse` † | Beach House | `Beach House` |
+| `marvista` | `mv-dockside` | Mar Vista | `Mar Vista` |
+| `sandbar` | `sb-seafood` | Sandbar | `Sandbar` |
+| `beachhouse` | `bh-waterfront` | Beach House | `Beach House` |
 
-† **Proposed, not agreed.** The three BSHGRP2 codes were invented to fill the
-field and have never been checked against Jon's Prep Hub. They are also **not
-in `PREP_STORE_CODES`**, so the proxy answers `Unknown or inactive store` (403)
-for those three today. Settle them with Jon before any prep data keys off them;
-a code can never change once it is in use.
+**The code is never yours to choose.** It is the Prep Hub's own id. On
+2026-09-18 a session invented all three BSHGRP2 codes (`mv-marvista`,
+`sb-sandbar`, `bh-beachhouse`) and every one was wrong — the real ids are
+`mv-dockside`, `sb-seafood` and `bh-waterfront`, confirmed against live
+production. They were caught before anything was deployed.
+
+**Two of the three correct codes were already in this repo**, sitting in
+`prep_proxy.test.mjs` as examples of deferred stores, from an earlier session.
+A grep would have found them. Search the repo before inventing an identifier.
+
+Note the Prep Hub's store names differ from the recipe books: Mar Vista
+Dockside, The Sandbar, The Beach House — Waterfront. The `store` field still
+holds the shorter names the app displays.
 
 The `admin` login has `location: "all"` and no `code` — it must name a store on
 every Prep Hub call, and only one of the codes in `PREP_STORE_CODES`. Those
@@ -747,10 +755,10 @@ path, `PREP_PATHS` carries only real routes, and both save guards are in place.
 
 ### BSHGRP2 follow-ups
 
-12. **Agree the three prep codes with Jon**, then add them to `PREP_STORE_CODES`
-    in `worker.js`, deploy, and build `prep-links.json` entries. Until then
-    BSHGRP2 has no prep sheets. **This is the one to do first** — the codes are
-    currently invented, and they become permanent the moment real data uses them.
+12. **Build `prep-links.json` entries for BSHGRP2.** The three codes are
+    settled and in `PREP_STORE_CODES` as of 2026-09-18, so the proxy works —
+    but ingredient-to-prep-recipe links are per store and BSHGRP2 has none yet.
+    Do this after Jon's prep items exist for the three sites.
 13. **Decide whether `mango lime butter` (×2, Mar Vista) should be one recipe**,
     with one renamed to Mango Lime Base.
 14. **27 BSHGRP2 recipes have no method.** Someone who cooks them has to write

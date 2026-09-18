@@ -9,7 +9,7 @@ const worker=(await import('../worker.js?v=2')).default;
 // working directory, and crashed on a clean checkout. Nothing here is a
 // credential; what is under test is that the store code comes from the login
 // and never from the request, and that holds whatever the passwords are.
-// The nine codes must stay in step with PREP_STORE_CODES in worker.js.
+// The codes must stay in step with PREP_STORE_CODES in worker.js.
 const STORES=[
   ['stcloud',      'CBG',                    'csc-stcloud',     "Crabby's on the Lakefront — St. Cloud"],
   ['newsmyrna',    'CBG',                    'cbg-nsb',         "Crabby's Bar & Grill — New Smyrna Beach"],
@@ -20,6 +20,11 @@ const STORES=[
   ['saltysisland', "Salty's Island",         'si-island',       "Salty's Island"],
   ['northbeach',   'Salty Crab North Beach', 'nb-crab',         'Salty Crab North Beach'],
   ['pavilion',     'Palm',                   'cbp-pavilion',    "Crabby's Beachside at the Pavilion"],
+  // BSHGRP2. These three codes are the Prep Hub's own ids, confirmed against
+  // live production; an earlier guess at all three was wrong on all three.
+  ['marvista',     'Mar Vista',              'mv-dockside',     'Mar Vista'],
+  ['sandbar',      'Sandbar',                'sb-seafood',      'Sandbar'],
+  ['beachhouse',   'Beach House',            'bh-waterfront',   'Beach House'],
 ];
 const USERS=JSON.stringify(Object.fromEntries([
   ...STORES.map(([u,book,code,store])=>[u,{password:'pw-'+u,location:book,code,store}]),
@@ -50,13 +55,15 @@ await t('admin must name a store', async()=>{
   const r=await call('/prep/prep-items','admin');
   assert.strictEqual(r.status,403);
 });
-await t('admin may name one of the nine', async()=>{
+await t('admin may name any known store', async()=>{
   const r=await call('/prep/prep-items?store=si-island','admin');
   assert.strictEqual(r.status,200);
   assert.ok(seen.url.includes('/api/stores/si-island/'));
 });
-await t('admin cannot name a deferred or unknown store', async()=>{
-  for(const s of ['mv-dockside','bh-waterfront','../../evil','all']){
+await t('admin cannot name an unknown store', async()=>{
+  // mv-dockside and bh-waterfront used to be here as "deferred" stores. They
+  // went live on 2026-09-18 and are asserted as WORKING above.
+  for(const s of ['csc-orlando','../../evil','all','']){
     const r=await call('/prep/prep-items?store='+encodeURIComponent(s),'admin');
     assert.strictEqual(r.status,403,s);
   }
@@ -72,6 +79,25 @@ await t('a malformed Authorization header is 401, not a crash', async()=>{
   for(const h of ['Basic !!!not-base64!!!','Basic','Basic '+Buffer.from('nocolon').toString('base64'),'Bearer abc']){
     const r=await worker.fetch(new Request('https://w.dev/prep/prep-items',{headers:{Authorization:h}}),ENV);
     assert.strictEqual(r.status,401,h);
+  }
+});
+await t('the three BSHGRP2 stores reach the Prep Hub', async()=>{
+  // They 403'd as "Unknown or inactive store" until their real codes were
+  // added to PREP_STORE_CODES on 2026-09-18.
+  for(const [u,code] of [['marvista','mv-dockside'],['sandbar','sb-seafood'],['beachhouse','bh-waterfront']]){
+    const r=await call('/prep/prep-items',u);
+    assert.strictEqual(r.status,200,u);
+    assert.ok(seen.url.includes('/api/stores/'+code+'/prep-items'), `${u} -> ${seen.url}`);
+    assert.strictEqual(seen.init.headers['X-BSHG-Store'], code);
+  }
+});
+await t('the admin may name a BSHGRP2 store, and only a known one', async()=>{
+  const ok=await call('/prep/prep-items?store=sb-seafood','admin');
+  assert.strictEqual(ok.status,200);
+  assert.ok(seen.url.includes('/api/stores/sb-seafood/'));
+  for(const bad of ['sb-sandbar','mv-marvista','bh-beachhouse']){   // the wrong guesses
+    const r=await call('/prep/prep-items?store='+bad,'admin');
+    assert.strictEqual(r.status,403,bad);
   }
 });
 await t('a wrong password is 401', async()=>{
