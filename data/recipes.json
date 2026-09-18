@@ -78523,5 +78523,6362 @@
     "id": "m-mu48e8gp3kfakl",
     "masterId": "m-mu48e8gp0rniki",
     "location": "Palm"
+  },
+  {
+    "name": "Grouper Nugget App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Nugget Portion (6oz)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pre-Wash",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedges",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fry method for the grouper nuggerts - Pre-wash  / Calamari Breader",
+      "Cook fries and season with greek seasoning.",
+      "Remove from fryer using save-a-day, then plate.",
+      "Garnish with chopped parsley and lemon wedge.",
+      "Expo:",
+      "Tartar — 2 fl oz ramekin.",
+      "Lemon Wedges — garnish.",
+      "French Fries — bed under the fish.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-1",
+    "masterId": "dm-mv-1-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Grouper Nugget App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Nugget Portion (6oz)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pre-Wash",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedges",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fry method for the grouper nuggerts - Pre-wash  / Calamari Breader",
+      "Cook fries and season with greek seasoning.",
+      "Remove from fryer using save-a-day, then plate.",
+      "Garnish with chopped parsley and lemon wedge.",
+      "Expo:",
+      "Tartar — 2 fl oz ramekin.",
+      "Lemon Wedges — garnish.",
+      "French Fries — bed under the fish.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-1",
+    "masterId": "dm-mv-1-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Grouper Nugget App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Nugget Portion (6oz)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pre-Wash",
+        "qty": "As",
+        "unit": "Needed",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedges",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fry method for the grouper nuggerts - Pre-wash  / Calamari Breader",
+      "Cook fries and season with greek seasoning.",
+      "Remove from fryer using save-a-day, then plate.",
+      "Garnish with chopped parsley and lemon wedge.",
+      "Expo:",
+      "Tartar — 2 fl oz ramekin.",
+      "Lemon Wedges — garnish.",
+      "French Fries — bed under the fish.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-1",
+    "masterId": "dm-mv-1-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Hamachi Ceviche",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pickled Fresno Peppers",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Grilled Pineapple",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tortilla Chips",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Ceviche Juice",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Hamachi Portion (3 oz )",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice the Grilled Pineapple.",
+      "Thinly slice the Red Onion.",
+      "Mix Hamachi portion with red onion, grilled pineapple and ceviche juice. Salt and pepper pinch",
+      "Plate in rarebit - garnish with micro cilantro and pickled fresno chilis.",
+      "Fried tortilla chips on side for garnish",
+      "Expo:",
+      "Pickled Fresno Peppers — garnish on top.",
+      "Tortilla Chips — garnish on the side.",
+      "Micro Cilantro — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-2",
+    "masterId": "dm-mv-2-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Hamachi Ceviche",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pickled Fresno Peppers",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Grilled Pineapple",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tortilla Chips",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Ceviche Juice",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Hamachi Portion (3 oz )",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice the Grilled Pineapple.",
+      "Thinly slice the Red Onion.",
+      "Mix Hamachi portion with red onion, grilled pineapple and ceviche juice. Salt and pepper pinch",
+      "Plate in rarebit - garnish with micro cilantro and pickled fresno chilis.",
+      "Fried tortilla chips on side for garnish",
+      "Expo:",
+      "Pickled Fresno Peppers — garnish on top.",
+      "Tortilla Chips — garnish on the side.",
+      "Micro Cilantro — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-2",
+    "masterId": "dm-mv-2-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Hamachi Ceviche",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pickled Fresno Peppers",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Grilled Pineapple",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tortilla Chips",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Ceviche Juice",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Hamachi Portion (3 oz )",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice the Grilled Pineapple.",
+      "Thinly slice the Red Onion.",
+      "Mix Hamachi portion with red onion, grilled pineapple and ceviche juice. Salt and pepper pinch",
+      "Plate in rarebit - garnish with micro cilantro and pickled fresno chilis.",
+      "Fried tortilla chips on side for garnish",
+      "Expo:",
+      "Pickled Fresno Peppers — garnish on top.",
+      "Tortilla Chips — garnish on the side.",
+      "Micro Cilantro — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-2",
+    "masterId": "dm-mv-2-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Oysters - Full Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-3",
+    "masterId": "dm-mv-3-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Oysters - Full Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-3",
+    "masterId": "dm-mv-3-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Oysters - Full Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-3",
+    "masterId": "dm-mv-3-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Oysters - Half Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-4",
+    "masterId": "dm-mv-4-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Oysters - Half Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-4",
+    "masterId": "dm-mv-4-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Oysters - Half Dozen",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Saltine Crackers",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallot Mignonette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Prepared Horseradish",
+        "qty": "0.5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Oysters",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Shuck oysters - Make sure they are clean and fresh. NO Crabs or pieces of shell.",
+      "Place on top of crushed ice and sell to expo.",
+      "Garnish with lemon wedge, cocktail sauce, mignonette, horseradish and crackers.",
+      "Expo:",
+      "Saltine Crackers — garnish on the side.",
+      "Lemon wedge — garnish on top.",
+      "Shallot Mignonette — ramekin on the side.",
+      "Prepared Horseradish — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-4",
+    "masterId": "dm-mv-4-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Peel N Eat Shrimp APP.",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Peel and Eat Shrimp (prep)",
+        "qty": "12",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.5",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail sauce",
+        "qty": "2",
+        "unit": "oz. fl.",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place 12 shrimp on top of crushed ice and metal round pan.",
+      "Garnish with lemon wedge, cocktail sauce and micro cilantro",
+      "Expo:",
+      "Micro Cilantro — garnish on top.",
+      "Lemon Wedge — garnish on top.",
+      "Cocktail sauce — garnish on the side.",
+      "Old Bay Seasoning — sprinkle on top of the shrimp."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-5",
+    "masterId": "dm-mv-5-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Peel N Eat Shrimp APP.",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Peel and Eat Shrimp (prep)",
+        "qty": "12",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.5",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail sauce",
+        "qty": "2",
+        "unit": "oz. fl.",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place 12 shrimp on top of crushed ice and metal round pan.",
+      "Garnish with lemon wedge, cocktail sauce and micro cilantro",
+      "Expo:",
+      "Micro Cilantro — garnish on top.",
+      "Lemon Wedge — garnish on top.",
+      "Cocktail sauce — garnish on the side.",
+      "Old Bay Seasoning — sprinkle on top of the shrimp."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-5",
+    "masterId": "dm-mv-5-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Peel N Eat Shrimp APP.",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Peel and Eat Shrimp (prep)",
+        "qty": "12",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "0.5",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail sauce",
+        "qty": "2",
+        "unit": "oz. fl.",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place 12 shrimp on top of crushed ice and metal round pan.",
+      "Garnish with lemon wedge, cocktail sauce and micro cilantro",
+      "Expo:",
+      "Micro Cilantro — garnish on top.",
+      "Lemon Wedge — garnish on top.",
+      "Cocktail sauce — garnish on the side.",
+      "Old Bay Seasoning — sprinkle on top of the shrimp."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-5",
+    "masterId": "dm-mv-5-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Stone Crab - Large Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-6",
+    "masterId": "dm-mv-6-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Stone Crab - Large Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-6",
+    "masterId": "dm-mv-6-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Stone Crab - Large Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-6",
+    "masterId": "dm-mv-6-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Stone Crab - Medium Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-7",
+    "masterId": "dm-mv-7-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Stone Crab - Medium Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-7",
+    "masterId": "dm-mv-7-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Stone Crab - Medium Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-7",
+    "masterId": "dm-mv-7-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Stone Crab - Medium Half Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "0.5",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-8",
+    "masterId": "dm-mv-8-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Stone Crab - Medium Half Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "0.5",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-8",
+    "masterId": "dm-mv-8-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Stone Crab - Medium Half Pound",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab, Medium",
+        "qty": "0.5",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab \"correct\" portioned stone crab and lightly crack with stone crab cracker.",
+      "Serve on crushed ice metal tray.",
+      "Garnish with stone crab mustard, clarified butter and lemon wedge.",
+      "Expo:",
+      "Clarified Butter — warm on expo.",
+      "Lemon wedge — garnish on top.",
+      "Stone Crab Mustard — ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-8",
+    "masterId": "dm-mv-8-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Adult Chicken Tenders Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders (8 oz portion)",
+        "qty": "6 to 7",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow frying procedure for Fried Chicken",
+      "Buttermilk / Calamari Breader",
+      "Cook Chicken to 165 degress",
+      "Pull out onto save-a-day and plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-9",
+    "masterId": "dm-mv-9-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Adult Chicken Tenders Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders (8 oz portion)",
+        "qty": "6 to 7",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow frying procedure for Fried Chicken",
+      "Buttermilk / Calamari Breader",
+      "Cook Chicken to 165 degress",
+      "Pull out onto save-a-day and plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-9",
+    "masterId": "dm-mv-9-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Adult Chicken Tenders Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders (8 oz portion)",
+        "qty": "6 to 7",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow frying procedure for Fried Chicken",
+      "Buttermilk / Calamari Breader",
+      "Cook Chicken to 165 degress",
+      "Pull out onto save-a-day and plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-9",
+    "masterId": "dm-mv-9-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bairdi Crab 1.5LB",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Portion (1.5#)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-10",
+    "masterId": "dm-mv-10-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bairdi Crab 1.5LB",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Portion (1.5#)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-10",
+    "masterId": "dm-mv-10-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bairdi Crab 1.5LB",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Portion (1.5#)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-10",
+    "masterId": "dm-mv-10-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bairdi Crab 1 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-11",
+    "masterId": "dm-mv-11-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bairdi Crab 1 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-11",
+    "masterId": "dm-mv-11-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bairdi Crab 1 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-11",
+    "masterId": "dm-mv-11-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bairdi Crab 2 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-12",
+    "masterId": "dm-mv-12-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bairdi Crab 2 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-12",
+    "masterId": "dm-mv-12-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bairdi Crab 2 Cluster",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-12",
+    "masterId": "dm-mv-12-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coconut Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coconut Shrimp",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull coconut shrimp from freezer and fry.",
+      "Make sure shrimp don’t get overcooked or to brown.",
+      "Remove from fryer to Save-a-Day and Plate.",
+      "Expo:",
+      "Lemon Wedge — garnish.",
+      "Sweet Chili Sauce — 2 oz ramekin.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-13",
+    "masterId": "dm-mv-13-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Coconut Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coconut Shrimp",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull coconut shrimp from freezer and fry.",
+      "Make sure shrimp don’t get overcooked or to brown.",
+      "Remove from fryer to Save-a-Day and Plate.",
+      "Expo:",
+      "Lemon Wedge — garnish.",
+      "Sweet Chili Sauce — 2 oz ramekin.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-13",
+    "masterId": "dm-mv-13-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Coconut Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coconut Shrimp",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull coconut shrimp from freezer and fry.",
+      "Make sure shrimp don’t get overcooked or to brown.",
+      "Remove from fryer to Save-a-Day and Plate.",
+      "Expo:",
+      "Lemon Wedge — garnish.",
+      "Sweet Chili Sauce — 2 oz ramekin.",
+      "Chopped Parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-13",
+    "masterId": "dm-mv-13-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Grouper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Grouper",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-14",
+    "masterId": "dm-mv-14-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Grouper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Grouper",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-14",
+    "masterId": "dm-mv-14-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Grouper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Grouper",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-14",
+    "masterId": "dm-mv-14-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Hogfish n' Chips",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hogfish Portion (8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Beer Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Malt Vinegar",
+        "qty": "2",
+        "unit": "floz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow tempura battered fish procedure",
+      "Calamari Breader then Tempura batter",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Malt Vinegar — 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Chopped parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-15",
+    "masterId": "dm-mv-15-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Hogfish n' Chips",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hogfish Portion (8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Beer Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Malt Vinegar",
+        "qty": "2",
+        "unit": "floz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow tempura battered fish procedure",
+      "Calamari Breader then Tempura batter",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Malt Vinegar — 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Chopped parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-15",
+    "masterId": "dm-mv-15-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Hogfish n' Chips",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hogfish Portion (8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Beer Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "French Fries",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Malt Vinegar",
+        "qty": "2",
+        "unit": "floz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow tempura battered fish procedure",
+      "Calamari Breader then Tempura batter",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Malt Vinegar — 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Chopped parsley — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-15",
+    "masterId": "dm-mv-15-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "King Crab 1#",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "King Crab Portion",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Stone Crab Mustard — 2 oz ramekin.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-16",
+    "masterId": "dm-mv-16-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "King Crab 1#",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "King Crab Portion",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Stone Crab Mustard — 2 oz ramekin.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-16",
+    "masterId": "dm-mv-16-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "King Crab 1#",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "King Crab Portion",
+        "qty": "1",
+        "unit": "lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Stone Crab Mustard",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Stone Crab Mustard — 2 oz ramekin.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-16",
+    "masterId": "dm-mv-16-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Salmon Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salmon Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled Procedures( no fry for this one )",
+      "Blackening Spice / Lemon Butter for Blackened Salmon",
+      "Salt / Pepper / Lemon Butter For Grilled Salmon",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-17",
+    "masterId": "dm-mv-17-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Salmon Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salmon Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled Procedures( no fry for this one )",
+      "Blackening Spice / Lemon Butter for Blackened Salmon",
+      "Salt / Pepper / Lemon Butter For Grilled Salmon",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-17",
+    "masterId": "dm-mv-17-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Salmon Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salmon Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled Procedures( no fry for this one )",
+      "Blackening Spice / Lemon Butter for Blackened Salmon",
+      "Salt / Pepper / Lemon Butter For Grilled Salmon",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-17",
+    "masterId": "dm-mv-17-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail-On",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-18",
+    "masterId": "dm-mv-18-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail-On",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-18",
+    "masterId": "dm-mv-18-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail-On",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-18",
+    "masterId": "dm-mv-18-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Snapper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Snapper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Snapper",
+      "Blackening Spice / Lemon Butter for Blackened Snapper",
+      "Salt / Pepper / Lemon Butter For Grilled Snapper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-19",
+    "masterId": "dm-mv-19-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Snapper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Snapper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Snapper",
+      "Blackening Spice / Lemon Butter for Blackened Snapper",
+      "Salt / Pepper / Lemon Butter For Grilled Snapper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-19",
+    "masterId": "dm-mv-19-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Snapper Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Snapper Portion",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Snapper",
+      "Blackening Spice / Lemon Butter for Blackened Snapper",
+      "Salt / Pepper / Lemon Butter For Grilled Snapper",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-19",
+    "masterId": "dm-mv-19-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Swordfish Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Swordfish Portion",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Swordfish",
+      "Blackening Spice / Lemon Butter for Blackened Swordfish",
+      "Salt / Pepper / Lemon Butter For Grilled Swordfish",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-20",
+    "masterId": "dm-mv-20-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Swordfish Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Swordfish Portion",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Swordfish",
+      "Blackening Spice / Lemon Butter for Blackened Swordfish",
+      "Salt / Pepper / Lemon Butter For Grilled Swordfish",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-20",
+    "masterId": "dm-mv-20-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Swordfish Fresh Catch Entrée",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Swordfish Portion",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Sides (guest choice)",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Combo Meat (Beachside upgrade)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc Sauce (Beachside upgrade)",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Swordfish",
+      "Blackening Spice / Lemon Butter for Blackened Swordfish",
+      "Salt / Pepper / Lemon Butter For Grilled Swordfish",
+      "Heat Crab up in beurre blanc and pour over fish before serving",
+      "Expo:",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-20",
+    "masterId": "dm-mv-20-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Buffalo Chicken Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buffalo Sauce",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1",
+        "unit": "oz wt",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for cooking chicken",
+      "Buttermilk / Calamari Breader for Fried",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Toss cooked chicken in buffalo sauce and place on toasted bun.",
+      "Top with Blue cheese crumbles and send to expo to complete.",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-21",
+    "masterId": "dm-mv-21-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Buffalo Chicken Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buffalo Sauce",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1",
+        "unit": "oz wt",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for cooking chicken",
+      "Buttermilk / Calamari Breader for Fried",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Toss cooked chicken in buffalo sauce and place on toasted bun.",
+      "Top with Blue cheese crumbles and send to expo to complete.",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-21",
+    "masterId": "dm-mv-21-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Buffalo Chicken Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buffalo Sauce",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1",
+        "unit": "oz wt",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for cooking chicken",
+      "Buttermilk / Calamari Breader for Fried",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Toss cooked chicken in buffalo sauce and place on toasted bun.",
+      "Top with Blue cheese crumbles and send to expo to complete.",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-21",
+    "masterId": "dm-mv-21-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Chicken Caprese Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grilled Chicken (cut in half)",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pesto Mayo (prep item)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato Sliced",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Fresh Mozzarella Sliced",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Focaccia Bread (1/6 of Sheet)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Glaze",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grill the Grilled Chicken (cut in half) on prep.",
+      "Prep the BH pesto mayo.",
+      "Preassemble Sandwich - Pesto Mayo, Chicken, Tomato, Mozz on Focaccia Pieces",
+      "Bake in oven (open faced) 8-10 minutes @350",
+      "Drizzle balsamic on sandwich and close.",
+      "Skewer and cut sandwich in half to sell.",
+      "Expo:",
+      "Balsamic Glaze — drizzle on the sandwich."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-22",
+    "masterId": "dm-mv-22-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chicken Caprese Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grilled Chicken (cut in half)",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pesto Mayo (prep item)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato Sliced",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Fresh Mozzarella Sliced",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Focaccia Bread (1/6 of Sheet)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Glaze",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grill the Grilled Chicken (cut in half) on prep.",
+      "Prep the BH pesto mayo.",
+      "Preassemble Sandwich - Pesto Mayo, Chicken, Tomato, Mozz on Focaccia Pieces",
+      "Bake in oven (open faced) 8-10 minutes @350",
+      "Drizzle balsamic on sandwich and close.",
+      "Skewer and cut sandwich in half to sell.",
+      "Expo:",
+      "Balsamic Glaze — drizzle on the sandwich."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-22",
+    "masterId": "dm-mv-22-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Chicken Caprese Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grilled Chicken (cut in half)",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pesto Mayo (prep item)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato Sliced",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Fresh Mozzarella Sliced",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Focaccia Bread (1/6 of Sheet)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Balsamic Glaze",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grill the Grilled Chicken (cut in half) on prep.",
+      "Prep the BH pesto mayo.",
+      "Preassemble Sandwich - Pesto Mayo, Chicken, Tomato, Mozz on Focaccia Pieces",
+      "Bake in oven (open faced) 8-10 minutes @350",
+      "Drizzle balsamic on sandwich and close.",
+      "Skewer and cut sandwich in half to sell.",
+      "Expo:",
+      "Balsamic Glaze — drizzle on the sandwich."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-22",
+    "masterId": "dm-mv-22-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Chicken Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the Brined Chicken Breast, then cut into strips for the tacos.",
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Chicken",
+      "Buttermilk / Calamari Breader for Fried Chicken",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-23",
+    "masterId": "dm-mv-23-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Chicken Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the Brined Chicken Breast, then cut into strips for the tacos.",
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Chicken",
+      "Buttermilk / Calamari Breader for Fried Chicken",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-23",
+    "masterId": "dm-mv-23-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Chicken Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Breast",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the Brined Chicken Breast, then cut into strips for the tacos.",
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Chicken",
+      "Buttermilk / Calamari Breader for Fried Chicken",
+      "Blackening Spice for Blackened Chicken",
+      "Salt / Pepper for Grilled Chicken",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-23",
+    "masterId": "dm-mv-23-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Grouper Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish.",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-24",
+    "masterId": "dm-mv-24-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Grouper Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish.",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-24",
+    "masterId": "dm-mv-24-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Grouper Sandwich",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Portion",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickled Spear — garnish.",
+      "Tartar Sauce — 2 oz ramekin.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-24",
+    "masterId": "dm-mv-24-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Grouper Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Taco portion",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-25",
+    "masterId": "dm-mv-25-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Grouper Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Taco portion",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-25",
+    "masterId": "dm-mv-25-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Grouper Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper Taco portion",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures for Grouper",
+      "Pre-Wash / Calamari Breader for Fried",
+      "Blackening Spice / Lemon Butter for Blackened Grouper",
+      "Salt / Pepper / Lemon Butter For Grilled Grouper",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-25",
+    "masterId": "dm-mv-25-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lobster Roll",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Maine Meat ( portioned)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster Roll Sauce / Mayo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Spring Mix (for the sandwich)",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parlsey",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Toast brioche roll on flat with clarified butter.",
+      "To Build - Add spring mix and lobster salad to roll.",
+      "Sprinkle parsley on top for garnish",
+      "Expo:",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-26",
+    "masterId": "dm-mv-26-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Lobster Roll",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Maine Meat ( portioned)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster Roll Sauce / Mayo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Spring Mix (for the sandwich)",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parlsey",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Toast brioche roll on flat with clarified butter.",
+      "To Build - Add spring mix and lobster salad to roll.",
+      "Sprinkle parsley on top for garnish",
+      "Expo:",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-26",
+    "masterId": "dm-mv-26-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Lobster Roll",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Maine Meat ( portioned)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster Roll Sauce / Mayo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Spring Mix (for the sandwich)",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parlsey",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Spear",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Toast brioche roll on flat with clarified butter.",
+      "To Build - Add spring mix and lobster salad to roll.",
+      "Sprinkle parsley on top for garnish",
+      "Expo:",
+      "Pickled Spear — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-26",
+    "masterId": "dm-mv-26-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Shrimp Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Shrimp",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-27",
+    "masterId": "dm-mv-27-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Shrimp Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Shrimp",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-27",
+    "masterId": "dm-mv-27-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Shrimp Taco",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cabbage(slaw mix)",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shredded Cheese (combo)",
+        "qty": "1.5",
+        "unit": "oz.wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro Cream (sour cream)",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Flour Tortillas on the grill and keep warm.",
+      "Follow Blackened /Grilled / Fried Procedures",
+      "Pre-Wash / Calamari Breader for Fried Shrimp",
+      "Blackening Spice / Lemon Butter for Blackened Shrimp",
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Grill Taco shells to mark and heat up",
+      "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
+      "Expo:",
+      "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Cilantro Cream (sour cream) — garnish.",
+      "Pico de Gallo — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-27",
+    "masterId": "dm-mv-27-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Shrimp Po Boy",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off Portioned",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce Fillet",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Remoulade Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Split the Leaf Lettuce Fillet in half.",
+      "Split the Tomato, Sliced in half.",
+      "Follow breading procedure using pre-wash and calamari breader",
+      "Cook Shrimp and set aside in save-a-day",
+      "Toast roll with clarified butter.",
+      "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
+      "Expo:",
+      "Remoulade Sauce — 2 oz ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-28",
+    "masterId": "dm-mv-28-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Shrimp Po Boy",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off Portioned",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce Fillet",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Remoulade Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Split the Leaf Lettuce Fillet in half.",
+      "Split the Tomato, Sliced in half.",
+      "Follow breading procedure using pre-wash and calamari breader",
+      "Cook Shrimp and set aside in save-a-day",
+      "Toast roll with clarified butter.",
+      "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
+      "Expo:",
+      "Remoulade Sauce — 2 oz ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-28",
+    "masterId": "dm-mv-28-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Shrimp Po Boy",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp Tail off Portioned",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Brioche Roll",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce Fillet",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Remoulade Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toast the bun with the Clarified Butter.",
+      "Split the Leaf Lettuce Fillet in half.",
+      "Split the Tomato, Sliced in half.",
+      "Follow breading procedure using pre-wash and calamari breader",
+      "Cook Shrimp and set aside in save-a-day",
+      "Toast roll with clarified butter.",
+      "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
+      "Expo:",
+      "Remoulade Sauce — 2 oz ramekin."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-28",
+    "masterId": "dm-mv-28-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Original Smash Burger",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz. Burger Patty",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese (one per patty)",
+        "qty": "2",
+        "unit": "slices",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickle Chips",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season the 4oz. Burger Patty with S/P.",
+      "Add oil to Hot/Clean flat top - Add season patties to flat.",
+      "Light smash burger to get a good sear on both sides",
+      "Melt american cheese on each patty.",
+      "TO build - Burger bun, both meat/cheese patties and pickled chips",
+      "LTO on side",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickle Chips — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-29",
+    "masterId": "dm-mv-29-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Original Smash Burger",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz. Burger Patty",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese (one per patty)",
+        "qty": "2",
+        "unit": "slices",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickle Chips",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season the 4oz. Burger Patty with S/P.",
+      "Add oil to Hot/Clean flat top - Add season patties to flat.",
+      "Light smash burger to get a good sear on both sides",
+      "Melt american cheese on each patty.",
+      "TO build - Burger bun, both meat/cheese patties and pickled chips",
+      "LTO on side",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickle Chips — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-29",
+    "masterId": "dm-mv-29-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Original Smash Burger",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz. Burger Patty",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Burger Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter ( for toasting bun)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese (one per patty)",
+        "qty": "2",
+        "unit": "slices",
+        "qty2": ""
+      },
+      {
+        "name": "Leaf Lettuce fillets",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion, Sliced",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pickle Chips",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side (guest choice)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season the 4oz. Burger Patty with S/P.",
+      "Add oil to Hot/Clean flat top - Add season patties to flat.",
+      "Light smash burger to get a good sear on both sides",
+      "Melt american cheese on each patty.",
+      "TO build - Burger bun, both meat/cheese patties and pickled chips",
+      "LTO on side",
+      "Expo:",
+      "Leaf Lettuce fillets — garnish.",
+      "Tomato, Sliced — garnish.",
+      "Red Onion, Sliced — garnish.",
+      "Pickle Chips — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-29",
+    "masterId": "dm-mv-29-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Kids Cheeseburger",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz Burger Patty",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season burger patty with salt and pepper and place on flattop grill",
+      "Turn / Flip burger every 2 minutes until cooked through",
+      "Melt American cheese on patty",
+      "Toast bun on flat top with clarifed butter",
+      "Sell burger to expo",
+      "Expo Garnish with pickle",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-30",
+    "masterId": "dm-mv-30-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Kids Cheeseburger",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz Burger Patty",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season burger patty with salt and pepper and place on flattop grill",
+      "Turn / Flip burger every 2 minutes until cooked through",
+      "Melt American cheese on patty",
+      "Toast bun on flat top with clarifed butter",
+      "Sell burger to expo",
+      "Expo Garnish with pickle",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-30",
+    "masterId": "dm-mv-30-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Kids Cheeseburger",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "4oz Burger Patty",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "American Cheese",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Brioche Bun",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season burger patty with salt and pepper and place on flattop grill",
+      "Turn / Flip burger every 2 minutes until cooked through",
+      "Melt American cheese on patty",
+      "Toast bun on flat top with clarifed butter",
+      "Sell burger to expo",
+      "Expo Garnish with pickle",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-30",
+    "masterId": "dm-mv-30-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Kids Chicken Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
+      "Fry chicken to 165 degrees, don't burn the chicken",
+      "Drain chicken tenders in saveaday",
+      "Sell fingers to expo",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-31",
+    "masterId": "dm-mv-31-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Kids Chicken Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
+      "Fry chicken to 165 degrees, don't burn the chicken",
+      "Drain chicken tenders in saveaday",
+      "Sell fingers to expo",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-31",
+    "masterId": "dm-mv-31-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Kids Chicken Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
+      "Fry chicken to 165 degrees, don't burn the chicken",
+      "Drain chicken tenders in saveaday",
+      "Sell fingers to expo",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-31",
+    "masterId": "dm-mv-31-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Kids Fish Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Portioned Fish (currently snapper or mahi)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry fish, drain oil in save-a-day",
+      "Sell fingers to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-32",
+    "masterId": "dm-mv-32-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Kids Fish Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Portioned Fish (currently snapper or mahi)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry fish, drain oil in save-a-day",
+      "Sell fingers to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-32",
+    "masterId": "dm-mv-32-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Kids Fish Fingers",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Portioned Fish (currently snapper or mahi)",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry fish, drain oil in save-a-day",
+      "Sell fingers to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-32",
+    "masterId": "dm-mv-32-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Kids Fried Shrimp",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail on",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out shrimp and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry shrimp drain oil in save-a-day",
+      "Sell shrimp to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-33",
+    "masterId": "dm-mv-33-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Kids Fried Shrimp",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail on",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out shrimp and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry shrimp drain oil in save-a-day",
+      "Sell shrimp to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-33",
+    "masterId": "dm-mv-33-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Kids Fried Shrimp",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Tail on",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Pre Wash",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out shrimp and place in pre wash batter, then calamari breader, shake off excess.",
+      "Fry shrimp drain oil in save-a-day",
+      "Sell shrimp to expo",
+      "Garnish with lemon wedge",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4",
+      "Expo:",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-33",
+    "masterId": "dm-mv-33-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Kids Pasta with Butter",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fettuccine, portioned",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drop portioned pasta in pasta water to heat up.",
+      "Melt butter in saute pan.",
+      "Add pasta and toss, season with a little salt",
+      "Sell pasta to exp",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-mv-34",
+    "masterId": "dm-mv-34-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Kids Pasta with Butter",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fettuccine, portioned",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drop portioned pasta in pasta water to heat up.",
+      "Melt butter in saute pan.",
+      "Add pasta and toss, season with a little salt",
+      "Sell pasta to exp",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-34",
+    "masterId": "dm-mv-34-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Kids Pasta with Butter",
+    "category": "Dinner Menu",
+    "submenu": "Kid's Meals",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fettuccine, portioned",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drop portioned pasta in pasta water to heat up.",
+      "Melt butter in saute pan.",
+      "Add pasta and toss, season with a little salt",
+      "Sell pasta to exp",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Ice Cream scoop added for $4"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-34",
+    "masterId": "dm-mv-34-m",
+    "location": "Beach House"
   }
 ]
