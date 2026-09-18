@@ -1341,7 +1341,8 @@ function renderModalView(){
   // Portions sits next to yield: a yield of "3.1 LB" says how much the batch
   // makes, portions says how many servings that is. Kept as free text like
   // yield, because the source sheets write things like "1" and "12 each".
-  if(recipe.portions) metas.push(`<div class="meta-pill">🍽️ <strong>Portions:</strong> ${recipe.portions}</div>`);
+  if(recipe.portions) metas.push(`<div class="meta-pill">🍽️ <strong># of Portions:</strong> ${recipe.portions}</div>`);
+  if(recipe.portionSize) metas.push(`<div class="meta-pill">🥄 <strong>Portion:</strong> ${recipe.portionSize}</div>`);
   if(recipe.shelfLife) metas.push(`<div class="meta-pill">🕐 <strong>Shelf Life:</strong> ${recipe.shelfLife}</div>`);
   if(recipe.smallware) metas.push(`<div class="meta-pill">🍳 <strong>Smallware:</strong> ${recipe.smallware}</div>`);
   const metaHTML = metas.length?`<div class="detail-section"><div class="meta-pills">${metas.join('')}</div></div>`:'';
@@ -1704,7 +1705,8 @@ function openPrepLayer(id){
 
   const metas=[];
   if(r.yield) metas.push(`<div class="meta-pill">\u2696\ufe0f <strong>Yield:</strong> ${esc(r.yield)}</div>`);
-  if(r.portions) metas.push(`<div class="meta-pill">\ud83c\udf7d\ufe0f <strong>Portions:</strong> ${esc(r.portions)}</div>`);
+  if(r.portions) metas.push(`<div class="meta-pill">\ud83c\udf7d\ufe0f <strong># of Portions:</strong> ${esc(r.portions)}</div>`);
+  if(r.portionSize) metas.push(`<div class="meta-pill">\ud83e\udd44 <strong>Portion:</strong> ${esc(r.portionSize)}</div>`);
   if(r.shelfLife) metas.push(`<div class="meta-pill">\ud83d\udd50 <strong>Shelf Life:</strong> ${esc(r.shelfLife)}</div>`);
   if(r.smallware) metas.push(`<div class="meta-pill">\ud83c\udf73 <strong>Smallware:</strong> ${esc(r.smallware)}</div>`);
   const metaHTML = metas.length?`<div class="detail-section"><div class="meta-pills">${metas.join('')}</div></div>`:'';
@@ -1864,7 +1866,8 @@ function renderModalEdit(){
     <div class="fs"><div class="fs-title">Details</div>
       <div class="fg3">
         ${r.dualBatch ? '' : `<div class="ff"><label>Yield</label><input type="text" value="${esc(r.yield)}" placeholder="e.g. 1 quart" oninput="uF('yield',this.value)"></div>`}
-        <div class="ff"><label>Portions</label><input type="text" value="${esc(r.portions)}" placeholder="e.g. 12" oninput="uF('portions',this.value)"></div>
+        <div class="ff"><label># of Portions</label><input type="text" value="${esc(r.portions)}" placeholder="e.g. 36" oninput="uF('portions',this.value)"></div>
+        <div class="ff"><label>Portion</label><input type="text" value="${esc(r.portionSize)}" placeholder="e.g. 2 OZ-fl" oninput="uF('portionSize',this.value)"></div>
         <div class="ff"><label>Shelf Life</label><input type="text" value="${esc(r.shelfLife)}" placeholder="e.g. 3 days" oninput="uF('shelfLife',this.value)"></div>
         <div class="ff"><label>Smallware</label><input type="text" value="${esc(r.smallware)}" placeholder="e.g. 4qt pan" oninput="uF('smallware',this.value)"></div>
       </div>
@@ -2248,7 +2251,7 @@ function deleteRecipe(){
 function addNewRecipe(){
   const id = newUid();
   const defaultLoc = IS_LOCATION_RESTRICTED ? ASSIGNED_LOCATION : (LOCS.find(l=>LOC_GROUP[l]===activeGroup) || 'Salty Crab North Beach');
-  const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', portions:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], active:true, _new:true };
+  const recipe = { id, masterId:id, name:'', location:defaultLoc, category:'Dinner Prep', submenu:'', yield:'', portions:'', portionSize:'', shelfLife:'', smallware:'', ingredients:[{qty:'',unit:'',name:''}], steps:[''], notes:'', images:[], active:true, _new:true };
   RECIPES.unshift(recipe);
   setUnsaved(true);
   render();
