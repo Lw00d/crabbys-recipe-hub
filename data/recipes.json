@@ -88776,5 +88776,4640 @@
     "id": "dp-sb-37",
     "masterId": "dp-sb-37-m",
     "location": "Sandbar"
+  },
+  {
+    "name": "Brussels",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sesame Seed",
+        "qty": "0.1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sriracha Aioli",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Soy Sauce",
+        "qty": "3",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "PREP BH Brussels",
+        "qty": "10",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Measure out halved brussels with a pint container.",
+      "Fry for about 2 minutes, don’t let them get to dark.",
+      "Add ginger soy sauce to mixing bowl",
+      "Drain brussels and toss in sauce.",
+      "Plate and garnish with sesame seeds",
+      "Sriracha aioli in a 2fl oz ramekin on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-35",
+    "masterId": "dm-bh-35-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Calamari",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Calamari Portion ( 9oz)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Pomodoro Sauce",
+        "qty": "4",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Banana Peppers",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "pre wash batter",
+        "qty": "1",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "PROD Lemons",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Coriander Lime Aioli",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab calamari portion and banana peppers, - then coat in prewash batter.",
+      "Strain and coat in calamari breader then fry.",
+      "Season with greek seasoning and plate",
+      "Coriander lime aioli and warm pomodor sauce in ramekin on side",
+      "Expo:",
+      "Pomodoro Sauce — warm on expo.",
+      "PROD Lemons — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-36",
+    "masterId": "dm-bh-36-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coconut Shrimp App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mango Salsa",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Arugula",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Grab coconut shrimp and fry. Use save a day when it comes out.",
+      "Plate with baby arugula underneath and mango salsa on top.",
+      "Sweet chili sauce on side in ramekin",
+      "Garnish with lemon",
+      "Expo:",
+      "Mango Salsa — garnish on top.",
+      "Sweet Chili Sauce — garnish on the side.",
+      "Arugula — garnish underneath.",
+      "Lemons — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-37",
+    "masterId": "dm-bh-37-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Crab Cake App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Crab Cake ( 4oz )",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Remoulade Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "1",
+        "unit": "pinch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat butter on flat top and cook crab cake, golden brown on each side and 145 degrees.",
+      "Plate with remoulade on side, lemon wedge and micro cilantro..",
+      "Expo:",
+      "Lemon Wedge — garnish.",
+      "Remoulade Sauce — ramekin on the side.",
+      "Micro Cilantro — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-38",
+    "masterId": "dm-bh-38-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lamb Meatballs",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fried Gabanzo Beans",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Fried Pita Strips",
+        "qty": "5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Curly Scallions",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Riata",
+        "qty": "1",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Brava Sauce",
+        "qty": "10",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Lamb Meatballs",
+        "qty": "7",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Fried Gabanzo Beans — garnish on top.",
+      "Fried Pita Strips — garnish on top.",
+      "Curly Scallions — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-39",
+    "masterId": "dm-bh-39-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Luau Bread 2",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Luau Bread",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Macadamia Butter",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Luau Bread — garnish on the side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-40",
+    "masterId": "dm-bh-40-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Luau Bread 4",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Luau Bread",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Macadamia Butter",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-41",
+    "masterId": "dm-bh-41-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mussels",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grilled Focaccia Bread",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Crushed Red Pepper Flake",
+        "qty": "1",
+        "unit": "Pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, unsalted",
+        "qty": "3",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "4",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove (chopped)",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots (thinly sliced)",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Mussels",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice the Butter, unsalted.",
+      "The Mussels must be cleaned and alive.",
+      "Heat oil in pan, begin sauting shallots and garlic.",
+      "Add mussels and pepper flakes and continue sauting until pan gets dry.",
+      "Deglaze with white wine, add remiaining ingredients and cover.",
+      "Cook until mussels just open up, don’t over cook.",
+      "Taste to adjust seasoning if needed.",
+      "Garnish with a piece of grilled focaccia from grill station.",
+      "Expo:",
+      "Grilled Focaccia Bread — on top for garnish.",
+      "Chopped Parsley — in the dish and on top for garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-42",
+    "masterId": "dm-bh-42-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Skillet Dip",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pepperjack Cheese, shredded",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Fried Tortilla Chips",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Spinach Artichoke dip",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Portion warm spinach and artichoke dip cast iron, top with cheese and bake.",
+      "Garnish with Fried tortilla chips on side."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-43",
+    "masterId": "dm-bh-43-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Cajun Grouper & Grits",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grouper 6oz",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Sausage,Pepper, Shallot Set",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Whtie Wine",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de Gallo",
+        "qty": "4",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cajun Butter (purple scoop — unconfirmed in the source sheet)",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Gouda Grits",
+        "qty": "10",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Gouda Cheese, Shredded",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Scallions, sliced",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat oil in saute pan and beginning blackening grouper (Show side down)",
+      "Flip grouper and sear other side for a minute.",
+      "Transfer grouper to sizzle pan and finish cooking in oven",
+      "In the same pan you sear the grouper, add the sausage set to cook.",
+      "Deglaze pan with white wine and reduce.",
+      "Add pico and cajun butter to make gravy for dish.",
+      "Plate grits in bowl with a spirnkle of fresh gouda on top.",
+      "Pour sausage gravy over grits and place cook fish on top.",
+      "Garnish with chopped scallions"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-44",
+    "masterId": "dm-bh-44-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coconut Trio",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coconut Shrimp",
+        "qty": "3",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Scallops",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Flounder 4oz",
+        "qty": "1",
+        "unit": "portion",
+        "qty2": ""
+      },
+      {
+        "name": "Grilled Asparagus side",
+        "qty": "1",
+        "unit": "portion",
+        "qty2": ""
+      },
+      {
+        "name": "Plain rice side",
+        "qty": "1",
+        "unit": "portion",
+        "qty2": ""
+      },
+      {
+        "name": "Mango Salsa",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fry coconut shrimp, scallops, and flounder, Set aside in save a day",
+      "Grill asparagus and set aside.",
+      "Plate rice and asparagus in center of the plate.",
+      "Place fried coconut seafood around plate in piles together.",
+      "Scoop mango salsa in the center with the pina colada sauce drizzles around the plate",
+      "Expo:",
+      "Pina Colada Sauce — warm on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-45",
+    "masterId": "dm-bh-45-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Half Roasted Chicken",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Half Roasted Chicken",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Broccolini Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Mashed Potato Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry BBQ",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out parcooked chicken and begin cooking on grill. Cage side down. Don’t Burn.",
+      "Pull off chicken and finish cooking in oven to 165.",
+      "Plate mash potatoes and broccolini on plate with chicken set on top.",
+      "Plate blackberry bbq around the plate and a little on top of the chicken"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-46",
+    "masterId": "dm-bh-46-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Honey Fig Salmon",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salmon 8oz",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Honey Fig Glaze",
+        "qty": "1",
+        "unit": "fl.oz",
+        "qty2": ""
+      },
+      {
+        "name": "Plain rice side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Grilled Asparagus Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Brush the fish with the Honey Fig Glaze.",
+      "Season salmon and grill. Cook though on the grill and brush with honey fig glaze.",
+      "Season and grill asparagus and set aside.",
+      "Plate rice and asapragus on plate with salmon on top.",
+      "Brush salmon again before going out."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-47",
+    "masterId": "dm-bh-47-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lemon Chive Branzino",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bronzino, butterfly",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Flour",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Mushroom Farro",
+        "qty": "1",
+        "unit": "side",
+        "qty2": ""
+      },
+      {
+        "name": "Spinach, Sauteed",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Chive Cream",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat large saute pan with oil, lightly dredge fish in calamari flour and sear skin side down.",
+      "Flip fish and sear other side. Add butter and chopped parsley to saute pan to finish.",
+      "Plate fish on large platter.",
+      "Heat mushroom farro and saute spinach for the sides.",
+      "Sauce fish with lemon chive beurre blanc sauce and garnish with lemon wedges"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-48",
+    "masterId": "dm-bh-48-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "S&T Filet",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Filet Mignon 6oz",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Premium Side",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp, Tail on (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Cake (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Grouper 6oz portion (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster Tail (8oz) (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Salmon (8oz) (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Bairdi Crab Cluster (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the 16/20 Shrimp, Tail on (One Choice of the following) blackened, grilled or fried, as ordered.",
+      "Sear the Crab Cake (One Choice of the following) on the flat top.",
+      "Cook the Grouper 6oz portion (One Choice of the following) blackened, grilled or fried, as ordered.",
+      "Roast the Lobster Tail (8oz) (One Choice of the following) in butter with Old Bay.",
+      "Cook the Salmon (8oz) (One Choice of the following) grilled or blackened, as ordered.",
+      "Steam the Bairdi Crab Cluster (One Choice of the following) with Old Bay and butter.",
+      "Fry the Coconut Shrimp (One Choice of the following).",
+      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
+      "Pull Steak and let rest",
+      "Scoop garlic butter on top of steak right before going out.",
+      "If surf option is selected, switch to the large platter for platting."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-49",
+    "masterId": "dm-bh-49-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "S&T Short Rib",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Short Rib Portion",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cooking liquid from Short Rib",
+        "qty": "6",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Premium Side",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp, Tail on (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Crab Cake (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Grouper 6oz portion (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster Tail (8oz) (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Salmon (8oz) (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Bairdi Crab Cluster (One Choice of the following)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the 16/20 Shrimp, Tail on (One Choice of the following) blackened, grilled or fried, as ordered.",
+      "Sear the Crab Cake (One Choice of the following) on the flat top.",
+      "Cook the Grouper 6oz portion (One Choice of the following) blackened, grilled or fried, as ordered.",
+      "Roast the Lobster Tail (8oz) (One Choice of the following) in butter with Old Bay.",
+      "Cook the Salmon (8oz) (One Choice of the following) grilled or blackened, as ordered.",
+      "Steam the Bairdi Crab Cluster (One Choice of the following) with Old Bay and butter.",
+      "Fry the Coconut Shrimp (One Choice of the following).",
+      "Heat short rib with cooking jus in oven until completely reheated to 165.",
+      "Plate both side on plate with short rib.",
+      "Reduce remaining jus and pour over short rib",
+      "If surf option is selected, switch to the large platter for platting."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-50",
+    "masterId": "dm-bh-50-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Shrimp Scampi",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "21/25 Shrimp tail off",
+        "qty": "10",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, soft",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots, sliced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, minced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Crushed Red Pepper Flakes",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Grape Tomatoes, halved",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "4",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "a",
+        "unit": "splash",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, soft",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Linguine Pasta Portion",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, Shaved",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Crab meat, lump (portioned)",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Focaccia Bread",
+        "qty": "2",
+        "unit": "slices",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat saute pan, add oil, shrimp, shallots, garlic and pepper flakes.",
+      "Once cooked, deglaze with white wine and reduce.",
+      "****Don’t overcook the shrimp",
+      "Add cream and reduce by half, add butter, tomatoes and half the parmesan to the sauce.",
+      "Drop pasta in boiling water to heat back up.",
+      "Add pasta to sauce, toss with parsley, lemon juice and shrimp.",
+      "Plate pasta, garnish with the rest of the parm and portioned crab meat.",
+      "Served with focaccia bread",
+      "Expo:",
+      "Focaccia Bread — hot on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-51",
+    "masterId": "dm-bh-51-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Short RIb Tacos",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Short Rib portion (4oz)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Steak Marinade",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Flour Tortillas",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cabbage Mix, Shredded",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pepperjack, Shredded",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sriracha aioli",
+        "qty": "1",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pico de gallo",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled red Onion",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add a little oil to flat top and add portioned short rib. Add marinade to steak.",
+      "Cook steak until hot through out, don’t let it get to dry.",
+      "Grilled Tortillas and build taco",
+      "Tortilla / Cabbage / Cheese / Steak / Pico / Sriracha / Pickled red Onion / Micro Cilantro",
+      "Served with guest choice of side and a lime wedge",
+      "Expo:",
+      "Sriracha aioli — garnish.",
+      "Pico de gallo — garnish.",
+      "Pickled red Onion — garnish.",
+      "Micro Cilantro — garnish.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-52",
+    "masterId": "dm-bh-52-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Asparagus",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Asparagus, blanched",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "add a little oil to asparagus and place on grill. Cook for 2 minutes than flip to get good color.",
+      "Season asparagus with salt and pepper.",
+      "Remove asparagus from grill and plate."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-53",
+    "masterId": "dm-bh-53-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Broccolini",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Broccolini, blanched",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drop broccolini in hot water to heat up.",
+      "Heat up butter in saute pan and cook garlic.",
+      "Add cooked broccolini to garlic butter, Season with salt / pepper to taste"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-54",
+    "masterId": "dm-bh-54-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Fries",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "French Fries, cooked",
+        "qty": "6",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Greek seasoning",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drop fries in fryer until golden brown and crispy.",
+      "Toss in a separate bowl with Greek Seasoning"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-55",
+    "masterId": "dm-bh-55-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Gouda Grits",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "1.0 Each",
+    "portions": "1.0",
+    "portionSize": "1.0 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "PREP BH Gouda Grits",
+        "qty": "8.0",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-56",
+    "masterId": "dm-bh-56-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Mushroom Farro",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Farro, cooked",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Mushrooms, roasted",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots, sliced",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "garlic, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "parsley, chopped",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "butter",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat saute pan with a little oil, add shallots and garlic to sweat.",
+      "add mushrooms and farro to reheat. Make sure farro is cooked through",
+      "Finish with butter and fresh chopped parsley ."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-57",
+    "masterId": "dm-bh-57-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Pasta",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Linguine Pasta",
+        "qty": "half",
+        "unit": "portion",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic butter",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, shaved",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Melt garlic butter in saute pan, Strain pasta and add to butter.",
+      "Garnish with shaved parmesan"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-58",
+    "masterId": "dm-bh-58-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "SIDE Pimento Mac n Cheese",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cavartappi Pasta, cooked",
+        "qty": "5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pimento Cheese Sauce",
+        "qty": "6",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan, Shaved",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat pimento cheese sauce up in a medium sauce pan, you can use a little cream to start it.",
+      "Drop pasta in water to heat up. Strain and add to cheese sauce",
+      "This can be done in batchs when busy.",
+      "Plate mac and cheese in cast iron and spirnkle parmesan cheese on top",
+      "Bake at 350 for 6-8 minutes until there is a little color and the cheese is bubbling",
+      "Garnish with chopped parsley"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-59",
+    "masterId": "dm-bh-59-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Plain Rice",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Plain rice",
+        "qty": "5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Plain rice — kept warm on the line."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-60",
+    "masterId": "dm-bh-60-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Coleslaw",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepared Coleslaw",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Prepared Coleslaw — kept on expo."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-61",
+    "masterId": "dm-bh-61-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Sweet Potato Gratin",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sweet Potato Gratin",
+        "qty": "1",
+        "unit": "portion",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bake the Sweet Potato Gratin at 350°F for 8–10 minutes."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-62",
+    "masterId": "dm-bh-62-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Whipped Potatoes",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Boursin whipped potatoes",
+        "qty": "7",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Boursin whipped potatoes — warm on the line."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-63",
+    "masterId": "dm-bh-63-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Caesar",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Caesar Dressing",
+        "qty": "1.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Romaine Lettuce",
+        "qty": "4.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Croutons",
+        "qty": "0.75",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parmesan Cheese, shaved",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss Romaine lettuce and caesar dressing together in a bowl.",
+      "Plate and garnish with shaved parm and croutons on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-64",
+    "masterId": "dm-bh-64-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Salted Caramel Cheesecake",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salted Caramel Cheesecake",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Caramel Sauce",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-65",
+    "masterId": "dm-bh-65-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Molten Cake and Ice Cream",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chocolate Lava Cake",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Vanilla ice cream (green-handle scoop)",
+        "qty": "1",
+        "unit": "scoop",
+        "qty2": ""
+      },
+      {
+        "name": "Chocolate sauce",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Caramel Sauce",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat the Chocolate Lava Cake in the microwave."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-66",
+    "masterId": "dm-bh-66-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Clam Chowder",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Clam Chowder",
+        "qty": "10",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Saltine Crackers",
+        "qty": "3",
+        "unit": "Saltine Crackers",
+        "qty2": ""
+      },
+      {
+        "name": "Chives, fresh / chopped",
+        "qty": "0.1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pour soup in soup cup.",
+      "Garnish with chopped parsley",
+      "Expo:",
+      "Clam Chowder — hot on expo.",
+      "Saltine Crackers — garnish on the side.",
+      "Chives, fresh / chopped — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-67",
+    "masterId": "dm-bh-67-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "House Salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grape tomato, halved",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumber, peel / bias cut",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Carrot, shaved",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Spring Mix",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Citrus Vinaigrette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Red Onion",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss spring mix and citrus vinaigrette in a metal bowl with tongs.. And plate.",
+      "Ganish with tomato, cucumber, pickled red onion and shaved carrot",
+      "Expo:",
+      "Grape tomato, halved — garnish on top.",
+      "Cucumber, peel / bias cut — garnish on top.",
+      "Carrot, shaved — garnish on top.",
+      "Pickled Red Onion — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-68",
+    "masterId": "dm-bh-68-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Key Lime",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Key lime pie",
+        "qty": "1",
+        "unit": "slice",
+        "qty2": ""
+      },
+      {
+        "name": "Raspberry Sauce",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime wedge/zest",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-69",
+    "masterId": "dm-bh-69-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lobster Cobb",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Egg, hard boiled",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Green onions (sliced)",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Grape Tomaes (halved)",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lobster meat portion",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Bacon bits",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Fried Capers",
+        "qty": "1",
+        "unit": "Tbsp",
+        "qty2": ""
+      },
+      {
+        "name": "Mango, diced",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Spring Mix",
+        "qty": "3",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Quinoa, cooked",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Avocacdo",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Caper Vinaigrette",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss spring mix, quinoa and cirtus vinaigrette together and plate in bowl",
+      "Garnish with lobster meat in center of plate, dash of vinaigrette on top of lobster",
+      "Garnish in piles going around the lobster with egg, scallion, mango, bacon, tomato, avocado",
+      "Garnish on top with fried capers."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-70",
+    "masterId": "dm-bh-70-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Rice Bowl New",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cucumber, peel/bias cut",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Edamame bean blanched",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Mango Salsa",
+        "qty": "1.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Radish",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Avocado Fan",
+        "qty": "0.25",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Soy Sauce",
+        "qty": "1",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Sriracha Aioli",
+        "qty": "0.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Green Onion, sliced",
+        "qty": "0.1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Slaw Mix, dry",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemongrass Rice",
+        "qty": "4",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Scoop rice in bowl with ginger soy on top.",
+      "Garnish in piles with mango salsa, edamame, cucumber, slaw mix, radish, scallion",
+      "Ganish in center with avocado fan and sesame seeds",
+      "Expo:",
+      "Lemongrass Rice — warm or fresh from the pantry."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-71",
+    "masterId": "dm-bh-71-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side Caesar",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "GROC Dressing Caeser Roman",
+        "qty": "1",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "YIELD B2 Romaine cut",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "BREAD Croutons",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "DAIRY CHEESE Parmesan Shred / Shaved",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss Romaine lettuce and caesar dressing together in a bowl.",
+      "Plate and garnish with shaved parm and croutons on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-72",
+    "masterId": "dm-bh-72-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Side House Salad",
+    "category": "Dinner Menu",
+    "submenu": "Soup - Salad - Dessert",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Yield B2 Grape Tomato Cut",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Yield B2 Cucumber Peel/Cut",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Yield B2 Carrot Peel/Cut",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "PROD Lettuce Spring Mix",
+        "qty": "3",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "PREP BH Citrus Vinaigrette",
+        "qty": "1",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "PREP BH Pickled Red Onion",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Toss spring mix and citrus vinaigrette in a metal bowl with tongs.. And plate.",
+      "Ganish with tomato, cucumber, pickled red onion and shaved carrot"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-bh-73",
+    "masterId": "dm-bh-73-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Blackberry BBQ",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3 Quart",
+    "portions": "48",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Jim Beam ( bourbon )",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Butter",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chilii Powder",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Onion med diced",
+        "qty": "20",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic minced",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Molasses Light",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Pepper Chipotle",
+        "qty": "0.5",
+        "unit": "7oz can",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberries",
+        "qty": "1",
+        "unit": "case",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat butter in a sauce pot and add onion, garlic, chipotle peppers, salt, pepper and chili powder and slowly cook until soft.\n 2. Deglaze with bourbon.\n 3. Add remaining ingredients and bring to light simmer for 20 minutes\n 4. Blend on high and pass through a chinois. \n 5. Adjust seasoning if needed.\n 6. Wrap / label /date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-1",
+    "masterId": "dp-bh-1-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Brava Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "22 Quart",
+    "portions": "117.33",
+    "portionSize": "6 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Roma Tomato (rough chopped)",
+        "qty": "25",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Black pepper ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cayenne pepper",
+        "qty": "2",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Crushed Red Pepper Flakes",
+        "qty": "0.25",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Smoked Paprkia",
+        "qty": "0.25",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic cloves (chopped)",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion (large dice)",
+        "qty": "8",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Sweat onions, garlic and spices.\n 2. Deglaze with vinegar and add tomatoes.\n 3. Bring to a simmer for about 20 minutes\n 4. Blend in vita prep and adjust seasoning if needed. Should be spicy\n 5. Cool sauce / wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-2",
+    "masterId": "dp-bh-2-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Clam Chowder",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "16 Gallon",
+    "portions": "227.56",
+    "portionSize": "9 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Idaho Potato",
+        "qty": "10",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon pieces, raw",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "White WIne",
+        "qty": "2",
+        "unit": "Liter",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, Ground",
+        "qty": "0.25",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Clams, Can",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "12",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Bay Leaves",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Fresh Thyme",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic Clove",
+        "qty": "16",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion",
+        "qty": "20",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Celery",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Clam Chowder, Can",
+        "qty": "24",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add bacon to large rondo and render out the fat. Remove from pot but save oil.\n 2. Add remaining oil, celery, onion, garlic and thyme to sweat.\n 3. Add bacon back in with bay leaves and simmer for 3 minutes.\n 4. Tak off stove and add canned chowder, canned clams and potatoes\n 5. Adjust seasoning with salt and pepper.\n 6. Portion and seal in vacuum bag\n 7. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-3",
+    "masterId": "dp-bh-3-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Farro cooked",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "4.25 LB",
+    "portions": "11.33",
+    "portionSize": "6 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Farro, grain",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring a pot of water to a boil and add salt.\n 2. Add farro and cook slowly for about 15-18 minutes.\n 3. Strain rice and spread on sheet tray to cool in walk in quickly.\n 4. Pan up rice, wrap, label, date."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-4",
+    "masterId": "dp-bh-4-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Ginger Soy Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "5 Gallon",
+    "portions": "320",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Garlic, clove (chopped)",
+        "qty": "2",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger root (chopped)",
+        "qty": "2",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Sesame Oil",
+        "qty": "4",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Plum Sauce",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Crushed Red Pepper Flakes",
+        "qty": "0.25",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Soy Sauce, light",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "5",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Scallion",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro",
+        "qty": "2",
+        "unit": "bunches",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Chop the Scallion and add once cooled.",
+      "Chop the Cilantro and add once cooled.",
+      "Heat sesame oil in a large stock pot.\n 2. Sweat garlic, ginger and pepper flakes until soft.\n 3. Add soy sauce, plum sauce, vinegar and sugar. \n 4. Bring to a simmer for 10 minutes.\n 5. Cool with ice wand.\n 6. Fold in cilantro and scallions\n 7. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-5",
+    "masterId": "dp-bh-5-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Honey Fig Glaze",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3 Quart",
+    "portions": "48",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Blended Olive Oil",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Fig Jam/Spread (1 tub, 3.53 lb)",
+        "qty": "1",
+        "unit": "Tub",
+        "qty2": ""
+      },
+      {
+        "name": "Chipolte Peppers (7 oz can)",
+        "qty": "1",
+        "unit": "can",
+        "qty2": ""
+      },
+      {
+        "name": "Calabrian Chili Peppers",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Water",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Measure everything out and add to blender, blend until smooth.\n 2. Store / wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-6",
+    "masterId": "dp-bh-6-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Plain Rice",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "12 Quart",
+    "portions": "48",
+    "portionSize": "0.25 Quart",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "3.75",
+        "unit": "quart",
+        "qty2": ""
+      },
+      {
+        "name": "PROD Herb Lemon Grass (smashed)",
+        "qty": "1",
+        "unit": "stalk",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive OIl",
+        "qty": "2.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Jasmine Rice",
+        "qty": "3",
+        "unit": "quart",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Run rice under cold water a few times to clear starch.\n 2. Add rice and remaining ingredients in rice cooker and start.\n 3. Remove lid when finished and fluff rice. \n 4. Pull onto sheet pan and cool in walk in.\n 5. Bag up for storage,\n 6. Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-7",
+    "masterId": "dp-bh-7-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pimento Cheese Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "4 Gallon",
+    "portions": "85.33",
+    "portionSize": "6 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Heavy Cream",
+        "qty": "10",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion",
+        "qty": "1.75",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Cumin, ground",
+        "qty": "2",
+        "unit": "Tablespoons",
+        "qty2": ""
+      },
+      {
+        "name": "Cayenne pepper",
+        "qty": "2",
+        "unit": "teaspoons",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Bay Leaves",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Paprika",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Coriander, ground",
+        "qty": "0.25",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, granulated",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "AP Flour",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, Unsalted",
+        "qty": "8",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pepperjack Cheese, shredded",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Cheddar Cheese, shredded",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Sambal Chili sauce",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Roasted Red Peppers, can",
+        "qty": "1",
+        "unit": "#10 Can",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the AP Flour for the roux.",
+      "Use the Butter, Unsalted for the roux.",
+      "Drain and dice the Roasted Red Peppers, can.",
+      "Add cream, onions and spices to a pot and bring to a boil. \n 2. Reduce heat and simmer for 20 minutes\n 3. Strain through China cap and return to the heat.\n 4. Add roux to thicken. Bring to a simmer to cook roux out\n 5. Take off fire and slowly add both cheeses until melted through.\n 6. fold in the sambal and diced peppers.\n 7. Adjust seasoning if needed\n 8. cool / wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-8",
+    "masterId": "dp-bh-8-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pina Colada Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "4 Quart",
+    "portions": "64",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kosher Salt",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Cream of Coconut (15 oz cans)",
+        "qty": "4",
+        "unit": "Can",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice (about 3 cans)",
+        "qty": "4.25",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, unsalted (diced, room temperature)",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Water",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "GROC Starch Corn",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the Water for the slurry.",
+      "Use the GROC Starch Corn for the slurry.",
+      "In a saucepan add pineapple juice, coconut cream, honey and salt.\n 2. Bring to a simmer.\n 3. Make a slurry with the corn starch, add to sauce when simmering to thicken.\n 4. Remove from heat and fold in butter.\n 5. Adjust seasoning if needed.\n 6. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-9",
+    "masterId": "dp-bh-9-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Quinoa",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3 Quart",
+    "portions": "48",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "7",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Quinoa",
+        "qty": "4",
+        "unit": "cups",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Rinse quinoa well and drain water.\n 2. Add to a sauce pot with the remaining ingredients and bring to a simmer.\n 3. turn heat down low and cover for 15 minutes.\n 4. Remove from heat and let sit covered for another 15 minutes.\n 5. Fluff quinoa and lay on sheet tray to cool in walk in.\n 6. Pan up, wrap, label, date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-10",
+    "masterId": "dp-bh-10-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Simple Syrup",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "18 Quart",
+    "portions": "576",
+    "portionSize": "1 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "12",
+        "unit": "quarts",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "12",
+        "unit": "quarts",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add both ingredients to a pot and turn on heat. \n 2. Heat until sugar is dissolved.\n 3. Remove and cool.\n 4. Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-11",
+    "masterId": "dp-bh-11-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Spinach and Artichoke Dip",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "17 LB",
+    "portions": "34",
+    "portionSize": "8 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Yield BH Artichokes drained",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "DAIRY Cream Heavy Whipping",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "GROC Spinach Dip",
+        "qty": "16",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Drain artichokes well and rough chop. \n 2. Mix spin dip, artichoke and cream.\n 3. Bag up for storage.\n 4. Label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-12",
+    "masterId": "dp-bh-12-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Sweet Potato Gratin",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "18 Each",
+    "portions": "18",
+    "portionSize": "1 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter, unsalted",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Gruyere Cheese, slices",
+        "qty": "18",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clove, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Nutmeg, Ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "1",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Potatp",
+        "qty": "8",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kohser Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion (small diced)",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Peel the Sweet Potatp and slice it thin.",
+      "Sweat onions and butter until soft.\n 2. Add sweet potato, clove, nutmeg, salt and pepper and bring to a simmer for 5 mins\n 3. Add cream and bring to a simmer for 5 minutes.\n 4. Transfer to lined hotel pan.\n 5. cover with parchment and another hotel pan\n 6. Bake for 20 minutes at 350\n 7. Let cool down\n 8. Cut into 18 pieces and melt a slice of gruyere on each peace. 3x6"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-13",
+    "masterId": "dp-bh-13-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Ceviche Juice",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "2.75 Cup",
+    "portions": "11",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Agave Nector",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Blood Orange Juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix everything together, Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-14",
+    "masterId": "dp-bh-14-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Citrus Vinaigrette",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "84.5 OZ-fl",
+    "portions": "42.25",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Orange Juice",
+        "qty": "16",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "16",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive Oil",
+        "qty": "32",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "HOney",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "0.04",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "0.17",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parlsey",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots",
+        "qty": "2.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Grapefruit Juice",
+        "qty": "8",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place all ingredients except oil in a blender on high until well blended.",
+      "Pour in larger container.",
+      "With burr mixer running...slowly pour in oil to emulsify.",
+      "Adjust seasoning if needed.",
+      "Wrap / label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-15",
+    "masterId": "dp-bh-15-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coleslaw",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "12 LB",
+    "portions": "48",
+    "portionSize": "3 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coleslaw Dressing",
+        "qty": "2",
+        "unit": "quarts",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Cabbage Mix, shredded",
+        "qty": "10",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "In a large bowl/lexon mix everything together well.\n 2. Adjust seasoning if needed.\n 3. Wrap/labell/date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-16",
+    "masterId": "dp-bh-16-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coriander Lime Aioli",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "2.2 Gallon",
+    "portions": "140.8",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Blended Olive Oil",
+        "qty": "1.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "2",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro",
+        "qty": "5",
+        "unit": "bunches",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Blend everything but the mayo in a blender well.\n 2. Add mayo to bowl and fold in cilantro mix.\n 3. Adjust seasoning if needed.\n 4. Wrap/label/date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-17",
+    "masterId": "dp-bh-17-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lemon Caper Vinaigrette",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "3 Quart",
+    "portions": "48",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Capers",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive Oil",
+        "qty": "7",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Thyme, fresh",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Dijon Mustard",
+        "qty": "0.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place all ingredients except oil in blender and blend well.\n 2. With the machine running, slowly add oil to emulsify dressing.\n 3. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-18",
+    "masterId": "dp-bh-18-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lemon Chive Cream",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "4.25 Quart",
+    "portions": "90.67",
+    "portionSize": "1.5 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seasoning Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Chives",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Oranges",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "LImes",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons",
+        "qty": "3",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Beurre Blanc (4 × 2 lb bags)",
+        "qty": "8",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the juice and zest of the Oranges.",
+      "Use the juice and zest of the LImes.",
+      "Use the juice and zest of the Lemons.",
+      "Blend everything together.\n 2. adjust seasoning with salt / pepper if needed.\n 3. Keep warm on expo or cool / wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-19",
+    "masterId": "dp-bh-19-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lobster Roll Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "4 Quart",
+    "portions": "32",
+    "portionSize": "4 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lemons",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "0.33",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "1",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the zest and juice of the Lemons.",
+      "Mix everything together well in a bowl.\n 2. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-20",
+    "masterId": "dp-bh-20-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mango Salsa NEW",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "10 LB",
+    "portions": "49.23",
+    "portionSize": "3.25 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Black Pepper, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Limes",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "PREP BH Pico",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Mango, IQF diced",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the juice of the Limes only.",
+      "Make sure mango is diced well enough.\n 2. Mix in a bowl with pico. \n 3. Adjust seasoning.\n 4. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-21",
+    "masterId": "dp-bh-21-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mignonette Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "55 OZ-fl",
+    "portions": "27.5",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "White Pepper, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "White Balsamic Vinegar",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots (finely diced)",
+        "qty": "2",
+        "unit": "cups",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Fine dice shallots and place in a bowl. The total measurement is 2 cups diced shallots\n 2. mix everything together in a container.\n 3. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-22",
+    "masterId": "dp-bh-22-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pesto Mayo",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "3 Gallon",
+    "portions": "384",
+    "portionSize": "2 Tbsp",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Basil Pesto, frozen",
+        "qty": "128",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix together well, wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-23",
+    "masterId": "dp-bh-23-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pickled Fresno Peppers",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "10 LB",
+    "portions": "106.67",
+    "portionSize": "1.5 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Fresno Pepper",
+        "qty": "10",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Clove, ground",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "2",
+        "unit": "quart",
+        "qty2": ""
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "qty": "2",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Water",
+        "qty": "2",
+        "unit": "Quart",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Slice peppers about a 1/4 inch thick and place in 12 qt or bigger container.\n 2. Bring rest of ingredients to a simmer to dissolve\n 3. Pour hot liquid over peppers and cool. Mix well so peppers are coated\n 4. Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-24",
+    "masterId": "dp-bh-24-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "pickled radish",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "3.1 LB",
+    "portions": "33.07",
+    "portionSize": "1.5 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pickling Juice from Red Onion",
+        "qty": "3",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Radish, red (thinly sliced)",
+        "qty": "4",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Slice radish thin and place in container.\n 2. Pour juice from the pickled red onions to cover and marinate.\n 3. Wrap /Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-25",
+    "masterId": "dp-bh-25-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pickled Red Onion",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "85 OZ-wt",
+    "portions": "56.67",
+    "portionSize": "1.5 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kosher Salt",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Water",
+        "qty": "2",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "3",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, whole",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove",
+        "qty": "20",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion",
+        "qty": "20",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Peel and julienne red onions, set in large cambro.\n 2. Combine remaining ingredients in a pot and bring to a simmer until sugar is dissolved.\n 3. Pour hot liquid over onions and mix well.\n 4. Cool completely \n 5. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-26",
+    "masterId": "dp-bh-26-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Pico",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "6 LB",
+    "portions": "96",
+    "portionSize": "1 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jalapeno Pepper (small diced)",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro (chopped)",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion (small diced)",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato (small diced)",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Dice all veggies and place in a bowl.\n 2. Add remaining ingredients and mix well.\n 3. Adjust seasoning if needed.\n 4. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-27",
+    "masterId": "dp-bh-27-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Riata",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "5 Cup",
+    "portions": "20",
+    "portionSize": "0.25 Cup",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sumac, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Mint, fresh (finely chopped)",
+        "qty": "0.25",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Cumin, ground",
+        "qty": "1",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Greek Yogurt",
+        "qty": "1",
+        "unit": "Quart",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons",
+        "qty": "1.5",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cucumber, hydro euro",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Crush and purée the Garlic, clove with a knife.",
+      "Use the juice of the Lemons only.",
+      "Peel and deseed cucumbers. Grate / shredded on box grater\n 2. Add salt to cucumbers and set aside for 30 minutes.\n 3. Prepare and add remaining ingredients to a different bowl.\n 4. Drain all the water from the cucumbers and add to the sauce.\n 5. Adjust seasonings\n 6. Wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-28",
+    "masterId": "dp-bh-28-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Sausage and Grits Sets",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "1 Each",
+    "portions": "1",
+    "portionSize": "1 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Andouille Sausage (cut in half on the bias)",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots (thinly sliced)",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Red Bell Pepper (large dice)",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Prep/cut sausage, peppers and shallot.\n 2. Using a scale portion out 2oz. sausage / 2oz. pepper / 1oz. shallot in day bags.\n 3. Label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-29",
+    "masterId": "dp-bh-29-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Sriracha Aioli",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "4.75 Quart",
+    "portions": "152",
+    "portionSize": "1 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sriracha Sauce",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "1",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix together in a bowl until well blended.\n 2. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-30",
+    "masterId": "dp-bh-30-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Steak Marinade",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "11 Cup",
+    "portions": "44",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Soy Sauce, light",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive Oil",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Honey",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, dijon",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove (chopped)",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Tabasco sauce",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Paprika, ground",
+        "qty": "8",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "18",
+        "unit": "OZ-fl",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Combine all ingredients in a blender and blend well.\n 2. Store in container.\n 3. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-31",
+    "masterId": "dp-bh-31-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Stone Crab Mustard",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "2.25 Gallon",
+    "portions": "144",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, Whole Grain",
+        "qty": "2",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "A1 Steak Sauce",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, Dry",
+        "qty": "1.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredient in a bowl. \n 2. Adjust seasoning if needed.\n 3. Wrap / Label /Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-32",
+    "masterId": "dp-bh-32-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Braised Shorty",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "43.4 LB",
+    "portions": "86.8",
+    "portionSize": "8 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Garlic, clove",
+        "qty": "1",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher salt",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Red Wine",
+        "qty": "9",
+        "unit": "Liter",
+        "qty2": ""
+      },
+      {
+        "name": "Rosermary, fresh",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Tomato (rough dice)",
+        "qty": "3.5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Celery (rough dice)",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion (rough dice)",
+        "qty": "10",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Carrot (rough dice)",
+        "qty": "5",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Short Ribs",
+        "qty": "81.5",
+        "unit": "LB",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season short ribs on all sides with Salt and pepper.\n 2. Heat oil in large rondo and sear meat on all sides.\n 3. Stack them together in a deep hotel pan. \n 4. When all the meat is seared... add carrots, onions and garlic to pan.\n 5. Deglaze pot with red wine. \n 6. Add remaining ingredients to pot and bring to simmer.\n 7. Add cooked veggies and liquid to short rib pan.\n 8. Wrap in plastic wrap and aluminum foil. \n 9. Roast in oven @300 degrees for 4-5 hours.\n10. Check after 4 hours to see how they are doing. Smaller pieces of will cook faster\n11. Once cooked. remove from oven and let cool in walk in, preferably overnight. \n12. Remove meat from jus and heat up jus. Strain, cool and reserve...Wrap /Label /Date.\n13. Clean big chunks of fat off meat and begin to portion 6 oz pieces for entree.\n14. The rest will be shredded and portioned for tacos."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-33",
+    "masterId": "dp-bh-33-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Chicken Brine",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "6 Quart",
+    "portions": "96",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Water",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Ice",
+        "qty": "1",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Bay Leaves",
+        "qty": "6",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "16",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "16",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove",
+        "qty": "8",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, whole",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Coriander Seed, whole",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add sugar, salt and spices to 2 gallons of water and bring to a simmer until dissolved.\n 2. Remove from heat and add ice.\n 3. Brine all Chicken 8 hours."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-34",
+    "masterId": "dp-bh-34-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coconut Crusted Flounder",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "1 Each",
+    "portions": "1",
+    "portionSize": "1 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Flounder, thawed",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Breader",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Eggs, liquid whole",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Set up breading station with seasoned flour, egg and coconut breader.\n 2. Pass flounder through all three to bread. \n 3. Store on sheet trays.\n 4. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-35",
+    "masterId": "dp-bh-35-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Coconut Crusted Scallops",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "1 Each",
+    "portions": "1",
+    "portionSize": "1 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops, thawed",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Breader",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Egg, liquid whole",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Set up breading station with seasoned flour, egg and coconut breader.\n 2. Pass Scallops through all three to bread. \n 3. Store on sheet tray. \n 4. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-36",
+    "masterId": "dp-bh-36-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Crab Cakes New",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "150 OZ-wt",
+    "portions": "37.5",
+    "portionSize": "4 OZ-wt",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Mustard, whole grain",
+        "qty": "3",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Crab, Jumbo lump",
+        "qty": "6",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Ritz Crackers crushed",
+        "qty": "3",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Panko Bread Crumbs",
+        "qty": "2",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, dry",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Green Onion",
+        "qty": "2",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Cayenne Pepper, ground",
+        "qty": "1",
+        "unit": "teaspoon",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons",
+        "qty": "2",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Egg, whole",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Use the juice of the Lemons only.",
+      "Mix all ingredients except crab and mix well.\n 2. Add crab to mix and gentle mix to not break up crab too much.\n 3. Portion to 4oz portions.\n 4. Coat the outside of each crab cake with additional panko.\n 5. Store on sheet tray.\n 6. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-37",
+    "masterId": "dp-bh-37-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Half Roasted Chicken",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "1 Each",
+    "portions": "1",
+    "portionSize": "1 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Half Chickens",
+        "qty": "1",
+        "unit": "case",
+        "qty2": ""
+      },
+      {
+        "name": "Herb Marinade",
+        "qty": "1",
+        "unit": "Batch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Remove half chicken from brine.\n 2. Toss in herb marinade and place on roasting rack.\n 3. Season with salt and pepper.\n 4. Roast @ 350 for about 40 minutes until about 90% cooked\n 5. Remove from oven and cool.\n 6. Remove the rib cage with a small knife.\n 7. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-38",
+    "masterId": "dp-bh-38-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Herb Marinade",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "6 Cup",
+    "portions": "24",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Garlic, clove",
+        "qty": "4",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, fresh",
+        "qty": "2",
+        "unit": "bunches",
+        "qty2": ""
+      },
+      {
+        "name": "Blended Olive Oil",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Wash the Parsley, fresh well.",
+      "Combine all ingredients in a blender and blend well.\n 2. Store in container.\n 3. Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-39",
+    "masterId": "dp-bh-39-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lamb Meatball",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "172 Each",
+    "portions": "24.57",
+    "portionSize": "7 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lamb, ground",
+        "qty": "10",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Cumin, ground",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Coriander, ground",
+        "qty": "0.25",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mint, fresh",
+        "qty": "1.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Panko Bread Crums",
+        "qty": "4",
+        "unit": "cups",
+        "qty2": ""
+      },
+      {
+        "name": "Egg, whole",
+        "qty": "10",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Black Pepper, ground",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "5",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove (minced)",
+        "qty": "3",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Yellow Onion (small diced)",
+        "qty": "26",
+        "unit": "OZ-wt",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Sweat onions and garlic in a little oil until translucent. set aside and cool\n 2. Add remaining ingredients and cooled onions/ garlic to mixer with paddle attachment.\n 3. Mix well.\n 4. Cook and test a small piece to confirm seasonings.\n 5. portion with black scoop and roll\n 6. sprinkle meatballs with ap flour just to coat them a little.\n 7. Reroll balls if needed.\n 8. Heat oil in a large sauté pan and cook meatballs through browning on all sides.\n 9. Cool / wrap / label / date\n5# makes 86 balls - 7 balls / plate"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-40",
+    "masterId": "dp-bh-40-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Peel and Eat Shrimp",
+    "category": "Dinner Prep",
+    "submenu": "Proteins",
+    "yield": "78 Each",
+    "portions": "6.5",
+    "portionSize": "12 Each",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "EZ Peel Shrimp, thawed",
+        "qty": "4",
+        "unit": "LB",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay / Gulf Bay",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemons",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Bring water, lemon and old bay to a boil\n 2. Get ice bath ready\n 3. Add shrimp to water and cook for 3 minutes\n 4. Remove from water and shock in ice bath\n 5. wrap / label / date \n 6. store with an ice bag"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-41",
+    "masterId": "dp-bh-41-m",
+    "location": "Beach House"
   }
 ]
