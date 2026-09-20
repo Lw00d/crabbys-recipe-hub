@@ -46194,24 +46194,26 @@
         "qty2": "6"
       },
       {
-        "name": "Big Storm Clementine Vodka",
+        "name": "Pinnacle Vodka (Well)",
         "qty": "1.5",
         "unit": "Vol oz",
         "qty2": "2"
       },
       {
-        "name": "Oranges",
-        "qty": "1",
-        "unit": "Wedge",
-        "qty2": "1"
+        "name": "Orange Slice",
+        "qty": "1ea",
+        "unit": "Garnish",
+        "qty2": "1ea"
       }
     ],
     "steps": [
-      "Fill up shaker glass with all ingredients",
+      "Fill up shaker glass with all ingredients, shake ",
+      "Fill the crorect glass with ice",
       "Pour into 14oz glass or logo cup",
       "Garnish:",
+      "Orange Slice",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14 or 20 oz glass or logo cup"
     ],
     "notes": "",
     "images": [],
