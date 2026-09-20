@@ -60447,7 +60447,7 @@
     "ingredients": [
       {
         "name": "Vodka (Well)",
-        "qty": ".5",
+        "qty": "1.",
         "unit": "Vol oz"
       },
       {
@@ -60477,10 +60477,14 @@
       }
     ],
     "steps": [
-      "In a 20-oz cup, fill with ice",
-      "Garnish:",
+      "In the correct glassware, fill with ice",
+      "Add Vodka, Triple Sec, Red Bull, and Natalie's OJ",
+      "Fill the glass SLOWLY with Prosecco",
+      "You will have to stop to let the bubbles settle, continue to fill the glass",
       "Glassware:",
-      "20oz glass or logo cup"
+      "Wine, Champagne, or 20oz glass or logo cup",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
