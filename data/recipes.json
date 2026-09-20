@@ -60291,7 +60291,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Toppings Syrup Chocolate",
+        "name": "Syrup Chocolate",
         "qty": "1",
         "unit": "Vol oz"
       },
@@ -60302,11 +60302,15 @@
       }
     ],
     "steps": [
+      "In the cup drizzle the Chocolate syrup in a zig-zag motion around the inside",
       "Put all ingredients in a blender",
       "Add a scoop of ice",
+      "Blend until smooth ",
       "Pour into a 14-oz logo cup or glass",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz glass or logo cup",
+      "Garnish:",
+      ""
     ],
     "notes": "",
     "images": []
