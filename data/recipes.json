@@ -50369,10 +50369,13 @@
       "Put ice and water in a martini glass to chill it",
       "Build in a shaker: all ingredients and ice",
       "Shake vigorously until the shaker is cold",
-      "Dump ice from the martini glass back in the ice well",
-      "Strain the drink from the shaker into the martini glass",
+      "Dump ice from the martini glass into dump sink ",
+      "Strain the drink from the shaker into the chilled martini glass",
+      "Place coffee beans on top",
+      "Glassware:",
+      "Martini Glass",
       "Garnish:",
-      "3 espresso beans"
+      "3 Espresso Beans"
     ],
     "notes": "",
     "images": []
