@@ -1,8 +1,9 @@
 # Beachside Recipe Hub — Handoff
 
 Paste this whole document as your first message in a new chat to resume.
-As of this writing: **2,039 recipes** across **two companies**, latest commit
-`e5bed3c`.
+As of this writing: **2,039 recipes** across **two companies**, latest code
+commit `a458a68`; `data/recipes.json` moves constantly on top of that as
+people save.
 
 **Everything is in the repo.** `index.html`, `worker.js`, `data/recipes.json`,
 the 216-test suite and this document all live in git. A new session can rebuild
