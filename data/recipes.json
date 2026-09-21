@@ -48546,7 +48546,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Ripe margarita",
+        "name": "Ripe Margarita",
         "qty": "5",
         "unit": "Vol oz"
       },
@@ -48567,6 +48567,8 @@
       "Rim glass with desired garnish for the rim.",
       "Pour into a 14oz cup or glass",
       "Garnish:",
+      "Rimmed glass, Lime wedge, Orange slice ",
+      "Glassware:",
       "14 oz glass or logo cup"
     ],
     "notes": "",
@@ -48589,7 +48591,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Ripe margarita",
+        "name": "Ripe Margarita",
         "qty": "5",
         "unit": "Vol oz"
       },
@@ -48610,6 +48612,8 @@
       "Rim glass with desired garnish for the rim.",
       "Pour into a 14oz cup or glass",
       "Garnish:",
+      "Rimmed glass, Lime wedge, Orange slice ",
+      "Glassware:",
       "14 oz glass or logo cup"
     ],
     "notes": "",
