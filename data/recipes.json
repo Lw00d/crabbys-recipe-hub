@@ -93707,7 +93707,7 @@
         "qty2": ""
       },
       {
-        "name": "Pickled Carrots and Cucumber",
+        "name": "Pickled Cucumber and Carrot",
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
@@ -96472,7 +96472,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "Marinated Cucumber / Carrot",
+    "name": "Pickled Cucumber and Carrot",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "2# = 2 qts",
