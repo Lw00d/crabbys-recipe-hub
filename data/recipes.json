@@ -93986,7 +93986,7 @@
         "qty2": ""
       },
       {
-        "name": "Broccolini, blanched and cut",
+        "name": "Blanched Broccolini",
         "qty": "3",
         "unit": "oz-wt",
         "qty2": ""
@@ -94046,7 +94046,7 @@
       "Add Cream and reduce by half, fold in half the parmesan cheese.",
       "Drop pasta in boiling water, drain and add to sauté pan, toss.",
       "Plate Pasta, Garnish with remaining shaved parm and chopped parsley.",
-      "Served with foaccia bread."
+      "Served with a side of focaccia bread."
     ],
     "notes": "",
     "images": [],
@@ -94063,22 +94063,22 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Dinner Plate / Ramekin / Steak Knife",
     "ingredients": [
       {
-        "name": "6oz. Filet, marinated",
+        "name": "6oz. Filet, marinated in olive oil and thyme",
         "qty": "1",
         "unit": "each",
         "qty2": ""
       },
       {
-        "name": "Mash side",
+        "name": "Whipped Potatoes",
         "qty": "1",
         "unit": "each",
         "qty2": ""
       },
       {
-        "name": "Broccolini side",
+        "name": "Blanched Broccolini",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -94091,16 +94091,17 @@
       }
     ],
     "steps": [
-      "Marinate the 6oz. Filet, marinated in olive oil and thyme.",
       "Season filet well and grill to guests ordered temperature.",
       "Rest steak and sell.",
-      "The filet is served with a side of broccolini and boursin mash.",
-      "Steak sauce on side.",
       "Expo:",
-      "Steak Sauce — ramekin on the side, on expo."
+      "Steak Sauce — ramekin on the side.",
+      "Sides:",
+      "Mashed Potatoes and Broccolini"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud2hr5u02goxl.jpg"
+    ],
     "active": true,
     "id": "dm-mv-42",
     "masterId": "dm-mv-42-m",
@@ -94135,13 +94136,13 @@
         "qty2": ""
       },
       {
-        "name": "Boursin Mash",
+        "name": "Whipped Potatoes",
         "qty": "8",
         "unit": "oz-wt",
         "qty2": ""
       },
       {
-        "name": "Collards",
+        "name": "Collard Greens",
         "qty": "8",
         "unit": "oz-wt",
         "qty2": ""
@@ -94161,13 +94162,15 @@
     ],
     "steps": [
       "Pull out chicken breast and add to buttermilk, drain , calamari flour, sift and fry.",
-      "Make sure chicken reachses 165 degrees and is fully cooked",
+      "Make sure chicken reaches 165 degrees and is fully cooked",
       "Plate mash and collards, add chicken.",
       "Heat up gravy and pour down the front side of the chicken breast.",
       "Garnish with curly scallions."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud2ne2f78xqe5.jpg"
+    ],
     "active": true,
     "id": "dm-mv-43",
     "masterId": "dm-mv-43-m",
@@ -94766,7 +94769,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Brined Chicken Breast",
+        "name": "Chicken in Brine",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -94796,7 +94799,7 @@
         "qty2": ""
       },
       {
-        "name": "Guacamole",
+        "name": "Guac",
         "qty": "0.75",
         "unit": "fl-oz",
         "qty2": ""
@@ -95998,7 +96001,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "Chicken Brine",
+    "name": "Chicken in Brine",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "106 each",
