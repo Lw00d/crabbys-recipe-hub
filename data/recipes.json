@@ -78727,7 +78727,7 @@
         "qty2": ""
       },
       {
-        "name": "Lemon Wedges",
+        "name": "Lemon Wedge",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -78746,20 +78746,22 @@
       }
     ],
     "steps": [
-      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader",
+      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader ( add fish fry procedure link)",
       "Cook fries and season with greek seasoning.",
-      "Remove from fryer using save-a-day, then plate.",
+      "Remove from fryer using save-a-day",
+      "Plate fries in bowl with fried grouper on top. ",
       "Expo:",
       "Tartar — 2 fl oz ramekin.",
-      "Lemon Wedges — garnish.",
-      "French Fries — bed under the fish.",
+      "Lemon Wedge — garnish.",
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud37jnrqbvlzo.jpg"
+    ],
     "active": true,
     "id": "dm-mv-1",
-    "masterId": "dm-mv-1-m",
+    "masterId": "m-mud3a2wnn876hl",
     "location": "Mar Vista"
   },
   {
@@ -78795,7 +78797,7 @@
         "qty2": ""
       },
       {
-        "name": "Lemon Wedges",
+        "name": "Lemon Wedge",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -78814,17 +78816,19 @@
       }
     ],
     "steps": [
-      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader",
+      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader ( add fish fry procedure link)",
       "Cook fries and season with greek seasoning.",
-      "Remove from fryer using save-a-day, then plate.",
+      "Remove from fryer using save-a-day",
+      "Plate fries in bowl with fried grouper on top. ",
       "Expo:",
       "Tartar — 2 fl oz ramekin.",
-      "Lemon Wedges — garnish.",
-      "French Fries — bed under the fish.",
+      "Lemon Wedge — garnish.",
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud37jnrqbvlzo.jpg"
+    ],
     "active": true,
     "id": "dm-sb-1",
     "masterId": "dm-mv-1-m",
@@ -78863,7 +78867,7 @@
         "qty2": ""
       },
       {
-        "name": "Lemon Wedges",
+        "name": "Lemon Wedge",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -78882,17 +78886,19 @@
       }
     ],
     "steps": [
-      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader",
+      "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader ( add fish fry procedure link)",
       "Cook fries and season with greek seasoning.",
-      "Remove from fryer using save-a-day, then plate.",
+      "Remove from fryer using save-a-day",
+      "Plate fries in bowl with fried grouper on top. ",
       "Expo:",
       "Tartar — 2 fl oz ramekin.",
-      "Lemon Wedges — garnish.",
-      "French Fries — bed under the fish.",
+      "Lemon Wedge — garnish.",
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud37jnrqbvlzo.jpg"
+    ],
     "active": true,
     "id": "dm-bh-1",
     "masterId": "dm-mv-1-m",
@@ -78962,7 +78968,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-2",
     "masterId": "dm-mv-2-m",
     "location": "Mar Vista"
@@ -94805,17 +94811,34 @@
         "qty2": ""
       },
       {
-        "name": "Lettuce and tomato set",
+        "name": "Tomato Slice",
         "qty": "1",
         "unit": "each",
         "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "Leaf Lettuce"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Each ",
+        "name": "Pickle"
       }
     ],
     "steps": [
-      "Season and grill chicken breast to 165 degrees",
+      "Season and grill chicken breast to 165 degrees ( add grill chicken link )",
       "Add bacon and melt cheese on chicken breast",
-      "Toast bun and add chicken to build sandwich.",
-      "Garnish with guacamole, lettuce and tomato"
+      "Toast bun on flat top with clarified butter",
+      "Plate chicken on bun and sell to expo.",
+      "Expo:",
+      "Guacamole - Garnish",
+      "Sliced Tomato - Garnish",
+      "Leaf Lettuce - Garnish",
+      "Pickle - Garnish"
     ],
     "notes": "",
     "images": [],
