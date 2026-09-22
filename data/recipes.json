@@ -47703,8 +47703,8 @@
     "smallware": "20oz Logo cup / Glass, straw, Lid if it's Togo",
     "ingredients": [
       {
-        "name": "LavAzza Cold Brew",
-        "qty": "",
+        "name": "LavAzza Cold Brew (Prepped)",
+        "qty": "9",
         "unit": "Ounces"
       },
       {
@@ -47721,8 +47721,13 @@
     "steps": [
       "In a 20 oz glass/ logo cup, filled with ice",
       "Add the 4 French Vanilla creamers",
-      "Shake or stir the Cold Brew before filling the cup",
-      "Topped with Whipped Cream"
+      "Shake or stir the Cold Brew before adding to the cup",
+      "Add the Cold Brew",
+      "Topped with Whipped Cream",
+      "Garnish:",
+      "Whipped Cream",
+      "Glassware:",
+      "20oz Glass or Logo cup, if to go, a lid"
     ],
     "notes": "",
     "images": []
