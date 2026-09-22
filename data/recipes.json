@@ -93553,11 +93553,11 @@
     "name": "Baked Scallops",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
-    "yield": "",
-    "portions": "",
+    "yield": "1 each",
+    "portions": "1",
     "portionSize": "",
-    "shelfLife": "",
-    "smallware": "",
+    "shelfLife": "3",
+    "smallware": "Skinny Rec",
     "ingredients": [
       {
         "name": "Stuffed Scallops",
@@ -93603,20 +93603,18 @@
       }
     ],
     "steps": [
-      "Bake the Clarified butter on top of each scallop.",
-      "Bake the Parmesan. Grated on top of each scallop.",
-      "Bake the MV Breadcrumbs on top of each scallop.",
-      "Place 3 scallops on sizzle platter, top with melted clarified butter",
+      "Add Clarified butter, parmesan cheese and breadcrumbs to each scallop.",
+      "Place 3 scallops on sizzle platter",
       "Bake for 7 minutes, until a little color and scallops are cooked through.",
-      "Add chopped bacon and curly scallions on top for garnish.",
-      "Expo plates scallops on top of a small bed of arugula.",
       "Expo:",
       "Bacon, chopped — garnish on top.",
       "Scallions, curly cut — garnish on top.",
       "Baby Arugula — garnish underneath, to hold the scallops."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud1qkcmal59lw.jpg"
+    ],
     "active": true,
     "id": "dm-mv-35",
     "masterId": "dm-mv-35-m",
