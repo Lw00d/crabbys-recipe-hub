@@ -38495,7 +38495,7 @@
         "unit": "oz pour"
       },
       {
-        "name": "Coffee (Reg. or Decaf)",
+        "name": "LavAzza Coffee (Reg. or Decaf)",
         "qty": "8-9",
         "unit": "oz."
       },
@@ -38516,16 +38516,18 @@
       }
     ],
     "steps": [
-      "Offered hot or cold",
+      "**Note: Offered hot or cold**",
       "(If cold, fill the glass with Ice)",
-      "Pour Jameson's Irish Whiskey,",
-      "Fill with black coffee",
+      "Pour Jameson's Irish Whiskey and Bailey's ",
+      "Fill with coffee",
       "Cover the top of the glass with whipped cream, float",
+      "Add cherry",
       "Sprinkle with Cinnamon Sugar on top",
       "Garnish:",
-      "Whipped Cream, cherry, cinnamon sugar, and a straw",
+      "Whipped Cream, cinnamon sugar, cherry, and a straw",
       "Glassware:",
-      "14oz Glass / Coffee Mug"
+      "HOT - 14oz Glass, Coffee Mug ",
+      "COLD - 20oz Logo Cup"
     ],
     "notes": "",
     "images": []
@@ -38552,7 +38554,7 @@
         "unit": "oz pour"
       },
       {
-        "name": "Coffee (Reg. or Decaf)",
+        "name": "LavAzza Coffee (Reg. or Decaf)",
         "qty": "8-9",
         "unit": "oz."
       },
@@ -38573,16 +38575,18 @@
       }
     ],
     "steps": [
-      "Offered hot or cold",
+      "**Note: Offered hot or cold**",
       "(If cold, fill the glass with Ice)",
-      "Pour Jameson's Irish Whiskey,",
-      "Fill with black coffee",
+      "Pour Jameson's Irish Whiskey and Bailey's ",
+      "Fill with coffee",
       "Cover the top of the glass with whipped cream, float",
+      "Add cherry",
       "Sprinkle with Cinnamon Sugar on top",
       "Garnish:",
-      "Whipped Cream, cherry, cinnamon sugar, and a straw",
+      "Whipped Cream, cinnamon sugar, cherry, and a straw",
       "Glassware:",
-      "14oz Glass / Coffee Mug"
+      "HOT - 14oz Glass, Coffee Mug ",
+      "COLD - 20oz Logo Cup"
     ],
     "notes": "",
     "images": []
@@ -38609,7 +38613,7 @@
         "unit": "oz pour"
       },
       {
-        "name": "Coffee (Reg. or Decaf)",
+        "name": "LavAzza Coffee (Reg. or Decaf)",
         "qty": "8-9",
         "unit": "oz."
       },
@@ -38630,16 +38634,18 @@
       }
     ],
     "steps": [
-      "Offered hot or cold",
+      "**Note: Offered hot or cold**",
       "(If cold, fill the glass with Ice)",
-      "Pour Jameson's Irish Whiskey,",
-      "Fill with black coffee",
+      "Pour Jameson's Irish Whiskey and Bailey's ",
+      "Fill with coffee",
       "Cover the top of the glass with whipped cream, float",
+      "Add cherry",
       "Sprinkle with Cinnamon Sugar on top",
       "Garnish:",
-      "Whipped Cream, cherry, cinnamon sugar, and a straw",
+      "Whipped Cream, cinnamon sugar, cherry, and a straw",
       "Glassware:",
-      "14oz Glass / Coffee Mug"
+      "HOT - 14oz Glass, Coffee Mug ",
+      "COLD - 20oz Logo Cup"
     ],
     "notes": "",
     "images": []
@@ -38666,7 +38672,7 @@
         "unit": "oz pour"
       },
       {
-        "name": "Coffee (Reg. or Decaf)",
+        "name": "LavAzza Coffee (Reg. or Decaf)",
         "qty": "8-9",
         "unit": "oz."
       },
@@ -38687,16 +38693,18 @@
       }
     ],
     "steps": [
-      "Offered hot or cold",
+      "**Note: Offered hot or cold**",
       "(If cold, fill the glass with Ice)",
-      "Pour Jameson's Irish Whiskey,",
-      "Fill with black coffee",
+      "Pour Jameson's Irish Whiskey and Bailey's ",
+      "Fill with coffee",
       "Cover the top of the glass with whipped cream, float",
+      "Add cherry",
       "Sprinkle with Cinnamon Sugar on top",
       "Garnish:",
-      "Whipped Cream, cherry, cinnamon sugar, and a straw",
+      "Whipped Cream, cinnamon sugar, cherry, and a straw",
       "Glassware:",
-      "14oz Glass / Coffee Mug"
+      "HOT - 14oz Glass, Coffee Mug ",
+      "COLD - 20oz Logo Cup"
     ],
     "notes": "",
     "images": []
@@ -38725,7 +38733,7 @@
       {
         "name": "House Spice",
         "qty": "",
-        "unit": "Rim glass"
+        "unit": "Rim Glass"
       },
       {
         "name": "Olives",
@@ -38744,14 +38752,16 @@
       }
     ],
     "steps": [
-      "In a 14-oz Glass",
       "In a shaker tin, add a scoop of ice.",
-      "Add the Hendrick's Gin & Bloody Mary Mix,",
+      "Add the Hendrick's Gin & Bloody Mary Mix, shake",
+      "Rim the glass",
       "Pour back into a rimmed glass",
+      "Glassware:",
+      "14-oz Glass",
       "Garnish:",
-      "With a skewer- 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive- top skewer with a lime wedge",
+      "With a skewer, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, top the skewer with a lime wedge",
       "The skewers should be made ahead of time and placed in a Plastic container in the reach-in cooler, dated",
-      "When you get low 2 or 3 left(depending on business), you should make another Small Batch."
+      "**Note: When you get to 2 or 3 skewers left (depending on business), you should make another Small Batch.**"
     ],
     "notes": "",
     "images": []
@@ -38780,7 +38790,7 @@
       {
         "name": "House Spice",
         "qty": "",
-        "unit": "Rim glass"
+        "unit": "Rim Glass"
       },
       {
         "name": "Olives",
@@ -38799,14 +38809,16 @@
       }
     ],
     "steps": [
-      "In a 14-oz Glass",
       "In a shaker tin, add a scoop of ice.",
-      "Add the Hendrick's Gin & Bloody Mary Mix,",
+      "Add the Hendrick's Gin & Bloody Mary Mix, shake",
+      "Rim the glass",
       "Pour back into a rimmed glass",
+      "Glassware:",
+      "14-oz Glass",
       "Garnish:",
-      "With a skewer- 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive- top skewer with a lime wedge",
+      "With a skewer, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, 1 pepperoni, 1 olive, top the skewer with a lime wedge",
       "The skewers should be made ahead of time and placed in a Plastic container in the reach-in cooler, dated",
-      "When you get low 2 or 3 left(depending on business), you should make another Small Batch."
+      "**Note: When you get to 2 or 3 skewers left (depending on business), you should make another Small Batch.**"
     ],
     "notes": "",
     "images": []
@@ -44277,13 +44289,13 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
-      "Shake until frothy.",
-      "Add floater of Dark Rum",
+      "Add all ingredients and ice into a shaker glass.",
+      "Shake until frothy. ",
+      "Add the floater of Dark Rum",
       "Garnish:",
-      "Cherry and orange slice",
+      "Cherry and Orange slice",
       "Glassware:",
-      "14oz cup or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -44354,13 +44366,13 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
-      "Shake until frothy.",
-      "Add floater of Dark Rum",
+      "Add all ingredients and ice into a shaker glass.",
+      "Shake until frothy. ",
+      "Add the floater of Dark Rum",
       "Garnish:",
-      "Cherry and orange slice",
+      "Cherry and Orange slice",
       "Glassware:",
-      "14oz cup or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -44384,55 +44396,68 @@
       {
         "name": "Rum Well (Cruzan Silver)",
         "qty": "0.75",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.25"
       },
       {
         "name": "Cruzan Spiced Run",
         "qty": "0.75",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.25"
       },
       {
         "name": "Juice Orange",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Juice Pineapple",
         "qty": "2",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "3"
       },
       {
         "name": "Grenadine Syrup",
         "qty": "0.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "1.0"
       },
       {
         "name": "Planteray Dark Rum",
         "qty": "0.5",
-        "unit": "Oz Float"
+        "unit": "Oz Float",
+        "qty2": "0.5"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       },
       {
         "name": "Cherry",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1"
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
-      "Shake until frothy.",
-      "Add floater of Dark Rum",
+      "Add all ingredients and ice into a shaker glass.",
+      "Shake until frothy. ",
+      "Add the floater of Dark Rum",
       "Garnish:",
-      "Cherry and orange slice",
+      "Cherry and Orange slice",
       "Glassware:",
-      "14oz cup or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-55",
@@ -45187,9 +45212,9 @@
       "Add Jameson and lime",
       "Muddle together.",
       "Fill cup with ice.",
-      "Add the ingredients.",
-      "Pour into glass with ginger beer and serve.",
+      "Pour into a glass, add ginger beer, and serve.",
       "Garnish:",
+      "Muddled Lime ",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -45227,9 +45252,9 @@
       "Add Jameson and lime",
       "Muddle together.",
       "Fill cup with ice.",
-      "Add the ingredients.",
-      "Pour into glass with ginger beer and serve.",
+      "Pour into a glass, add ginger beer, and serve.",
       "Garnish:",
+      "Muddled Lime ",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -45267,9 +45292,9 @@
       "Add Jameson and lime",
       "Muddle together.",
       "Fill cup with ice.",
-      "Add the ingredients.",
-      "Pour into glass with ginger beer and serve.",
+      "Pour into a glass, add ginger beer, and serve.",
       "Garnish:",
+      "Muddled Lime ",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -60298,14 +60323,14 @@
     "steps": [
       "Offered hot or cold",
       "(If cold fill glass with Ice)",
-      "Pour Jameson's Irish Whiskey,",
+      "Pour Jameson's Irish Whiskey and Bailey's",
       "Fill with black coffee",
       "Cover the top of glass with whip cream,",
       "Garnish:",
       "Whip Cream, and straw",
       "Glassware:",
       "HOT -14oz Coffee Glass",
-      "COLD - 20oz cup"
+      "COLD - 20oz Logo Cup"
     ],
     "notes": "",
     "images": []
