@@ -80709,7 +80709,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-13",
     "masterId": "dm-mv-13-m",
     "location": "Mar Vista"
@@ -82177,7 +82177,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-21",
     "masterId": "dm-mv-21-m",
     "location": "Mar Vista"
@@ -93604,7 +93604,7 @@
     ],
     "steps": [
       "Add Clarified butter, parmesan cheese and breadcrumbs to each scallop.",
-      "Place 3 scallops on sizzle platter",
+      "Place scallops on sizzle platter.",
       "Bake for 7 minutes, until a little color and scallops are cooked through.",
       "Expo:",
       "Bacon, chopped — garnish on top.",
@@ -93637,9 +93637,9 @@
         "qty2": ""
       },
       {
-        "name": "BB Sauce (boom boom)",
+        "name": "Ginger Soy Sauce",
         "qty": "2",
-        "unit": "fl oz",
+        "unit": "fl-oz",
         "qty2": ""
       },
       {
@@ -93649,9 +93649,9 @@
         "qty2": ""
       },
       {
-        "name": "Ginger Soy Sauce",
+        "name": "BB Sauce",
         "qty": "2",
-        "unit": "fl-oz",
+        "unit": "fl oz",
         "qty2": ""
       }
     ],
@@ -93659,10 +93659,14 @@
       "Portion brussels and drop in fryer. Cook for 3 minutes until crispy. NOT BURNT",
       "Place brussels in mixing bowl and toss in ginger soy sauce.",
       "Plate brussels, don’t add the excess ginger soy sauce to the plate****",
-      "Garnish with sesame seeds and a ramekin of bb sauce"
+      "Expo:",
+      "Toasted sesame seeds as garnish",
+      "Ramekin of BB Sauce "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud1s6ur494kyu.jpg"
+    ],
     "active": true,
     "id": "dm-mv-36",
     "masterId": "dm-mv-36-m",
@@ -94527,7 +94531,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Large Rec",
     "ingredients": [
       {
         "name": "Redfish portion",
@@ -94576,17 +94580,23 @@
         "qty": "1",
         "unit": "each",
         "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "Pickle"
       }
     ],
     "steps": [
-      "Toast the bun with the Clarified Butter.",
-      "Season one side of fish and blacken on flat top, Cook through",
+      "Add Blackening seasoning to one side of fish and blacken on flat top, Cook through. ",
       "Once fish is cooked, melt cheddar on top of fish.",
-      "Toast bun on flat top and plate sandwich.",
+      "Toast bun on flat top using clarified butter",
       "Expo:",
       "Tartar Sauce — ramekin on expo.",
       "LTO Set — garnish.",
-      "Lemon wedge — garnish."
+      "Lemon wedge — garnish.",
+      "Pickle - Garnish"
     ],
     "notes": "",
     "images": [],
@@ -95314,7 +95324,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Salad/Pasta Bowl",
     "ingredients": [
       {
         "name": "Romaine Lettuce, washed/chopped",
@@ -95354,15 +95364,17 @@
       }
     ],
     "steps": [
-      "Place the Black pepper on top of the salad.",
-      "Add salad, half the cheese and dressing in a bowl and toss.",
+      "Add romaine lettuce, half the cheese and dressing in a bowl and toss.",
       "Plate in salad bowl.",
-      "Expo:",
       "Lemon, zest — garnish on top.",
-      "Croutons, remaining shaved parm and a pinch of pepper — garnish."
+      "Croutons - Garnish on top",
+      "Lemon Zest - Garnish on top",
+      "Black Pepper - Garnish on top"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud20n8h0dv2bj.jpg"
+    ],
     "active": true,
     "id": "dm-mv-64",
     "masterId": "dm-mv-64-m",
