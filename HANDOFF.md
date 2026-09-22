@@ -624,6 +624,36 @@ for `\n` or `\t` inside a step catches it.
 
 ---
 
+## Empty section headers — deliberate, do not strip
+
+160 recipes carry a section header with nothing under it: 53 `Plateware:`,
+48 `Garnish:`, 42 `Expo:`, 10 `Glassware:` and a few others. 96 recipes have
+one, 32 have two, and they are almost always the last thing on the card —
+sections the grilling SOP rollout added a header for and never filled.
+
+**They stay.** Decided 2026-09-18. An empty `Expo:` is a standing prompt that
+someone still needs to say what goes on the plate; removing it would tidy 128
+recipes and hide 128 gaps. The whole point of the SOP rollout was making
+plating explicit, so a visible blank is doing its job. Do not "clean these up".
+
+They cannot be filled automatically either. A search for a recipe in the same
+book with a similar name and content under the same header produced four
+candidates out of 164, and two were the matcher fooling itself — it offered
+*Coconut Shrimp Bites*' plateware for *Shrimp & Grits*. Filling these needs
+someone who knows the dish.
+
+One is still recoverable and worth doing by hand: **Crab Roll (Cold) Alaskan**
+at North Beach, whose retired twin `Crab Roll (Cold)` holds
+`Expo: requested side, lemon wedge, green onions` and
+`Plateware: Lined Oval Basket`.
+
+The same recovery was done for Crab & Spinach Dip (All stores) — see the
+commit for `5d23e85`. **Check a retired duplicate for unique content before
+deleting it**; that one was the only surviving copy of the dish's plating
+detail and of the tortilla chips as an ingredient.
+
+---
+
 ## Bugs worth not repeating
 
 Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
