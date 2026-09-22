@@ -6388,6 +6388,12 @@
         "name": "Cheese Cheddar/Jack Shredded",
         "qty": "Sprinkled",
         "unit": "Across the top"
+      },
+      {
+        "name": "Corn Tortilla Chips",
+        "qty": "To fill",
+        "unit": "Basket",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -6398,7 +6404,9 @@
       "Place the dish on a lined round basket.",
       "Place the unbroken chips next to the dish.",
       "Expo:",
-      "Plateware:"
+      "Lemon wedge, Soup spoon",
+      "Plateware:",
+      "8oz rarebit oval dish/ Lined Round Basket"
     ],
     "notes": "",
     "images": [
@@ -19053,49 +19061,6 @@
     ],
     "notes": "",
     "images": []
-  },
-  {
-    "id": "dm-nb-1",
-    "masterId": "dm-nb-1-m",
-    "name": "Crab & Spin Dip",
-    "location": "Salty Crab North Beach",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Crab & Spin Dip",
-        "qty": "1",
-        "unit": "White Scoop"
-      },
-      {
-        "name": "Cheddar/Jack Cheese",
-        "qty": "Light",
-        "unit": "Sprinkle on top"
-      },
-      {
-        "name": "Corn Tortilla Chips",
-        "qty": "To fill",
-        "unit": "Basket"
-      }
-    ],
-    "steps": [
-      "Place 7oz of artichoke dip loosely into an 8-oz oval rarebit dish.",
-      "Make sure the dip is NOT packed into the dish.",
-      "Lightly sprinkle with cheddar cheese (Make sure there is NOT too much cheese)",
-      "Place into the oven for approximately 7 minutes or until cheese is light golden brown and dip is heated thoroughly.",
-      "Place the 8-oz oval dish in a lined round basket",
-      "Place chips in the basket around the oval dish",
-      "Plateware:",
-      "8oz rarebit oval dish/ Lined Round Basket",
-      "Expo:",
-      "Lemon wedge, Soup spoon"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
   },
   {
     "id": "dm-nb-2",
@@ -34332,6 +34297,12 @@
         "name": "Cheese Cheddar/Jack Shredded",
         "qty": "Sprinkled",
         "unit": "Across the top"
+      },
+      {
+        "name": "Corn Tortilla Chips",
+        "qty": "To fill",
+        "unit": "Basket",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -34342,7 +34313,9 @@
       "Place the dish on a lined round basket.",
       "Place the unbroken chips next to the dish.",
       "Expo:",
-      "Plateware:"
+      "Lemon wedge, Soup spoon",
+      "Plateware:",
+      "8oz rarebit oval dish/ Lined Round Basket"
     ],
     "notes": "",
     "images": [
@@ -66715,6 +66688,12 @@
         "name": "Cheese Cheddar/Jack Shredded",
         "qty": "Sprinkled",
         "unit": "Across the top"
+      },
+      {
+        "name": "Corn Tortilla Chips",
+        "qty": "To fill",
+        "unit": "Basket",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -66725,7 +66704,9 @@
       "Place the dish on a lined round basket.",
       "Place the unbroken chips next to the dish.",
       "Expo:",
-      "Plateware:"
+      "Lemon wedge, Soup spoon",
+      "Plateware:",
+      "8oz rarebit oval dish/ Lined Round Basket"
     ],
     "notes": "",
     "images": [
