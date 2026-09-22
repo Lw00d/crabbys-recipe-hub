@@ -35134,35 +35134,34 @@
     "submenu": "Batches / Bar Prep",
     "yield": "2 - 16oz squeeze bottles",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "2 - 16oz Squeeze Bottles ",
     "ingredients": [
       {
         "name": "Jalapenos(chopped)",
-        "qty": "20",
+        "qty": "10",
         "unit": "Each"
       },
       {
         "name": "Monin Cane Syrup",
-        "qty": "8",
+        "qty": "4",
         "unit": "Vol Oz"
       },
       {
         "name": "Cold Water",
-        "qty": "160",
+        "qty": "16",
         "unit": "Vol Oz"
       }
     ],
     "steps": [
       "Add the 3 ingredients into a blender container,",
-      "Cover the top with a Deli Sheet, place lid on top",
+      "Cover the top with a Deli Sheet, then place lid on top",
       "Pour the mixture through a fine-meshed strainer (sieve) using a rubber spatula.",
       "Take 16oz squeeze containers",
       "Fill them about 3/4 way full with the Jalapeno mixture.",
       "Take portion day bags, label and date them.",
       "Place them over the opening and secure the caps on.",
-      "Label, date and rotate",
-      "Note: a portion usage is roughly a 1/4 to 1/2oz to the drink. You don't want it to be too sweet or spicy.",
-      "Same instructions as above"
+      "Label, date, rotate, and refrigerate",
+      "**Note: a portion of the usage is roughly a 1/4 to 1/2oz to the drink. You don't want it to be too sweet or spicy.**"
     ],
     "notes": "",
     "images": []
@@ -35176,35 +35175,34 @@
     "submenu": "Batches / Bar Prep",
     "yield": "2 - 16oz squeeze bottles",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "2 - 16oz Squeeze Bottles ",
     "ingredients": [
       {
         "name": "Jalapenos(chopped)",
-        "qty": "20",
+        "qty": "10",
         "unit": "Each"
       },
       {
         "name": "Monin Cane Syrup",
-        "qty": "8",
+        "qty": "4",
         "unit": "Vol Oz"
       },
       {
         "name": "Cold Water",
-        "qty": "160",
+        "qty": "16",
         "unit": "Vol Oz"
       }
     ],
     "steps": [
       "Add the 3 ingredients into a blender container,",
-      "Cover the top with a Deli Sheet, place lid on top",
+      "Cover the top with a Deli Sheet, then place lid on top",
       "Pour the mixture through a fine-meshed strainer (sieve) using a rubber spatula.",
       "Take 16oz squeeze containers",
       "Fill them about 3/4 way full with the Jalapeno mixture.",
       "Take portion day bags, label and date them.",
       "Place them over the opening and secure the caps on.",
-      "Label, date and rotate",
-      "Note: a portion usage is roughly a 1/4 to 1/2oz to the drink. You don't want it to be too sweet or spicy.",
-      "Same instructions as above"
+      "Label, date, rotate, and refrigerate",
+      "**Note: a portion of the usage is roughly a 1/4 to 1/2oz to the drink. You don't want it to be too sweet or spicy.**"
     ],
     "notes": "",
     "images": []
@@ -39573,7 +39571,7 @@
     "submenu": "Batches / Bar Prep",
     "yield": "5.36 gals.",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "6 gal Cambro ",
     "ingredients": [
       {
         "name": "Cruzan Spiced",
@@ -39597,12 +39595,12 @@
       }
     ],
     "steps": [
-      "Mix all ingredients in a large Cambro and whisk together.",
-      "Store in refrigeration until needed in the Frozen Machine",
-      "Shake / Stir before pouring into the machine",
+      "In a 6 gal. Cambro, add all ingredients and whisk together  ",
+      "Label, Date, and store in refrigeration until needed for the Frozen Machine",
+      "Stir before pouring into the machine",
       "**STIR THE CAMBRO IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "IF in a Cambro, always stir before using"
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**",
+      "**IF in a Cambro, always stir before using**"
     ],
     "notes": "",
     "images": []
@@ -40556,14 +40554,12 @@
     "steps": [
       "Put ice and all ingredients in blender and blend.",
       "Dip glass in agave, then coconut to rim the glass",
-      "Pour from blender to 14oz cup/glass",
-      "Put on dark rum floater.",
+      "Pour from blender into correct glassware",
+      "Float the dark rum ",
       "Garnish:",
-      "Cherry, Coconut Rim",
+      " Coconut Rim, Cherry",
       "Glassware:",
-      "14oz glass or logo cup",
-      "20oz Key lime in the Coconut",
-      "Glassware:"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -40634,14 +40630,12 @@
     "steps": [
       "Put ice and all ingredients in blender and blend.",
       "Dip glass in agave, then coconut to rim the glass",
-      "Pour from blender to 14oz cup/glass",
-      "Put on dark rum floater.",
+      "Pour from blender into correct glassware",
+      "Float the dark rum ",
       "Garnish:",
-      "Cherry, Coconut Rim",
+      " Coconut Rim, Cherry",
       "Glassware:",
-      "14oz glass or logo cup",
-      "20oz Key lime in the Coconut",
-      "Glassware:"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -49259,10 +49253,12 @@
     "steps": [
       "Instructions:",
       "Start with an orange wedge chunk in a shaker with both pineapple juice and OJ",
-      "Add ice and Tiki punch to the shaker and shake",
-      "Pour into a 12-oz glass and float with grenadine",
+      "Add ice and Tiki punch to the shaker tin and shake",
+      "Pour into correct glassware and Float Grenadine",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": []
@@ -49312,10 +49308,12 @@
     "steps": [
       "Instructions:",
       "Start with an orange wedge chunk in a shaker with both pineapple juice and OJ",
-      "Add ice and Tiki punch to the shaker and shake",
-      "Pour into a 12-oz glass and float with grenadine",
+      "Add ice and Tiki punch to the shaker tin and shake",
+      "Pour into correct glassware and Float Grenadine",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": []
@@ -53157,14 +53155,14 @@
         "unit": "oz"
       },
       {
-        "name": "Soda Starry BIB",
+        "name": "Starry Soda BIB",
         "qty": "",
         "unit": "Splash"
       },
       {
-        "name": "Cruzan 137 proof",
+        "name": "Cruzan 137 Proof",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz Float "
       },
       {
         "name": "Lime Wedge",
@@ -53173,12 +53171,16 @@
       }
     ],
     "steps": [
-      "Choice of Flavoring: Strawberry, Mango, or Peach",
+      "**Choice of Flavoring: Strawberry, Mango, or Peach**",
       "In a blender container, add 12-oz cup of ice",
       "Add Cruzan Rum, requested mix, and splash of Starry Soda",
       "Blend to proper consistency.",
-      "Pour from the blender into 14-oz glass",
-      "Top Cruzan 137 Float"
+      "Pour from the blender into the correct glassware.",
+      "Top Cruzan 137 Float",
+      "Garnish:",
+      "Lime Wedge ",
+      "Glassware:",
+      "14oz Glass or Log Go cup"
     ],
     "notes": "",
     "images": []
@@ -53275,7 +53277,7 @@
   {
     "id": "drm-si-49",
     "masterId": "drm-island-tiki-punch-na-m",
-    "name": "NA Tiki Rum Punch SI",
+    "name": "Island(Tiki) Punch NA",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -53284,14 +53286,14 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Orange wedge",
-        "qty": "1",
-        "unit": "Each/Garnish"
+        "name": "Ripe Tiki Punch",
+        "qty": "4",
+        "unit": "Vol oz"
       },
       {
-        "name": "Pineapple chunk",
+        "name": "Orange wedge",
         "qty": "1",
-        "unit": "Oz"
+        "unit": "Ea./ Garnish"
       },
       {
         "name": "Natalies OJ",
@@ -53304,14 +53306,9 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Ripe Tiki Punch",
-        "qty": "4",
-        "unit": "Vol oz"
-      },
-      {
         "name": "Grenadine",
-        "qty": ".5",
-        "unit": "Vol oz"
+        "qty": ".5oz",
+        "unit": "Float"
       },
       {
         "name": "Cherry",
@@ -53321,11 +53318,13 @@
     ],
     "steps": [
       "Instructions:",
-      "Start with an orange wedge and pineapple chunks in a shaker with both pineapple juice and OJ",
-      "Add ice and Tiki punch to the shaker and shake",
-      "Pour into a 12-oz glass and float with grenadine",
+      "Start with an orange wedge chunk in a shaker with both pineapple juice and OJ",
+      "Add ice and Tiki punch to the shaker tin and shake",
+      "Pour into correct glassware and Float Grenadine",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": []
