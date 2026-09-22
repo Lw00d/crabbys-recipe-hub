@@ -93680,7 +93680,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Skinny Rec",
     "ingredients": [
       {
         "name": "Calamari Portion (9oz)",
@@ -93742,11 +93742,12 @@
       "Pickled Carrots and Cucumber — garnish.",
       "Pickled Red Onions — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime wedge — garnish.",
-      "Pickled vegetables — garnish."
+      "Lime wedge — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud26nwvcqajo1.jpg"
+    ],
     "active": true,
     "id": "dm-mv-37",
     "masterId": "dm-mv-37-m",
@@ -94709,7 +94710,7 @@
         "qty2": ""
       },
       {
-        "name": "Pickled Red onion",
+        "name": "Pickled Red onions",
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
@@ -94725,19 +94726,30 @@
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "Pickle"
       }
     ],
     "steps": [
-      "Add butter to flat top and cook crab cake and brioche bun.",
+      "Add Clarified butter to flat top then crab cake. Sear for 2 minutes on both sides. Continue cooking until reach over 145 degrees",
+      "Toast Bun on flat top with clarified butter. ",
       "Plate crab cake on bun and sell to expo.",
-      "Garnish crab cake with pickled red onions and baby arugula. Remoulade on side.",
       "Expo:",
-      "Pickled Red onion — on expo.",
-      "Baby Arugula — on expo.",
-      "Remoulade Sauce — ramekin on expo."
+      "Pickled Red onion - Garnish",
+      "Baby Arugula - Garnish",
+      "Remoulade Sauce - Ramekin on side",
+      "Pickle - Garnish",
+      "Sides:",
+      "Comes with 1 regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud2cynrhtgv3k.jpg"
+    ],
     "active": true,
     "id": "dm-mv-50",
     "masterId": "dm-mv-50-m",
@@ -95430,7 +95442,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Soup Bowl / Soup Spoon",
     "ingredients": [
       {
         "name": "Chowder Base",
@@ -95474,10 +95486,15 @@
       "Heat up sauce pan, add a little oil with the clams and shrimp. Cook until starts to dry.",
       "Deglaze with chicken stock, cover until clams open.",
       "Pull out shrimp early  to not overcook.",
-      "Plate Soup in bowl, add clams and shrimp, garnish with chopped parsley."
+      "Plate Soup in bowl, add clams and shrimp.",
+      "Expo:",
+      "Parsley - Garnish",
+      "Saltine Crackers - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud27owurc25uu.jpg"
+    ],
     "active": true,
     "id": "dm-mv-66",
     "masterId": "dm-mv-66-m",
@@ -97075,7 +97092,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "Pasta",
+    "name": "Fettuccine",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "40 portions",
@@ -98871,7 +98888,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-mv-47",
     "masterId": "dp-mv-47-m",
     "location": "Mar Vista"
