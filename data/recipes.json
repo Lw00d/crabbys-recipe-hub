@@ -45708,7 +45708,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Tequila(Well)",
+        "name": "Tequila (Well)",
         "qty": "1",
         "unit": "Vol oz"
       },
@@ -45718,7 +45718,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Mix Mango",
+        "name": "Mango Mix  ",
         "qty": "1",
         "unit": "Vol oz"
       },
@@ -45741,8 +45741,9 @@
     "steps": [
       "Fill a 14oz cup with ice",
       "Pour all ingredients into a shaker",
-      "Shake ice and ingredients together",
+      "Shake pour back into glass",
       "Garnish:",
+      "Lime wedge",
       "Glassware:",
       "14 oz glass or logo cup"
     ],
