@@ -80254,7 +80254,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-10",
     "masterId": "dm-mv-10-m",
     "location": "Mar Vista"
@@ -80304,7 +80304,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-sb-10",
     "masterId": "dm-mv-10-m",
     "location": "Sandbar"
@@ -80354,7 +80354,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-bh-10",
     "masterId": "dm-mv-10-m",
     "location": "Beach House"
