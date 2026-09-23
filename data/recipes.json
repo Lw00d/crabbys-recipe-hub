@@ -84603,12 +84603,17 @@
       "Melt American cheese on patty",
       "Toast bun on flat top with clarified butter",
       "Sell burger to expo",
-      "Expo Garnish with pickle",
+      "Expo:",
+      "Pickle - Garnish",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehilizf83gca.jpg"
+    ],
     "active": true,
     "id": "dm-mv-30",
     "masterId": "dm-mv-30-m",
@@ -84653,12 +84658,17 @@
       "Melt American cheese on patty",
       "Toast bun on flat top with clarified butter",
       "Sell burger to expo",
-      "Expo Garnish with pickle",
+      "Expo:",
+      "Pickle - Garnish",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehilizf83gca.jpg"
+    ],
     "active": true,
     "id": "dm-sb-30",
     "masterId": "dm-mv-30-m",
@@ -84703,12 +84713,17 @@
       "Melt American cheese on patty",
       "Toast bun on flat top with clarified butter",
       "Sell burger to expo",
-      "Expo Garnish with pickle",
+      "Expo:",
+      "Pickle - Garnish",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehilizf83gca.jpg"
+    ],
     "active": true,
     "id": "dm-bh-30",
     "masterId": "dm-mv-30-m",
@@ -84742,15 +84757,18 @@
       }
     ],
     "steps": [
-      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
-      "Fry chicken to 165 degrees, don't burn the chicken",
-      "Drain chicken tenders in saveaday",
+      "Fry Chicken tenders using fried chicken procedure. ",
+      "Fried chicken procedure",
       "Sell fingers to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehk3dx0kmsue.jpg"
+    ],
     "active": true,
     "id": "dm-mv-31",
     "masterId": "dm-mv-31-m",
@@ -84784,15 +84802,18 @@
       }
     ],
     "steps": [
-      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
-      "Fry chicken to 165 degrees, don't burn the chicken",
-      "Drain chicken tenders in saveaday",
+      "Fry Chicken tenders using fried chicken procedure. ",
+      "Fried chicken procedure",
       "Sell fingers to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehk3dx0kmsue.jpg"
+    ],
     "active": true,
     "id": "dm-sb-31",
     "masterId": "dm-mv-31-m",
@@ -84826,15 +84847,18 @@
       }
     ],
     "steps": [
-      "Take out chicken tenders and place in buttermilk, then breader, then sift flour",
-      "Fry chicken to 165 degrees, don't burn the chicken",
-      "Drain chicken tenders in saveaday",
+      "Fry Chicken tenders using fried chicken procedure. ",
+      "Fried chicken procedure",
       "Sell fingers to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehk3dx0kmsue.jpg"
+    ],
     "active": true,
     "id": "dm-bh-31",
     "masterId": "dm-mv-31-m",
@@ -84849,7 +84873,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Portioned Fish (currently snapper or mahi)",
+        "name": "Portioned Fish (currently mahi)",
         "qty": "4",
         "unit": "oz-wt",
         "qty2": ""
@@ -84874,16 +84898,20 @@
       }
     ],
     "steps": [
-      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
-      "Fry fish, drain oil in save-a-day",
+      "Fry fish fingers using fried seafood procedure.",
+      "Fried seafood procedure",
       "Sell fingers to expo",
-      "Served with either side fries / side broccolini / apple sauce cup",
-      "Ice Cream scoop added for $4",
       "Expo:",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
+      "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehlhmre2fufs.jpg"
+    ],
     "active": true,
     "id": "dm-mv-32",
     "masterId": "dm-mv-32-m",
@@ -84898,7 +84926,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Portioned Fish (currently snapper or mahi)",
+        "name": "Portioned Fish (currently mahi)",
         "qty": "4",
         "unit": "oz-wt",
         "qty2": ""
@@ -84923,16 +84951,20 @@
       }
     ],
     "steps": [
-      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
-      "Fry fish, drain oil in save-a-day",
+      "Fry fish fingers using fried seafood procedure.",
+      "Fried seafood procedure",
       "Sell fingers to expo",
-      "Served with either side fries / side broccolini / apple sauce cup",
-      "Ice Cream scoop added for $4",
       "Expo:",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
+      "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehlhmre2fufs.jpg"
+    ],
     "active": true,
     "id": "dm-sb-32",
     "masterId": "dm-mv-32-m",
@@ -84947,7 +84979,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Portioned Fish (currently snapper or mahi)",
+        "name": "Portioned Fish (currently mahi)",
         "qty": "4",
         "unit": "oz-wt",
         "qty2": ""
@@ -84972,16 +85004,20 @@
       }
     ],
     "steps": [
-      "Pull out fish and place in pre wash batter, then calamari breader, shake off excess.",
-      "Fry fish, drain oil in save-a-day",
+      "Fry fish fingers using fried seafood procedure.",
+      "Fried seafood procedure",
       "Sell fingers to expo",
-      "Served with either side fries / side broccolini / apple sauce cup",
-      "Ice Cream scoop added for $4",
       "Expo:",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
+      "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehlhmre2fufs.jpg"
+    ],
     "active": true,
     "id": "dm-bh-32",
     "masterId": "dm-mv-32-m",
@@ -85021,16 +85057,20 @@
       }
     ],
     "steps": [
-      "Pull out shrimp and place in pre wash batter, then calamari breader, shake off excess.",
-      "Fry shrimp drain oil in save-a-day",
+      "Fry shrimp using fried seafood procedure",
+      "Fried seafood procedure",
       "Sell shrimp to expo",
-      "Served with either side fries / side broccolini / apple sauce cup",
-      "Ice Cream scoop added for $4",
       "Expo:",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
+      "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehngziufqkev.jpg"
+    ],
     "active": true,
     "id": "dm-mv-33",
     "masterId": "dm-mv-33-m",
@@ -85165,12 +85205,17 @@
       "Drop portioned pasta in pasta water to heat up.",
       "Melt butter in sauté pan.",
       "Add pasta and toss, season with a little salt",
-      "Sell pasta to exp",
+      "Garnish with shaved parmesan on top.",
+      "Sell pasta to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehoyat0rpd4s.jpg"
+    ],
     "active": true,
     "id": "dm-mv-34",
     "masterId": "dm-mv-34-m",
@@ -85207,12 +85252,17 @@
       "Drop portioned pasta in pasta water to heat up.",
       "Melt butter in sauté pan.",
       "Add pasta and toss, season with a little salt",
-      "Sell pasta to exp",
+      "Garnish with shaved parmesan on top.",
+      "Sell pasta to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehoyat0rpd4s.jpg"
+    ],
     "active": true,
     "id": "dm-sb-34",
     "masterId": "dm-mv-34-m",
@@ -85249,12 +85299,17 @@
       "Drop portioned pasta in pasta water to heat up.",
       "Melt butter in sauté pan.",
       "Add pasta and toss, season with a little salt",
-      "Sell pasta to exp",
+      "Garnish with shaved parmesan on top.",
+      "Sell pasta to expo",
+      "Sides:",
       "Served with either side fries / side broccolini / apple sauce cup",
+      "Upgrades:",
       "Ice Cream scoop added for $4"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehoyat0rpd4s.jpg"
+    ],
     "active": true,
     "id": "dm-bh-34",
     "masterId": "dm-mv-34-m",
