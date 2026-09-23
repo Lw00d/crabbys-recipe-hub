@@ -150,6 +150,11 @@
   .steps-list { display: flex; flex-direction: column; gap: 5px; }
   .step-item { display: flex; gap: 10px; font-size: 13px; line-height: 1.5; }
   .step-num { flex-shrink: 0; width: 22px; height: 22px; border-radius: 50%; background: var(--loc-color, #1A6B8A); color: white; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+  .proc-link { display: flex; align-items: center; gap: 6px; cursor: pointer; color: var(--teal);
+    font-weight: 600; font-size: 13px; padding: 6px 10px; margin: 2px 0 6px;
+    border: 1px solid var(--border); border-left: 3px solid var(--teal); border-radius: 6px;
+    background: var(--bg-soft, #f7f7f5); }
+  .proc-link:hover { background: #eef6f5; }
   .step-section-label { font-weight: 700; color: var(--text-light); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 0; border-bottom: 1px solid var(--border); margin: 4px 0 2px; }
   .step-item.highlight .step-text { background: #FFFDE7; padding: 2px 6px; border-radius: 4px; border-left: 3px solid #FFC107; }
   .meta-pills { display: flex; gap: 10px; flex-wrap: wrap; font-size: 12px; color: var(--text-light); }
@@ -702,7 +707,7 @@ async function loadRecipes(url, useCache=true){
     RECIPES = data;
     loadedSnapshot = canon(data);
     rebaseline(data);
-    buildCategories(); buildSubmenus(); buildPrepIndex();
+    buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
     try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
     setStatus('online', `Updated ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
     render();
@@ -717,7 +722,7 @@ async function loadRecipes(url, useCache=true){
       try{
         RECIPES = JSON.parse(cached);
         rebaseline(RECIPES);
-        buildCategories(); buildSubmenus(); buildPrepIndex();
+        buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
         const ts = localStorage.getItem(CACHE_TS_KEY);
         setStatus('offline', `Offline — cached ${ts?new Date(ts).toLocaleDateString():'data'}`);
         render(); return;
@@ -777,7 +782,7 @@ async function checkForStaleData(){
     RECIPES = authoritativeData;
     loadedSnapshot = authoritativeSnapshot;
     rebaseline(authoritativeData);
-    buildCategories(); buildSubmenus(); buildPrepIndex();
+    buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
     render();
     toast(
       summary
@@ -816,6 +821,43 @@ function prepLinkFor(recipe, ingName){
   const id = PREP_INDEX.get(prepKey(recipe.location, ingName));
   return (id && id !== recipe.id) ? id : null;   // never link a recipe to itself
 }
+// ─── PROCEDURE LINKS IN STEPS ───────────────────────────────────────────────
+// BSHGRP1 pastes the grilling SOP into every recipe verbatim, which is why its
+// linked groups drift. BSHGRP2 keeps one copy per book and links to it: a step
+// whose whole text is the name of a Procedures recipe in the same book renders
+// as a tappable line that opens that procedure over the top of the recipe, so
+// the cook does not lose their place mid-service.
+//
+//     Blackening:                 <- already a header, via isSection()
+//     Season heavily, sear 2 min  <- the inline cue, left as plain text
+//     Blackening Procedure        <- this, linked
+//
+// Separate from PREP_INDEX on purpose. Procedures are NOT in PREP_CATEGORIES,
+// so an ingredient called "Blackening" cannot accidentally resolve to one, and
+// a procedure cannot appear on a prep sheet.
+const PROC_CATEGORY = 'Procedures';
+let PROC_INDEX = new Map();
+function buildProcIndex(){
+  PROC_INDEX = new Map();
+  RECIPES.forEach(r=>{
+    if(r.category !== PROC_CATEGORY || r.active === false) return;
+    const k = prepKey(r.location, r.name);
+    if(!PROC_INDEX.has(k)) PROC_INDEX.set(k, r.id);
+  });
+}
+// Matches only when the step is ENTIRELY the procedure's name. A step that
+// merely mentions blackening keeps its own wording and stays plain text.
+function procLinkFor(recipe, stepText){
+  if(!recipe || typeof stepText !== 'string') return null;
+  const id = PROC_INDEX.get(prepKey(recipe.location, stepText.trim().replace(/[.:]$/,'')));
+  return (id && id !== recipe.id) ? id : null;
+}
+function procCell(recipe, text){
+  const id = procLinkFor(recipe, text);
+  if(!id) return null;
+  return `<div class="proc-link" onclick="openPrepLayer('${esc(String(id))}')" title="Open the full procedure">${esc(text)}<span class="ing-arrow">\u2197</span></div>`;
+}
+
 // Renders an ingredient name, as a link when a matching prep recipe exists.
 function ingCell(recipe, name){
   const id = prepLinkFor(recipe, name);
@@ -1044,7 +1086,7 @@ async function refreshData(){
       RECIPES = data;
       loadedSnapshot = canon(data);
       rebaseline(data);
-      buildCategories(); buildSubmenus(); buildPrepIndex();
+      buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
       try{ localStorage.setItem(CACHE_KEY, JSON.stringify(data)); localStorage.setItem(CACHE_TS_KEY, new Date().toISOString()); }catch(e){}
       if (stillConfirmingSave) {
         setStatus('loading','Still confirming your save — try refresh again in a few seconds');
@@ -1179,7 +1221,7 @@ async function refreshAfterSave(changed, deleted){
   RECIPES = data;
   loadedSnapshot = canon(data);
   rebaseline(data);
-  buildCategories(); buildSubmenus(); buildPrepIndex();
+  buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
   render();
   if (others) toast(`Also picked up other changes \u2014 ${others.replace('Since you loaded this page: ','').replace(/\.$/,'')}`);
 }
@@ -1392,6 +1434,8 @@ function renderModalView(){
     let n2=0;
     const items=recipe.steps.map(s=>{
       if(isSection(s)) return `<div class="step-section-label">${s.slice(0,-1)}</div>`;
+      const pl = procCell(recipe, s);
+      if(pl) return pl;                       // a step that IS a procedure name
       if(isHighlight(s)) return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`;
       n2++; return `<div class="step-item"><div class="step-num">${n2}</div><div class="step-text">${hl(s)}</div></div>`;
     }).join('');
@@ -1523,6 +1567,8 @@ function openPrepLayer(id){
     let n=0;
     const items=r.steps.map(x=>{
       if(isSection(x)) return `<div class="step-section-label">${esc(x.slice(0,-1))}</div>`;
+      const pl2 = procCell(r, x);
+      if(pl2) return pl2;
       if(isHighlight(x)) return `<div class="step-item highlight"><div class="step-text">${esc(x)}</div></div>`;
       n++; return `<div class="step-item"><div class="step-num">${n}</div><div class="step-text">${esc(x)}</div></div>`;
     }).join('');
