@@ -98886,7 +98886,7 @@
     "name": "mango lime butter",
     "category": "Dinner Prep",
     "submenu": "Hot Prep",
-    "yield": "",
+    "yield": "2 quart",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
@@ -98899,13 +98899,18 @@
         "qty2": ""
       },
       {
-        "name": "Butter",
+        "name": "Butter - room temperature",
         "qty": "2",
         "unit": "Lbs",
         "qty2": ""
       }
     ],
-    "steps": [],
+    "steps": [
+      "Slowly heat up mango lime base.",
+      "Once hot, remove from heat and fold in butter",
+      "Adjust seasoning if needed",
+      "Store in 1/6 pan in steam well."
+    ],
     "notes": "",
     "images": [],
     "active": true,
@@ -98914,29 +98919,66 @@
     "location": "Mar Vista"
   },
   {
-    "name": "mango lime butter",
+    "name": "mango lime Base",
     "category": "Dinner Prep",
     "submenu": "Hot Prep",
-    "yield": "",
+    "yield": "8.25 quarts",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mango Lime Base",
-        "qty": "4",
-        "unit": "Cup",
+        "name": "Mango IQF - thawed out",
+        "qty": "10",
+        "unit": "lbs",
         "qty2": ""
       },
       {
-        "name": "Butter",
-        "qty": "2",
-        "unit": "Lbs",
+        "name": "White Wine",
+        "qty": "8",
+        "unit": "cups",
         "qty2": ""
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "Each",
+        "name": "Lime - Zest and Juice"
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "Cups",
+        "name": "Lime Juice"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "Kosher Salt"
+      },
+      {
+        "qty": "2 ",
+        "qty2": "",
+        "unit": "Each",
+        "name": "Mango Nector"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Honey"
       }
     ],
-    "steps": [],
+    "steps": [
+      "Add mango and white wine to a pot and reduce by half.",
+      "Add remaining ingredients and bring to a simmer for 10 minutes.",
+      "Blend well and strain sauce.",
+      "Adjust seasoning if needed.",
+      "Cool completely ",
+      "Wrap / Label / Date"
+    ],
     "notes": "",
     "images": [],
     "active": true,
