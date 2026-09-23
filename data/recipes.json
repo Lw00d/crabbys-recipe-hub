@@ -95235,15 +95235,33 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "PREP MV Blanched Asparagus",
+        "name": "Blanched Asparagus",
         "qty": "4.0",
         "unit": "OZ-wt",
         "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "needed",
+        "name": "Blended oil"
+      },
+      {
+        "qty": "to",
+        "qty2": "",
+        "unit": "taste",
+        "name": "Salt and Pepper"
       }
     ],
-    "steps": [],
+    "steps": [
+      "Season asparagus and place on grill. ",
+      "Cook for 2-3 minutes. A little color is good, not too dark.",
+      "Plate in rarebit"
+    ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehupmp6ia4j5.jpg"
+    ],
     "active": true,
     "id": "dm-mv-53",
     "masterId": "dm-mv-53-m",
@@ -95278,7 +95296,9 @@
       "Toss in a separate bowl with BBQ spice."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehv1eroihivu.jpg"
+    ],
     "active": true,
     "id": "dm-mv-54",
     "masterId": "dm-mv-54-m",
@@ -97166,7 +97186,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "BBQ Spice rub for Fries",
+    "name": "BBQ Fry Spice",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "2.75 cup",
