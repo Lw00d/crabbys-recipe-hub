@@ -93928,7 +93928,7 @@
         "qty2": ""
       },
       {
-        "name": "BB Sauce (boom boom)",
+        "name": "BB Sauce",
         "qty": "1.5",
         "unit": "fl-oz",
         "qty2": ""
@@ -93940,13 +93940,13 @@
         "qty2": ""
       },
       {
-        "name": "Coleslaw Mix",
+        "name": "Slaw mix",
         "qty": "3.5",
         "unit": "oz-wt",
         "qty2": ""
       },
       {
-        "name": "BB Sauce (boom boom)",
+        "name": "BB Sauce",
         "qty": "1.5",
         "unit": "fl-oz",
         "qty2": ""
@@ -93959,17 +93959,19 @@
       }
     ],
     "steps": [
-      "Toss the shrimp in the BB Sauce (boom boom).",
-      "Use the BB Sauce (boom boom) to make the coleslaw.",
       "Follow breading procedure using pre-wash and calamari breader",
       "Cook Shrimp and toss in bb sauce.",
+      "Toss the shrimp in the BB Sauce (boom boom).",
       "Mix coleslaw mix with remaining bb sauce to make slaw",
-      "Plate slaw down first with shrimp on top, Garnish with micro cilantro and sesame seeds",
+      "Plate slaw down first with shrimp on top.",
       "Expo:",
-      "Micro Cilantro — garnish."
+      "Micro Cilantro — garnish.",
+      "Sesame Seeds - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muee7t5ytnkzw6.jpg"
+    ],
     "active": true,
     "id": "dm-mv-39",
     "masterId": "dm-mv-39-m",
@@ -94007,10 +94009,13 @@
     "steps": [
       "fry tater tots and drain in save a day",
       "Add sauce to plate with ladel, spreading out in a circle with bottom of the ladel.",
-      "Plate tater tots, garnish with chopped scallions in center of sauce on plate."
+      "Plate tater tots in circle around the edge of the plate",
+      "Scallions - Garnish in center of plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muee85iq2ztxlo.jpg"
+    ],
     "active": true,
     "id": "dm-mv-40",
     "masterId": "dm-mv-40-m",
