@@ -95500,11 +95500,12 @@
     "steps": [
       "Heat bread pudding in microwave.",
       "Plate bread pudding, add scoop of vanilla ice cream on top",
-      "Expo:",
       "Caramel Sauce — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueft5mrquv23s.jpg"
+    ],
     "active": true,
     "id": "dm-mv-62",
     "masterId": "dm-mv-62-m",
@@ -95551,7 +95552,7 @@
         "qty2": ""
       },
       {
-        "name": "MV Bread Crumbs",
+        "name": "Seasoned Breadcrumbs",
         "qty": "1",
         "unit": "tablespoon",
         "qty2": ""
@@ -95567,13 +95568,15 @@
       "Mix the Balsamic Vinegar and Olive oil 3 parts balsamic to 1 part oil in a squeeze bottle.",
       "Mix arugula, with tomato, basil, balsamic and oil.",
       "Plate salad in bowl with burrata cheese on top.",
-      "Sell to expo, garnish with bread crumbs and balsamic reduction.",
+      "Sell to expo",
       "Expo:",
-      "MV Bread Crumbs — garnish.",
+      "Seasoned Breadcrumbs — garnish.",
       "Balsamic Reduction — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefm20d9ed7bh.jpg"
+    ],
     "active": true,
     "id": "dm-mv-63",
     "masterId": "dm-mv-63-m",
@@ -95674,7 +95677,6 @@
     ],
     "steps": [
       "Plate chocolate cake on dessert plate.",
-      "Expo:",
       "Whipped Cream — garnish.",
       "Chocolate sauce — garnish."
     ],
@@ -95792,7 +95794,7 @@
         "qty2": ""
       },
       {
-        "name": "Sweet Onion Vinaigrette",
+        "name": "Sweet Onion Ving",
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
@@ -95809,7 +95811,9 @@
       "Garnish with shaved radish, shaved carrot, tomato and cucumber on top."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefnjhg9klyfm.jpg"
+    ],
     "active": true,
     "id": "dm-mv-67",
     "masterId": "dm-mv-67-m",
@@ -95914,13 +95918,14 @@
     ],
     "steps": [
       "Plate key lime pie on dessert plate.",
-      "Expo:",
       "Whipped Cream — garnish on top.",
       "Kiwi Sauce — garnish on top.",
       "Lime, zest — garnish on top."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefphsd3q6qxf.jpg"
+    ],
     "active": true,
     "id": "dm-mv-69",
     "masterId": "dm-mv-69-m",
@@ -95949,7 +95954,7 @@
         "qty2": ""
       },
       {
-        "name": "Tropical fruit salad",
+        "name": "Tropical salad for brulee",
         "qty": "2",
         "unit": "oz-wt",
         "qty2": ""
@@ -95964,12 +95969,13 @@
     "steps": [
       "Lightly coat top of brulee with sugar, burn with torch to caramelize sugar, set aside.",
       "When sugar cools and hardents, garnish with fruit salad and fresh mint or flowers.",
-      "Expo:",
       "Tropical fruit salad — garnish on top.",
       "Mint leaf — garnish on top."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefpujldgmtdd.jpg"
+    ],
     "active": true,
     "id": "dm-mv-70",
     "masterId": "dm-mv-70-m",
@@ -96009,7 +96015,9 @@
       "Garnish with raspberry sauce and whipped cream."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefr3d4abug0b.jpg"
+    ],
     "active": true,
     "id": "dm-mv-71",
     "masterId": "dm-mv-71-m",
@@ -96049,7 +96057,9 @@
       "Garnish with whipped cream and chocolate sauce."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefs33z6xasmc.jpg"
+    ],
     "active": true,
     "id": "dm-mv-72",
     "masterId": "dm-mv-72-m",
@@ -96066,7 +96076,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Icebergm, shredded",
+        "name": "Iceberg, shredded",
         "qty": "6",
         "unit": "oz-wt",
         "qty2": ""
@@ -96118,12 +96128,6 @@
         "qty": "0.25",
         "unit": "each",
         "qty2": ""
-      },
-      {
-        "name": "DAIRY Cheese Blue Crumble",
-        "qty": "1",
-        "unit": "OZ-wt",
-        "qty2": ""
       }
     ],
     "steps": [
@@ -96131,7 +96135,9 @@
       "Garnish in rows with remaining ingredients."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefrefh8k4psv.jpg"
+    ],
     "active": true,
     "id": "dm-mv-73",
     "masterId": "dm-mv-73-m",
@@ -96196,7 +96202,9 @@
       "Garnish with cucumber, strawberries, pecans, goat cheese and avocado."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muefsejz859b8v.jpg"
+    ],
     "active": true,
     "id": "dm-mv-74",
     "masterId": "dm-mv-74-m",
