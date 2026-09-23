@@ -42,21 +42,21 @@ let pass=0; const t=async(d,fn)=>{ try{ await fn(); console.log('  ok  '+d); pas
 
 console.log('\nscoping');
 await t('a store login is scoped to its own store', async()=>{
-  await call('/prep/prep-items','beachwalk');
-  assert.ok(seen.url.includes('/api/stores/cbg-beachwalk/prep-items'),seen.url);
+  await call('/prep/embed/mint','beachwalk');
+  assert.ok(seen.url.includes('/api/stores/cbg-beachwalk/embed/mint'),seen.url);
   assert.strictEqual(seen.init.headers['X-BSHG-Store'],'cbg-beachwalk');
 });
 await t('a store login CANNOT override the store via query', async()=>{
-  await call('/prep/prep-items?store=cds-dockside','beachwalk');
+  await call('/prep/embed/mint?store=cds-dockside','beachwalk');
   assert.ok(seen.url.includes('/api/stores/cbg-beachwalk/'),seen.url);
   assert.ok(!seen.url.includes('cds-dockside'),'other store leaked into the url');
 });
 await t('admin must name a store', async()=>{
-  const r=await call('/prep/prep-items','admin');
+  const r=await call('/prep/embed/mint','admin');
   assert.strictEqual(r.status,403);
 });
 await t('admin may name any known store', async()=>{
-  const r=await call('/prep/prep-items?store=si-island','admin');
+  const r=await call('/prep/embed/mint?store=si-island','admin');
   assert.strictEqual(r.status,200);
   assert.ok(seen.url.includes('/api/stores/si-island/'));
 });
@@ -64,20 +64,20 @@ await t('admin cannot name an unknown store', async()=>{
   // mv-dockside and bh-waterfront used to be here as "deferred" stores. They
   // went live on 2026-09-18 and are asserted as WORKING above.
   for(const s of ['csc-orlando','../../evil','all','']){
-    const r=await call('/prep/prep-items?store='+encodeURIComponent(s),'admin');
+    const r=await call('/prep/embed/mint?store='+encodeURIComponent(s),'admin');
     assert.strictEqual(r.status,403,s);
   }
 });
 
 console.log('\nauth');
 await t('no credentials is 401', async()=>{
-  const r=await call('/prep/prep-items',null);
+  const r=await call('/prep/embed/mint',null);
   assert.strictEqual(r.status,401);
 });
 await t('a malformed Authorization header is 401, not a crash', async()=>{
   // The site gate used to decode this with a bare atob() outside a try/catch.
   for(const h of ['Basic !!!not-base64!!!','Basic','Basic '+Buffer.from('nocolon').toString('base64'),'Bearer abc']){
-    const r=await worker.fetch(new Request('https://w.dev/prep/prep-items',{headers:{Authorization:h}}),ENV);
+    const r=await worker.fetch(new Request('https://w.dev/prep/embed/mint',{headers:{Authorization:h}}),ENV);
     assert.strictEqual(r.status,401,h);
   }
 });
@@ -85,54 +85,50 @@ await t('the three BSHGRP2 stores reach the Prep Hub', async()=>{
   // They 403'd as "Unknown or inactive store" until their real codes were
   // added to PREP_STORE_CODES on 2026-09-18.
   for(const [u,code] of [['marvista','mv-dockside'],['sandbar','sb-seafood'],['beachhouse','bh-waterfront']]){
-    const r=await call('/prep/prep-items',u);
+    const r=await call('/prep/embed/mint',u);
     assert.strictEqual(r.status,200,u);
-    assert.ok(seen.url.includes('/api/stores/'+code+'/prep-items'), `${u} -> ${seen.url}`);
+    assert.ok(seen.url.includes('/api/stores/'+code+'/embed/mint'), `${u} -> ${seen.url}`);
     assert.strictEqual(seen.init.headers['X-BSHG-Store'], code);
   }
 });
 await t('the admin may name a BSHGRP2 store, and only a known one', async()=>{
-  const ok=await call('/prep/prep-items?store=sb-seafood','admin');
+  const ok=await call('/prep/embed/mint?store=sb-seafood','admin');
   assert.strictEqual(ok.status,200);
   assert.ok(seen.url.includes('/api/stores/sb-seafood/'));
   for(const bad of ['sb-sandbar','mv-marvista','bh-beachhouse']){   // the wrong guesses
-    const r=await call('/prep/prep-items?store='+bad,'admin');
+    const r=await call('/prep/embed/mint?store='+bad,'admin');
     assert.strictEqual(r.status,403,bad);
   }
 });
 await t('a wrong password is 401', async()=>{
-  const r=await worker.fetch(new Request('https://w.dev/prep/prep-items',
+  const r=await worker.fetch(new Request('https://w.dev/prep/embed/mint',
     {headers:{Authorization:'Basic '+Buffer.from('beachwalk:wrong').toString('base64')}}),ENV);
   assert.strictEqual(r.status,401);
 });
 await t('the service key is sent but never returned to the browser', async()=>{
-  const r=await call('/prep/prep-items','beachwalk');
+  const r=await call('/prep/embed/mint','beachwalk');
   assert.strictEqual(seen.init.headers['X-BSHG-Key'],'SEKRIT');
   assert.ok(!(await r.text()).includes('SEKRIT'));
 });
 await t('a missing key config fails closed', async()=>{
-  const r=await call('/prep/prep-items','beachwalk',{env:{...ENV,PREP_HUB_KEY:undefined}});
+  const r=await call('/prep/embed/mint','beachwalk',{env:{...ENV,PREP_HUB_KEY:undefined}});
   assert.strictEqual(r.status,503);
 });
 await t('every login is sent as manager', async()=>{
-  await call('/prep/prep-items','northbeach');
+  await call('/prep/embed/mint','northbeach');
   assert.strictEqual(seen.init.headers['X-BSHG-Role'],'manager');
 });
 
 console.log('\npath allowlist');
 await t('the documented endpoints are allowed', async()=>{
   // Every shape index.html actually calls, and the two the yield UI will.
-  for(const p of ['prep-items','prep-items/abc-123/count','prep-items/abc-123/count/complete',
-                  'prep-days/2026-09-16/status','prep-days/2026-09-16/start',
-                  'prep-days/2026-09-16/finish','prep-days/2026-09-16/reopen',
-                  'yield-items','yield-items/abc-123/tests']){
+  for(const p of ['embed/mint']){
     const r=await call('/prep/'+p,'beachwalk');
     assert.strictEqual(r.status,200,p);
   }
 });
 await t('anything else is 404, not proxied', async()=>{
-  for(const p of ['','admin','prep-days/notadate/status','prep-items/extra',
-                  'prep-days/2026-09-16/delete','yield-items/x/tests/y']){
+  for(const p of ['','admin','embed','embed/mint/extra','embed/other']){
     const r=await call('/prep/'+p,'beachwalk');
     assert.strictEqual(r.status,404,p||'(empty)');
   }
@@ -154,13 +150,12 @@ await t('the shared secret never reaches the browser', async()=>{
   assert.ok(!(await r.text()).includes('SEKRIT'));
   assert.strictEqual(seen.init.headers['X-BSHG-Key'],'SEKRIT');
 });
-await t('the abandoned guesses at the counting route are gone', async()=>{
-  // These were allowed while the real counting endpoint was unknown. It turned
-  // out to hang off the item, not the day, so they never carried traffic —
-  // they only widened the allowlist. index.html calls none of them.
-  for(const p of ['prep-days/2026-09-16/count','prep-days/2026-09-16/count/complete',
-                  'prep-days/2026-09-16/count/abc-123','prep-days/2026-09-16/counts',
-                  'prep-days/2026-09-16/prepped/abc-123','prep-days/2026-09-16/on-hand/abc-123']){
+await t('the routes the old Prep Sheet used are gone', async()=>{
+  // Recipe Hub rendered the sheet itself until 2026-09-23 and called these
+  // directly. It hands off to the Prep Hub now, so nothing here should still
+  // be reachable through the proxy.
+  for(const p of ['prep-items','prep-items/abc-123/count','prep-days/2026-09-16/status',
+                  'prep-days/2026-09-16/start','yield-items','yield-items/abc-123/tests']){
     const r=await call('/prep/'+p,'beachwalk');
     assert.strictEqual(r.status,404,p);
   }
@@ -168,7 +163,7 @@ await t('the abandoned guesses at the counting route are gone', async()=>{
 await t('traversal is normalised away before it reaches the proxy', async()=>{
   // new URL() collapses "..", so /prep/../../secrets becomes /secrets and never
   // enters the proxy branch at all. Assert nothing was forwarded.
-  for(const p of ['/prep/../../secrets','/prep/prep-items/../../x']){
+  for(const p of ['/prep/../../secrets','/prep/embed/../../x']){
     seen = null;
     await call(p,'beachwalk').catch(()=>{});
     // The page route may fetch the origin; what must never happen is a call to
@@ -184,20 +179,20 @@ console.log('\npassthrough');
 await t('a 409 phase gate reaches the page intact', async()=>{
   globalThis.fetch=async()=>({ok:false,status:409,
     text:async()=>JSON.stringify({error:'Start this day before entering counts.'})});
-  const r=await call('/prep/prep-items/abc-123/count','beachwalk',{method:'PUT',body:'{}'});
+  const r=await call('/prep/embed/mint','beachwalk',{method:'POST',body:'{}'});
   assert.strictEqual(r.status,409);
   assert.ok((await r.json()).error.includes('Start this day'));
   globalThis.fetch=async(u,init)=>{ seen={url:String(u),init};
     return {ok:true,status:200,text:async()=>JSON.stringify({ok:true})}; };
 });
-await t('a PUT body is forwarded unchanged', async()=>{
-  await call('/prep/prep-days/2026-09-16/start','beachwalk',{method:'PUT',body:'{"started_by":"Tim"}'});
-  assert.strictEqual(seen.init.body,'{"started_by":"Tim"}');
-  assert.strictEqual(seen.init.method,'PUT');
+await t('the POST body is forwarded unchanged', async()=>{
+  await call('/prep/embed/mint','beachwalk',{method:'POST',body:'{"actor_name":"Tim"}'});
+  assert.strictEqual(seen.init.body,'{"actor_name":"Tim"}');
+  assert.strictEqual(seen.init.method,'POST');
 });
 await t('an unreachable Prep Hub is 502, not a crash', async()=>{
   globalThis.fetch=async()=>{ throw new Error('boom'); };
-  const r=await call('/prep/prep-items','beachwalk');
+  const r=await call('/prep/embed/mint','beachwalk');
   assert.strictEqual(r.status,502);
 });
 console.log(`\n${pass} passed${process.exitCode?' — WITH FAILURES':', 0 failed'}\n`);

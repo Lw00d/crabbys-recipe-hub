@@ -10,7 +10,6 @@ From the repo root:
 ```
 npm install jsdom          # the only dependency
 node tests/run-all.mjs     # everything
-node tests/counting.test.js   # or one suite
 ```
 
 Requires Node 18+. The suites read `index.html` and `worker.js` from the repo
@@ -27,10 +26,6 @@ rather than a copy that can drift.
 | `store_split.test.mjs` | Nine stores mapping onto five recipe books, header badge, apostrophe escaping |
 | `propagation.test.js` | Linked-recipe propagation, cross-listed submenus, array-sharing |
 | `deeplink.test.js` | `?recipe=` and `?master=` links and their book scoping |
-| `prep_links.test.js` | Ingredient → prep recipe links and the second-layer modal |
-| `prepsheet_live.test.js` | The Prep Sheet reading live from the Prep Hub |
-| `prepday.test.js` | Day phase model, start/finish/reopen, actor names |
-| `counting.test.js` | On-hand counts, prepped amounts, par basis, error handling |
 
 ## What these exist for
 
@@ -63,3 +58,19 @@ returned a 500.
 
 When writing a fake, mirror the real service's *limits and failure modes*, not
 its happy path.
+
+`preplaunch.test.js` — launching the Prep Sheet. Recipe Hub mints a one-time
+link through the Worker and navigates to the Prep Hub's own page. Asserts the
+store comes from the login, that it is a top-level navigation and never an
+iframe, that the mint happens at the click rather than in advance, and that a
+failure says so instead of navigating nowhere.
+
+`urlfilters.test.js` — `applyFiltersFromUrl()` as a security boundary: a store
+login cannot widen its own scope with `loc=` or `group=`.
+
+`portions.test.js` — the `portions` and `portionSize` fields, including that a
+recipe without them renders nothing rather than `undefined`.
+
+Removed 2026-09-23 with the Prep Sheet handoff: `counting`, `prepday`,
+`prepsheet_live` and `prep_links`. Recipe Hub no longer renders the sheet, so
+there is nothing left for them to test.

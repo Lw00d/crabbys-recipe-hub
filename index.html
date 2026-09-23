@@ -1418,10 +1418,16 @@ function renderModalView(){
 //
 // One call returns both the item definitions and today's day state, so the
 // sheet shows pars and what has already been counted without a second request.
-const PREP_LINKS_URL = 'https://api.github.com/repos/Lw00d/crabbys-recipe-hub/contents/data/prep-links.json';
-let PREP_LINKS = null;      // prepHubId -> Recipe Hub recipe id
-let PREP_ITEMS = null;
-let PREP_DAY = null;
+// ─── PREP SHEET ─────────────────────────────────────────────────────────────
+// Recipe Hub does not render the Prep Sheet. It mints a one-time link and
+// hands the user to the Prep Hub's own page. See launchPrepSheet below.
+//
+// Removed 2026-09-23: loadPrepSheet, renderPrepSheet, the counting and
+// prep-day actions, and the PREP_LINKS lookup that turned an item name into a
+// Recipe Hub link. All of it lives on the Prep Hub now, along with Pull Thaw
+// and yield tests we never built. data/prep-links.json stays in git as the
+// record of what was mapped and why, though nothing reads it any more — the
+// Prep Hub holds those URLs in its own recipe_hub_url field.
 let PREP_ACTOR = null;
 let sheetStore = null;
 
@@ -1430,134 +1436,6 @@ let sheetStore = null;
 // esc() assumes a string and throws on a number. The Prep Hub returns parLevel,
 // shelfLifeDays and onHandQty as numbers, so anything from the API goes through
 // here first. Null and undefined become an em dash, but 0 is a real count.
-function pnum(v){ return (v === null || v === undefined || v === '') ? '\u2014' : esc(String(v)); }
-function ptxt(v){ return (v === null || v === undefined) ? '' : esc(String(v)); }
-
-function prepQS(extra){
-  const p = [];
-  if(!ASSIGNED_STORE_CODE) p.push('store=' + encodeURIComponent(sheetStore));
-  if(extra) p.push(extra);
-  return p.length ? ('?' + p.join('&')) : '';
-}
-async function fetchPrepDay(date){
-  try{
-    const r = await fetch('/prep/prep-days/' + date + '/status' + prepQS(), { cache:'no-store' });
-    return r.ok ? await r.json() : null;
-  }catch(e){ return null; }
-}
-// not_started -> counting -> prepping -> finished
-function prepPhase(){
-  if(!PREP_DAY) return 'not_started';
-  if(PREP_DAY.status === 'finished') return 'finished';
-  if(PREP_DAY.status === 'not_started') return 'not_started';
-  return PREP_DAY.countingComplete ? 'prepping' : 'counting';
-}
-const PHASE_LABEL = { not_started:'Not started', counting:'Counting', prepping:'Prepping', finished:'Finished' };
-
-// start / finish / reopen all require a name; Prep Hub rejects them without one.
-// Counting: on-hand plus a par basis per item, then a completion call that
-// unlocks prep logging. Field names are snake_case to match started_by, which
-// the Prep Hub accepted; responses come back camelCase.
-// Today in the STORE's timezone, not UTC. toISOString() converts to UTC first,
-// so from 8pm Florida time (UTC-4) it returns tomorrow's date — and dinner
-// service is exactly when someone opens a prep sheet. Build it from local
-// parts instead. en-CA gives YYYY-MM-DD, which is the format the Prep Hub wants.
-function localToday(d){
-  const t = d || new Date();
-  const p = n => String(n).padStart(2,'0');
-  return t.getFullYear() + '-' + p(t.getMonth()+1) + '-' + p(t.getDate());
-}
-// The Prep Hub decides which day is open; we follow whatever date it puts on
-// the items. localToday() is only a fallback for an empty sheet, which is the
-// one case where we would otherwise invent a date — so it had better be right.
-function prepDate(){
-  return (PREP_ITEMS && PREP_ITEMS[0] && PREP_ITEMS[0].date) || localToday();
-}
-function prepActor(){
-  // Asked once per session rather than per item — counting a full sheet is
-  // dozens of entries and a prompt each time would be unusable on the line.
-  if(!PREP_ACTOR){
-    PREP_ACTOR = (prompt('Your name (recorded against these counts):') || '').trim();
-  }
-  return PREP_ACTOR;
-}
-async function savePrepCount(itemId, field, value, el){
-  const who = prepActor();
-  if(!who){ el.value=''; return; }
-  el.classList.remove('saved','err');
-  // Both calls hang off the ITEM: /prep-items/{id}/count records the on-hand
-  // count, /count/complete records what was actually prepped. The date is a
-  // body field, not a path segment.
-  const prepped = field === 'prepped_qty';
-  const path = '/prep/prep-items/' + encodeURIComponent(itemId) + '/count' + (prepped ? '/complete' : '');
-  const num = value === '' ? null : Number(value);
-  const body = prepped
-    ? { date: prepDate(), prepped_qty: num, completed_by: who }
-    : { date: prepDate(), on_hand_qty: num, usage_qty: null, counted_by: who, par_mode: itemMode(itemId) };
-  try{
-    const r = await fetch(path + prepQS(), {
-      method:'PUT', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
-    if(!r.ok){
-      let msg = 'HTTP ' + r.status;
-      try{ msg = (await r.json()).error || msg; }catch(e){}
-      el.classList.add('err');
-      toast(msg, r.status === 409 ? '' : 'err');
-      if(r.status === 409) await loadPrepSheet();
-      return;
-    }
-    el.classList.add('saved');
-    const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
-    if(it) it[prepped ? 'preppedQty' : 'onHandQty'] = num;
-    updateCountProgress();
-  }catch(e){ el.classList.add('err'); toast('Could not save \u2014 ' + e.message,'err'); }
-}
-function itemMode(itemId){
-  const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
-  return (it && it.parMode) || null;
-}
-// The par basis rides on the same count call, so it is stored locally and sent
-// with the next on-hand save; sending it alone would blank the count.
-async function savePrepMode(itemId, mode, el){
-  const it = (PREP_ITEMS||[]).find(x=>x.id===itemId);
-  if(it) it.parMode = mode || null;
-  if(it && it.onHandQty !== null && it.onHandQty !== undefined){
-    const fake = { value:String(it.onHandQty), classList:{ add(){}, remove(){} } };
-    await savePrepCount(itemId, 'on_hand_qty', String(it.onHandQty), fake);
-  }
-}
-function updateCountProgress(){
-  const items = PREP_ITEMS || [];
-  const done = items.filter(i=>i.onHandQty!==null && i.onHandQty!==undefined).length;
-  const el = document.getElementById('countProgress');
-  if(el) el.innerHTML = done === items.length && items.length
-    ? `<span class="sheet-done">All ${items.length} counted \u2014 reopen the sheet to log prep</span>`
-    : `${done} of ${items.length} counted`;
-}
-// Counting has no explicit completion call: the Prep Hub derives
-// countingComplete once every item has a count. Re-read rather than post.
-async function completeCounting(){ await loadPrepSheet(); }
-
-async function prepDayAction(action){
-  const verb = { start:'starting', finish:'finishing', reopen:'reopening' }[action];
-  const who = (prompt('Your name (recorded against ' + verb + ' this day):') || '').trim();
-  if(!who) return;
-  const date = prepDate();
-  const body = action === 'start' ? { started_by: who }
-             : action === 'finish' ? { completed_by: who }
-             : { reopened_by: who };
-  try{
-    const r = await fetch('/prep/prep-days/' + date + '/' + action + prepQS(), {
-      method:'PUT', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
-    if(!r.ok){
-      let msg = 'HTTP ' + r.status;
-      try{ msg = (await r.json()).error || msg; }catch(e){}
-      // 409 is the phase gate, not a failure: re-read and re-render.
-      toast(msg, r.status === 409 ? '' : 'err');
-    }
-  }catch(e){ toast('Could not reach the Prep Hub \u2014 ' + e.message, 'err'); }
-  await loadPrepSheet();
-}
-
 const SHEET_STORES = [
   ['csc-stcloud','St. Cloud'], ['cbg-nsb','New Smyrna'], ['cbp-staugustine','St. Augustine'],
   ['cbg-beachwalk','Beachwalk'], ['cds-dockside','Dockside'], ['cds-oceanside','Oceanside'],
@@ -1565,22 +1443,6 @@ const SHEET_STORES = [
   ['mv-dockside','Mar Vista'], ['sb-seafood','Sandbar'], ['bh-waterfront','Beach House'],
 ];
 
-// ─── PREP SHEET: HANDED OFF TO THE PREP HUB ─────────────────────────────────
-// We no longer render the sheet. The Prep Hub mints a one-time link that drops
-// the user onto its own page, already signed in, with Pull Thaw and yield
-// tests we never built and the gating we got wrong.
-//
-// The mint MUST be server-side: the shared secret lives in the Worker and must
-// never reach a browser. It goes through the same /prep proxy as everything
-// else, so the store code still comes from the LOGIN, not from the page.
-//
-// The link expires in 2 minutes and is single-use, so mint immediately before
-// navigating — never in advance, never reuse one. Once it is exchanged on
-// first load the browser holds a normal 24-hour session, so refreshing or
-// backgrounding the iPad is fine; only a fresh visit needs a fresh mint.
-//
-// It has to be a top-level navigation, not an iframe: Safari clears storage in
-// a third-party iframe aggressively enough to break that session on an iPad.
 async function launchPrepSheet(code){
   const btn = document.getElementById('prepSheetBtn');
   const was = btn ? btn.textContent : '';
@@ -1622,154 +1484,12 @@ async function openPrepSheet(){
 }
 async function pickSheetStore(code){ sheetStore = code; closePrepSheet(); await launchPrepSheet(code); }
 
-async function loadPrepSheet(){
-  document.getElementById('sheetTitle').textContent = 'Prep Sheet';
-  document.getElementById('sheetMeta').innerHTML = '';
-  document.getElementById('sheetFooter').innerHTML = '';
-  document.getElementById('sheetBody').innerHTML =
-    '<div style="padding:32px;text-align:center;color:var(--text-light)">Loading\u2026</div>';
-  // The link map is static and small; fetch it once.
-  if(!PREP_LINKS){
-    try{
-      const r = await fetch(PREP_LINKS_URL, { headers:{'Accept':'application/vnd.github.v3.raw'}, cache:'no-store' });
-      PREP_LINKS = r.ok ? (await r.json()).links : {};
-    }catch(e){ PREP_LINKS = {}; }   // links are a nicety, not required
-  }
-  // Only the all-stores admin may name a store; for a store login the Worker
-  // ignores it and uses the login's own code regardless.
-  const qs = ASSIGNED_STORE_CODE ? '' : ('?store=' + encodeURIComponent(sheetStore));
-  try{
-    const res = await fetch('/prep/prep-items' + qs, { cache:'no-store' });
-    if(!res.ok){
-      let msg = 'HTTP ' + res.status;
-      try{ msg = (await res.json()).error || msg; }catch(e){}
-      throw new Error(msg);
-    }
-    PREP_ITEMS = await res.json();
-    // Day status drives the two-phase gate: nothing can be counted before the
-    // day is started, and nothing prepped until every item has been counted.
-    const today = prepDate();
-    PREP_DAY = await fetchPrepDay(today);
-  }catch(e){
-    document.getElementById('sheetBody').innerHTML =
-      `<div style="padding:32px;text-align:center;color:var(--text-light)">
-         <div style="font-size:40px;margin-bottom:12px">\u26a0\ufe0f</div>
-         <p>The prep sheet could not be loaded.</p>
-         <p class="sheet-note">${esc(e.message)}</p>
-       </div>`;
-    return;
-  }
-  renderPrepSheet();
-}
-
-function renderPrepSheet(){
-  const items = PREP_ITEMS || [];
-  const label = (SHEET_STORES.find(x=>x[0]===sheetStore)||[null,sheetStore])[1];
-  document.getElementById('sheetHeader').className = 'modal-header';
-  document.getElementById('sheetTitle').textContent = 'Prep Sheet \u2014 ' + label;
-  const day = items.length ? items[0].date : '';
-  const counted = items.filter(i=>i.onHandQty!==null && i.onHandQty!==undefined).length;
-  document.getElementById('sheetMeta').innerHTML =
-    `<span class="badge badge-cat">${items.length} items</span>` +
-    (day ? `<span class="badge badge-loc">${ptxt(day)}</span>` : '') +
-    (counted ? `<span class="badge badge-cat">${counted} counted</span>` : '');
-
-  let picker = '';
-  if(!ASSIGNED_STORE_CODE){
-    picker = '<div class="sheet-storepick">' + SHEET_STORES.map(([c,n]) =>
-      `<button class="${c===sheetStore?'on':''}" onclick="pickSheetStore('${c}')">${esc(n)}</button>`
-    ).join('') + '</div>';
-  }
-
-  // Declared before the station mapping below, which reads it — a later
-  // declaration puts it in the temporal dead zone and the whole render throws.
-  const phase = prepPhase();
-
-  // Group by station, preserving the order the Prep Hub returned.
-  const byStation = new Map();
-  items.forEach(i=>{
-    const st = i.station || 'None';
-    if(!byStation.has(st)) byStation.set(st, []);
-    byStation.get(st).push(i);
-  });
-
-  const sections = Array.from(byStation, ([st, rows]) => {
-    const body = rows.map(i=>{
-      const rid = PREP_LINKS[i.id];
-      const name = rid
-        ? `<span class="ing-link" onclick="openPrepLayer('${esc(rid)}')">${ptxt(i.name)}<span class="ing-arrow">\u2197</span></span>`
-        : ptxt(i.name);
-      const thaw = i.needsPullThaw ? '<span class="sheet-thaw">PULL/THAW</span>' : '';
-      const bits = [];
-      if(i.pullThawNote) bits.push(ptxt(i.pullThawNote));
-      if(i.recipeYieldNote) bits.push(ptxt(i.recipeYieldNote));
-      if(i.shelfLifeDays) bits.push(ptxt(i.shelfLifeDays) + ' day shelf life');
-      if(i.recipeText) bits.push(ptxt(i.recipeText));
-      const note = bits.length ? `<div class="sheet-note">${bits.join(' \u00b7 ')}</div>` : '';
-      // Counting phase: enter on-hand and pick a par basis. Prepping phase:
-      // enter what was actually prepped. Otherwise read-only.
-      let cell;
-      if(phase === 'counting'){
-        const v = (i.onHandQty===null||i.onHandQty===undefined) ? '' : i.onHandQty;
-        const modes = ['','daily','shelf_life','no_prep'];
-        const modeLabels = {'':'Par basis\u2026','daily':'Daily need','shelf_life':'Shelf life','no_prep':'No prep needed'};
-        const sel = modes.map(m=>`<option value="${m}"${(i.parMode||'')===m?' selected':''}>${modeLabels[m]}</option>`).join('');
-        cell = `<td class="sheet-par"><input class="sheet-in" type="number" inputmode="decimal" step="any" value="${v}"
-                  onchange="savePrepCount('${esc(i.id)}','on_hand_qty',this.value,this)"></td>`
-             + `<td><select class="sheet-mode" onchange="savePrepMode('${esc(i.id)}',this.value,this)">${sel}</select></td>`;
-      } else if(phase === 'prepping'){
-        const v = (i.preppedQty===null||i.preppedQty===undefined) ? '' : i.preppedQty;
-        cell = `<td class="sheet-par">${pnum(i.onHandQty)}</td>`
-             + `<td class="sheet-par"><input class="sheet-in" type="number" inputmode="decimal" step="any" value="${v}"
-                  onchange="savePrepCount('${esc(i.id)}','prepped_qty',this.value,this)"></td>`;
-      } else {
-        cell = `<td class="sheet-par">${pnum(i.onHandQty)}</td><td>${ptxt(i.unit)}</td>`;
-      }
-      return `<tr><td>${name}${thaw}${note}</td>`
-           + `<td class="sheet-par">${pnum(i.parLevel)}</td>` + cell + `</tr>`;
-    }).join('');
-    const heading = st === 'None' ? 'Unassigned' : String(st);
-    const cols = phase === 'counting' ? '<th class="sheet-par">On hand</th><th>Par basis</th>'
-               : phase === 'prepping' ? '<th class="sheet-par">On hand</th><th class="sheet-par">Prepped</th>'
-               : '<th class="sheet-par">On hand</th><th>Unit</th>';
-    return `<div class="sheet-station">${esc(heading)}</div>
-      <table class="sheet-table"><thead><tr><th>Item</th><th class="sheet-par">Par</th>
-      ${cols}</tr></thead><tbody>${body}</tbody></table>`;
-  }).join('');
-
-  const d = PREP_DAY || {};
-  const who = [];
-  if(d.startedBy) who.push('started by ' + ptxt(d.startedBy));
-  if(d.finishedBy) who.push('finished by ' + ptxt(d.finishedBy));
-  if(d.activeMinutes) who.push(ptxt(d.activeMinutes) + ' min active');
-  const acts =
-    phase === 'not_started' ? `<button class="primary" onclick="prepDayAction('start')">Start the day</button>`
-  : phase === 'finished'   ? `<button onclick="prepDayAction('reopen')">Reopen</button>`
-  : `<button onclick="prepDayAction('finish')">Finish the day</button>`;
-  const dayBar =
-    `<div class="sheet-day"><span class="phase phase-${phase}">${PHASE_LABEL[phase]}</span>` +
-    (phase === 'counting' ? `<span class="who" id="countProgress"></span>` +
-      `<button id="completeCountBtn" onclick="completeCounting()">Check progress</button>` : '') +
-    (who.length ? `<span class="who">${who.join(' \u00b7 ')}</span>` : '') +
-    `<span class="acts">${acts}</span></div>`;
-
-  document.getElementById('sheetBody').innerHTML = picker + dayBar +
-    '<div class="sheet-asof">Live from the Prep Hub, which stays the system of record for pars and daily counts. ' +
-    'Counting and prep logging happen there.</div>' + sections;
-  document.getElementById('sheetBody').scrollTop = 0;
-  updateCountProgress();
-  document.getElementById('sheetFooter').innerHTML =
-    `<button class="action-btn" onclick="loadPrepSheet()">\u21bb Refresh</button>` +
-    `<button class="action-btn" onclick="window.print()">\ud83d\udda8 Print</button>` +
-    `<button class="action-btn" style="margin-left:auto" onclick="closePrepSheet()">Close</button>`;
-}
 function closePrepSheet(){
   document.getElementById('sheetBackdrop').classList.remove('open');
   document.body.style.overflow = '';
 }
 function handleSheetBackdropClick(e){ if(e.target && e.target.id==='sheetBackdrop') closePrepSheet(); }
 
-// ─── PREP LAYER (second modal, opened from an ingredient) ───────────────────
 let prepLayerId = null;
 function openPrepLayer(id){
   const r = RECIPES.find(x=>x.id===id);
