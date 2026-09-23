@@ -94366,26 +94366,22 @@
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
-      },
-      {
-        "name": "PREP MV Mango Lime Butter",
-        "qty": "2",
-        "unit": "OZ-fl",
-        "qty2": ""
       }
     ],
     "steps": [
       "Coat shrimp, scallops, and snapper in jerk flower. Sear on flat top.",
       "Cook for 2 minutes and turn to sear other side of seafood until cooked through.",
       "On Saute… heat a sauté pan, add oil, corn, zucchini and garlic.",
-      "Once cooked, add butter and chopped cilantro to set.",
+      "Once cooked, add butter and chopped cilantro to vegetable mix.",
       "Spread veggies on in center of plate. Arrange seafood on top and around.",
       "Drizzle mango lime butter around the plate.",
       "Expo:",
-      "Mango Lime butter — warm on expo."
+      "Chopped Cilantro - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueer0mlsyfk4i.jpg"
+    ],
     "active": true,
     "id": "dm-mv-44",
     "masterId": "dm-mv-44-m",
@@ -94432,7 +94428,7 @@
         "qty2": ""
       },
       {
-        "name": "Roasted Sweet Potatoes",
+        "name": "Roasted Sweet Potato",
         "qty": "1.5",
         "unit": "oz-wt",
         "qty2": ""
@@ -94450,7 +94446,7 @@
         "qty2": ""
       },
       {
-        "name": "Quinoa, cooked",
+        "name": "Quinoa",
         "qty": "1",
         "unit": "oz-wt",
         "qty2": ""
@@ -94464,14 +94460,17 @@
     ],
     "steps": [
       "Heat Saute pan, add oil and sear seasoned fish, flip after 2 minutes and sear other side.",
-      "Remove fish and add to sizzle pan. Glaze with jalapeno glaze and finish in oven.",
+      "Remove fish and add to sizzle pan. Brush with jalapeno glaze and finish in oven.",
       "Heat another sauté pan, add oil, brussels, shallots and garlic and sauté.",
       "Add Sweet potato, quinoa, cranberries and almonds to heat up.",
       "Plate veggies in middle of plate with glazed fish on top.",
-      "Pour sauce around the plate."
+      "Expo:",
+      "Beurre Blanc - Sauce around plate, not on top of fish. "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeuoorkdg6o9.jpg"
+    ],
     "active": true,
     "id": "dm-mv-45",
     "masterId": "dm-mv-45-m",
