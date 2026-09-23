@@ -95275,7 +95275,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Soup Cup",
     "ingredients": [
       {
         "name": "BBQ Fry Spice",
@@ -95291,7 +95291,6 @@
       }
     ],
     "steps": [
-      "Season with BBQ Fry Spice as needed.",
       "Drop fries in fryer until golden brown and crispy.",
       "Toss in a separate bowl with BBQ spice."
     ],
@@ -95312,7 +95311,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Rarebit",
     "ingredients": [
       {
         "name": "Garlic, chopped",
@@ -95327,7 +95326,7 @@
         "qty2": ""
       },
       {
-        "name": "Broccolini, blanched",
+        "name": "Blanched Broccolini",
         "qty": "6",
         "unit": "OZ-wt",
         "qty2": ""
@@ -95339,7 +95338,9 @@
       "Drain broccolini and toss in garlic butter. Season with salt and pepper"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muehz3ie6bb71d.jpg"
+    ],
     "active": true,
     "id": "dm-mv-55",
     "masterId": "dm-mv-55-m",
@@ -95375,7 +95376,9 @@
       "This is done ahead of time and kept warm on expo."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei1h07b4k0gr.jpg"
+    ],
     "active": true,
     "id": "dm-mv-56",
     "masterId": "dm-mv-56-m",
@@ -95403,7 +95406,9 @@
       "Coleslaw — stored cold on expo."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei141ihd33rd.jpg"
+    ],
     "active": true,
     "id": "dm-mv-57",
     "masterId": "dm-mv-57-m",
@@ -95417,10 +95422,10 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Rarebit",
     "ingredients": [
       {
-        "name": "Collards, prepared",
+        "name": "Collard Greens",
         "qty": "8",
         "unit": "OZ-wt",
         "qty2": ""
@@ -95431,7 +95436,9 @@
       "Collards, prepared — kept hot in the steamwell."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei35cb5787ay.jpg"
+    ],
     "active": true,
     "id": "dm-mv-58",
     "masterId": "dm-mv-58-m",
@@ -95445,7 +95452,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Soup Bowl",
     "ingredients": [
       {
         "name": "Greek Seasoning",
@@ -95461,12 +95468,13 @@
       }
     ],
     "steps": [
-      "Season with Greek Seasoning as needed.",
       "Drop fries in fryer until golden brown and crispy.",
-      "Toss in a separate bowl with Greek Seasoning"
+      "Season with Greek Seasoning as needed."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei42a03vxmdt.jpg"
+    ],
     "active": true,
     "id": "dm-mv-59",
     "masterId": "dm-mv-59-m",
@@ -95480,10 +95488,10 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Rarebit",
     "ingredients": [
       {
-        "name": "Boursin Mashed Potatoes",
+        "name": "Whipped Potatoes",
         "qty": "8",
         "unit": "OZ-wt",
         "qty2": ""
@@ -95498,10 +95506,12 @@
     "steps": [
       "Expo:",
       "Boursin Mashed Potatoes — kept hot in the steamwell.",
-      "Parlsey, chopped — garnish."
+      "Parsley, chopped — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei4qw3dfjasn.jpg"
+    ],
     "active": true,
     "id": "dm-mv-60",
     "masterId": "dm-mv-60-m",
@@ -95524,7 +95534,7 @@
         "qty2": ""
       },
       {
-        "name": "Vegetable/Corn stock",
+        "name": "Corn stock",
         "qty": "1",
         "unit": "cup",
         "qty2": ""
@@ -95567,7 +95577,9 @@
       "Adjust seasoning with salt and pepper as needed"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muei70e7s7qia9.jpg"
+    ],
     "active": true,
     "id": "dm-mv-61",
     "masterId": "dm-mv-61-m",
@@ -96334,13 +96346,13 @@
       {
         "name": "Sweet Chili sauce",
         "qty": "2",
-        "unit": "Quart - Liquid Measure",
+        "unit": "Quarts",
         "qty2": ""
       },
       {
         "name": "Siracha Sauce",
         "qty": "2",
-        "unit": "Quart - Liquid Measure",
+        "unit": "Quarts",
         "qty2": ""
       },
       {
@@ -96583,6 +96595,7 @@
     "steps": [
       "Add preparedd slaw mix a  mixing bowl.",
       "Add remaining ingredients.",
+      "Taste and adjust seasoning if needed.",
       "Wrap /Label / Date"
     ],
     "notes": "",
@@ -96752,7 +96765,7 @@
       "Add all ingredients to a bowl and mix well.",
       "Adjust seasoning if needed",
       "wrap / label / date",
-      "push plastic onto guac to help with oxidizing"
+      "Leave one seed inside guac and push plastic on top of guac to help with oxidizing"
     ],
     "notes": "",
     "images": [],
@@ -96832,19 +96845,22 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Rice Flour  ( 6 cups )",
-        "qty": "37",
-        "unit": "Ounce",
+        "name": "Rice Flour",
+        "qty": "6",
+        "unit": "cups",
         "qty2": ""
       },
       {
-        "name": "Jerk Seasoning ( 3 cup)",
-        "qty": "18",
-        "unit": "Ounce",
+        "name": "Jerk Seasoning",
+        "qty": "3",
+        "unit": "cups",
         "qty2": ""
       }
     ],
-    "steps": [],
+    "steps": [
+      "Mix ingredients together and store in airtight cambro.",
+      "Label and date"
+    ],
     "notes": "",
     "images": [],
     "active": true,
@@ -96864,14 +96880,14 @@
     "ingredients": [
       {
         "name": "Carrot (fine julienne) 6 ea",
-        "qty": "30",
-        "unit": "Ounce",
+        "qty": "6",
+        "unit": "each",
         "qty2": ""
       },
       {
-        "name": "Cucumber ( fine julienne ) 12 ea",
-        "qty": "4",
-        "unit": "Lbs",
+        "name": "Cucumber ( fine julienne)",
+        "qty": "12",
+        "unit": "each",
         "qty2": ""
       },
       {
@@ -96942,7 +96958,7 @@
       }
     ],
     "steps": [
-      "Open slaw mix bags , cabbage/ red babbage / carrots into a lexon",
+      "Open slaw mix bags, cabbage / red cabbage / carrots into a lexon",
       "add onions and cilantro, mix well.",
       "Wrap / label / date"
     ],
@@ -97034,7 +97050,7 @@
     "name": "Tater Tots",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
-    "yield": "8 lbs",
+    "yield": "46 lbs",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
@@ -97172,9 +97188,9 @@
     ],
     "steps": [
       "remove Seeds from peppers, doesn’t need to be perfect",
-      "add blend everything but the oil in the blender.",
+      "add everything but the oil to the blender.",
       "With the machine running slowly pour oil in to emulsify.",
-      "May need to do in two batchs.",
+      "May need to do in two batchs if doesn't fit in blender. ",
       "Adjust seasoning if needed",
       "Wrap / Label / Date"
     ],
@@ -97391,7 +97407,11 @@
       }
     ],
     "steps": [
-      "L"
+      "Add everything but the blended oil to blender and puree.",
+      "Once well blended, and with the blender on....",
+      "Slowly add oil to emulsify vinaigrette.",
+      "Make sure to taste, may need a little salt and honey adjustment.",
+      "Wrap / label / date"
     ],
     "notes": "",
     "images": [],
@@ -97447,7 +97467,12 @@
         "qty2": ""
       }
     ],
-    "steps": [],
+    "steps": [
+      "Clean and burnoise shallots, set in cambro. ",
+      "Add remaining ingredients to shallots.",
+      "Let marinated before serving.",
+      "Wrap / Label / Date"
+    ],
     "notes": "",
     "images": [],
     "active": true,
@@ -97493,7 +97518,7 @@
       "Roll out pasta to setting 2. Fold about half way through.",
       "When you get to 2, pass through twice.",
       "dust both side with flour and let dry.",
-      "Cut in 10-12 in sections and cut into fettucine.",
+      "Cut in 10-12 inches sections and cut into fettucine.",
       "Portion is 2.8 ounce"
     ],
     "notes": "portion is about 2.8 oz",
@@ -97528,7 +97553,7 @@
       {
         "name": "water",
         "qty": "4",
-        "unit": "Quart - Liquid Measure",
+        "unit": "Quarts",
         "qty2": ""
       },
       {
@@ -97538,15 +97563,15 @@
         "qty2": ""
       },
       {
-        "name": "cinnamon stick ( 4 each)",
-        "qty": "1",
-        "unit": "Ounce",
+        "name": "cinnamon stick",
+        "qty": "4",
+        "unit": "sticks",
         "qty2": ""
       },
       {
         "name": "whole cloves ( 1 table spoon)",
-        "qty": "0.25",
-        "unit": "Ounce",
+        "qty": "1",
+        "unit": "tablespoon",
         "qty2": ""
       },
       {
@@ -97556,9 +97581,9 @@
         "qty2": ""
       },
       {
-        "name": "peppercorn",
+        "name": "whole black peppercorn",
         "qty": "2",
-        "unit": "Table spoon",
+        "unit": "Tablespoons",
         "qty2": ""
       }
     ],
@@ -97599,6 +97624,12 @@
         "qty2": ""
       },
       {
+        "qty": "1",
+        "qty2": "",
+        "unit": "lbs",
+        "name": "Jalapeno"
+      },
+      {
         "name": "cilantro",
         "qty": "1",
         "unit": "Bunch",
@@ -97618,9 +97649,10 @@
       }
     ],
     "steps": [
-      "Chop tomatoes and onions with chopper/dicer and add to a bowl",
+      "Chop tomatoes, jalapeno, and onions with chopper/dicer and add to a bowl",
       "wash and chop cilantro, add to bowl.",
       "Add lime juice , salt , pepper .",
+      "Make sure to taste and adjust seasoning if needed.",
       "Wrap / Label /  Date"
     ],
     "notes": "",
@@ -97696,7 +97728,7 @@
       }
     ],
     "steps": [
-      "Add chipotle peppers, roasted red peppers, capers to robo coupe to blend",
+      "Add chipotle peppers, roasted red peppers and capers to robo coupe to blend",
       "Add blend to a bowl with mayo, chopped scallions and remaining ingredients",
       "adjust seasoning if needed.",
       "Wrap / label / date"
@@ -98015,7 +98047,7 @@
     "name": "Chowder Base",
     "category": "Dinner Prep",
     "submenu": "Hot Prep",
-    "yield": "12qts",
+    "yield": "11.75 qts",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
@@ -98023,55 +98055,55 @@
     "ingredients": [
       {
         "name": "Chowder Can",
-        "qty": "8",
+        "qty": "4",
         "unit": "Each",
         "qty2": ""
       },
       {
         "name": "Heavy Cream",
-        "qty": "6",
+        "qty": "3",
         "unit": "Quart - Liquid Measure",
         "qty2": ""
       },
       {
         "name": "Idaho Potato ( baked ) diced",
-        "qty": "16",
+        "qty": "2",
         "unit": "Each",
         "qty2": ""
       },
       {
         "name": "Bacon Pieces, diced",
-        "qty": "48",
-        "unit": "Ounce",
-        "qty2": ""
-      },
-      {
-        "name": "Corn",
-        "qty": "8",
-        "unit": "Cup",
-        "qty2": ""
-      },
-      {
-        "name": "onion , diced",
         "qty": "24",
         "unit": "Ounce",
         "qty2": ""
       },
       {
-        "name": "Garlic , diced",
-        "qty": "8",
+        "name": "Corn",
+        "qty": "4",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "onion , diced",
+        "qty": "12",
         "unit": "Ounce",
         "qty2": ""
       },
       {
-        "name": "cobia , diced",
-        "qty": "48",
+        "name": "Garlic , diced",
+        "qty": "4",
         "unit": "Ounce",
+        "qty2": ""
+      },
+      {
+        "name": "Fish trim- currently using snapper trim",
+        "qty": "1.5",
+        "unit": "lbs",
         "qty2": ""
       },
       {
         "name": "white wine",
-        "qty": "2",
+        "qty": "1",
         "unit": "Cup",
         "qty2": ""
       }
@@ -98119,7 +98151,7 @@
         "qty2": ""
       },
       {
-        "name": "ham hock ( 2 ea )",
+        "name": "ham hock ( 2 ea ) ( or bacon ends and pieces)",
         "qty": "1.5",
         "unit": "Lbs",
         "qty2": ""
@@ -98156,8 +98188,16 @@
       }
     ],
     "steps": [
-      "1 case clean = 9.5#",
-      "1 case cooked = 22.75 #"
+      "wash and remove any stems from the collard greens. ",
+      "Cut into smaller pieces.",
+      "Sweat onions, garlic and ham hock down in large rondo. ",
+      "Add collard greens slowly, as they wilt down you will be able to fit all in the pot",
+      "Once all greens are wilted, add remaining ingredients and bring to a simmer. ",
+      "Lightly simmer for about 1-1/2 hours",
+      "Taste to adjust seasoning if needed.",
+      "Cool completely.",
+      "Store in quart containers.",
+      "Wrap /label /date"
     ],
     "notes": "",
     "images": [],
@@ -98209,19 +98249,19 @@
       {
         "name": "heavy cream",
         "qty": "1",
-        "unit": "Quart - Liquid Measure",
+        "unit": "Quart",
         "qty2": ""
       },
       {
         "name": "butter",
         "qty": "1",
-        "unit": "Lbs",
+        "unit": "Lb",
         "qty2": ""
       },
       {
         "name": "ap flour",
         "qty": "1",
-        "unit": "Lbs",
+        "unit": "Lb",
         "qty2": ""
       },
       {
@@ -98312,9 +98352,7 @@
       "Adjust seasoning if needed.",
       "Season scallops with salt and pepper",
       "Fill scallop shells with 1 purple scoop of crab filling. And spread",
-      "Top with the \" burrata bread brumbs\" and grated parm",
-      "For Service. Add a little melted butter to each and bake @350 for 7-8 minutes.",
-      "Garnish with crispy bacon and curly scallions"
+      "Top with the \" seasoned bread crumbs\" and grated parm"
     ],
     "notes": "purple scoop / 1 oz / scallop",
     "images": [],
@@ -98695,7 +98733,9 @@
       "Remove large stems and dirt from mushrooms, do not soak in water.",
       "Cut mushrooms in half",
       "Add everything to a bowl and let soak for 30 minutes.",
-      "remove mushrooms from marinade onto a sheet tray and roast @ 375 for 10 - 15 minutes."
+      "remove mushrooms from marinade onto a sheet tray and roast @ 375 for 10 - 15 minutes.",
+      "Cool mushroom completely ",
+      "Wrap / Label / Date"
     ],
     "notes": "",
     "images": [],
