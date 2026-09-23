@@ -78768,6 +78768,7 @@
     ],
     "steps": [
       "Fry method for the grouper nuggets - Pre-wash  / Calamari Breader ( add fish fry procedure link)",
+      "Fried Seafood Procedure",
       "Cook fries and season with greek seasoning.",
       "Remove from fryer using save-a-day",
       "Plate fries in bowl with fried grouper on top. ",
@@ -93950,6 +93951,7 @@
     ],
     "steps": [
       "Remove calamari from portion bag into pre dip batter",
+      "Fried Seafood procedure",
       "Strain out of pre dip and into calamari breader.",
       "Make sure calamari is coated well.",
       "Cook for 2 minutes until calamari is nice and crispy. Drain in save-a-day",
@@ -94825,6 +94827,7 @@
     ],
     "steps": [
       "Add Blackening seasoning to one side of fish and blacken on flat top, Cook through. ",
+      "blackening procedure",
       "Once fish is cooked, melt cheddar on top of fish.",
       "Toast bun on flat top using clarified butter",
       "Expo:",
@@ -94834,7 +94837,9 @@
       "Pickle - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueg2olcwat9tr.jpg"
+    ],
     "active": true,
     "id": "dm-mv-48",
     "masterId": "dm-mv-48-m",
@@ -94902,11 +94907,12 @@
     "steps": [
       "Heat Brisket in microwave and set aside",
       "Build Taco, cabbage, brisket, cheese, sour cream, jalapeno pepper, radish and cilantro.",
-      "Expo:",
       "Jalapeno, sliced thin — garnish on top.",
       "Watermelon Radish, fine julienne — garnish on top.",
       "Sour Cream — garnish on top.",
-      "Cilantro, Chopped — garnish on top."
+      "Cilantro, Chopped — garnish on top.",
+      "Sides:",
+      "Guest chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -95056,6 +95062,7 @@
     ],
     "steps": [
       "Season and grill chicken breast to 165 degrees ( add grill chicken link )",
+      "Grilled Chicken Procedure",
       "Add bacon and melt cheese on chicken breast",
       "Toast bun on flat top with clarified butter",
       "Plate chicken on bun and sell to expo.",
