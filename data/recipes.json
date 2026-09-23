@@ -79732,7 +79732,9 @@
       "Stone Crab Mustard — ramekin."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mued7i21q3jn44.jpg"
+    ],
     "active": true,
     "id": "dm-mv-6",
     "masterId": "dm-mv-6-m",
@@ -79780,7 +79782,9 @@
       "Stone Crab Mustard — ramekin."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mued7i21q3jn44.jpg"
+    ],
     "active": true,
     "id": "dm-sb-6",
     "masterId": "dm-mv-6-m",
@@ -79828,7 +79832,9 @@
       "Stone Crab Mustard — ramekin."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mued7i21q3jn44.jpg"
+    ],
     "active": true,
     "id": "dm-bh-6",
     "masterId": "dm-mv-6-m",
@@ -99569,6 +99575,69 @@
     "active": true,
     "id": "dp-mv-59",
     "masterId": "dp-mv-59-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Stone Crab Mustard",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "2.25 Gallon",
+    "portions": "144",
+    "portionSize": "2 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Black Pepper, ground",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, Whole Grain",
+        "qty": "2",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "A1 Steak Sauce",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mustard, Dry",
+        "qty": "1.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredient in a bowl. \n 2. Adjust seasoning if needed.\n 3. Wrap / Label /Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mued93w9r50m0v",
+    "masterId": "dp-bh-32-m",
     "location": "Mar Vista"
   }
 ]
