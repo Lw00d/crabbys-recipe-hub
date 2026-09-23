@@ -110,6 +110,12 @@ const PREP_PATHS = [
   /^prep-days\/\d{4}-\d{2}-\d{2}\/(start|finish|reopen)$/,
   /^yield-items$/,
   /^yield-items\/[A-Za-z0-9._~:@+-]+\/tests$/,
+  // Mints a one-time link that drops the user onto the Prep Hub's own sheet,
+  // already signed in. The Prep Hub's canonical path is /api/embed/mint, which
+  // does not fit /api/stores/<code>/<path>; it also answers on
+  // /api/stores/:id/embed/mint so this proxy can reach it unchanged.
+  // The store still comes from the login, never the request.
+  /^embed\/mint$/,
 ];
 
 // Re-verify the Basic Auth credentials the browser sends. The store scope is

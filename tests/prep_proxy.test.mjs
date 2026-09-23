@@ -137,6 +137,23 @@ await t('anything else is 404, not proxied', async()=>{
     assert.strictEqual(r.status,404,p||'(empty)');
   }
 });
+await t('embed/mint is allowed, and scoped to the login', async()=>{
+  const r=await call('/prep/embed/mint','sandbar',{method:'POST',body:'{"actor_name":"Kory O."}'});
+  assert.strictEqual(r.status,200);
+  assert.ok(seen.url.endsWith('/api/stores/sb-seafood/embed/mint'), seen.url);
+  assert.strictEqual(seen.init.headers['X-BSHG-Store'],'sb-seafood');
+  assert.strictEqual(seen.init.body,'{"actor_name":"Kory O."}');
+});
+await t('a store login cannot mint for another store', async()=>{
+  const r=await call('/prep/embed/mint?store=csc-stcloud','sandbar',{method:'POST',body:'{}'});
+  assert.strictEqual(r.status,200);
+  assert.ok(seen.url.includes('/api/stores/sb-seafood/'), 'store param must not override the login');
+});
+await t('the shared secret never reaches the browser', async()=>{
+  const r=await call('/prep/embed/mint','sandbar',{method:'POST',body:'{}'});
+  assert.ok(!(await r.text()).includes('SEKRIT'));
+  assert.strictEqual(seen.init.headers['X-BSHG-Key'],'SEKRIT');
+});
 await t('the abandoned guesses at the counting route are gone', async()=>{
   // These were allowed while the real counting endpoint was unknown. It turned
   // out to hang off the item, not the day, so they never carried traffic —
