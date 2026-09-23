@@ -34690,7 +34690,7 @@
   {
     "id": "dm-cbg-39",
     "masterId": "dm-cbg-39-m",
-    "name": "Shrimp & Grits (All stores)",
+    "name": "Shrimp & Grits",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -100637,5 +100637,73 @@
     "id": "pr-bh-6",
     "masterId": "pr-tempura-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Redfish & Grits Fresh Catch",
+    "category": "Dinner Menu",
+    "submenu": "Pasta / Pizza",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Redfish Fillets",
+        "qty": "1",
+        "unit": "7 oz Portion"
+      },
+      {
+        "name": "Sausage Kielbasa",
+        "qty": "1 link",
+        "unit": "4 Pieces sliced on the bias"
+      },
+      {
+        "name": "Cajun Butter",
+        "qty": "2",
+        "unit": "Sunflower Scoop"
+      },
+      {
+        "name": "Peppers Piquillo (Diced)",
+        "qty": "1",
+        "unit": "2oz cup"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Grits",
+        "qty": "2",
+        "unit": "Ivory Scoops"
+      },
+      {
+        "name": "Bread Garlic Toast",
+        "qty": "1",
+        "unit": "Slice"
+      }
+    ],
+    "steps": [
+      "Grill:",
+      "Pat the Redfish dry",
+      "Season the non-skin side only with blackening seasoning, before it touches the grill",
+      "Spray the flat top, then lay the fish seasoned side down",
+      "*A light weight may be used — never press, smash, or dome*",
+      "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white",
+      "Move to the cooler zone of the flat top",
+      "Sauté:",
+      "Sauté Sausage and Piquillo Peppers in Cajun butter.",
+      "Add cream and stir around once the sausage is almost done.",
+      "Ask Expo for Grits",
+      "Lay redfish  on top of the grits",
+      "Pour the sauté pan contents over the bowl.",
+      "Expo:",
+      "2 Ivory scoops of grits",
+      "Top with Green Onions and Serve with Garlic Bread"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-muekhoahavfe0h",
+    "masterId": "m-muekhoahphc4xz",
+    "location": "CBG"
   }
 ]
