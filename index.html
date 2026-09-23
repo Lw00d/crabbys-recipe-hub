@@ -939,7 +939,7 @@ async function init(){
   applyFiltersFromUrl();
   const url = localStorage.getItem(STORAGE_KEY) || CFG.rawUrl;
   await loadRecipes(url);
-  openRecipeFromUrl();
+  if(!openPrepFromUrl()) openRecipeFromUrl();
 }
 
 // ─── DEEP LINKS TO A SINGLE RECIPE ──────────────────────────────────────────
@@ -951,6 +951,13 @@ async function init(){
 //                   needs to know the other's store-to-book mapping.
 // Both respect the login gate — a store can only ever open a recipe from its
 // own book, and never across the BSHGRP / BSHGRP2 divide.
+// ?prep=1 is the bookmarkable way in. A saved Prep Hub link would be a spent
+// one-time token; this re-mints on every visit, which is the whole point.
+function openPrepFromUrl(){
+  if(new URLSearchParams(window.location.search).get('prep') === '1'){ openPrepSheet(); return true; }
+  return false;
+}
+
 function openRecipeFromUrl(){
   const params = new URLSearchParams(window.location.search);
   const byId = (params.get('recipe') || '').trim();
@@ -1555,15 +1562,65 @@ const SHEET_STORES = [
   ['csc-stcloud','St. Cloud'], ['cbg-nsb','New Smyrna'], ['cbp-staugustine','St. Augustine'],
   ['cbg-beachwalk','Beachwalk'], ['cds-dockside','Dockside'], ['cds-oceanside','Oceanside'],
   ['si-island',"Salty's Island"], ['nb-crab','North Beach'], ['cbp-pavilion','Pavilion'],
+  ['mv-dockside','Mar Vista'], ['sb-seafood','Sandbar'], ['bh-waterfront','Beach House'],
 ];
 
+// ─── PREP SHEET: HANDED OFF TO THE PREP HUB ─────────────────────────────────
+// We no longer render the sheet. The Prep Hub mints a one-time link that drops
+// the user onto its own page, already signed in, with Pull Thaw and yield
+// tests we never built and the gating we got wrong.
+//
+// The mint MUST be server-side: the shared secret lives in the Worker and must
+// never reach a browser. It goes through the same /prep proxy as everything
+// else, so the store code still comes from the LOGIN, not from the page.
+//
+// The link expires in 2 minutes and is single-use, so mint immediately before
+// navigating — never in advance, never reuse one. Once it is exchanged on
+// first load the browser holds a normal 24-hour session, so refreshing or
+// backgrounding the iPad is fine; only a fresh visit needs a fresh mint.
+//
+// It has to be a top-level navigation, not an iframe: Safari clears storage in
+// a third-party iframe aggressively enough to break that session on an iPad.
+async function launchPrepSheet(code){
+  const btn = document.getElementById('prepSheetBtn');
+  const was = btn ? btn.textContent : '';
+  if(btn){ btn.textContent = '\u{1F4CB} Opening\u2026'; btn.disabled = true; }
+  try{
+    const qs = ASSIGNED_STORE_CODE ? '' : ('?store=' + encodeURIComponent(code));
+    const r = await fetch('/prep/embed/mint' + qs, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      // One login per store, so this starts as the store name. Whoever is
+      // actually counting changes it on the Prep Hub's own screen.
+      body: JSON.stringify({ actor_name: PREP_ACTOR || ASSIGNED_STORE || 'Recipe Hub' }),
+      cache: 'no-store',
+    });
+    const data = await r.json().catch(() => ({}));
+    if(!r.ok || !data.url){
+      toast(data.error || ('Could not open the Prep Sheet (HTTP ' + r.status + ')'), 'err');
+      return;
+    }
+    // Full page navigation. The token is spent on arrival.
+    window.location.assign(data.url);
+  }catch(e){
+    toast('Could not reach the Prep Hub', 'err');
+  }finally{
+    if(btn){ btn.textContent = was; btn.disabled = false; }
+  }
+}
+
 async function openPrepSheet(){
+  // A store login goes straight there. The all-stores admin picks first.
+  if(ASSIGNED_STORE_CODE) return launchPrepSheet(ASSIGNED_STORE_CODE);
   document.getElementById('sheetBackdrop').classList.add('open');
   document.body.style.overflow = 'hidden';
-  if(!sheetStore) sheetStore = ASSIGNED_STORE_CODE || SHEET_STORES[0][0];
-  await loadPrepSheet();
+  document.getElementById('sheetTitle').textContent = 'Prep Sheet \u2014 pick a store';
+  document.getElementById('sheetMeta').innerHTML = '';
+  document.getElementById('sheetBody').innerHTML =
+    '<div class="sheet-storepick">' + SHEET_STORES.map(([c,n]) =>
+      `<button onclick="pickSheetStore('${c}')">${esc(n)}</button>`).join('') + '</div>';
 }
-async function pickSheetStore(code){ sheetStore = code; await loadPrepSheet(); }
+async function pickSheetStore(code){ sheetStore = code; closePrepSheet(); await launchPrepSheet(code); }
 
 async function loadPrepSheet(){
   document.getElementById('sheetTitle').textContent = 'Prep Sheet';
