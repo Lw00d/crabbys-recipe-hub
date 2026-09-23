@@ -81555,8 +81555,6 @@
     ],
     "steps": [
       "Follow Blackened /Grilled Procedures( no fry for this one )",
-      "Blackening Procedure",
-      "Grilled Chicken Procedure",
       "Blackening Spice / Lemon Butter for Blackened Salmon",
       "Salt / Pepper / Lemon Butter For Grilled Salmon",
       "Heat Crab up in beurre blanc and pour over fish before serving",
@@ -81566,7 +81564,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-17",
     "masterId": "dm-mv-17-m",
     "location": "Mar Vista"
@@ -81738,15 +81736,19 @@
     ],
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
-      "Blackening Procedure",
-      "Grilled Chicken Procedure",
-      "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried",
       "Blackening Spice / Lemon Butter for Blackened Shrimp",
-      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Expo:",
+      "Cocktail Sauce - Garnish",
+      "Lemon Wedge - Garnish",
+      "Sides:",
+      "Served with coleslaw and French fries ( two regular sides)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muef0uqrt6y7td.jpg"
+    ],
     "active": true,
     "id": "dm-mv-18",
     "masterId": "dm-mv-18-m",
@@ -81793,15 +81795,19 @@
     ],
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
-      "Blackening Procedure",
-      "Grilled Chicken Procedure",
-      "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried",
       "Blackening Spice / Lemon Butter for Blackened Shrimp",
-      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Expo:",
+      "Cocktail Sauce - Garnish",
+      "Lemon Wedge - Garnish",
+      "Sides:",
+      "Served with coleslaw and French fries ( two regular sides)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muef0uqrt6y7td.jpg"
+    ],
     "active": true,
     "id": "dm-sb-18",
     "masterId": "dm-mv-18-m",
@@ -81848,15 +81854,19 @@
     ],
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
-      "Blackening Procedure",
-      "Grilled Chicken Procedure",
-      "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried",
       "Blackening Spice / Lemon Butter for Blackened Shrimp",
-      "Salt / Pepper / Lemon Butter For Grilled Shrimp"
+      "Salt / Pepper / Lemon Butter For Grilled Shrimp",
+      "Expo:",
+      "Cocktail Sauce - Garnish",
+      "Lemon Wedge - Garnish",
+      "Sides:",
+      "Served with coleslaw and French fries ( two regular sides)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muef0uqrt6y7td.jpg"
+    ],
     "active": true,
     "id": "dm-bh-18",
     "masterId": "dm-mv-18-m",
@@ -94645,20 +94655,21 @@
       }
     ],
     "steps": [
-      "Grill the Swordfish Portion (8oz) to order.",
       "Season swordfish and grill. Brush with lemon butter and set aside.",
-      "Season and grill 1 side of asparagus.",
+      "Season and grill asparagus.",
       "Add risotto base and corn stock to cold sauté pan, fire on stove.",
       "Slowly melt the remaining stock into the rice.",
       "Fold in the mascarpone, parmesan and herbs.",
       "Season with salt and pepper.",
       "Pour risotto in base of pasta bowl. Cross the asparagus on top.",
-      "Add grilled swordfish, grilled lemon garnish and lemon  vinagrette",
+      "Add grilled swordfish, grilled lemon garnish",
       "Expo:",
-      "Lemon Vinaigrette — squeeze bottle on expo."
+      "Lemon Vinaigrette — squeeze bottle around the fish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muef1g5xjutbr6.jpg"
+    ],
     "active": true,
     "id": "dm-mv-46",
     "masterId": "dm-mv-46-m",
@@ -94705,7 +94716,7 @@
         "qty2": ""
       },
       {
-        "name": "Sushi rice round portion",
+        "name": "Sushi rice",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -94730,15 +94741,18 @@
       }
     ],
     "steps": [
-      "Use the Cornstach to cook the sushi rice.",
+      "Coat rice cake in cornstarch and fry for about 2-3 minutes. ",
       "Season the sushi rice with the Togarashi.",
       "Open tuna bag and add cucumber, scallions and ginger soy sauce. Mix in bag,",
-      "Coat rice in cornstach, fry for 2 minutes until crispy, season with togarashi spice mix",
+      "Cut rice cake in half and plate.",
       "Plate tuna mix, avocado fan and seaweed salad.",
-      "Cut rice cake in half and plate."
+      "Expo:",
+      "Chopsticks - serve with"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muef9keq30fniv.jpg"
+    ],
     "active": true,
     "id": "dm-mv-47",
     "masterId": "dm-mv-47-m",
