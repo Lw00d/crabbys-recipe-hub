@@ -93817,7 +93817,7 @@
       {
         "name": "Shrimp for Ceviche",
         "qty": "1",
-        "unit": "each",
+        "unit": "portion",
         "qty2": ""
       },
       {
@@ -93885,7 +93885,9 @@
       "Fried Tortilla Chips — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mued6okwrij8q6.jpg"
+    ],
     "active": true,
     "id": "dm-mv-38",
     "masterId": "dm-mv-38-m",
