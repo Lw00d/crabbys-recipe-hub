@@ -38334,21 +38334,24 @@
       },
       {
         "name": "Rv11/25",
-        "qty": "",
+        "qty": "565",
         "unit": "Total Oz."
       }
     ],
     "steps": [
-      "Mix all ingredients in a Cambro, shake well, and store in the refrigerator",
+      "Mix all ingredients in a Cambro, stir with a whisk well, ",
+      "Label, date, and store in the refrigerator",
+      "Stir well before adding to the frozen machine or canister.",
+      "**For a Back Up Canister**",
       "In a clean and rinsed-out 5-gallon canister, add all ingredients",
       "Seal the keg and shake well to combine",
       "Hook up to cleaned lines",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
+      "**Cleaning the keg/ Canister**",
+      "Rinse out the canister with hot water,",
       "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
+      "Disconnect 1 hose at a time. Clean the hose connectors in hot water 1 at a time, shaking them to remove any buildup, then reconnect the clean one",
       "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE"
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -38381,21 +38384,24 @@
       },
       {
         "name": "Rv11/25",
-        "qty": "",
+        "qty": "565",
         "unit": "Total Oz."
       }
     ],
     "steps": [
-      "Mix all ingredients in a Cambro, shake well, and store in the refrigerator",
+      "Mix all ingredients in a Cambro, stir with a whisk well, ",
+      "Label, date, and store in the refrigerator",
+      "Stir well before adding to the frozen machine or canister.",
+      "**For a Back Up Canister**",
       "In a clean and rinsed-out 5-gallon canister, add all ingredients",
       "Seal the keg and shake well to combine",
       "Hook up to cleaned lines",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
+      "**Cleaning the keg/ Canister**",
+      "Rinse out the canister with hot water,",
       "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
+      "Disconnect 1 hose at a time. Clean the hose connectors in hot water 1 at a time, shaking them to remove any buildup, then reconnect the clean one",
       "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE"
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -38428,21 +38434,24 @@
       },
       {
         "name": "Rv11/25",
-        "qty": "",
+        "qty": "565",
         "unit": "Total Oz."
       }
     ],
     "steps": [
-      "Mix all ingredients in a Cambro, shake well, and store in the refrigerator",
+      "Mix all ingredients in a Cambro, stir with a whisk well, ",
+      "Label, date, and store in the refrigerator",
+      "Stir well before adding to the frozen machine or canister.",
+      "**For a Back Up Canister**",
       "In a clean and rinsed-out 5-gallon canister, add all ingredients",
       "Seal the keg and shake well to combine",
       "Hook up to cleaned lines",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
+      "**Cleaning the keg/ Canister**",
+      "Rinse out the canister with hot water,",
       "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, then reconnect",
+      "Disconnect 1 hose at a time. Clean the hose connectors in hot water 1 at a time, shaking them to remove any buildup, then reconnect the clean one",
       "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE"
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -39682,13 +39691,15 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
+      "**Pouring from the Tap instructions**",
       "14oz = 7oz from tap",
       "20oz = 10oz from tap",
       "32oz bucket = 16oz from tap",
       "Fill an appropriate glass or bucket with ice",
       "Fill with batch recipe from the tap",
       "Shake, or roll back and forth, before serving",
-      "Garnish:"
+      "Garnish:",
+      "Lime Wedge"
     ],
     "notes": "",
     "images": []
@@ -39705,13 +39716,15 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
+      "**Pouring from the Tap instructions**",
       "14oz = 7oz from tap",
       "20oz = 10oz from tap",
       "32oz bucket = 16oz from tap",
       "Fill an appropriate glass or bucket with ice",
       "Fill with batch recipe from the tap",
       "Shake, or roll back and forth, before serving",
-      "Garnish:"
+      "Garnish:",
+      "Lime Wedge"
     ],
     "notes": "",
     "images": []
