@@ -79570,7 +79570,9 @@
       "Old Bay Seasoning — sprinkle on top of the shrimp."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muecclkpnh8mgp.jpg"
+    ],
     "active": true,
     "id": "dm-mv-5",
     "masterId": "dm-mv-5-m",
@@ -79624,7 +79626,9 @@
       "Old Bay Seasoning — sprinkle on top of the shrimp."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muecclkpnh8mgp.jpg"
+    ],
     "active": true,
     "id": "dm-sb-5",
     "masterId": "dm-mv-5-m",
@@ -79678,7 +79682,9 @@
       "Old Bay Seasoning — sprinkle on top of the shrimp."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muecclkpnh8mgp.jpg"
+    ],
     "active": true,
     "id": "dm-bh-5",
     "masterId": "dm-mv-5-m",
@@ -93809,7 +93815,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Shrimp portion (4oz)",
+        "name": "Shrimp for Ceviche",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -93845,7 +93851,7 @@
         "qty2": ""
       },
       {
-        "name": "Pickled Fresno Chilis",
+        "name": "Pickled Fresno Peppers",
         "qty": "0.5",
         "unit": "oz-wt",
         "qty2": ""
