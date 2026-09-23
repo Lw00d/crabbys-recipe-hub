@@ -2,11 +2,11 @@
 
 Paste this whole document as your first message in a new chat to resume.
 As of this writing: **2,039 recipes** across **two companies**, latest code
-commit `a458a68`; `data/recipes.json` moves constantly on top of that as
+commit `c6d7ab5`; `data/recipes.json` moves constantly on top of that as
 people save.
 
 **Everything is in the repo.** `index.html`, `worker.js`, `data/recipes.json`,
-the 216-test suite and this document all live in git. A new session can rebuild
+the 166-test suite and this document all live in git. A new session can rebuild
 full context from a checkout — it does not need a chat transcript.
 
 The suite runs from a clean clone: `npm install jsdom && node tests/run-all.mjs`,
@@ -279,109 +279,126 @@ Recorded here because they are not recoverable from the spreadsheets:
 
 ---
 
-## Prep Hub integration — LIVE, all twelve stores
+## Prep Hub integration — handed off 2026-09-23
 
 Jon's BSHG Prep Hub (Cloudflare Worker + D1) handles prep sheets, daily
-counting, par suggestions and yield tests. The Recipe Hub now drives it, so
-staff use one app.
+counting, par suggestions, pull/thaw and yield tests. **Recipe Hub no longer
+renders any of it.** It mints a one-time link and hands the user to the Prep
+Hub's own page, already signed in.
 
-**Architecture: one app, two engines.** Recipes stay in git where version
-history and the merge saves matter. Counts stay in D1 where transactional
-state belongs. The Recipe Hub Worker proxies between them.
+Recipe Hub spent a session building its own sheet against Jon's API. That is
+all deleted. His page has Pull Thaw and yield tests we never built, and gates
+yield-linked items correctly where ours did not. Do not rebuild it.
 
-### How the proxy works
+**Architecture: one app, two engines.** Recipes stay in git, where version
+history and the merge saves matter. Counts stay in D1, where transactional
+state belongs. The two meet at a link, not an API surface.
 
-The browser calls `/prep/<path>` on our Worker. We re-verify the Basic Auth
-credentials against `USERS_JSON`, take the store code **from the login**, and
-forward to the Prep Hub with `X-BSHG-Key` (the shared secret), `X-BSHG-Store`
-and `X-BSHG-Role`. The key never reaches a browser.
+### How the handoff works
 
-**The store scope is structural, not a UI convention.** It is read from the
-authenticated user and never from anything the client can set, so a store
-login physically cannot request another store's data. The all-stores admin may
-name a store, but only one of the nine. Paths are allowlisted, not passed
-through. All of this is covered by `tests/prep_proxy.test.mjs`.
+1. The page POSTs to `/prep/embed/mint` on our Worker (`launchPrepSheet()`).
+2. Our Worker re-verifies the Basic Auth credentials, takes the store code
+   **from the login**, and forwards to
+   `POST {PREP_HUB_BASE}/api/stores/<code>/embed/mint` with `X-BSHG-Key` and
+   `X-BSHG-Store`. Jon added that path as an alias for `/api/embed/mint` so it
+   fits our existing proxy shape.
+3. The Prep Hub returns `{token, url, expiresAt}`.
+4. The page does a **full top-level navigation** to `url`.
 
-`PREP_PATHS` is now exactly the confirmed shapes — the four `index.html` calls
-plus the two the yield UI will need. While counting's real route was unknown
-the allowlist also carried several guesses at it (`prep-days/{date}/count`,
-`/counts`, `/prepped/{id}`); counting turned out to hang off the item, so those
-never carried traffic and were removed on 2026-09-17. A test asserts they stay
-404. Adding an endpoint means adding the one shape it uses, not a family.
+Body is `{"actor_name": "..."}` — the starting value for "Counting as" on the
+Prep Hub's own screen. One login per store, so it is the store name until
+someone changes it there. We no longer prompt for a name.
 
-Both the proxy and the site gate authenticate through the same
-`authenticatedUser()` helper. The gate used to have its own copy with a bare
-`atob()`, which threw on a malformed `Authorization` header instead of
-returning 401.
+**Four things that will break it if you forget them:**
 
-### The endpoints (the id is a PATH segment, never a body field)
+- **The secret must never reach a browser.** It lives in the Worker as
+  `PREP_HUB_KEY`. Minting from page JavaScript would leak it.
+- **Mint at the moment of the click.** The link lasts **2 minutes** and is
+  **single-use**. Never mint in advance, never reuse one.
+- **Top-level navigation, not an iframe.** Safari clears a third-party
+  iframe's storage aggressively enough on iPad to destroy the session the
+  token is exchanged for. `?prep=1` is the bookmarkable way in precisely
+  because a saved Prep Hub link would be a spent token — it re-mints.
+- Once exchanged on first load the browser holds a normal **24-hour session**,
+  so refreshing or backgrounding the iPad is fine.
 
-- On-hand: `PUT /api/stores/{store}/prep-items/{itemId}/count` —
-  body `date, on_hand_qty, usage_qty, counted_by, par_mode`
-- Prepped: `PUT .../prep-items/{itemId}/count/complete` —
-  body `date, prepped_qty, completed_by`
-- Yield test: `POST .../yield-items/{itemId}/tests` —
-  body `test_date, raw_qty, portions[{prep_item_id, portions_qty}], tested_by`
-- Day: `PUT .../prep-days/{date}/start|finish|reopen` — body `started_by` /
-  `completed_by` / `reopened_by`
-- Reads: `GET .../prep-items`, `GET .../prep-days/{date}/status`
+### The proxy now carries exactly one route
 
-**Request bodies are snake_case; responses are camelCase.** Do not assume one
-from the other.
+`PREP_PATHS` in `worker.js` is `[/^embed\/mint$/]`. `prep-items`,
+`prep-days/*` and `yield-items` were removed when the screens were; they were
+only ever reachable because the page called them. `tests/prep_proxy.test.mjs`
+asserts they stay unreachable.
 
-**There is no "finish the counting phase" call.** `/count/complete` is the
-prepped amount for one item. The Prep Hub derives `countingComplete` once every
-item has a count.
+The store scope is still structural: read from the authenticated user, never
+from the request. A store login sends no `store` param at all; only the
+all-stores admin names one, and only from `PREP_STORE_CODES`.
 
-**The par basis rides on the count call.** `par_mode` shares a body with
-`on_hand_qty`, so sending it alone blanks the count. It is held locally and
-sent with the next count; changing it on a counted item re-sends the number.
+### Errors tell you which side failed
 
-### Errors
+Distinct wording on purpose, and it earned its keep the first time the deploy
+was forgotten:
 
-Every error is `{"error": "..."}`. 401 bad key, 400 missing store or actor
-name, 403 unknown store / wrong store / wrong tier, **409 is the two-phase
-gate** — treat it as a state signal and re-render, not as a failure.
+| Message | Side |
+|---|---|
+| `Not allowed by the Recipe Hub proxy: <path>` (404) | **ours** — not in the allowlist |
+| `Unknown or inactive store` (403) | **ours** — login has no `code`, or an unknown one |
+| `Prep Hub is not configured on this Worker` (503) | **ours** — `PREP_HUB_KEY` missing |
+| `Could not reach the Prep Hub` (502) | **ours** — network |
+| anything else, including `Not found` | **Jon's**, passed through verbatim |
+
+### What the embedded session can and cannot do
+
+Every embed session is **staff** tier — a property of the session, not
+something we send. Included: start day, on-hand counts, par mode, prepped
+entry, yield tests, pull thaw, finish day, suggestion basis and layout.
+Excluded: reopening a finished day, yield-test history, past sheets, date
+navigation, and item/recipe/par editing.
+
+This closes the roles gap that used to be here. Our logins carry no role, so
+we used to send everyone as `manager` and every store login could finish and
+reopen a day. The embed session decides now. `PREP_HUB_ROLE` is still read by
+the proxy but no longer reaches anything.
 
 ### Prep sheets are per STORE, recipes are per BOOK
 
-Nine separate prep sheets. Four stores share the CBG book but have 62, 69, 54
-and 60 items with different pars — Calamari is 24 / 6 / 13 across three of
-them, and its pull/thaw flag differs too. Never flatten a prep sheet to a book.
+Twelve separate prep sheets. Four stores share the CBG book but have different
+item counts and different pars — Calamari is 24 / 6 / 13 across three of them,
+and its pull/thaw flag differs too. Never flatten a prep sheet to a book.
 
-### Roles — a known gap
+### Linking items to recipes
 
-Every Recipe Hub login is sent as `manager`, because our logins carry no role.
-Prep Hub restricts **finish** and **reopen** to managers, so today every store
-login can do both. The intended model is store logins counting in the Recipe
-Hub and managers using Prep Hub directly. Closing the gap means adding a
-`role` field to `USERS_JSON`, sending it instead of the current value, and
-hiding those buttons for staff. Deliberately deferred.
+Tapping an item name on the Prep Hub's sheet opens the Recipe Hub recipe. That
+lives in **Jon's** `recipe_hub_url` field now, not ours. All 230 mappings from
+`data/prep-links.json` were imported and verified in September 2026.
 
-The value is not quite hardcoded: the proxy sends `env.PREP_HUB_ROLE ||
-"manager"`, so the Worker can be made to claim a different role for *everyone*
-without a deploy. That is a blunt instrument — it is per-Worker, not per-login —
-and it is not the fix. It is worth knowing the variable exists, because setting
-it would change the role on all nine stores at once.
+`data/prep-links.json` stays in git as the record of what was mapped and why.
+**Nothing reads it.** Do not wire it back up.
 
-### Linking the two datasets
+The URL to send is always `?master=<masterId>` — it resolves to whichever row
+belongs to the viewer's own book, so one URL serves every store that shares the
+recipe. Never `?recipe=<id>`, which is book-specific and would dead-end for a
+store reading a different book.
 
-`data/prep-links.json` maps a Prep Hub `prep_item` id to the Recipe Hub recipe
-id for that store's book — **230 of 559** items. Keyed per item, not per Prep
-Hub recipe, because a Prep Hub recipe is shared across up to 9 stores spanning
-up to 5 books, and those books sometimes hold genuinely different recipes
-(`Pasta Linguine` is Scampi at CBG/CDS/NB and Olive Oil at Palm/SI; `Onion` is
-Onion Rings at CBG and Onion Straws at CDS). Per-item resolves unambiguously.
+**Send Jon one row per item, not per recipe, and let him collapse them.** Our
+export grouped by name-slug and missed that `si-island`'s "Broccoli SI" shares
+a recipe id with the CBG stores' broccoli — only his database knows the real
+recipe ids. He cross-checks against live data before importing.
 
-329 items remain unlinked. Jon classified 117 of them: 51 are raw or portioned
-proteins that were never recipes, 26 match in another book, and **about 40
-genuinely need a human eye**.
+Where one Prep Hub item legitimately maps to different recipes by store —
+`Avocado Mix` / `Avocado (Fresh)` / `Avocado Mix (Salsa)`, or `Onion Rings` at
+CBG versus `Onion Straws` at CDS — a single per-recipe URL cannot serve them.
+Leave those unset rather than pointing a store at the wrong recipe.
+
+**A masterId is now an external identifier.** Merging a divergent linked group
+changes one, which would break any `recipe_hub_url` pointing at the loser. Tell
+Jon before doing linking work, and re-check his imported set afterwards.
 
 ### Deep links
 
 `?master=<masterId>` opens whichever row belongs to **the viewer's own book** —
-one URL works for all nine stores. `?recipe=<id>` opens one exact row. Both are
-gated so a store cannot reach another book.
+one URL works for every store. `?recipe=<id>` opens one exact row. Both are
+gated so a store cannot reach another book, and `applyFiltersFromUrl()` ignores
+`loc=` and `group=` for a store login so a URL cannot widen its scope.
 
 ---
 
@@ -497,7 +514,16 @@ nothing rather than `undefined`.
 secrets, only `env.*` references. Cloudflare is still the thing that actually
 runs it, so editing the repo copy changes nothing until it is pasted into the
 dashboard and deployed — **they can drift, and only a paste closes the gap.**
-Check them against each other before trusting either. Current features:
+Check them against each other before trusting either.
+
+This has bitten twice. `index.html` deploys itself the moment you push, because
+Pages serves it; `worker.js` does not. A change that spans both looks half-done
+in production and the symptom appears in the half you did not change — the
+`embed/mint` route was allowlisted in git for a day while the live Worker
+answered `Not allowed by the Recipe Hub proxy`. **If a commit touches
+`worker.js`, say so and hand over the file.**
+
+Current features:
 
 - `EDIT_PASSWORDS`: a JSON object of label → password. Any one unlocks editing.
   Revoke by deleting the entry. The label goes into the commit message, so
@@ -525,7 +551,11 @@ Check them against each other before trusting either. Current features:
 - **◀ ▶ photo reorder arrows** on each thumbnail (2+ photos). Replaced a
   drag-to-reorder version that was too fiddly on a touchscreen.
 - URL filter params (`?cat=` `?sub=` `?loc=` `?group=`) from an earlier session
-  still work; the Link button is the easy way to build them.
+  still work; the Link button is the easy way to build them. `loc=` and
+  `group=` are **ignored for a store login** — see `tests/urlfilters.test.js`.
+- **📋 Prep Sheet** mints a link and hands off to the Prep Hub; `?prep=1` is
+  the bookmarkable equivalent.
+- **# of Portions** and **Portion** in Details, alongside Yield.
 
 ---
 
@@ -752,10 +782,17 @@ Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
 
 ### Prep Hub follow-ups
 
-1. **Yield tests are not built.** The endpoint is allowlisted and the body
-   shape is known — UI work only.
-2. **Roles** — see the gap above.
-3. **~40 unlinked prep items** need a human decision.
+1. **Recipe links for the rest.** 334 rows were sent to Jon covering every
+   active prep recipe, of which 56 were already linked. Everything else — the
+   136 BSHGRP2 recipes, the ~40 older unlinked items, and the Pasta Linguine
+   Scampi/Olive Oil split — is his to import and cross-check. Send future
+   batches the same way: one row per item, `?master=` URLs, let him collapse.
+2. **Watch masterIds if you do linking work.** They are external identifiers
+   now; merging a divergent group breaks any `recipe_hub_url` pointing at the
+   losing one.
+
+Yield tests and the roles gap are both closed by the handoff — his page does
+them, and the embed session is always staff tier. Do not reopen either.
 
 ### Blocked on you / the SOP
 
@@ -792,10 +829,9 @@ path, `PREP_PATHS` carries only real routes, and both save guards are in place.
 
 ### BSHGRP2 follow-ups
 
-12. **Build `prep-links.json` entries for BSHGRP2.** The three codes are
-    settled and in `PREP_STORE_CODES` as of 2026-09-18, so the proxy works —
-    but ingredient-to-prep-recipe links are per store and BSHGRP2 has none yet.
-    Do this after Jon's prep items exist for the three sites.
+12. **BSHGRP2 recipe links** are in the 334-row file with everything else —
+    see Prep Hub follow-ups. Nothing to build here; `prep-links.json` is a
+    historical record and must not be wired back up.
 13. **Decide whether `mango lime butter` (×2, Mar Vista) should be one recipe**,
     with one renamed to Mango Lime Base.
 14. **27 BSHGRP2 recipes have no method.** Someone who cooks them has to write
