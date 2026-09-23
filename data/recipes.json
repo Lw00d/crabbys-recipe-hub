@@ -82841,7 +82841,9 @@
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Side:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -82930,7 +82932,9 @@
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Side:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83019,7 +83023,9 @@
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Side:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83864,8 +83870,8 @@
       "Salt / Pepper / Lemon Butter For Grilled Shrimp",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Expo:",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
@@ -83952,8 +83958,8 @@
       "Salt / Pepper / Lemon Butter For Grilled Shrimp",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Expo:",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
@@ -84040,8 +84046,8 @@
       "Salt / Pepper / Lemon Butter For Grilled Shrimp",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
+      "Expo:",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
@@ -84118,19 +84124,22 @@
       }
     ],
     "steps": [
-      "Toast the bun with the Clarified Butter.",
-      "Split the Leaf Lettuce Fillet in half.",
-      "Split the Tomato, Sliced in half.",
+      "Toast the bun with the Clarified Butter on flat top",
       "Follow breading procedure using pre-wash and calamari breader",
       "Fried Seafood Procedure",
       "Cook Shrimp and set aside in save-a-day",
-      "Toast roll with clarified butter.",
+      "Split the Leaf Lettuce in half.",
+      "Split the Tomato, Sliced in half.",
       "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
       "Expo:",
-      "Remoulade Sauce — 2 oz ramekin."
+      "Remoulade Sauce — 2 oz ramekin.",
+      "Sides:",
+      "Comes with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueh9t6pt37pd3.jpg"
+    ],
     "active": true,
     "id": "dm-mv-28",
     "masterId": "dm-mv-28-m",
@@ -84200,19 +84209,22 @@
       }
     ],
     "steps": [
-      "Toast the bun with the Clarified Butter.",
-      "Split the Leaf Lettuce Fillet in half.",
-      "Split the Tomato, Sliced in half.",
+      "Toast the bun with the Clarified Butter on flat top",
       "Follow breading procedure using pre-wash and calamari breader",
       "Fried Seafood Procedure",
       "Cook Shrimp and set aside in save-a-day",
-      "Toast roll with clarified butter.",
+      "Split the Leaf Lettuce in half.",
+      "Split the Tomato, Sliced in half.",
       "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
       "Expo:",
-      "Remoulade Sauce — 2 oz ramekin."
+      "Remoulade Sauce — 2 oz ramekin.",
+      "Sides:",
+      "Comes with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueh9t6pt37pd3.jpg"
+    ],
     "active": true,
     "id": "dm-sb-28",
     "masterId": "dm-mv-28-m",
@@ -84282,19 +84294,22 @@
       }
     ],
     "steps": [
-      "Toast the bun with the Clarified Butter.",
-      "Split the Leaf Lettuce Fillet in half.",
-      "Split the Tomato, Sliced in half.",
+      "Toast the bun with the Clarified Butter on flat top",
       "Follow breading procedure using pre-wash and calamari breader",
       "Fried Seafood Procedure",
       "Cook Shrimp and set aside in save-a-day",
-      "Toast roll with clarified butter.",
+      "Split the Leaf Lettuce in half.",
+      "Split the Tomato, Sliced in half.",
       "To Build - Lettuce and tomato split down the bun, then pile shrimp in bun.",
       "Expo:",
-      "Remoulade Sauce — 2 oz ramekin."
+      "Remoulade Sauce — 2 oz ramekin.",
+      "Sides:",
+      "Comes with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueh9t6pt37pd3.jpg"
+    ],
     "active": true,
     "id": "dm-bh-28",
     "masterId": "dm-mv-28-m",
@@ -84378,7 +84393,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-mv-29",
     "masterId": "dm-mv-29-m",
     "location": "Mar Vista"
@@ -94837,7 +94852,9 @@
       "Tartar Sauce — ramekin on expo.",
       "LTO Set — garnish.",
       "Lemon wedge — garnish.",
-      "Pickle - Garnish"
+      "Pickle - Garnish",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [
@@ -94915,7 +94932,7 @@
       "Sour Cream — garnish on top.",
       "Cilantro, Chopped — garnish on top.",
       "Sides:",
-      "Guest chose one regular side"
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -95073,7 +95090,9 @@
       "Guacamole - Garnish",
       "Sliced Tomato - Garnish",
       "Leaf Lettuce - Garnish",
-      "Pickle - Garnish"
+      "Pickle - Garnish",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -95139,8 +95158,9 @@
       "Toast the bun with the Clarified butter.",
       "Season and grill burger to guest temperature.",
       "Add bacon and cheddar to burger and melt.",
-      "Toast bun on flat top, add burger, sell to expo",
-      "Garnish with lettuce, tomato, onion and pickle"
+      "Expo:",
+      "LTO - Garnish",
+      "Pickle - Garnish"
     ],
     "notes": "",
     "images": [],
