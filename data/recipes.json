@@ -80177,7 +80177,9 @@
       "Follow frying procedure for Fried Chicken",
       "Buttermilk / Calamari Breader",
       "Cook Chicken to 165 degress",
-      "Pull out onto save-a-day and plate."
+      "Pull out onto save-a-day and plate.",
+      "Sides:",
+      "Guest chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -80223,7 +80225,9 @@
       "Follow frying procedure for Fried Chicken",
       "Buttermilk / Calamari Breader",
       "Cook Chicken to 165 degress",
-      "Pull out onto save-a-day and plate."
+      "Pull out onto save-a-day and plate.",
+      "Sides:",
+      "Guest chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -80269,7 +80273,9 @@
       "Follow frying procedure for Fried Chicken",
       "Buttermilk / Calamari Breader",
       "Cook Chicken to 165 degress",
-      "Pull out onto save-a-day and plate."
+      "Pull out onto save-a-day and plate.",
+      "Sides:",
+      "Guest chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -80462,14 +80468,14 @@
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter and sell to expo",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80512,14 +80518,14 @@
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter and sell to expo",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80562,14 +80568,14 @@
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter and sell to expo",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80609,17 +80615,23 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as ",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80659,17 +80671,23 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as ",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80709,17 +80727,23 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as ",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
-      "Place crab in \"seasoned crab Pot\" to steam for about 3 minutes or until hot.",
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
       "Remove and place on metal tray.",
-      "Dust with old bay seasoning and sell to expo.",
+      "Brush with lemon butter",
       "Expo:",
       "Clarified Butter — warm, 2 oz ramekin.",
       "Lemon Wedge — garnish.",
       "Old Bay Seasoning — sprinkle as garnish for the crab.",
-      "Mustard sauce — garnish."
+      "Mustard sauce — Ramekin on side"
     ],
     "notes": "",
     "images": [],
@@ -80946,7 +80970,9 @@
       "Heat Crab up in beurre blanc and pour over fish before serving",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Guest chose two regular sides."
     ],
     "notes": "",
     "images": [],
@@ -81008,7 +81034,9 @@
       "Heat Crab up in beurre blanc and pour over fish before serving",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Guest chose two regular sides."
     ],
     "notes": "",
     "images": [],
@@ -81070,7 +81098,9 @@
       "Heat Crab up in beurre blanc and pour over fish before serving",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Guest chose two regular sides."
     ],
     "notes": "",
     "images": [],
@@ -81133,6 +81163,8 @@
     "steps": [
       "Follow tempura battered fish procedure",
       "Calamari Breader then Tempura batter",
+      "Cook one order of fries, using Greek Seasoning",
+      "Lay fries on plate with cooked fish on top. Sell to expo",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
       "Malt Vinegar — 2 oz ramekin.",
@@ -81140,7 +81172,9 @@
       "Chopped parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeonfus820gb.jpg"
+    ],
     "active": true,
     "id": "dm-mv-15",
     "masterId": "dm-mv-15-m",
@@ -81200,6 +81234,8 @@
     "steps": [
       "Follow tempura battered fish procedure",
       "Calamari Breader then Tempura batter",
+      "Cook one order of fries, using Greek Seasoning",
+      "Lay fries on plate with cooked fish on top. Sell to expo",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
       "Malt Vinegar — 2 oz ramekin.",
@@ -81207,7 +81243,9 @@
       "Chopped parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeonfus820gb.jpg"
+    ],
     "active": true,
     "id": "dm-sb-15",
     "masterId": "dm-mv-15-m",
@@ -81267,6 +81305,8 @@
     "steps": [
       "Follow tempura battered fish procedure",
       "Calamari Breader then Tempura batter",
+      "Cook one order of fries, using Greek Seasoning",
+      "Lay fries on plate with cooked fish on top. Sell to expo",
       "Expo:",
       "Tartar Sauce — 2 oz ramekin.",
       "Malt Vinegar — 2 oz ramekin.",
@@ -81274,7 +81314,9 @@
       "Chopped parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeonfus820gb.jpg"
+    ],
     "active": true,
     "id": "dm-bh-15",
     "masterId": "dm-mv-15-m",
@@ -94122,10 +94164,13 @@
       "Add Cream and reduce by half, fold in half the parmesan cheese.",
       "Drop pasta in boiling water, drain and add to sauté pan, toss.",
       "Plate Pasta, Garnish with remaining shaved parm and chopped parsley.",
-      "Served with a side of focaccia bread."
+      "EXPO:",
+      "Focaccia Bread - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueehbca4yujbz.jpg"
+    ],
     "active": true,
     "id": "dm-mv-41",
     "masterId": "dm-mv-41-m",
@@ -94176,7 +94221,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mud2hr5u02goxl.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueemgbiuuerc8.jpg"
     ],
     "active": true,
     "id": "dm-mv-42",
