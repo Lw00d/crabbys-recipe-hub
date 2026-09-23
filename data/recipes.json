@@ -83106,15 +83106,17 @@
       "Blackening Spice / Lemon Butter for Blackened Grouper",
       "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Expo:",
-      "Leaf Lettuce fillets — garnish.",
-      "Tomato, Sliced — garnish.",
-      "Red Onion, Sliced — garnish.",
+      "LTO — garnish.",
       "Pickled Spear — garnish.",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muegb5lexyryn1.jpg"
+    ],
     "active": true,
     "id": "dm-mv-24",
     "masterId": "dm-mv-24-m",
@@ -83198,15 +83200,17 @@
       "Blackening Spice / Lemon Butter for Blackened Grouper",
       "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Expo:",
-      "Leaf Lettuce fillets — garnish.",
-      "Tomato, Sliced — garnish.",
-      "Red Onion, Sliced — garnish.",
+      "LTO — garnish.",
       "Pickled Spear — garnish.",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muegb5lexyryn1.jpg"
+    ],
     "active": true,
     "id": "dm-sb-24",
     "masterId": "dm-mv-24-m",
@@ -83290,15 +83294,17 @@
       "Blackening Spice / Lemon Butter for Blackened Grouper",
       "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Expo:",
-      "Leaf Lettuce fillets — garnish.",
-      "Tomato, Sliced — garnish.",
-      "Red Onion, Sliced — garnish.",
+      "LTO — garnish.",
       "Pickled Spear — garnish.",
       "Tartar Sauce — 2 oz ramekin.",
-      "Lemon Wedge — garnish."
+      "Lemon Wedge — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muegb5lexyryn1.jpg"
+    ],
     "active": true,
     "id": "dm-bh-24",
     "masterId": "dm-mv-24-m",
@@ -83373,17 +83379,15 @@
       "Blackening Procedure",
       "Grilled Chicken Procedure",
       "Fried Seafood Procedure",
-      "Pre-Wash / Calamari Breader for Fried",
-      "Blackening Spice / Lemon Butter for Blackened Grouper",
-      "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Sides: ",
+      "Guests chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83461,17 +83465,15 @@
       "Blackening Procedure",
       "Grilled Chicken Procedure",
       "Fried Seafood Procedure",
-      "Pre-Wash / Calamari Breader for Fried",
-      "Blackening Spice / Lemon Butter for Blackened Grouper",
-      "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Sides: ",
+      "Guests chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83549,17 +83551,15 @@
       "Blackening Procedure",
       "Grilled Chicken Procedure",
       "Fried Seafood Procedure",
-      "Pre-Wash / Calamari Breader for Fried",
-      "Blackening Spice / Lemon Butter for Blackened Grouper",
-      "Salt / Pepper / Lemon Butter For Grilled Grouper",
       "Grill Taco shells to mark and heat up",
       "Taco Build - Shell / Cabbage / Cheese / Protein / Pico / Cream / cilantro",
-      "Expo:",
       "Shredded Cabbage(slaw mix) — 1/2 oz on each taco.",
       "Cilantro Cream (sour cream) — garnish.",
       "Pico de Gallo — garnish.",
       "Micro Cilantro — garnish.",
-      "Lime Wedge — garnish."
+      "Lime Wedge — garnish.",
+      "Sides: ",
+      "Guests chose one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83627,12 +83627,13 @@
     ],
     "steps": [
       "Toast the bun with the Clarified Butter.",
-      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Add lobster meat and sauce/mayo to a mixing bowl to make salad",
       "Toast brioche roll on flat with clarified butter.",
       "To Build - Add spring mix and lobster salad to roll.",
-      "Sprinkle parsley on top for garnish",
       "Expo:",
-      "Pickled Spear — garnish."
+      "Pickled Spear — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83700,12 +83701,13 @@
     ],
     "steps": [
       "Toast the bun with the Clarified Butter.",
-      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Add lobster meat and sauce/mayo to a mixing bowl to make salad",
       "Toast brioche roll on flat with clarified butter.",
       "To Build - Add spring mix and lobster salad to roll.",
-      "Sprinkle parsley on top for garnish",
       "Expo:",
-      "Pickled Spear — garnish."
+      "Pickled Spear — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
@@ -83773,12 +83775,13 @@
     ],
     "steps": [
       "Toast the bun with the Clarified Butter.",
-      "Add lobster meat and sauce/mayo to a mix bowl to make salad",
+      "Add lobster meat and sauce/mayo to a mixing bowl to make salad",
       "Toast brioche roll on flat with clarified butter.",
       "To Build - Add spring mix and lobster salad to roll.",
-      "Sprinkle parsley on top for garnish",
       "Expo:",
-      "Pickled Spear — garnish."
+      "Pickled Spear — garnish.",
+      "Sides:",
+      "Served with one regular side"
     ],
     "notes": "",
     "images": [],
