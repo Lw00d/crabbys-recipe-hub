@@ -89287,12 +89287,6 @@
         "qty2": ""
       },
       {
-        "name": "Pomodoro Sauce",
-        "qty": "4",
-        "unit": "OZ-fl",
-        "qty2": ""
-      },
-      {
         "name": "Pickled Banana Peppers",
         "qty": "2",
         "unit": "OZ-wt",
@@ -89300,13 +89294,25 @@
       },
       {
         "name": "pre wash batter",
-        "qty": "1",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Pomodoro Sauce",
+        "qty": "4",
         "unit": "OZ-fl",
         "qty2": ""
       },
       {
-        "name": "PROD Lemons",
-        "qty": "0.25",
+        "name": "Lemon Wedge",
+        "qty": "1",
         "unit": "Each",
         "qty2": ""
       },
@@ -89315,25 +89321,22 @@
         "qty": "2",
         "unit": "OZ-fl",
         "qty2": ""
-      },
-      {
-        "name": "Calamari Breader",
-        "qty": "5",
-        "unit": "OZ-wt",
-        "qty2": ""
       }
     ],
     "steps": [
       "Grab calamari portion and banana peppers, - then coat in prewash batter.",
       "Strain and coat in calamari breader then fry.",
       "Season with greek seasoning and plate",
+      "Fried seafood procedure",
       "Coriander lime aioli and warm pomodor sauce in ramekin on side",
       "Expo:",
       "Pomodoro Sauce — warm on expo.",
       "PROD Lemons — garnish on top."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufmj3wlnnwsl8.jpg"
+    ],
     "active": true,
     "id": "dm-bh-36",
     "masterId": "dm-bh-36-m",
@@ -89350,13 +89353,13 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mango Salsa",
-        "qty": "2",
-        "unit": "OZ-fl",
+        "name": "Coconut Shrimp",
+        "qty": "6",
+        "unit": "Each",
         "qty2": ""
       },
       {
-        "name": "Sweet Chili Sauce",
+        "name": "Mango Salsa",
         "qty": "2",
         "unit": "OZ-fl",
         "qty2": ""
@@ -89368,27 +89371,25 @@
         "qty2": ""
       },
       {
-        "name": "Lemons",
-        "qty": "0.25",
-        "unit": "Each",
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
         "qty2": ""
       },
       {
-        "name": "Coconut Shrimp",
-        "qty": "6",
+        "name": "Lemon Wedge",
+        "qty": "1",
         "unit": "Each",
         "qty2": ""
       }
     ],
     "steps": [
       "Grab coconut shrimp and fry. Use save a day when it comes out.",
-      "Plate with baby arugula underneath and mango salsa on top.",
-      "Sweet chili sauce on side in ramekin",
+      "Plate with baby arugula underneath and sell to expo.",
       "Expo:",
       "Mango Salsa — garnish on top.",
       "Sweet Chili Sauce — garnish on the side.",
-      "Arugula — garnish underneath.",
-      "Lemons — garnish on top."
+      "Lemon Wedge— garnish on top."
     ],
     "notes": "",
     "images": [],
@@ -89408,7 +89409,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Crab Cake ( 4oz )",
+        "name": "Crab Cakes",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -93564,7 +93565,7 @@
     "location": "Beach House"
   },
   {
-    "name": "Crab Cakes New",
+    "name": "Crab Cakes",
     "category": "Dinner Prep",
     "submenu": "Proteins",
     "yield": "150 OZ-wt",
