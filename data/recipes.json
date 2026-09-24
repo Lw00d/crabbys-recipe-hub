@@ -79847,7 +79847,7 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mued7i21q3jn44.jpg"
     ],
-    "active": true,
+    "active": false,
     "id": "dm-bh-6",
     "masterId": "dm-mv-6-m",
     "location": "Beach House"
@@ -79997,7 +79997,7 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeayinapzus2.jpg"
     ],
-    "active": true,
+    "active": false,
     "id": "dm-bh-7",
     "masterId": "dm-mv-7-m",
     "location": "Beach House"
@@ -80147,7 +80147,7 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mueeansmifd8nw.jpg"
     ],
-    "active": true,
+    "active": false,
     "id": "dm-bh-8",
     "masterId": "dm-mv-8-m",
     "location": "Beach House"
@@ -89228,15 +89228,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Sesame Seed",
-        "qty": "0.1",
+        "name": "PREP BH Brussels",
+        "qty": "10",
         "unit": "OZ-wt",
-        "qty2": ""
-      },
-      {
-        "name": "Sriracha Aioli",
-        "qty": "2",
-        "unit": "OZ-fl",
         "qty2": ""
       },
       {
@@ -89246,9 +89240,15 @@
         "qty2": ""
       },
       {
-        "name": "PREP BH Brussels",
-        "qty": "10",
-        "unit": "OZ-wt",
+        "name": "Sesame Seed",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Sriracha Aioli",
+        "qty": "2",
+        "unit": "OZ-fl",
         "qty2": ""
       }
     ],
@@ -89258,10 +89258,13 @@
       "Add ginger soy sauce to mixing bowl",
       "Drain brussels and toss in sauce.",
       "Plate and garnish with sesame seeds",
+      "Expo:",
       "Sriracha aioli in a 2fl oz ramekin on the side."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufmg386gikhlb.jpg"
+    ],
     "active": true,
     "id": "dm-bh-35",
     "masterId": "dm-bh-35-m",
