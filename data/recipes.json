@@ -89415,34 +89415,41 @@
         "qty2": ""
       },
       {
-        "name": "Lemon Wedge",
-        "qty": "0.25",
-        "unit": "Each",
-        "qty2": ""
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "Spring Mix"
       },
       {
         "name": "Remoulade Sauce",
-        "qty": "2",
+        "qty": "1.5",
         "unit": "OZ-fl",
         "qty2": ""
       },
       {
-        "name": "Micro Cilantro",
+        "name": "Lemon Wedge",
         "qty": "1",
-        "unit": "pinch",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Micro Cilantro",
+        "qty": "as",
+        "unit": "garnish",
         "qty2": ""
       }
     ],
     "steps": [
       "Heat butter on flat top and cook crab cake, golden brown on each side and 145 degrees.",
-      "Plate with remoulade on side, lemon wedge and micro cilantro..",
+      "Place and swish remoulade sauce, plate a bed of spring mix down for the crab cake to set on. ",
       "Expo:",
       "Lemon Wedge — garnish.",
-      "Remoulade Sauce — ramekin on the side.",
       "Micro Cilantro — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufn1cxjl227jf.jpg"
+    ],
     "active": true,
     "id": "dm-bh-38",
     "masterId": "dm-bh-38-m",
