@@ -36167,15 +36167,13 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to the blender and blend completely.",
-      "14oz: Pour into a 14oz glass or logo cup",
-      "20oz: Pour into a 20oz glass or logo cup",
-      "Garnish:",
-      "Cherry",
+      "Pour all other ingredients into a blender; for the correct size drink requested",
+      "Add 1 cup of ice to the blender",
+      "Blend completely, till smooth.",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz: Pour into the Glass or Logo cup",
+      "Garnish:",
+      "Cherry"
     ],
     "notes": "",
     "images": [],
@@ -36234,15 +36232,13 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to the blender and blend completely.",
-      "14oz: Pour into a 14oz glass or logo cup",
-      "20oz: Pour into a 20oz glass or logo cup",
-      "Garnish:",
-      "Cherry",
+      "Pour all other ingredients into a blender; for the correct size drink requested",
+      "Add 1 cup of ice to the blender",
+      "Blend completely, till smooth.",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz: Pour into the Glass or Logo cup",
+      "Garnish:",
+      "Cherry"
     ],
     "notes": "",
     "images": [],
@@ -36301,15 +36297,13 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to the blender and blend completely.",
-      "14oz: Pour into a 14oz glass or logo cup",
-      "20oz: Pour into a 20oz glass or logo cup",
-      "Garnish:",
-      "Cherry",
+      "Pour all other ingredients into a blender; for the correct size drink requested",
+      "Add 1 cup of ice to the blender",
+      "Blend completely, till smooth.",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz: Pour into the Glass or Logo cup",
+      "Garnish:",
+      "Cherry"
     ],
     "notes": "",
     "images": [],
@@ -36368,15 +36362,13 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to the blender and blend completely.",
-      "14oz: Pour into a 14oz glass or logo cup",
-      "20oz: Pour into a 20oz glass or logo cup",
-      "Garnish:",
-      "Cherry",
+      "Pour all other ingredients into a blender; for the correct size drink requested",
+      "Add 1 cup of ice to the blender",
+      "Blend completely, till smooth.",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz: Pour into the Glass or Logo cup",
+      "Garnish:",
+      "Cherry"
     ],
     "notes": "",
     "images": [],
@@ -36435,15 +36427,13 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to the blender and blend completely.",
-      "14oz: Pour into a 14oz glass or logo cup",
-      "20oz: Pour into a 20oz glass or logo cup",
-      "Garnish:",
-      "Cherry",
+      "Pour all other ingredients into a blender; for the correct size drink requested",
+      "Add 1 cup of ice to the blender",
+      "Blend completely, till smooth.",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz: Pour into the Glass or Logo cup",
+      "Garnish:",
+      "Cherry"
     ],
     "notes": "",
     "images": [],
@@ -37229,60 +37219,64 @@
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves",
+        "qty2": "4-6"
       },
       {
         "name": "Cruzan Rum (Well)",
         "qty": "1.5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "2.5"
       },
       {
         "name": "Lime Wedges",
         "qty": "1ea.",
-        "unit": "Muddle"
+        "unit": "Muddle",
+        "qty2": "1ea."
       },
       {
         "name": "Soda Water (Recipes)",
         "qty": "4-5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": "6"
       },
       {
         "name": "Simple Syrup",
         "qty": ".25",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Fresh lime juice",
         "qty": ".5",
-        "unit": "Vol oz"
+        "unit": "Vol oz",
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Garnish",
+        "qty2": "1ea."
       }
     ],
     "steps": [
-      "Put all ingredients except soda water in a shaker",
+      "**14 or 20oz Drink** ",
+      "Put all ingredients except soda water into a shaker",
       "Muddle without shredding the mint",
-      "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
+      "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime and mint leaf",
+      "Lime wedge and mint leaf (in glass)",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "Put mint, lime wedge, and lime juice in a shaker",
-      "Muddle the mint and lime wedge without shredding the mint",
-      "Fill shaker with 14oz cup of ice",
-      "Pour rum over the ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
-      "Garnish:",
-      "Lime and mint leaf",
-      "Glassware:",
-      "20oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "14oz",
+      "label2": "20oz",
+      "count": 2
+    }
   },
   {
     "id": "drm-cbg-4",
@@ -37329,33 +37323,25 @@
         "name": "Fresh lime juice",
         "qty": ".5",
         "unit": "Vol oz",
-        "qty2": "1"
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1ea.",
         "unit": "Garnish",
-        "qty2": "1"
+        "qty2": "1ea."
       }
     ],
     "steps": [
-      "Put all ingredients except soda water in a shaker",
+      "**14 or 20oz Drink** ",
+      "Put all ingredients except soda water into a shaker",
       "Muddle without shredding the mint",
-      "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
+      "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime and mint leaf",
+      "Lime wedge and mint leaf (in glass)",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "Put mint, lime wedge, and lime juice in a shaker",
-      "Muddle the mint and lime wedge without shredding the mint",
-      "Fill shaker with 14oz cup of ice",
-      "Pour rum over the ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
-      "Garnish:",
-      "Lime and mint leaf",
-      "Glassware:",
-      "20oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -37410,33 +37396,25 @@
         "name": "Fresh lime juice",
         "qty": ".5",
         "unit": "Vol oz",
-        "qty2": "1"
+        "qty2": ".5"
       },
       {
         "name": "Lime Wedge",
         "qty": "1ea.",
         "unit": "Garnish",
-        "qty2": "1"
+        "qty2": "1ea."
       }
     ],
     "steps": [
-      "Put all ingredients except soda water in a shaker",
+      "**14 or 20oz Drink** ",
+      "Put all ingredients except soda water into a shaker",
       "Muddle without shredding the mint",
-      "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
+      "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime and mint leaf",
+      "Lime wedge and mint leaf (in glass)",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "Put mint, lime wedge, and lime juice in a shaker",
-      "Muddle the mint and lime wedge without shredding the mint",
-      "Fill shaker with 14oz cup of ice",
-      "Pour rum over the ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
-      "Garnish:",
-      "Lime and mint leaf",
-      "Glassware:",
-      "20oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -39215,12 +39193,15 @@
       }
     ],
     "steps": [
-      "Rim a 20-oz glass",
       "Fill a 20-oz cup with ice halfway",
-      "Add Tequila & Bloody Mary Mix to the shaker tin.",
+      "Add Tequila & Bloody Mary Mix to the shaker tin, give a few good shakes ",
       "Now - Rim the glass if requested",
       "Pour back into the glass",
-      "Slowly flip the Corona and place the bottle in the glass upside down"
+      "Slowly flip the Corona and place the bottle in the glass upside down",
+      "Glassware: ",
+      "20oz Glass or Logo cup",
+      "Garnish:",
+      "Lime Wedge,"
     ],
     "notes": "",
     "images": []
@@ -39258,12 +39239,15 @@
       }
     ],
     "steps": [
-      "Rim a 20-oz glass",
       "Fill a 20-oz cup with ice halfway",
-      "Add Tequila & Bloody Mary Mix to the shaker tin.",
+      "Add Tequila & Bloody Mary Mix to the shaker tin, give a few good shakes ",
       "Now - Rim the glass if requested",
       "Pour back into the glass",
-      "Slowly flip the Corona and place the bottle in the glass upside down"
+      "Slowly flip the Corona and place the bottle in the glass upside down",
+      "Glassware: ",
+      "20oz Glass or Logo cup",
+      "Garnish:",
+      "Lime Wedge,"
     ],
     "notes": "",
     "images": []
@@ -39301,12 +39285,15 @@
       }
     ],
     "steps": [
-      "Rim a 20-oz glass",
       "Fill a 20-oz cup with ice halfway",
-      "Add Tequila & Bloody Mary Mix to the shaker tin.",
+      "Add Tequila & Bloody Mary Mix to the shaker tin, give a few good shakes ",
       "Now - Rim the glass if requested",
       "Pour back into the glass",
-      "Slowly flip the Corona and place the bottle in the glass upside down"
+      "Slowly flip the Corona and place the bottle in the glass upside down",
+      "Glassware: ",
+      "20oz Glass or Logo cup",
+      "Garnish:",
+      "Lime Wedge,"
     ],
     "notes": "",
     "images": []
@@ -39324,7 +39311,7 @@
     "ingredients": [
       {
         "name": "Juice Requested",
-        "qty": "2",
+        "qty": "1",
         "unit": "oz. pour"
       },
       {
@@ -39339,12 +39326,14 @@
       }
     ],
     "steps": [
-      "In a Wine Glass",
-      "FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.",
+      "**FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.**",
+      "In the correct glassware",
       "Add 1oz of Juice requested",
       "Slowly fill with Prosecco, you will have to stop to let foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
@@ -39362,7 +39351,7 @@
     "ingredients": [
       {
         "name": "Juice Requested",
-        "qty": "2",
+        "qty": "1",
         "unit": "oz. pour"
       },
       {
@@ -39377,12 +39366,14 @@
       }
     ],
     "steps": [
-      "In a Wine Glass",
-      "FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.",
+      "**FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.**",
+      "In the correct glassware",
       "Add 1oz of Juice requested",
       "Slowly fill with Prosecco, you will have to stop to let foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
@@ -39400,7 +39391,7 @@
     "ingredients": [
       {
         "name": "Juice Requested",
-        "qty": "2",
+        "qty": "1",
         "unit": "oz. pour"
       },
       {
@@ -39415,12 +39406,14 @@
       }
     ],
     "steps": [
-      "In a Wine Glass",
-      "FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.",
+      "**FLAVOR CHOICES: Natalie's OJ, Mango, Peach, or Strawberry.**",
+      "In the correct glassware",
       "Add 1oz of Juice requested",
       "Slowly fill with Prosecco, you will have to stop to let foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
@@ -45965,9 +45958,12 @@
     "steps": [
       "In a shaker tin, combine Tequila, Margarita mix, and Agave nectar with ice and shake.",
       "Rim 14oz glass or logo cup with salt or sugar.",
+      "Pour into the correct glassware.  ",
+      "Top with Grand Marnier Float",
       "Glassware:",
-      "14oz Glass or logo cup",
-      "Top Shelf Margarita 20oz"
+      "14 or 20oz Glass or Logo cup",
+      "Garnish:",
+      "Rimmed glass, Lime wedge"
     ],
     "notes": "",
     "images": [],
@@ -46022,9 +46018,12 @@
     "steps": [
       "In a shaker tin, combine Tequila, Margarita mix, and Agave nectar with ice and shake.",
       "Rim 14oz glass or logo cup with salt or sugar.",
+      "Pour into the correct glassware.  ",
+      "Top with Grand Marnier Float",
       "Glassware:",
-      "14oz Glass or logo cup",
-      "Top Shelf Margarita 20oz"
+      "14 or 20oz Glass or Logo cup",
+      "Garnish:",
+      "Rimmed glass, Lime wedge"
     ],
     "notes": "",
     "images": [],
@@ -47805,9 +47804,11 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
-      "Then slowly fill with Prosecco; you will have to stop to let the foam settle.",
+      "Add all ingredients and ice into a shaker glass. Shake",
+      "Pour back into the 20oz glass",
+      "Now slowly fill with Prosecco; you will need to stop to let the foam settle before filling the glass.",
       "Garnish:",
+      "Orange Slice",
       "Glassware:",
       "20oz glass or logo cup"
     ],
@@ -47857,9 +47858,11 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
-      "Then slowly fill with Prosecco; you will have to stop to let the foam settle.",
+      "Add all ingredients and ice into a shaker glass. Shake",
+      "Pour back into the 20oz glass",
+      "Now slowly fill with Prosecco; you will need to stop to let the foam settle before filling the glass.",
       "Garnish:",
+      "Orange Slice",
       "Glassware:",
       "20oz glass or logo cup"
     ],
@@ -47935,9 +47938,13 @@
       }
     ],
     "steps": [
-      "Flavors of choice: Orange, Cranberry, Mango, or Peach",
-      "Place the requested Juice in a glass",
-      "Pour Prosecco into a glass"
+      "**Flavors of choice: Orange, Cranberry, Mango, or Peach**",
+      "Place the requested Juice into the glass",
+      "Slowly fill the glass with Prosecco to prevent foaming; you may need to add more to fill the glass",
+      "Glassware:",
+      "Wine, Champagne glass",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
@@ -47970,9 +47977,13 @@
       }
     ],
     "steps": [
-      "Flavors of choice: Orange, Cranberry, Mango, or Peach",
-      "Place the requested Juice in a glass",
-      "Pour Prosecco into a glass"
+      "**Flavors of choice: Orange, Cranberry, Mango, or Peach**",
+      "Place the requested Juice into the glass",
+      "Slowly fill the glass with Prosecco to prevent foaming; you may need to add more to fill the glass",
+      "Glassware:",
+      "Wine, Champagne glass",
+      "Garnish:",
+      "Orange Slice"
     ],
     "notes": "",
     "images": []
@@ -48524,14 +48535,14 @@
       }
     ],
     "steps": [
-      "For the strawberry, replace water with strawberry mix",
-      "For Coco, replace water with coconut cream",
+      "**For the Strawberry, replace water with Strawberry mix. For Coco, replace water with Coconut Cream  **",
       "Pour all ingredients into a shaker with a 14oz cup of ice",
       "Shake vigorously for 5-10 seconds",
       "Rim glass with desired garnish for the rim.",
-      "Pour into a 14oz cup or glass",
+      "Pour into the rimmed 14oz cup or glass",
       "Garnish:",
-      "14 oz glass or logo cup"
+      "Lime wedge, Orange Slice",
+      "Glassware: 14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -48569,14 +48580,14 @@
       }
     ],
     "steps": [
-      "For the strawberry, replace water with strawberry mix",
-      "For Coco, replace water with coconut cream",
+      "**For the Strawberry, replace water with Strawberry mix. For Coco, replace water with Coconut Cream  **",
       "Pour all ingredients into a shaker with a 14oz cup of ice",
       "Shake vigorously for 5-10 seconds",
       "Rim glass with desired garnish for the rim.",
-      "Pour into a 14oz cup or glass",
+      "Pour into the rimmed 14oz cup or glass",
       "Garnish:",
-      "14 oz glass or logo cup"
+      "Lime wedge, Orange Slice",
+      "Glassware: 14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
