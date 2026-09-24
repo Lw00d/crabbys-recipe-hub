@@ -79545,7 +79545,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Peel n Eat Shrimp",
+        "name": "Peel and Eat Shrimp",
         "qty": "12",
         "unit": "Each",
         "qty2": ""
@@ -79601,7 +79601,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Peel n Eat Shrimp",
+        "name": "Peel and Eat Shrimp",
         "qty": "12",
         "unit": "Each",
         "qty2": ""
@@ -79657,7 +79657,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Peel n Eat Shrimp",
+        "name": "Peel and Eat Shrimp",
         "qty": "12",
         "unit": "Each",
         "qty2": ""
@@ -89547,11 +89547,15 @@
       }
     ],
     "steps": [
+      "Place luau bread on lined sheet tray and bake for 4 minutes. ",
+      "Plate in breadbasket",
       "Expo:",
-      "Luau Bread — garnish on the side."
+      "Macadamia Butter — garnish on the side."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufqi6vqpxprno.jpg"
+    ],
     "active": true,
     "id": "dm-bh-40",
     "masterId": "dm-bh-40-m",
@@ -89580,7 +89584,12 @@
         "qty2": ""
       }
     ],
-    "steps": [],
+    "steps": [
+      "Place luau bread on lined sheet tray and bake for 4 minutes.",
+      "Plate in breadbasket.",
+      "Expo:",
+      "Macadamia Butter — garnish on the side."
+    ],
     "notes": "",
     "images": [],
     "active": true,
@@ -89599,13 +89608,19 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grilled Focaccia Bread",
-        "qty": "2",
-        "unit": "Each",
+        "name": "Mussels",
+        "qty": "1",
+        "unit": "LB",
         "qty2": ""
       },
       {
-        "name": "Chopped Parsley",
+        "name": "Shallots (thinly sliced)",
+        "qty": "2",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic, clove (chopped)",
         "qty": "1",
         "unit": "tablespoon",
         "qty2": ""
@@ -89617,15 +89632,15 @@
         "qty2": ""
       },
       {
-        "name": "Butter, unsalted",
-        "qty": "3",
-        "unit": "OZ-wt",
-        "qty2": ""
-      },
-      {
         "name": "White Wine",
         "qty": "4",
         "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Butter, unsalted",
+        "qty": "3",
+        "unit": "OZ-wt",
         "qty2": ""
       },
       {
@@ -89635,39 +89650,41 @@
         "qty2": ""
       },
       {
-        "name": "Garlic, clove (chopped)",
+        "name": "Chopped Parsley",
         "qty": "1",
         "unit": "tablespoon",
         "qty2": ""
       },
       {
-        "name": "Shallots (thinly sliced)",
+        "name": "Grilled Focaccia Bread",
         "qty": "2",
-        "unit": "tablespoon",
+        "unit": "Each",
         "qty2": ""
       },
       {
-        "name": "Mussels",
         "qty": "1",
-        "unit": "LB",
-        "qty2": ""
+        "qty2": "",
+        "unit": "each",
+        "name": "Lemon wedge"
       }
     ],
     "steps": [
-      "Dice the Butter, unsalted.",
       "The Mussels must be cleaned and alive.",
       "Heat oil in pan, begin sauting shallots and garlic.",
       "Add mussels and pepper flakes and continue sauting until pan gets dry.",
       "Deglaze with white wine, add remiaining ingredients and cover.",
       "Cook until mussels just open up, don’t over cook.",
       "Taste to adjust seasoning if needed.",
+      "Grill Station:",
+      "Grilled Focaccia Bread - Garnish on top",
       "Expo:",
-      "Grilled Focaccia Bread — on top for garnish.",
-      "Chopped Parsley — in the dish and on top for garnish.",
-      "A piece of grilled focaccia from grill station — garnish."
+      "Chopped Parsley — Garnish on top",
+      "Lemon Wedge - Garnish on top"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufqqn72qt9hkb.jpg"
+    ],
     "active": true,
     "id": "dm-bh-42",
     "masterId": "dm-bh-42-m",
@@ -89696,18 +89713,21 @@
         "qty2": ""
       },
       {
-        "name": "Spinach Artichoke dip",
+        "name": "Spinach and Artichoke dip",
         "qty": "8",
         "unit": "OZ-wt",
         "qty2": ""
       }
     ],
     "steps": [
-      "Portion warm spinach and artichoke dip cast iron, top with cheese and bake.",
-      "Garnish with Fried tortilla chips on side."
+      "Portion warm spinach and artichoke dip cast iron, top with cheese and bake for 6-7 minutes",
+      "Expo:",
+      "Tortilla Chips - Garnish "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufqy9jzgvap9n.jpg"
+    ],
     "active": true,
     "id": "dm-bh-43",
     "masterId": "dm-bh-43-m",
