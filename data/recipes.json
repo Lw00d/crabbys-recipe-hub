@@ -89468,6 +89468,18 @@
     "smallware": "",
     "ingredients": [
       {
+        "name": "Lamb Meatball",
+        "qty": "7",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Brava Sauce",
+        "qty": "10",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
         "name": "Fried Gabanzo Beans",
         "qty": "0.25",
         "unit": "Cup",
@@ -89490,28 +89502,22 @@
         "qty": "1",
         "unit": "OZ-fl",
         "qty2": ""
-      },
-      {
-        "name": "Brava Sauce",
-        "qty": "10",
-        "unit": "OZ-fl",
-        "qty2": ""
-      },
-      {
-        "name": "Lamb Meatballs",
-        "qty": "7",
-        "unit": "Each",
-        "qty2": ""
       }
     ],
     "steps": [
+      "Place 7 meatballs and brava sauce into small saute pan to cook in the oven. ",
+      "Bake in oven for 10-12 minutes until meatballs are fully reheated. ",
+      "Plate hot meatballs and sauce into cast iron serving dish. ",
       "Expo:",
       "Fried Gabanzo Beans — garnish on top.",
       "Fried Pita Strips — garnish on top.",
-      "Curly Scallions — garnish on top."
+      "Curly Scallions — garnish on top.",
+      "Riata - Garnish on top"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mufq6pp992i2na.jpg"
+    ],
     "active": true,
     "id": "dm-bh-39",
     "masterId": "dm-bh-39-m",
