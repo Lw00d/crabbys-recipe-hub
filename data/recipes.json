@@ -35780,8 +35780,10 @@
       "Build In a Shaker Tin",
       "Add ice, liquors, and margarita mix to tin, shake",
       "Rim the cup as requested",
+      "Garnish:",
+      "Lime wedge ",
       "Glassware:",
-      "14oz logo cup or glass"
+      "14oz Logo cup or Glass"
     ],
     "notes": "",
     "images": []
@@ -37235,22 +37237,16 @@
         "qty2": "1ea."
       },
       {
-        "name": "Soda Water (Recipes)",
-        "qty": "4-5",
-        "unit": "Vol oz",
-        "qty2": "6"
-      },
-      {
         "name": "Simple Syrup",
         "qty": ".25",
         "unit": "Vol oz",
         "qty2": ".5"
       },
       {
-        "name": "Fresh lime juice",
-        "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": ".5"
+        "qty": "4",
+        "qty2": "6",
+        "unit": "Vol oz ",
+        "name": "Soda Water (Recipes)"
       },
       {
         "name": "Lime Wedge",
@@ -37266,7 +37262,7 @@
       "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
       "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime wedge and mint leaf (in glass)",
+      "Lime wedge on rim, and mint leaves, lime muddled (in glass)",
       "Glassware:",
       "14 or 20 oz Glass or Logo cup"
     ],
@@ -37308,22 +37304,16 @@
         "qty2": "1ea."
       },
       {
-        "name": "Soda Water (Recipes)",
-        "qty": "4-5",
-        "unit": "Vol oz",
-        "qty2": "6"
-      },
-      {
         "name": "Simple Syrup",
         "qty": ".25",
         "unit": "Vol oz",
         "qty2": ".5"
       },
       {
-        "name": "Fresh lime juice",
-        "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": ".5"
+        "qty": "4",
+        "qty2": "6",
+        "unit": "Vol oz ",
+        "name": "Soda Water (Recipes)"
       },
       {
         "name": "Lime Wedge",
@@ -37339,7 +37329,7 @@
       "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
       "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime wedge and mint leaf (in glass)",
+      "Lime wedge on rim, and mint leaves, lime muddled (in glass)",
       "Glassware:",
       "14 or 20 oz Glass or Logo cup"
     ],
@@ -37381,22 +37371,16 @@
         "qty2": "1ea."
       },
       {
-        "name": "Soda Water (Recipes)",
-        "qty": "4-5",
-        "unit": "Vol oz",
-        "qty2": "6"
-      },
-      {
         "name": "Simple Syrup",
         "qty": ".25",
         "unit": "Vol oz",
         "qty2": ".5"
       },
       {
-        "name": "Fresh lime juice",
-        "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": ".5"
+        "qty": "4",
+        "qty2": "6",
+        "unit": "Vol oz ",
+        "name": "Soda Water (Recipes)"
       },
       {
         "name": "Lime Wedge",
@@ -37412,7 +37396,7 @@
       "Fill the shaker with a 14 oz cup of ice and shake for 5 to 10 seconds",
       "Pour from the shaker to the correct glass /cup while adding the soda water",
       "Garnish:",
-      "Lime wedge and mint leaf (in glass)",
+      "Lime wedge on rim, and mint leaves, lime muddled (in glass)",
       "Glassware:",
       "14 or 20 oz Glass or Logo cup"
     ],
@@ -38253,9 +38237,9 @@
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
-    "yield": "",
+    "yield": "305 ounces",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "5 Gal Cambro w/Lid ",
     "ingredients": [
       {
         "name": "Dole Pineapple Juice",
@@ -38274,12 +38258,11 @@
       }
     ],
     "steps": [
-      "In a clean and dry 5.5-gallon Cambro, add all the ingredients together.",
+      "In a clean and dry 5-gallon Cambro, add all the ingredients together.",
       "Stir with a whisk to combine",
       "Seal the Cambro, label, date, and store in the refrigerator",
       "** STIR THE CAMBRO BEFORE ADDING THE MIX TO THE FROZEN DRINK MACHINE **",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "5 gallon Cambro = 704 oz."
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -41574,13 +41557,14 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to blender and blend completely",
+      "Pour the Vodka, Kahlua, and Bailey's into a blender",
+      "Add a cup of ice to the blender and blend completely",
       "Drizzle chocolate syrup around the inside of the glass",
       "Pour in correct glassware",
       "Garnish:",
+      "Whipped Cream ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -41623,13 +41607,14 @@
       }
     ],
     "steps": [
-      "Pour all other ingredients into a blender",
-      "Add 1 cup of ice to blender and blend completely",
+      "Pour the Vodka, Kahlua, and Bailey's into a blender",
+      "Add a cup of ice to the blender and blend completely",
       "Drizzle chocolate syrup around the inside of the glass",
       "Pour in correct glassware",
       "Garnish:",
+      "Whipped Cream ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -42195,14 +42180,9 @@
         "unit": "Vol Oz"
       },
       {
-        "name": "Bitters",
-        "qty": "3",
-        "unit": "Dashes"
-      },
-      {
-        "name": "Orange slice",
-        "qty": "1",
-        "unit": "Each"
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "Vol oz"
       },
       {
         "name": "Black Cherry",
@@ -42210,21 +42190,28 @@
         "unit": "Each"
       },
       {
-        "name": "Simple Syrup",
-        "qty": ".25",
-        "unit": "Vol oz"
+        "name": "Bitters",
+        "qty": "3",
+        "unit": "Dashes"
+      },
+      {
+        "name": "Orange slice (for rind)",
+        "qty": "1",
+        "unit": "Ea. Garnish "
       }
     ],
     "steps": [
       "Add ice to a shaker or mixing glass",
       "Add bourbon, simple syrup, bitters, and black cherry",
-      "Stir with bar spoon(do not shake)",
+      "Stir with a bar spoon (do not shake)",
       "Pour into a rocks glass",
-      "Peel orange away from the orange rind(peel,skin)",
+      "Peel orange away from the orange rind ",
       "Rub the outside of the orange peel all around the rim of the glass",
-      "Place the orange peel in side of glass",
+      "Place the orange peel inside the glass",
       "Glassware:",
-      "9oz rocks glass /"
+      "9oz rocks glass ",
+      "Garnish:",
+      "Orange Peel "
     ],
     "notes": "",
     "images": []
@@ -42246,14 +42233,9 @@
         "unit": "Vol Oz"
       },
       {
-        "name": "Bitters",
-        "qty": "3",
-        "unit": "Dashes"
-      },
-      {
-        "name": "Orange slice",
-        "qty": "1",
-        "unit": "Each"
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "Vol oz"
       },
       {
         "name": "Black Cherry",
@@ -42261,21 +42243,28 @@
         "unit": "Each"
       },
       {
-        "name": "Simple Syrup",
-        "qty": ".25",
-        "unit": "Vol oz"
+        "name": "Bitters",
+        "qty": "3",
+        "unit": "Dashes"
+      },
+      {
+        "name": "Orange slice (for rind)",
+        "qty": "1",
+        "unit": "Ea. Garnish "
       }
     ],
     "steps": [
       "Add ice to a shaker or mixing glass",
       "Add bourbon, simple syrup, bitters, and black cherry",
-      "Stir with bar spoon(do not shake)",
+      "Stir with a bar spoon (do not shake)",
       "Pour into a rocks glass",
-      "Peel orange away from the orange rind(peel,skin)",
+      "Peel orange away from the orange rind ",
       "Rub the outside of the orange peel all around the rim of the glass",
-      "Place the orange peel in side of glass",
+      "Place the orange peel inside the glass",
       "Glassware:",
-      "9oz rocks glass /"
+      "9oz rocks glass ",
+      "Garnish:",
+      "Orange Peel "
     ],
     "notes": "",
     "images": []
@@ -42732,12 +42721,6 @@
         "qty2": "2.50"
       },
       {
-        "name": "Soda Water (Recipes)",
-        "qty": "4",
-        "unit": "Vol oz",
-        "qty2": "5"
-      },
-      {
         "name": "Juice Lime Fresh",
         "qty": "0.25",
         "unit": "Vol oz",
@@ -42751,9 +42734,15 @@
       },
       {
         "name": "Strawberry Puree",
-        "qty": "2",
+        "qty": "1",
         "unit": "Vol oz",
         "qty2": "2"
+      },
+      {
+        "qty": "4",
+        "qty2": "5",
+        "unit": "Vol oz ",
+        "name": "Soda Water (Recipes)"
       },
       {
         "name": "Lime Wedge",
@@ -42763,12 +42752,15 @@
       }
     ],
     "steps": [
+      "14 or 20 oz Drink:",
       "Put all ingredients except soda water in a shaker",
       "Muddle without shredding the mint",
       "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Pour from shaker into correct cup while adding the soda water",
+      "Garnish:",
+      "Lime on rim, and Muddled mint & lime ",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -42796,12 +42788,6 @@
         "qty2": "2.50"
       },
       {
-        "name": "Soda Water (Recipes)",
-        "qty": "4",
-        "unit": "Vol oz",
-        "qty2": "5"
-      },
-      {
         "name": "Juice Lime Fresh",
         "qty": "0.25",
         "unit": "Vol oz",
@@ -42815,9 +42801,15 @@
       },
       {
         "name": "Strawberry Puree",
-        "qty": "2",
+        "qty": "1",
         "unit": "Vol oz",
         "qty2": "2"
+      },
+      {
+        "qty": "4",
+        "qty2": "5",
+        "unit": "Vol oz ",
+        "name": "Soda Water (Recipes)"
       },
       {
         "name": "Lime Wedge",
@@ -42827,12 +42819,15 @@
       }
     ],
     "steps": [
+      "14 or 20 oz Drink:",
       "Put all ingredients except soda water in a shaker",
       "Muddle without shredding the mint",
       "Fill shaker with 14oz cup of ice and shake",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Pour from shaker into correct cup while adding the soda water",
+      "Garnish:",
+      "Lime on rim, and Muddled mint & lime ",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -43022,17 +43017,17 @@
       {
         "name": "Lemon Wedges",
         "qty": "1",
-        "unit": "Muddle"
+        "unit": " ea. Muddle"
       },
       {
         "name": "Strawberries (IQF)",
         "qty": "1.0",
-        "unit": "Weight oz"
+        "unit": "Weight oz Muddle"
       },
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves Muddle"
       },
       {
         "name": "Agave Nectar",
@@ -43055,8 +43050,9 @@
       "Pour in a 14-oz cup of ice, the Cruzan Silver, and fill to the top of the ice with lemonade.",
       "Shake strongly and pour into 14 oz glass or plastic cup.",
       "Garnish:",
+      "Muddle and Lemon wedge ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -43085,17 +43081,17 @@
       {
         "name": "Lemon Wedges",
         "qty": "1",
-        "unit": "Muddle"
+        "unit": " ea. Muddle"
       },
       {
         "name": "Strawberries (IQF)",
         "qty": "1.0",
-        "unit": "Weight oz"
+        "unit": "Weight oz Muddle"
       },
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves"
+        "unit": "Leaves Muddle"
       },
       {
         "name": "Agave Nectar",
@@ -43118,8 +43114,9 @@
       "Pour in a 14-oz cup of ice, the Cruzan Silver, and fill to the top of the ice with lemonade.",
       "Shake strongly and pour into 14 oz glass or plastic cup.",
       "Garnish:",
+      "Muddle and Lemon wedge ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -43877,9 +43874,9 @@
       "Twist the zest over the glass and place it in the glass.",
       "Place one cherry in the glass.",
       "Garnish:",
-      "cherry, orange zest",
+      "Cherry, Orange Zest",
       "Glassware:",
-      "9 oz. Rock glass"
+      "9 oz. Rock Glass"
     ],
     "notes": "",
     "images": []
@@ -46929,7 +46926,7 @@
   {
     "id": "drm-cbg-79",
     "masterId": "drm-painkiller14-20-32oz-m",
-    "name": "Painkiller14, 20 & 32oz",
+    "name": "Painkiller 14, 20, 32oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46945,13 +46942,6 @@
         "qty3": "3"
       },
       {
-        "name": "Planteray Dark",
-        "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": ".5",
-        "qty3": "1"
-      },
-      {
         "name": "Orange Juice",
         "qty": "1",
         "unit": "Vol oz",
@@ -46973,6 +46963,20 @@
         "qty3": "2"
       },
       {
+        "name": "Planteray Dark (Float)",
+        "qty": ".5",
+        "unit": "Vol oz (Float)",
+        "qty2": ".5",
+        "qty3": "1"
+      },
+      {
+        "name": "Nutmeg (Sprinkle)",
+        "qty": "Top",
+        "unit": "Sprinkle",
+        "qty2": "Top",
+        "qty3": "Top"
+      },
+      {
         "name": "Orange Slice",
         "qty": "1",
         "unit": "Garnish",
@@ -46985,26 +46989,16 @@
         "unit": "Garnish",
         "qty2": "1",
         "qty3": "1"
-      },
-      {
-        "name": "Nutmeg",
-        "qty": "Top",
-        "unit": "Sprinkle",
-        "qty2": "Top",
-        "qty3": "Top"
       }
     ],
     "steps": [
-      "Pour all ingredients into a shaker tin with a scoop of ice and shake vigorously",
+      "** 14, 20, 32oz**",
+      "Pour the top 4 ingredients into a shaker tin with a scoop of ice and shake vigorously",
       "Pour into correct glassware",
-      "Garnish:",
+      "Top with Planteray Float",
       "Glassware:",
-      "14oz glass or logo cup",
-      "Pour all ingredients into a shaker tin with a scoop of ice and shake vigorously",
-      "Pour into correct glassware",
-      "Pour all ingredients into a shaker and shake vigorously",
-      "Pour into a bucket filled with Ice",
-      "Served 14 or 20oz"
+      "14 or 20oz Glass or Logo cup",
+      "Bucket: Fill with ice, roll back and forth with the tin "
     ],
     "notes": "",
     "images": [],
@@ -47018,7 +47012,7 @@
   {
     "id": "drm-cds-78",
     "masterId": "drm-painkiller14-20-32oz-m",
-    "name": "Painkiller14, 20 & 32oz",
+    "name": "Painkiller 14, 20, 32oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -47034,13 +47028,6 @@
         "qty3": "3"
       },
       {
-        "name": "Planteray Dark",
-        "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": ".5",
-        "qty3": "1"
-      },
-      {
         "name": "Orange Juice",
         "qty": "1",
         "unit": "Vol oz",
@@ -47062,6 +47049,20 @@
         "qty3": "2"
       },
       {
+        "name": "Planteray Dark (Float)",
+        "qty": ".5",
+        "unit": "Vol oz (Float)",
+        "qty2": ".5",
+        "qty3": "1"
+      },
+      {
+        "name": "Nutmeg (Sprinkle)",
+        "qty": "Top",
+        "unit": "Sprinkle",
+        "qty2": "Top",
+        "qty3": "Top"
+      },
+      {
         "name": "Orange Slice",
         "qty": "1",
         "unit": "Garnish",
@@ -47074,26 +47075,16 @@
         "unit": "Garnish",
         "qty2": "1",
         "qty3": "1"
-      },
-      {
-        "name": "Nutmeg",
-        "qty": "Top",
-        "unit": "Sprinkle",
-        "qty2": "Top",
-        "qty3": "Top"
       }
     ],
     "steps": [
-      "Pour all ingredients into a shaker tin with a scoop of ice and shake vigorously",
+      "** 14, 20, 32oz**",
+      "Pour the top 4 ingredients into a shaker tin with a scoop of ice and shake vigorously",
       "Pour into correct glassware",
-      "Garnish:",
+      "Top with Planteray Float",
       "Glassware:",
-      "14oz glass or logo cup",
-      "Pour all ingredients into a shaker tin with a scoop of ice and shake vigorously",
-      "Pour into correct glassware",
-      "Pour all ingredients into a shaker and shake vigorously",
-      "Pour into a bucket filled with Ice",
-      "Served 14 or 20oz"
+      "14 or 20oz Glass or Logo cup",
+      "Bucket: Fill with ice, roll back and forth with the tin "
     ],
     "notes": "",
     "images": [],
@@ -47157,7 +47148,9 @@
       "Pour into the correct glassware",
       "Sprinkle Nutmeg on top",
       "Garnish:",
-      "Orange and Cherry"
+      "Orange and Cherry",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -47215,7 +47208,9 @@
       "Pour into the correct glassware",
       "Sprinkle Nutmeg on top",
       "Garnish:",
-      "Orange and Cherry"
+      "Orange and Cherry",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -47654,8 +47649,9 @@
       "Pour into a 14oz logo cup",
       "Top with Sierra Mist",
       "Garnish:",
+      "Orange Slice",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -47674,32 +47670,27 @@
       {
         "name": "Vodka (well)",
         "qty": "1.5",
-        "unit": "Vol oz",
-        "qty2": "2"
+        "unit": "Vol oz"
       },
       {
         "name": "Triple Sec.",
         "qty": ".5",
-        "unit": "Vol oz",
-        "qty2": "0.75"
+        "unit": "Vol oz"
       },
       {
         "name": "Natalie's OJ",
         "qty": "4",
-        "unit": "Vol oz",
-        "qty2": "6"
+        "unit": "Vol oz"
       },
       {
         "name": "Starry Lemon Lime Bib",
         "qty": "1",
-        "unit": "Vol oz",
-        "qty2": "1.5"
+        "unit": "Vol oz"
       },
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish",
-        "qty2": "1"
+        "unit": "Garnish"
       }
     ],
     "steps": [
@@ -47709,8 +47700,9 @@
       "Pour into a 14oz logo cup",
       "Top with Sierra Mist",
       "Garnish:",
+      "Orange Slice",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -48694,7 +48686,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -48733,10 +48725,11 @@
       "Put all ingredients except soda water in a shaker",
       "Fill shaker with 14oz cup of ice and shake",
       "Rim the glass Agave & toasted coconut",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Pour from the shaker into a 14 oz cup while adding the soda water",
       "Garnish:",
+      "Coconut rim, muddled lime and mint",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -48753,7 +48746,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -48792,10 +48785,11 @@
       "Put all ingredients except soda water in a shaker",
       "Fill shaker with 14oz cup of ice and shake",
       "Rim the glass Agave & toasted coconut",
-      "Pour from shaker to 14oz cup while adding the soda water",
+      "Pour from the shaker into a 14 oz cup while adding the soda water",
       "Garnish:",
+      "Coconut rim, muddled lime and mint",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -48812,7 +48806,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe Mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -48820,6 +48814,11 @@
         "name": "Mint",
         "qty": "4-6",
         "unit": "Leaves/ Garnish"
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "Garnish"
       },
       {
         "name": "Strawberry Puree",
@@ -48830,17 +48829,15 @@
         "name": "Soda Water (Recipes)",
         "qty": "1",
         "unit": "Vol oz"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Garnish"
       }
     ],
     "steps": [
       "Put all ingredients except soda water in a shaker",
+      "Muddle without shredding the mint",
       "Fill shaker with 14oz cup of ice and shake",
       "Pour from shaker to 14oz cup while adding the soda water",
+      "Garnish:",
+      "Muddled mint and lime",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -48859,7 +48856,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe Mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -48867,6 +48864,11 @@
         "name": "Mint",
         "qty": "4-6",
         "unit": "Leaves/ Garnish"
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "Garnish"
       },
       {
         "name": "Strawberry Puree",
@@ -48877,17 +48879,15 @@
         "name": "Soda Water (Recipes)",
         "qty": "1",
         "unit": "Vol oz"
-      },
-      {
-        "name": "Lime Wedge",
-        "qty": "1",
-        "unit": "Garnish"
       }
     ],
     "steps": [
       "Put all ingredients except soda water in a shaker",
+      "Muddle without shredding the mint",
       "Fill shaker with 14oz cup of ice and shake",
       "Pour from shaker to 14oz cup while adding the soda water",
+      "Garnish:",
+      "Muddled mint and lime",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -49024,7 +49024,7 @@
         "unit": "Leaves/ Garnish"
       },
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "3",
         "unit": "Vol oz"
       },
@@ -49047,7 +49047,7 @@
       "Garnish:",
       "Lime and a Blackberry",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -49074,7 +49074,7 @@
         "unit": "Leaves/ Garnish"
       },
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "3",
         "unit": "Vol oz"
       },
@@ -49097,7 +49097,7 @@
       "Garnish:",
       "Lime and a Blackberry",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -49114,7 +49114,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -49126,22 +49126,12 @@
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves/Garnish"
-      },
-      {
-        "name": "Lime Wedges",
-        "qty": "1",
-        "unit": "Each"
+        "unit": "Leaves/ muddle"
       },
       {
         "name": "Lemon Wedges (Prep)",
         "qty": "1ea.",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Lemon Wedges",
-        "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Muddle/Garnish"
       },
       {
         "name": "Strawberries (IQF)",
@@ -49152,6 +49142,11 @@
         "name": "Soda Water",
         "qty": "1",
         "unit": "Vol oz"
+      },
+      {
+        "name": "Lime Wedges",
+        "qty": "1ea.",
+        "unit": "Garnish"
       }
     ],
     "steps": [
@@ -49159,6 +49154,7 @@
       "Fill shaker with 14oz cup of ice and shake",
       "Pour from shaker to 14oz cup while adding the soda water",
       "Garnish:",
+      "Muddled items and Lime Wedge",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -49177,7 +49173,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe mojito",
+        "name": "Ripe Mojito mix",
         "qty": "4",
         "unit": "Vol oz"
       },
@@ -49189,22 +49185,12 @@
       {
         "name": "Mint",
         "qty": "4-6",
-        "unit": "Leaves/Garnish"
-      },
-      {
-        "name": "Lime Wedges",
-        "qty": "1",
-        "unit": "Each"
+        "unit": "Leaves/ muddle"
       },
       {
         "name": "Lemon Wedges (Prep)",
         "qty": "1ea.",
-        "unit": "Garnish"
-      },
-      {
-        "name": "Lemon Wedges",
-        "qty": "1ea.",
-        "unit": "Garnish"
+        "unit": "Muddle/Garnish"
       },
       {
         "name": "Strawberries (IQF)",
@@ -49215,6 +49201,11 @@
         "name": "Soda Water",
         "qty": "1",
         "unit": "Vol oz"
+      },
+      {
+        "name": "Lime Wedges",
+        "qty": "1ea.",
+        "unit": "Garnish"
       }
     ],
     "steps": [
@@ -49222,6 +49213,7 @@
       "Fill shaker with 14oz cup of ice and shake",
       "Pour from shaker to 14oz cup while adding the soda water",
       "Garnish:",
+      "Muddled items and Lime Wedge",
       "Glassware:",
       "14oz glass or logo cup"
     ],
@@ -49463,11 +49455,6 @@
         "unit": "Muddle/ Garnish"
       },
       {
-        "name": "Lemon Wedges",
-        "qty": "1",
-        "unit": "Muddle/ Garnish"
-      },
-      {
         "name": "Strawberries (IQF)",
         "qty": "1.0",
         "unit": "Weight oz"
@@ -49479,12 +49466,13 @@
       }
     ],
     "steps": [
-      "In a mixing cup, muddle the strawberry, mint, lemon wedge, and Ripe mojito",
-      "Pour in a 14 oz cup of ice, fill to top of ice with lemonade.",
-      "Shake strongly and pour into 14 oz glass or plastic cup.",
+      "In a shaker tin, muddle the strawberry, mint, lemon wedge, and Ripe mojito",
+      "Shake strongly and pour into a 14 oz cup.",
+      "Pour into a 14 oz cup filled with ice, then fill to the top with lemonade.",
       "Garnish:",
+      "Muddled Mint and Lemon wedge",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -49516,11 +49504,6 @@
         "unit": "Muddle/ Garnish"
       },
       {
-        "name": "Lemon Wedges",
-        "qty": "1",
-        "unit": "Muddle/ Garnish"
-      },
-      {
         "name": "Strawberries (IQF)",
         "qty": "1.0",
         "unit": "Weight oz"
@@ -49532,12 +49515,13 @@
       }
     ],
     "steps": [
-      "In a mixing cup, muddle the strawberry, mint, lemon wedge, and Ripe mojito",
-      "Pour in a 14 oz cup of ice, fill to top of ice with lemonade.",
-      "Shake strongly and pour into 14 oz glass or plastic cup.",
+      "In a shaker tin, muddle the strawberry, mint, lemon wedge, and Ripe mojito",
+      "Shake strongly and pour into a 14 oz cup.",
+      "Pour into a 14 oz cup filled with ice, then fill to the top with lemonade.",
       "Garnish:",
+      "Muddled Mint and Lemon wedge",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -50495,7 +50479,7 @@
       {
         "name": "Grenadine",
         "qty": ".25",
-        "unit": "oz. Pour"
+        "unit": "oz. Pour Float"
       },
       {
         "name": "Orange Slice",
@@ -50514,7 +50498,9 @@
       "Transfer to a shaker tin, shake well",
       "Grenadine floats on top",
       "Garnish:",
-      "cherry and orange slice"
+      "Cherry and Orange slice",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -50644,16 +50630,11 @@
       "Pour all ingredients into a shaker and shake vigorously",
       "Pour into the correct glassware",
       "Top with the floater",
+      "Glassware:",
+      "14oz Glass or Logo cup",
+      "32oz Bucket: fill with ice and roll back and forth with a shaker tin ",
       "Garnish:",
-      "Sprinkle of Nutmeg, Orange and Cherry",
-      "Glassware:",
-      "14oz glass",
-      "32oz Bucket: Pour all ingredients into a shaker and shake vigorously",
-      "Fill the bucket with ice",
-      "Pour into the bucket",
-      "Top with the float",
-      "Glassware:",
-      "32oz bucket"
+      "Sprinkle of Nutmeg, Orange and Cherry"
     ],
     "notes": "",
     "images": [],
@@ -50818,6 +50799,12 @@
         "unit": "Vol oz"
       },
       {
+        "qty": ".25",
+        "qty2": ".50",
+        "unit": "Vol oz",
+        "name": "Simple Syrup"
+      },
+      {
         "name": "Lime Wedges",
         "qty": "2 ea.",
         "qty2": "3 ea.",
@@ -50828,32 +50815,18 @@
         "qty": "4",
         "qty2": "6",
         "unit": "Vol oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": ".25",
-        "qty2": ".5",
-        "unit": "Vol oz"
       }
     ],
     "steps": [
-      "14oz: Put all ingredients except soda water in a shaker",
+      "14 or 20 oz Drink:",
+      "Put all ingredients except soda water in a shaker",
       "Muddle without shredding the mint",
       "Fill shaker with ice and shake",
       "Pour from shaker to cup while adding the soda water",
       "Garnish:",
-      "muddled Lime & mint",
+      "Muddled Lime & Mint",
       "Glassware:",
-      "14oz glass or logo cup",
-      "20oz: Put mint, lime wedge, and lime juice in a shaker",
-      "Muddle the mint and lime wedge without shredding the mint",
-      "Fill the shaker with a cup of ice",
-      "Pour rum over the ice and shake",
-      "Pour from the shaker to cup while adding the soda water",
-      "Garnish:",
-      "muddled lime & mint",
-      "Glassware:",
-      "20oz glass or logo cup"
+      "14 or 20 oz glass or logo cup"
     ],
     "notes": "",
     "images": [],
@@ -51431,9 +51404,11 @@
       "In a blender, add Hornitos Tequila, triple sec, and mango mix",
       "Add 1 cup of Ice, blend till smooth",
       "Pour the Strawberry mix into the bottom of the 14-oz glass",
-      "From the blender, pour the mixture over the strawberry mix slowly; you want this to be separated.",
+      "**From the blender, slowly pour the mixture over the strawberry mix; you want them to stay separate.**",
       "Garnish:",
-      "Cherry, & Orange slice"
+      "Cherry, & Orange slice",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -52338,14 +52313,14 @@
       }
     ],
     "steps": [
-      "Add a scoop of ice to the shaker/glass.",
-      "Pour all ingredients and shake vigorously",
-      "14oz: Pour into 14oz glass",
-      "32oz: Fill the bucket with ice, pour into the bucket",
+      "**14 and 32oz Drink**",
+      "Add a scoop of ice to the shaker tin.",
+      "Pour all ingredients for the correct drink size, then shake vigorously",
+      "Glassware:",
+      "14oz: Pour into Glass or Logo cup",
+      "32oz Bucket - Fill bucket with ice and roll back and forth with the shaker tin",
       "Garnish:",
-      "Sprinkle of Nutmeg, Orange and Cherry",
-      "14oz: 14oz glass",
-      "32oz: 32oz bucket"
+      "Sprinkle with nutmeg, add an orange slice, and a cherry"
     ],
     "notes": "",
     "images": [],
@@ -53243,7 +53218,7 @@
       {
         "name": "Filthy Black Cherry",
         "qty": "1",
-        "unit": "Each Garnish"
+        "unit": "Ea. Garnish"
       }
     ],
     "steps": [
@@ -53251,7 +53226,9 @@
       "Combine ingredients with ice in a shaker",
       "Shake and pour into a 12-oz glass",
       "Glassware:",
-      "12oz glass with Sugar rim"
+      "12oz Glass or Logo cup",
+      "Garnish:",
+      "Sugar rim, Black Cherry"
     ],
     "notes": "",
     "images": []
@@ -53297,8 +53274,9 @@
       "Combine mint, cream of coco, lime, and Ripe mojito with ice in a shaker",
       "Shake and pour into a 12-oz glass",
       "Garnish:",
+      "Mint and lime in glass",
       "Glassware:",
-      "14oz logo cup or glass"
+      "12oz Logo cup or Glass"
     ],
     "notes": "",
     "images": []
@@ -53400,7 +53378,9 @@
       "Add ice and Ripe Mojito Mix to the shaker and shake",
       "Pour into a 12-oz glass and float with Club soda",
       "Garnish:",
-      "Lime Wedge and Blackberry"
+      "Lime Wedge and Blackberry",
+      "Glassware:",
+      "12oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -60504,7 +60484,7 @@
       {
         "name": "Orange Slice",
         "qty": "1",
-        "unit": "Garnish"
+        "unit": "Ea. Garnish"
       }
     ],
     "steps": [
@@ -60514,8 +60494,9 @@
       "Pour into a 14-oz logo cup/glass",
       "Top with Sierra Mist",
       "Garnish:",
+      "Orange Slice ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
