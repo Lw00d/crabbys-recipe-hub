@@ -37196,13 +37196,16 @@
       }
     ],
     "steps": [
-      "First, fill the glass with ice, then",
-      "Fill the glass from the tap",
+      "**Tap Pour**",
+      "First, fill the glass with ice, then fill it from the tap ",
+      "**Made by Hand**",
+      "Add a cup of Ice to a tin ",
+      "Add Rum, Dragon fruit, Pineapple, OJ and Cranberry  ",
+      "Shake and pour back into correct glassware ",
       "Glassware:",
-      "14oz logo cup or glass",
+      "14oz Logo cup or Glass",
       "Garnish:",
-      "Orange slice, cherry",
-      "14oz glass filled with ice = 7oz pour from tap"
+      "Orange slice, Cherry"
     ],
     "notes": "",
     "images": []
@@ -37936,9 +37939,9 @@
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
-    "yield": "",
+    "yield": "549 oz ",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "5.5 gal. Cambro, Lid ",
     "ingredients": [
       {
         "name": "Monnin Dragon Fruit",
@@ -37947,16 +37950,16 @@
       },
       {
         "name": "Rum Well (Cruzan Silver)",
-        "qty": "4 Or 5",
-        "unit": "Liter bottles or 750ml btl"
+        "qty": "4 OR 5",
+        "unit": "Liters or 750 ml btl"
       },
       {
-        "name": "Langers Orange Juice 32oz",
-        "qty": "6",
+        "name": "Langer's Orange Juice 32oz",
+        "qty": "6ea",
         "unit": "Quarts"
       },
       {
-        "name": "Langers Cranberry Juice 32oz",
+        "name": "Langer's Cranberry Juice 32oz",
         "qty": "3ea",
         "unit": "Quarts"
       },
@@ -37970,9 +37973,9 @@
       "In a clean and dry 5.5-gallon Cambro, add all the ingredients together.",
       "Stir with a whisk to combine",
       "Seal the Cambro, label, date, and store in the refrigerator",
-      "** STIR THE CAMBRO BEFORE ADDING THE MIX TO THE FROZEN DRINK MACHINE **",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "5 gallon cambro = 704 oz."
+      "**STIR THE CAMBRO BEFORE ADDING THE MIX TO THE FROZEN DRINK MACHINE**",
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**",
+      "5 gallon Cambro holds = 640 oz."
     ],
     "notes": "",
     "images": []
@@ -38100,7 +38103,7 @@
     "submenu": "Batches / Bar Prep",
     "yield": "5.36 gals.",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "5.5 gal Cambro and Lid",
     "ingredients": [
       {
         "name": "Water (Recipes)",
@@ -38128,8 +38131,7 @@
       "Stir with a whisk to combine",
       "Seal the Cambro, label, date, and store in the refrigerator",
       "** STIR THE CAMBRO BEFORE ADDING THE MIX TO THE FROZEN DRINK MACHINE **",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "5 gallon cambro = 704 oz."
+      "**THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -39897,7 +39899,7 @@
   {
     "id": "drm-cbg-17",
     "masterId": "drm-pina-colada-m",
-    "name": "Pina Colada",
+    "name": "Pina Colada 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -39926,12 +39928,14 @@
       {
         "name": "Agave",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Coconut Flakes",
-        "qty": "",
-        "unit": "Rimming"
+        "qty": "-",
+        "unit": "Rimming",
+        "qty2": "-"
       },
       {
         "name": "Planteray Dark Rum",
@@ -39953,19 +39957,15 @@
       }
     ],
     "steps": [
-      "Put ice and all ingredients in the blender and blend.",
+      "**14, 20 oz Drink**",
+      "Add ice and all ingredients to the blender and blend thoroughly.",
       "Dip the glass in agave, then in coconut to rim the glass",
-      "Pour from blender to 14oz cup/glass",
+      "Pour from the blender into the correct Glassware",
       "Top with dark rum floater.",
       "Garnish:",
+      " Cherry, (Dollop Whipped Cream on 20oz only)",
       "Glassware:",
-      "14oz glass or 14oz logo cup",
-      "Put ice and all ingredients in a blender and blend till smooth.",
-      "After blending, add dark Rum floater.",
-      "Garnish:",
-      "Cherry, Coconut rim",
-      "Glassware:",
-      "14oz glass or Logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -39978,7 +39978,7 @@
   {
     "id": "drm-cds-18",
     "masterId": "drm-pina-colada-m",
-    "name": "Pina Colada",
+    "name": "Pina Colada 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -40007,12 +40007,14 @@
       {
         "name": "Agave",
         "qty": "Wet",
-        "unit": "Rim"
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Coconut Flakes",
-        "qty": "",
-        "unit": "Rimming"
+        "qty": "-",
+        "unit": "Rimming",
+        "qty2": "-"
       },
       {
         "name": "Planteray Dark Rum",
@@ -40034,19 +40036,15 @@
       }
     ],
     "steps": [
-      "Put ice and all ingredients in the blender and blend.",
+      "**14, 20 oz Drink**",
+      "Add ice and all ingredients to the blender and blend thoroughly.",
       "Dip the glass in agave, then in coconut to rim the glass",
-      "Pour from blender to 14oz cup/glass",
+      "Pour from the blender into the correct Glassware",
       "Top with dark rum floater.",
       "Garnish:",
+      " Cherry, (Dollop Whipped Cream on 20oz only)",
       "Glassware:",
-      "14oz glass or 14oz logo cup",
-      "Put ice and all ingredients in a blender and blend till smooth.",
-      "After blending, add dark Rum floater.",
-      "Garnish:",
-      "Cherry, Coconut rim",
-      "Glassware:",
-      "14oz glass or Logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -40059,7 +40057,7 @@
   {
     "id": "drm-cbg-18",
     "masterId": "drm-perfect-pina-colada-m",
-    "name": "Perfect Pina Colada",
+    "name": "Perfect Pina Colada 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -40093,9 +40091,9 @@
       },
       {
         "name": "Coconut Flakes",
-        "qty": "",
-        "unit": "Rimming/ Garnish",
-        "qty2": "Rimming/ Garnish"
+        "qty": "Rim",
+        "unit": "Garnish",
+        "qty2": "Rim"
       },
       {
         "name": "Planteray Dark Rum",
@@ -40111,13 +40109,16 @@
       }
     ],
     "steps": [
-      "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
-      "Add 1 cup of Ice and blend thoroughly",
+      "**14 and 20 oz Drink**",
+      "Add Ice, Cruzan Spiced Rum, Coco Lopez, and Pineapple juice to the Blender Cup",
+      "Blend thoroughly",
       "Wet rim with agave and toasted coconut",
-      "Pour mixed drink into a 14-oz glass",
-      "Float with Planteray Rum",
+      "Pour the mixed drink into the correct glassware",
+      "Top with a Float of Planteray Rum",
       "Garnish:",
-      "Cherry, Coconut rim"
+      "Cherry, Coconut rim",
+      "Glassware:",
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -40130,7 +40131,7 @@
   {
     "id": "drm-cds-19",
     "masterId": "drm-perfect-pina-colada-m",
-    "name": "Perfect Pina Colada",
+    "name": "Perfect Pina Colada 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -40164,9 +40165,9 @@
       },
       {
         "name": "Coconut Flakes",
-        "qty": "",
-        "unit": "Rimming/ Garnish",
-        "qty2": "Rimming/ Garnish"
+        "qty": "Rim",
+        "unit": "Garnish",
+        "qty2": "Rim"
       },
       {
         "name": "Planteray Dark Rum",
@@ -40182,13 +40183,16 @@
       }
     ],
     "steps": [
-      "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
-      "Add 1 cup of Ice and blend thoroughly",
+      "**14 and 20 oz Drink**",
+      "Add Ice, Cruzan Spiced Rum, Coco Lopez, and Pineapple juice to the Blender Cup",
+      "Blend thoroughly",
       "Wet rim with agave and toasted coconut",
-      "Pour mixed drink into a 14-oz glass",
-      "Float with Planteray Rum",
+      "Pour the mixed drink into the correct glassware",
+      "Top with a Float of Planteray Rum",
       "Garnish:",
-      "Cherry, Coconut rim"
+      "Cherry, Coconut rim",
+      "Glassware:",
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -40201,7 +40205,7 @@
   {
     "id": "drm-nb-21",
     "masterId": "m-mtlw047ji963p0",
-    "name": "Perfect Pina Colada",
+    "name": "Perfect Pina Colada 14, 20",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -40253,13 +40257,16 @@
       }
     ],
     "steps": [
+      "**14 and 20oz Drink**",
       "Add Cruzan Spiced Rum, Coco Lopez and Pineapple juice to Blender Cup",
       "Add 1 cup of Ice and blend thoroughly",
-      "Wet rim with agave and toasted coconut",
-      "Pour mixed drink into a 14-oz glass",
+      "Wet rim with Agave and Toasted Coconut",
+      "Pour the mixed drink into the correct glassware",
       "Float with Planteray Rum",
       "Garnish:",
-      "Cherry, Coconut rim"
+      "Cherry, Coconut rim",
+      "Glassware:",
+      "14 or 20 oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": [],
@@ -40326,12 +40333,14 @@
       }
     ],
     "steps": [
-      "In a blender, add all ingredients (but Planetary)",
-      "Add 12oz cup of ice to the blender",
+      "In a blender, add ice,  all ingredients (Except Planetary)",
+      "Add 12oz cup of ice to the blender till smooth",
       "Transfer to a Toasted Coconut rimmed glass",
-      "Float Planteray rum on top",
+      "Top off with Float Planteray Rum",
       "Garnish:",
-      "Coconut rim, Pineapple wedge, Cherry"
+      "Coconut rim, Pineapple wedge, Cherry",
+      "Glassware:",
+      "14 oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": []
@@ -40394,12 +40403,14 @@
       }
     ],
     "steps": [
-      "In a blender, add all ingredients (but Planetary)",
-      "Add 12oz cup of ice to the blender",
+      "In a blender, add ice,  all ingredients (Except Planetary)",
+      "Add 12oz cup of ice to the blender till smooth",
       "Transfer to a Toasted Coconut rimmed glass",
-      "Float Planteray rum on top",
+      "Top off with Float Planteray Rum",
       "Garnish:",
-      "Coconut rim, Pineapple wedge, Cherry"
+      "Coconut rim, Pineapple wedge, Cherry",
+      "Glassware:",
+      "14 oz Glass or Logo Cup "
     ],
     "notes": "",
     "images": []
@@ -40788,9 +40799,11 @@
       "Put all ingredients in a blender",
       "Blend until smooth, Fresh Made",
       "Pour into the correct glassware",
-      "Float with .5oz of 2oz Jim Beam Peach",
+      "Float with .5oz of  the 2oz Jim Beam Peach",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14oz Glass or Logo Cup"
     ],
     "notes": "",
     "images": []
@@ -41760,7 +41773,7 @@
   {
     "id": "drm-cbg-33",
     "masterId": "drm-peachberry-lemonade-m",
-    "name": "Peachberry Lemonade",
+    "name": "Peachberry Lemonade 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -41787,23 +41800,25 @@
         "qty2": "3"
       },
       {
-        "name": "Lemon Wedge",
-        "qty": "1ea.",
-        "unit": "Garnish",
-        "qty2": "1ea"
-      },
-      {
         "name": "Water",
         "qty": "3",
         "unit": "Vol Oz",
         "qty2": "4"
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1ea.",
+        "unit": "Garnish",
+        "qty2": "1ea"
       }
     ],
     "steps": [
       "Put all ingredients in a shaker and shake",
-      "Pour into a 14oz glass or logo cup",
+      "Pour into the correct glassware",
       "Glassware:",
-      "14oz glass or Logo cup"
+      "14 or 20oz Glass or Logo cup",
+      "Garnish:",
+      "Lemon Wedge"
     ],
     "notes": "",
     "images": [],
@@ -41816,7 +41831,7 @@
   {
     "id": "drm-cds-34",
     "masterId": "drm-peachberry-lemonade-m",
-    "name": "Peachberry Lemonade",
+    "name": "Peachberry Lemonade 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -41843,23 +41858,25 @@
         "qty2": "3"
       },
       {
-        "name": "Lemon Wedge",
-        "qty": "1ea.",
-        "unit": "Garnish",
-        "qty2": "1ea"
-      },
-      {
         "name": "Water",
         "qty": "3",
         "unit": "Vol Oz",
         "qty2": "4"
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1ea.",
+        "unit": "Garnish",
+        "qty2": "1ea"
       }
     ],
     "steps": [
       "Put all ingredients in a shaker and shake",
-      "Pour into a 14oz glass or logo cup",
+      "Pour into the correct glassware",
       "Glassware:",
-      "14oz glass or Logo cup"
+      "14 or 20oz Glass or Logo cup",
+      "Garnish:",
+      "Lemon Wedge"
     ],
     "notes": "",
     "images": [],
@@ -41872,7 +41889,7 @@
   {
     "id": "drm-cbg-34",
     "masterId": "drm-pina-rita-chubby-mermaid-m",
-    "name": "Pina Rita (Chubby Mermaid)",
+    "name": "Pina Rita(Chubby Mermaid) 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -41914,13 +41931,13 @@
         "name": "Agave Nectar",
         "qty": "Wet",
         "unit": "Rim",
-        "qty2": "Wet Rim"
+        "qty2": "Wet"
       },
       {
         "name": "Toasted Coconut",
-        "qty": "",
+        "qty": "Rim ",
         "unit": "Rimming",
-        "qty2": "Rimming"
+        "qty2": "Rim"
       },
       {
         "name": "Lime Wedge",
@@ -41930,12 +41947,13 @@
       }
     ],
     "steps": [
+      "**14 and 20 oz Drink**",
       "Add all ingredients to a shaker with ice",
-      "Shake and pour into 14oz glass or logo cup",
+      "Shake and pour into the correct glassware",
       "Garnish:",
-      "Coco Rim and Lime",
+      "Coco Rim and Lime wedge",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -41948,7 +41966,7 @@
   {
     "id": "drm-cds-35",
     "masterId": "drm-pina-rita-chubby-mermaid-m",
-    "name": "Pina Rita (Chubby Mermaid)",
+    "name": "Pina Rita(Chubby Mermaid) 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -41990,13 +42008,13 @@
         "name": "Agave Nectar",
         "qty": "Wet",
         "unit": "Rim",
-        "qty2": "Wet Rim"
+        "qty2": "Wet"
       },
       {
         "name": "Toasted Coconut",
-        "qty": "",
+        "qty": "Rim ",
         "unit": "Rimming",
-        "qty2": "Rimming"
+        "qty2": "Rim"
       },
       {
         "name": "Lime Wedge",
@@ -42006,12 +42024,13 @@
       }
     ],
     "steps": [
+      "**14 and 20 oz Drink**",
       "Add all ingredients to a shaker with ice",
-      "Shake and pour into 14oz glass or logo cup",
+      "Shake and pour into the correct glassware",
       "Garnish:",
-      "Coco Rim and Lime",
+      "Coco Rim and Lime wedge",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -42564,7 +42583,7 @@
   {
     "id": "drm-cbg-39",
     "masterId": "drm-papa-s-island-tiki-punch-m",
-    "name": "Papa's Island (Tiki) Punch",
+    "name": "Papa's Island (Tiki) Punch 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42573,21 +42592,15 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe Tiki Punch",
-        "qty": "3",
-        "unit": "Vol oz",
-        "qty2": "5"
-      },
-      {
-        "name": "Orange wedge",
-        "qty": "1",
-        "unit": "Each",
-        "qty2": "1"
-      },
-      {
         "name": "Natalie's Orange Juice",
         "qty": "1",
         "unit": "Vol oz",
+        "qty2": "1"
+      },
+      {
+        "name": "Orange Wedge",
+        "qty": "1",
+        "unit": "Ea. Muddle",
         "qty2": "1"
       },
       {
@@ -42595,6 +42608,12 @@
         "qty": "1.5",
         "unit": "Vol oz",
         "qty2": "2"
+      },
+      {
+        "name": "Ripe Tiki Punch",
+        "qty": "3",
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Grenadine",
@@ -42616,13 +42635,15 @@
       }
     ],
     "steps": [
-      "Instructions:",
-      "Place an orange wedge, rum, and orange juice in a shaker",
-      "Add ice, Tiki punch, and grenadine to the shaker and shake",
-      "Pour into a 12-oz glass",
+      "**14 & 20 oz Drink**",
+      "Place an orange wedge, rum, and orange juice in a shaker, muddle",
+      "Add ice, Tiki punch, and grenadine to the shaker tin and shake",
+      "Pour into the correct glassware",
       "Top with a .50 oz float of Planteray",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -42635,7 +42656,7 @@
   {
     "id": "drm-cds-40",
     "masterId": "drm-papa-s-island-tiki-punch-m",
-    "name": "Papa's Island (Tiki) Punch",
+    "name": "Papa's Island (Tiki) Punch 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42644,21 +42665,15 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ripe Tiki Punch",
-        "qty": "3",
-        "unit": "Vol oz",
-        "qty2": "5"
-      },
-      {
-        "name": "Orange wedge",
-        "qty": "1",
-        "unit": "Each",
-        "qty2": "1"
-      },
-      {
         "name": "Natalie's Orange Juice",
         "qty": "1",
         "unit": "Vol oz",
+        "qty2": "1"
+      },
+      {
+        "name": "Orange Wedge",
+        "qty": "1",
+        "unit": "Ea. Muddle",
         "qty2": "1"
       },
       {
@@ -42666,6 +42681,12 @@
         "qty": "1.5",
         "unit": "Vol oz",
         "qty2": "2"
+      },
+      {
+        "name": "Ripe Tiki Punch",
+        "qty": "3",
+        "unit": "Vol oz",
+        "qty2": "5"
       },
       {
         "name": "Grenadine",
@@ -42687,13 +42708,15 @@
       }
     ],
     "steps": [
-      "Instructions:",
-      "Place an orange wedge, rum, and orange juice in a shaker",
-      "Add ice, Tiki punch, and grenadine to the shaker and shake",
-      "Pour into a 12-oz glass",
+      "**14 & 20 oz Drink**",
+      "Place an orange wedge, rum, and orange juice in a shaker, muddle",
+      "Add ice, Tiki punch, and grenadine to the shaker tin and shake",
+      "Pour into the correct glassware",
       "Top with a .50 oz float of Planteray",
       "Garnish:",
-      "Glassware:"
+      "Cherry",
+      "Glassware:",
+      "14 or 20 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -45610,10 +45633,12 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
+      "Fill all ingredients and a cup of ice into a shaker glass.",
       "Shake until frothy.",
       "Garnish:",
-      "14oz glass or logo cup"
+      "Lemon wedge ",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -45651,10 +45676,12 @@
       }
     ],
     "steps": [
-      "Fill all ingredients and ice into a shaker glass.",
+      "Fill all ingredients and a cup of ice into a shaker glass.",
       "Shake until frothy.",
       "Garnish:",
-      "14oz glass or logo cup"
+      "Lemon wedge ",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -47127,6 +47154,11 @@
         "unit": "Vol oz"
       },
       {
+        "name": "Nutmeg",
+        "qty": "Light",
+        "unit": "Sprinkle"
+      },
+      {
         "name": "Orange Slice",
         "qty": "1",
         "unit": "Garnish"
@@ -47135,11 +47167,6 @@
         "name": "Cherry",
         "qty": "1",
         "unit": "Garnish"
-      },
-      {
-        "name": "Nutmeg",
-        "qty": "Light",
-        "unit": "Sprinkle"
       }
     ],
     "steps": [
@@ -47148,7 +47175,7 @@
       "Pour into the correct glassware",
       "Sprinkle Nutmeg on top",
       "Garnish:",
-      "Orange and Cherry",
+      "Orange slice, Cherry",
       "Glassware:",
       "14oz Glass or Logo cup"
     ],
@@ -47187,6 +47214,11 @@
         "unit": "Vol oz"
       },
       {
+        "name": "Nutmeg",
+        "qty": "Light",
+        "unit": "Sprinkle"
+      },
+      {
         "name": "Orange Slice",
         "qty": "1",
         "unit": "Garnish"
@@ -47195,11 +47227,6 @@
         "name": "Cherry",
         "qty": "1",
         "unit": "Garnish"
-      },
-      {
-        "name": "Nutmeg",
-        "qty": "Light",
-        "unit": "Sprinkle"
       }
     ],
     "steps": [
@@ -47208,7 +47235,7 @@
       "Pour into the correct glassware",
       "Sprinkle Nutmeg on top",
       "Garnish:",
-      "Orange and Cherry",
+      "Orange slice, Cherry",
       "Glassware:",
       "14oz Glass or Logo cup"
     ],
@@ -48320,12 +48347,12 @@
       }
     ],
     "steps": [
-      "FLAVOR CHOICES:",
-      "Natalie's OJ, Mango, Peach, or Strawberry.",
-      "In a glass, add Peach puree",
+      "In a glass, add the Peach puree and Peach Schnapps",
       "Slowly fill with Prosecco; you will have to pour slowly, or stop, to let the foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange slice"
     ],
     "notes": "",
     "images": []
@@ -48363,12 +48390,12 @@
       }
     ],
     "steps": [
-      "FLAVOR CHOICES:",
-      "Natalie's OJ, Mango, Peach, or Strawberry.",
-      "In a glass, add Peach puree",
+      "In a glass, add the Peach puree and Peach Schnapps",
       "Slowly fill with Prosecco; you will have to pour slowly, or stop, to let the foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange slice"
     ],
     "notes": "",
     "images": []
@@ -48406,12 +48433,12 @@
       }
     ],
     "steps": [
-      "FLAVOR CHOICES:",
-      "Natalie's OJ, Mango, Peach, or Strawberry.",
-      "In a glass, add Peach puree",
+      "In a glass, add the Peach puree and Peach Schnapps",
       "Slowly fill with Prosecco; you will have to pour slowly, or stop, to let the foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange slice"
     ],
     "notes": "",
     "images": []
@@ -50122,7 +50149,7 @@
   {
     "id": "drm-nb-34",
     "masterId": "drm-nb-34-m",
-    "name": "Pineapple Mojito- Oh so good",
+    "name": "Pineapple Mojito",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50141,9 +50168,9 @@
         "unit": "oz. pour"
       },
       {
-        "name": "Mint (Fresh)",
+        "name": "Mint Leaves ",
         "qty": "3-4",
-        "unit": "Sprigs / Garnish"
+        "unit": "Muddle / Garnish"
       },
       {
         "name": "Lime Wedges",
@@ -50163,11 +50190,13 @@
     ],
     "steps": [
       "In a 14-oz Glass",
-      "Pour the Pineapple juice and the Pineapple rum",
-      "Add 2 lime wedges & mint leaves",
-      "Pour into the glass and top with club soda",
+      "Add Cruzan Silver, Pineapple rum, Pineapple juice",
+      "Add 2 lime wedges & mint leaves, muddle without shredding mint, shake ",
+      "Pour into the glass, while topping with club soda",
       "Garnish:",
-      "muddled limes, & mint"
+      "Muddled limes, & mint",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -50556,11 +50585,13 @@
       "In a 14-oz Glass, add Pantalones and 2 lime wedges, muddle together",
       "Add Grapefruit juice, & Pear syrup",
       "Top with shaker tin, Shake",
-      "Now rim the glass with Tajin Spice",
+      "Rim the glass with Tajín Spice",
       "Fill the glass with Ice, pour back into the glass",
       "Top off with Club soda",
       "Garnish:",
-      "muddled lime, & Tajin Rim"
+      "muddled lime, & Tajin Rim",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -60667,7 +60698,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Peach puree",
+        "name": "Peach Puree",
         "qty": "1",
         "unit": "Pump"
       },
@@ -60683,10 +60714,12 @@
       }
     ],
     "steps": [
-      "Put the schnapps and puree in the bottom of the glass",
+      "Add the schnapps and puree to the bottom of the glass",
       "Slowly fill with Prosecco; you will have to stop to let the foam settle.",
       "Glassware:",
-      "Wine / Champagne Glass"
+      "Wine / Champagne Glass",
+      "Garnish:",
+      "Orange Slice "
     ],
     "notes": "",
     "images": []
@@ -60728,6 +60761,7 @@
       "Add coconut cream, pineapple juice, and ice",
       "Shake and pour into the cup",
       "Garnish:",
+      "Blackberries in glass ",
       "Glassware:",
       "14oz Glass or Logo cup"
     ],
