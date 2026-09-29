@@ -35673,11 +35673,15 @@
       }
     ],
     "steps": [
-      "Build In a Shaker Tin",
+      "**Build In a Shaker Tin**",
       "Add orange & lime wedge to tin, muddle",
       "Add ice, and Sangria, and shake",
+      "Pour into cup/glass",
+      "Top off with Starry ",
       "Glassware:",
-      "14oz logo cup or glass"
+      "14oz Logo cup or Glass",
+      "Garnish:",
+      "Cherry, and muddled fruit"
     ],
     "notes": "",
     "images": []
@@ -37470,13 +37474,14 @@
     ],
     "steps": [
       "Build In a Shaker Tin or Glass",
-      "Add ice, liquors and grenadine",
-      "Pour into the glass",
+      "Add ice, liquors (except Planteray), and grenadine, then shake",
+      "Pour into the correct glassware",
       "Add ice if needed",
+      "Float the Planteray Dark Rum",
       "Glassware:",
-      "14oz logo cup or glass",
+      "14oz Logo cup or Glass",
       "Garnish:",
-      "cherry & orange slice"
+      "Cherry & Orange slice"
     ],
     "notes": "",
     "images": []
@@ -38013,8 +38018,8 @@
       },
       {
         "name": "Juice Pineapple (46oz Can ) Or Quarts (32oz)",
-        "qty": "4 Or 6",
-        "unit": "Cans Quarts"
+        "qty": "4 can/6qt",
+        "unit": "Cans / Quarts"
       },
       {
         "name": "Rv11/25",
@@ -38023,16 +38028,19 @@
       }
     ],
     "steps": [
-      "Mix all things in a Cambro and store in the refrigerator",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, and reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
+      "**Cambro**",
+      "In a clean and dry 5.5 -gallon Cambro, add all ingredients",
+      "With a whisk, stir to mix, Secure the lid",
+      "Label, date the Cambro, and store in the refrigerator",
+      "Before using (filling the slushie machine), stir the mixture with a whisk",
+      "**Canister**",
+      "In a clean and rinsed-out canister, add all the ingredients",
+      "Clean the top and the gasket before sealing the keg",
+      "Clean the hose connectors in hot water 1 at a time, shaking the connector to remove any buildup,",
       "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines"
+      "Hook up to cleaned lines",
+      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -38070,8 +38078,8 @@
       },
       {
         "name": "Juice Pineapple (46oz Can ) Or Quarts (32oz)",
-        "qty": "4 Or 6",
-        "unit": "Cans Quarts"
+        "qty": "4 can/6qt",
+        "unit": "Cans / Quarts"
       },
       {
         "name": "Rv11/25",
@@ -38080,16 +38088,19 @@
       }
     ],
     "steps": [
-      "Mix all things in a Cambro and store in the refrigerator",
-      "Before filling the keg",
-      "Rinse out the batch keg with hot water,",
-      "Clean the seal and container top",
-      "Clean the hose connectors too, in hot water 1 at a time, shaking the connector to remove any buildup, and reconnect",
-      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUIDS DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE",
-      "In a clean and rinsed-out 5-gallon canister, add all ingredients",
+      "**Cambro**",
+      "In a clean and dry 5.5 -gallon Cambro, add all ingredients",
+      "With a whisk, stir to mix, Secure the lid",
+      "Label, date the Cambro, and store in the refrigerator",
+      "Before using (filling the slushie machine), stir the mixture with a whisk",
+      "**Canister**",
+      "In a clean and rinsed-out canister, add all the ingredients",
+      "Clean the top and the gasket before sealing the keg",
+      "Clean the hose connectors in hot water 1 at a time, shaking the connector to remove any buildup,",
       "Seal the keg and shake well to combine",
-      "Hook up to cleaned lines"
+      "Hook up to cleaned lines",
+      "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
+      "**THE DIFFERENCES IN THE LIQUIDS' DENSITY WILL SEPARATE WHEN THEY SIT FOR A WHILE**"
     ],
     "notes": "",
     "images": []
@@ -39618,7 +39629,7 @@
   {
     "id": "drm-cbg-14",
     "masterId": "drm-rum-runner-m",
-    "name": "Rum Runner",
+    "name": "Rum Runner 32 Pour",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39631,7 +39642,9 @@
       "Fill a bucket with ice",
       "Fill the cup with rum runner batch to the top",
       "Garnish:",
-      "Glassware:"
+      "Orange slice, Cherry ",
+      "Glassware:",
+      "32oz Bucket "
     ],
     "notes": "",
     "images": []
@@ -39639,7 +39652,7 @@
   {
     "id": "drm-cds-15",
     "masterId": "drm-rum-runner-m",
-    "name": "Rum Runner",
+    "name": "Rum Runner 32 Pour",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39652,7 +39665,9 @@
       "Fill a bucket with ice",
       "Fill the cup with rum runner batch to the top",
       "Garnish:",
-      "Glassware:"
+      "Orange slice, Cherry ",
+      "Glassware:",
+      "32oz Bucket "
     ],
     "notes": "",
     "images": []
@@ -45361,7 +45376,7 @@
       "Shake and add to 14oz glass",
       "Garnish:",
       "Glassware:",
-      "14oz cup or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -45431,7 +45446,7 @@
       "Shake and add to 14oz glass",
       "Garnish:",
       "Glassware:",
-      "14oz cup or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -45485,11 +45500,11 @@
     ],
     "steps": [
       "Fill 14oz glass with ice",
-      "Combine ingredients with ice",
+      "Combine ingredients with ice, cover with a shaker tin, and shake",
       "Garnish:",
       "Cherry, Lemon wedge",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -45538,11 +45553,11 @@
     ],
     "steps": [
       "Fill 14oz glass with ice",
-      "Combine ingredients with ice",
+      "Combine ingredients with ice, cover with a shaker tin, and shake",
       "Garnish:",
       "Cherry, Lemon wedge",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -45591,11 +45606,11 @@
     ],
     "steps": [
       "Fill 14oz glass with ice",
-      "Combine ingredients with ice",
+      "Combine ingredients with ice, cover with a shaker tin, and shake",
       "Garnish:",
       "Cherry, Lemon wedge",
       "Glassware:",
-      "14oz glass or logo cup"
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -45800,6 +45815,13 @@
         "qty3": "2"
       },
       {
+        "name": "Oranges Slice",
+        "qty": "1",
+        "unit": "Garnish",
+        "qty2": "2",
+        "qty3": "2"
+      },
+      {
         "name": "Peach Schnapps",
         "qty": "1",
         "unit": "Vol oz",
@@ -45826,29 +45848,22 @@
         "unit": "Vol oz",
         "qty2": "1.5",
         "qty3": "2"
-      },
-      {
-        "name": "Oranges Slice",
-        "qty": "1",
-        "unit": "Garnish",
-        "qty2": "2",
-        "qty3": "2"
       }
     ],
     "steps": [
-      "Add all ingredients except Starry lemon lime to the shaker",
-      "Shake and pour over a cup of ice",
+      "**14 or 20 oz Drink**",
+      "Add all ingredients except Starry lemon lime to the shaker tin",
+      "Shake and pour over a glass/cup of ice",
+      "Add ice to the glass/ cup, pour back ",
       "Top with a Starry lemon lime",
       "Garnish:",
+      "In the glass ",
       "Glassware:",
-      "14oz glass or logo cup",
-      "Add all ingredients except Starry lemon lime to shaker",
-      "Roll back & forth in shaker tin to mix",
-      "Top with Starry lemon lime",
-      "32oz Bucket Special Sangria",
-      "Add all ingredients except Starry lemon lime to shaker",
-      "Roll back & forth in shaker tin to mix",
-      "Top with Starry lemon lime"
+      "14 or 20 oz Glass or Logo cup",
+      "**32oz Bucket Special Sangria**",
+      "Add all ingredients except Starry lemon lime to the shaker tin",
+      "Roll back & forth with the bucket to mix",
+      "Fill the bucket with ice and Top with Starry lemon lime"
     ],
     "notes": "",
     "images": [],
@@ -45878,6 +45893,13 @@
         "qty3": "2"
       },
       {
+        "name": "Oranges Slice",
+        "qty": "1",
+        "unit": "Garnish",
+        "qty2": "2",
+        "qty3": "2"
+      },
+      {
         "name": "Peach Schnapps",
         "qty": "1",
         "unit": "Vol oz",
@@ -45904,29 +45926,22 @@
         "unit": "Vol oz",
         "qty2": "1.5",
         "qty3": "2"
-      },
-      {
-        "name": "Oranges Slice",
-        "qty": "1",
-        "unit": "Garnish",
-        "qty2": "2",
-        "qty3": "2"
       }
     ],
     "steps": [
-      "Add all ingredients except Starry lemon lime to the shaker",
-      "Shake and pour over a cup of ice",
+      "**14 or 20 oz Drink**",
+      "Add all ingredients except Starry lemon lime to the shaker tin",
+      "Shake and pour over a glass/cup of ice",
+      "Add ice to the glass/ cup, pour back ",
       "Top with a Starry lemon lime",
       "Garnish:",
+      "In the glass ",
       "Glassware:",
-      "14oz glass or logo cup",
-      "Add all ingredients except Starry lemon lime to shaker",
-      "Roll back & forth in shaker tin to mix",
-      "Top with Starry lemon lime",
-      "32oz Bucket Special Sangria",
-      "Add all ingredients except Starry lemon lime to shaker",
-      "Roll back & forth in shaker tin to mix",
-      "Top with Starry lemon lime"
+      "14 or 20 oz Glass or Logo cup",
+      "**32oz Bucket Special Sangria**",
+      "Add all ingredients except Starry lemon lime to the shaker tin",
+      "Roll back & forth with the bucket to mix",
+      "Fill the bucket with ice and Top with Starry lemon lime"
     ],
     "notes": "",
     "images": [],
@@ -46351,7 +46366,7 @@
   {
     "id": "drm-cbg-73",
     "masterId": "drm-rum-runner-14-20-32oz-m",
-    "name": "Rum Runner 14, 20 & 32oz",
+    "name": "Rum Runner 14 20 32oz Tap Pour",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46360,12 +46375,10 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
-      "14oz glass filled with ice = 7oz pour, 0.25oz Grenadine Float",
-      "20oz glass filled with ice = 10oz pour, 0.5oz Grenadine",
-      "32oz Bucket filled with ice = 15oz pour, 1oz Grenadine",
-      "Fill an appropriate glass with ice",
-      "Then fill with the batch recipe from the tap",
-      "Shake and serve/ Bucket roll back and forth",
+      "Glassware:",
+      "Fill a 14oz glass filled with ice = 7oz tap pour, shake, and add 0.25oz Grenadine Float",
+      "20oz glass filled with ice = 10oz tap pour, shake, and add 0.5oz Grenadine Float",
+      "32oz Bucket filled with ice = 15oz tap pour, roll back and forth, add 1oz Grenadine Float",
       "Garnish:",
       "Cherry, Orange slice"
     ],
@@ -46375,7 +46388,7 @@
   {
     "id": "drm-cds-73",
     "masterId": "drm-rum-runner-14-20-32oz-m",
-    "name": "Rum Runner 14, 20 & 32oz",
+    "name": "Rum Runner 14 20 32oz Tap Pour",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46384,12 +46397,10 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
-      "14oz glass filled with ice = 7oz pour, 0.25oz Grenadine Float",
-      "20oz glass filled with ice = 10oz pour, 0.5oz Grenadine",
-      "32oz Bucket filled with ice = 15oz pour, 1oz Grenadine",
-      "Fill an appropriate glass with ice",
-      "Then fill with the batch recipe from the tap",
-      "Shake and serve/ Bucket roll back and forth",
+      "Glassware:",
+      "Fill a 14oz glass filled with ice = 7oz tap pour, shake, and add 0.25oz Grenadine Float",
+      "20oz glass filled with ice = 10oz tap pour, shake, and add 0.5oz Grenadine Float",
+      "32oz Bucket filled with ice = 15oz tap pour, roll back and forth, add 1oz Grenadine Float",
       "Garnish:",
       "Cherry, Orange slice"
     ],
@@ -46813,17 +46824,18 @@
         "unit": "Oz"
       },
       {
-        "name": "Blackberries",
-        "qty": "1ea.",
-        "unit": "Top Garnish"
+        "name": "Blackberry",
+        "qty": "1",
+        "unit": "Ea. / Garnish"
       }
     ],
     "steps": [
       "Add 4 Blackberries to a shaker with the Vanilla Vodka",
-      "Muddle together, without shredding / pulverizing the Blackberries",
+      "Slightly Muddle together, without shredding/pulverizing the Blackberries",
       "Add coconut cream, pineapple juice and ice",
-      "Shake and pour into cup",
+      "Shake and pour into the correct glassware",
       "Garnish:",
+      "Blackberry on top",
       "Glassware:",
       "14 oz Glass or Logo cup"
     ],
@@ -48474,10 +48486,13 @@
       "In 20 oz. Cup",
       "Muddle Strawberries in bottom of glass",
       "Add Ice to the top",
-      "Add 5oz Refresher mix",
+      "Add 5oz Refresher mix and 5oz Water",
       "Place in Shaker tin - Shake well to combine",
       "Back into serving glass",
-      "Server: Straw, To- Go add Lid"
+      "Garnish:",
+      "Strawberries muddled ",
+      "Glassware:",
+      "20 oz Glass or Logo cup, if To- Go, add a Lid"
     ],
     "notes": "",
     "images": []
@@ -48494,7 +48509,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Mango Frozen chunks",
+        "name": "Mango Frozen chunks ",
         "qty": ".5",
         "unit": "4oz cup/ Garnish"
       },
@@ -48511,12 +48526,15 @@
     ],
     "steps": [
       "In a 20oz cup",
-      "Muddle the Mango in the bottom of glass",
+      "Add the mango to the bottom of the glass",
       "Add ice to the top",
-      "Add 5oz Refresher mix",
+      "Add 5oz Refresher mix and 5oz of water",
       "Place in Shaker tin - Shake well to combine",
-      "Back into serving glass",
-      "Server: Straw / To- Go add Lid"
+      "Back into serving cup/glass",
+      "Glassware:",
+      "20oz Glass or Logo cup, Straw / To- Go; add a Lid",
+      "Garnish:",
+      "Mango chunks "
     ],
     "notes": "",
     "images": []
@@ -50126,7 +50144,8 @@
       }
     ],
     "steps": [
-      "14oz: Fill a 14-oz Glass with ice",
+      "**14 or 20oz Drink**",
+      "Fill a 14-oz Glass with ice",
       "In a Shaker tin, add the first 4 ingredients (No Starry)",
       "Shake and pour into the glass",
       "Top off with Starry Lemon Lime",
@@ -50249,12 +50268,16 @@
       }
     ],
     "steps": [
+      "**14oz Hand Made**",
       "Add a scoop of ice to the shaker tin.",
       "Add all the ingredients",
       "Shake and pour back into the glass",
-      "Add ice if necessary, and serve",
+      "Add ice if necessary",
+      "Glassware:",
+      "14oz Glass or Logo cup",
       "Garnish:",
       "Cherry, Orange slice",
+      "**Tap Pour**",
       "14oz glass filled with ice = 7oz pour from tap",
       "20oz glass filled with ice = 10oz pour from tap"
     ],
@@ -50678,7 +50701,7 @@
   {
     "id": "drm-nb-43",
     "masterId": "drm-nb-43-m",
-    "name": "Salty Crab Rum Punch 14,20, & 32",
+    "name": " Rum Punch NB 14,20,32 Tap",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50687,15 +50710,14 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
+      "First, fill the correct glass with ice, then fill",
       "14oz glass = 7oz from tap",
       "20oz glass = 10oz from tap",
       "32oz bucket = 16oz from tap",
-      "First, fill the bucket/glass with ice, then",
-      "Fill the bucket/glass from the tap",
       "Garnish:",
       "Lime, Orange, Cherry",
       "Glassware:",
-      "14, 20oz glass, or 32oz Bucket"
+      "14 or 20oz Glass, Log cup, or a 32 oz bucket"
     ],
     "notes": "",
     "images": []
@@ -50799,7 +50821,7 @@
       "Add Ginger Beer and Cranberry Juice, shake",
       "Pour back into glass",
       "Garnish:",
-      "1 - Sprig Rosemary & muddled lime",
+      "1 - Sprig Rosemary & Muddled lime",
       "Glassware:",
       "9oz rocks glass"
     ],
@@ -51308,7 +51330,7 @@
       "Clean the seal and the container top",
       "Clean the hose connectors too, in hot water, 1 at a time, and reconnect",
       "**SHAKE THE KEG IN THE MORNING AND AT AFTERNOON SHIFT CHANGE**",
-      "THE DIFFERENCES IN THE LIQUID'S DENSITY WILL SEPARATE WHEN IT SITS FOR A WHILE",
+      "**THE DIFFERENCES IN THE LIQUID'S DENSITY WILL SEPARATE WHEN IT SITS FOR A WHILE**",
       "In a clean and rinsed-out 5-gallon canister, add all the ingredients",
       "Seal the keg and shake well to combine",
       "Hook up to cleaned lines"
@@ -51493,13 +51515,14 @@
     ],
     "steps": [
       "Fill 14oz glass with ice, add to shaker tin",
-      "Add Tito's to glass",
+      "Add Tito's to the shaker tin",
       "Add Bloody Mary mix.",
       "Shake to blend.",
-      "Rim 14oz glass with house spice, pour into glass.",
-      "Rim: House Seasoning if requested",
+      "Rim the glass with house spice, pour into the glass.",
       "Garnish:",
-      "on a skewer 3olives, 1 lemon and lime wedge on skewer"
+      "On a skewer, 3 olives, a lemon, and a lime wedge",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -52115,7 +52138,11 @@
       "Pour into a rocks glass",
       "Peel the orange away from the orange rind (peel, skin)",
       "Rub the outside of the orange peel all around the rim of the glass",
-      "Place the orange peel straight up in down in the side of the glass"
+      "Place the orange peel straight up in down in the side of the glass",
+      "Garnish:",
+      "Orange Peel",
+      "Glassware:",
+      "Rocks Glass "
     ],
     "notes": "",
     "images": []
@@ -52217,15 +52244,16 @@
       }
     ],
     "steps": [
+      "**Notes: You can ask if you like it creamy and substitute Bailey's for Kahlua.**",
       "Put ice and water in a martini glass to chill it",
       "Build in a shaker: all ingredients and ice",
       "Shake vigorously until the shaker is cold",
       "Dump ice from the martini glass back in the ice well",
       "Strain the drink from the shaker into the martini glass",
-      "Notes: You can ask if you like it creamy and substitute Bailey's for Kahlua.",
       "Garnish:",
-      "3 espresso beans",
-      "Glassware:"
+      "3 Espresso Beans",
+      "Glassware:",
+      "Martini Glass"
     ],
     "notes": "",
     "images": []
@@ -52378,18 +52406,23 @@
         "unit": "Garnish"
       },
       {
-        "name": "Orange Slice",
-        "qty": "1ea.",
-        "unit": "Garnish"
-      },
-      {
         "name": "Cherries",
         "qty": "2ea.",
         "unit": "Garnish"
       },
       {
+        "name": "Orange Slice",
+        "qty": "1ea.",
+        "unit": "Garnish"
+      },
+      {
         "name": "House Merlot",
         "qty": "4",
+        "unit": "oz pour"
+      },
+      {
+        "name": "Orange Juice",
+        "qty": "2",
         "unit": "oz pour"
       },
       {
@@ -52401,17 +52434,14 @@
         "name": "Starry Lemon Lime",
         "qty": "",
         "unit": "Splash"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": "2",
-        "unit": "oz pour"
       }
     ],
     "steps": [
       "Add Cherries, Orange, and Lime to a 14-oz glass",
       "Pour in House Merlot and Blackberry Brandy",
       "Top with Starry soda, and Shake",
+      "Glassware:",
+      "14oz Glass or Logo cup",
       "Garnish:",
       "Lime Wedge & Orange slice, 2 cherries"
     ],
@@ -52440,6 +52470,11 @@
         "unit": "each/ Muddle"
       },
       {
+        "name": "Peach Schnapps",
+        "qty": "1",
+        "unit": "oz pour"
+      },
+      {
         "name": "House Chardonnay",
         "qty": "4",
         "unit": "oz pour"
@@ -52455,21 +52490,20 @@
         "unit": "oz pour"
       },
       {
-        "name": "Peach Schnapps",
-        "qty": "1",
-        "unit": "oz pour"
-      },
-      {
         "name": "Orange Slice",
         "qty": "1",
         "unit": "Garnish"
       }
     ],
     "steps": [
-      "Add diced strawberries and 1 orange slice, muddle in a 14-oz glass",
+      "In a 14-oz glass, add diced strawberries and 1 orange slice, and muddle ",
       "Fill the glass with ice",
-      "Add all ingredients to the glass",
-      "Garnish with 1 orange slice"
+      "Add all ingredients to the glass, shake",
+      "Add Starry while pouring back into the glass ",
+      "Glassware:",
+      "Orange slice",
+      "Garnish: ",
+      "14oz Glass or Logo cup "
     ],
     "notes": "",
     "images": []
@@ -52588,7 +52622,9 @@
       "Strain the drink from the shaker into the martini glass",
       "Add a lemon twist and serve",
       "Garnish:",
-      "Lemon twist, 2 Blueberries"
+      "Lemon twist, 2 Blueberries",
+      "Glassware:",
+      "Martini Glass "
     ],
     "notes": "",
     "images": []
@@ -52684,13 +52720,13 @@
       },
       {
         "name": "Agave Nectar",
-        "qty": "",
-        "unit": "Wet Rim"
+        "qty": "Wet",
+        "unit": "Rim"
       },
       {
         "name": "Toasted Coconut",
-        "qty": "",
-        "unit": "Rimming/ Garnish"
+        "qty": "Rim",
+        "unit": "Garnish"
       },
       {
         "name": "Planetary Dark Rum",
@@ -52712,9 +52748,11 @@
       "In a blender, add all ingredients (but Plantation)",
       "Add a 12-oz cup of ice to the blender",
       "Transfer to a rimmed Toasted Coconut glass",
-      "Float a Planetary dark rum on top",
+      "Float a Planetary Dark Rum on top",
       "Garnish:",
-      "Pineapple wedge, Cherry, Coconut rim"
+      "Pineapple wedge, Cherry, Coconut rim",
+      "Glassware:",
+      "14oz Glass or Logo cup "
     ],
     "notes": "",
     "images": []
@@ -52856,7 +52894,8 @@
       "Strain the drink from the shaker into a martini glass",
       "Garnish:",
       "2 Filthy Olives",
-      "Glassware:"
+      "Glassware:",
+      "Martini Glass"
     ],
     "notes": "",
     "images": []
@@ -52981,7 +53020,11 @@
     "steps": [
       "Pour liquids in a shaker with a scoop of ice",
       "Shake until chilled and frothy",
-      "Pour into a 14-oz glass"
+      "Pour into a 14-oz glass",
+      "Garnish:",
+      "Black Cherry ",
+      "Glassware:",
+      "14oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -60754,14 +60797,20 @@
         "name": "Pineapple juice",
         "qty": "3",
         "unit": "Oz"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Ea. / Garnish",
+        "name": "Blackberry"
       }
     ],
     "steps": [
       "Add 4 blackberries to a shaker with the vanilla vodka",
       "Add coconut cream, pineapple juice, and ice",
-      "Shake and pour into the cup",
+      "Shake and pour into the correct glassware",
       "Garnish:",
-      "Blackberries in glass ",
+      "Blackberry float on top",
       "Glassware:",
       "14oz Glass or Logo cup"
     ],
