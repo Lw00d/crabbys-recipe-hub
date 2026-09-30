@@ -56250,7 +56250,7 @@
   {
     "id": "bm-pl-12",
     "masterId": "bm-pl-12-m",
-    "name": "Veggie Omelet",
+    "name": "Omelet Veggie",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -56315,7 +56315,7 @@
   {
     "id": "bm-pl-13",
     "masterId": "bm-pl-13-m",
-    "name": "Meat Lovers",
+    "name": "Omelet Meat Lovers",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -57178,6 +57178,12 @@
         "name": "Avocado Salsa",
         "qty": "1",
         "unit": "Green scoop"
+      },
+      {
+        "name": "Cilantro",
+        "qty": "Sprinkle",
+        "unit": "Over the top",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -59488,7 +59494,6 @@
       "Cook the 2 eggs as requested",
       "Place bread in the toaster",
       "Fire Roasted / Grilled:",
-      "If Grilled:",
       "Place the drained crab on a large sizzler pan.",
       "Coat generously with garlic spread and Old Bay,",
       "Then place in the oven for 2 to 3 minutes or until the seasoning is golden brown. Do not burn crab or seasoning",
@@ -59544,7 +59549,6 @@
       "Cook the 2 eggs as requested",
       "Place bread in the toaster",
       "Fire Roasted / Grilled:",
-      "If Grilled:",
       "Place the drained crab on a large sizzler pan.",
       "Coat generously with garlic spread and Old Bay,",
       "Then place in the oven for 2 to 3 minutes or until the seasoning is golden brown. Do not burn crab or seasoning",
@@ -59600,7 +59604,6 @@
       "Cook the 2 eggs as requested",
       "Place bread in the toaster",
       "Fire Roasted / Grilled:",
-      "If Grilled:",
       "Place the drained crab on a large sizzler pan.",
       "Coat generously with garlic spread and Old Bay,",
       "Then place in the oven for 2 to 3 minutes or until the seasoning is golden brown. Do not burn crab or seasoning",
@@ -60134,7 +60137,6 @@
       "Serve:",
       "Entrée -On the plate",
       "Side - monkey dish",
-      "Serve on plate w/ entrée",
       "App plate as side"
     ],
     "notes": "",
@@ -61305,7 +61307,7 @@
       "Add a piece of American cheese",
       "Expo place Bacon on top of the cheese",
       "Expo:",
-      "Bacon, requested side"
+      "Requested side"
     ],
     "notes": "",
     "images": []
@@ -62086,7 +62088,7 @@
   {
     "id": "bm-nb-27",
     "masterId": "bm-nb-27-m",
-    "name": "Veggie Burrito",
+    "name": "Breakfast Burrito Veggie",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
