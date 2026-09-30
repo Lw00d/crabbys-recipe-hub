@@ -6214,7 +6214,7 @@
     "location": "Palm"
   },
   {
-    "name": "Chicken Tender App (All stores)",
+    "name": "Chicken Tender App",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -6254,7 +6254,7 @@
     "location": "Palm"
   },
   {
-    "name": "Chicken Tender App (All stores)",
+    "name": "Chicken Tender App",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -6294,7 +6294,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Chicken Tender App (All stores)",
+    "name": "Chicken Tender App",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -6372,7 +6372,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Crab & Spinach Dip (All stores)",
+    "name": "Crab & Spinach Dip",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -6891,7 +6891,7 @@
     "location": "CBG"
   },
   {
-    "name": "Avocados (fresh) (bar & grill)",
+    "name": "Avocados (fresh)",
     "category": "Breakfast Prep",
     "yield": "",
     "shelfLife": "",
@@ -13340,7 +13340,7 @@
   {
     "id": "dp-pl-71",
     "masterId": "dp-corn-street-bar-n-grill-m",
-    "name": "Corn Street (Bar n Grill)",
+    "name": "Corn Street",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -13369,7 +13369,7 @@
   {
     "id": "dp-cbg-40",
     "masterId": "dp-corn-street-bar-n-grill-m",
-    "name": "Corn Street (Bar n Grill)",
+    "name": "Corn Street",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -16827,7 +16827,7 @@
   {
     "id": "dp-cbg-86",
     "masterId": "dp-cbg-86-m",
-    "name": "Smoked Salmon (Bar & Grill)",
+    "name": "Smoked Salmon",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -18430,7 +18430,7 @@
   {
     "id": "bp-nb-7",
     "masterId": "bp-nb-7-m",
-    "name": "Avocado (Fresh) (Bar & Grill)",
+    "name": "Avocado (Fresh)",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Prep",
     "yield": "",
@@ -19009,7 +19009,7 @@
   {
     "id": "bp-cbg-17",
     "masterId": "bp-cbg-17-m",
-    "name": "Avocados (fresh) (bar & grill)",
+    "name": "Avocados (fresh)",
     "location": "CBG",
     "category": "Breakfast Prep",
     "yield": "",
@@ -19762,7 +19762,7 @@
   {
     "id": "dm-nb-16",
     "masterId": "dm-nb-16-m",
-    "name": "EZ Steamed Shrimp (Both portions ) (All stores)",
+    "name": "EZ Steamed Shrimp (Both portions )",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -22133,7 +22133,7 @@
   {
     "id": "dm-nb-52",
     "masterId": "dm-nb-52-m",
-    "name": "Shrimp Fried (All Stores)",
+    "name": "Shrimp Fried",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -22173,7 +22173,7 @@
   {
     "id": "dm-nb-53",
     "masterId": "dm-nb-53-m",
-    "name": "Shrimp Grilled (All Stores)",
+    "name": "Shrimp Grilled",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -22813,7 +22813,7 @@
   {
     "id": "dm-nb-64",
     "masterId": "dm-nb-64-m",
-    "name": "Taco Chicken Taco (All Stores)",
+    "name": "Taco Chicken Taco",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -22873,7 +22873,7 @@
   {
     "id": "dm-nb-65",
     "masterId": "dm-nb-65-m",
-    "name": "Taco Grouper Taco (All stores)",
+    "name": "Taco Grouper Taco",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -23658,7 +23658,7 @@
   {
     "id": "dm-nb-77",
     "masterId": "dm-grouper-sandwich-all-stores-m",
-    "name": "Grouper Sandwich (All Stores)",
+    "name": "Grouper Sandwich",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -23718,7 +23718,7 @@
   {
     "id": "dm-pl-7",
     "masterId": "dm-grouper-sandwich-all-stores-m",
-    "name": "Grouper Sandwich (All Stores)",
+    "name": "Grouper Sandwich",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -24097,7 +24097,7 @@
   {
     "id": "dm-nb-81",
     "masterId": "dm-nb-81-m",
-    "name": "Sirloin Burger (All Stores)",
+    "name": "Sirloin Burger",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -24396,7 +24396,7 @@
   {
     "id": "dm-nb-86",
     "masterId": "dm-nb-86-m",
-    "name": "Mahi Sandwich (All Stores)",
+    "name": "Mahi Sandwich",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -25801,7 +25801,7 @@
   {
     "id": "dm-si-18",
     "masterId": "dm-si-18-m",
-    "name": "Island Chicken Sandwich SI",
+    "name": "Island Chicken Sandwich",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -25932,7 +25932,7 @@
   {
     "id": "dm-si-20",
     "masterId": "dm-si-20-m",
-    "name": "Chicken BLT SI",
+    "name": "Chicken BLT",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -26330,7 +26330,7 @@
   {
     "id": "dm-si-24",
     "masterId": "dm-si-24-m",
-    "name": "Chicken SI",
+    "name": "Chicken",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -26480,7 +26480,7 @@
   {
     "id": "dm-si-27",
     "masterId": "dm-si-27-m",
-    "name": "Veggie Brussels Sprouts Tacos (SI)",
+    "name": "Veggie Brussels Sprouts Tacos",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -26691,7 +26691,7 @@
   {
     "id": "dm-si-31",
     "masterId": "dm-si-31-m",
-    "name": "Grouper Grill/Blacken Tacos (SI)",
+    "name": "Grouper Grill/Blacken Tacos",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -26754,7 +26754,7 @@
   {
     "id": "dm-si-32",
     "masterId": "dm-si-32-m",
-    "name": "Shrimp Grill /Blacken Tacos (SI)",
+    "name": "Shrimp Grill /Blacken Tacos",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -26813,7 +26813,7 @@
   {
     "id": "dm-si-33",
     "masterId": "dm-si-33-m",
-    "name": "Tuna Grill /Blacken Tacos (SI)",
+    "name": "Tuna Grill /Blacken Tacos",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -26871,7 +26871,7 @@
   {
     "id": "dm-si-34",
     "masterId": "dm-si-34-m",
-    "name": "Chocolate Cake (SI)",
+    "name": "Chocolate Cake",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -27021,7 +27021,7 @@
   {
     "id": "dm-si-37",
     "masterId": "dm-nb-56-m",
-    "name": "Crab Cakes SI",
+    "name": "Crab Cakes",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -27221,7 +27221,7 @@
   {
     "id": "dm-si-42",
     "masterId": "dm-si-42-m",
-    "name": "Macadamia Grouper (Salty Is)",
+    "name": "Macadamia Grouper",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -27266,7 +27266,7 @@
   {
     "id": "dm-si-43",
     "masterId": "dm-si-43-m",
-    "name": "Ribeye Steak (SI)",
+    "name": "Ribeye Steak",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -27358,7 +27358,7 @@
   {
     "id": "dm-si-45",
     "masterId": "dm-si-45-m",
-    "name": "Filet Mignon (SI)",
+    "name": "Filet Mignon",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -27458,7 +27458,7 @@
   {
     "id": "dm-si-47",
     "masterId": "dm-si-47-m",
-    "name": "Shrimp & Grits SI",
+    "name": "Shrimp & Grits",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -27536,7 +27536,7 @@
   {
     "id": "dm-si-48",
     "masterId": "dm-si-48-m",
-    "name": "Salty's Linguini SI",
+    "name": "Salty's Linguini",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -27733,7 +27733,7 @@
   {
     "id": "dm-si-52",
     "masterId": "dm-si-52-m",
-    "name": "Spinach & Strawberry (SI)",
+    "name": "Spinach & Strawberry",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -27791,7 +27791,7 @@
   {
     "id": "dm-si-53",
     "masterId": "dm-si-53-m",
-    "name": "House Salad (SI)",
+    "name": "House Salad",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -27842,7 +27842,7 @@
   {
     "id": "dm-si-54",
     "masterId": "dm-si-54-m",
-    "name": "Wedge Salad SI",
+    "name": "Wedge Salad",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -28527,7 +28527,7 @@
   {
     "id": "dm-si-72",
     "masterId": "dm-steam-shrimp-half-all-stores-m",
-    "name": "Steam Shrimp (Half) (All stores)",
+    "name": "Steam Shrimp (Half)",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -28576,7 +28576,7 @@
   {
     "id": "dm-cbg-3",
     "masterId": "dm-steam-shrimp-half-all-stores-m",
-    "name": "Steam Shrimp (Half) (All stores)",
+    "name": "Steam Shrimp (Half)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -30292,7 +30292,7 @@
   {
     "id": "dm-pl-23",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All Stores)",
+    "name": "Alligator Bites",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -30361,7 +30361,7 @@
   {
     "id": "dm-cbg-5",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All Stores)",
+    "name": "Alligator Bites",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -33479,7 +33479,7 @@
   {
     "id": "dm-cbg-10",
     "masterId": "dm-cbg-10-m",
-    "name": "Steam Shrimp (3/4#) (All stores)",
+    "name": "Steam Shrimp (3/4#)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -33600,7 +33600,7 @@
   {
     "id": "dm-cbg-12",
     "masterId": "dm-cbg-12-m",
-    "name": "Steam Shrimp (Full) (All stores)",
+    "name": "Steam Shrimp (Full)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -33744,7 +33744,7 @@
   {
     "id": "dm-cbg-16",
     "masterId": "dm-cbg-16-m",
-    "name": "Braised Beef Mac(New) (All stores)",
+    "name": "Braised Beef Mac(New)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -33905,7 +33905,7 @@
   {
     "id": "dm-cbg-20",
     "masterId": "dm-cbg-20-m",
-    "name": "Coconut Shrimp Bites (All Stores)",
+    "name": "Coconut Shrimp Bites",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -34115,7 +34115,7 @@
   {
     "id": "dm-cbg-25",
     "masterId": "dm-cbg-25-m",
-    "name": "Chicken Tender App (All stores)",
+    "name": "Chicken Tender App",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -34231,7 +34231,7 @@
   {
     "id": "dm-cbg-28",
     "masterId": "dm-cbg-28-m",
-    "name": "Crab Cake (All stores)",
+    "name": "Crab Cake",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -34280,7 +34280,7 @@
   {
     "id": "dm-cbg-29",
     "masterId": "dm-cbg-29-m",
-    "name": "Crab & Spinach Dip (All stores)",
+    "name": "Crab & Spinach Dip",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -34326,7 +34326,7 @@
   {
     "id": "dm-cbg-30",
     "masterId": "dm-cbg-30-m",
-    "name": "Grouper Basket (All stores)",
+    "name": "Grouper Basket",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -34626,7 +34626,7 @@
   {
     "id": "dm-cbg-38",
     "masterId": "dm-cbg-38-m",
-    "name": "Shrimp Pasta (All stores)",
+    "name": "Shrimp Pasta",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -34750,7 +34750,7 @@
   {
     "id": "dm-cbg-40",
     "masterId": "dm-cbg-40-m",
-    "name": "Chicken and Grits (Bar & Grill)",
+    "name": "Chicken and Grits",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -39539,7 +39539,7 @@
   {
     "id": "drm-cbg-12",
     "masterId": "drm-cbg-12-m",
-    "name": "jPerfect Pina (Batch) (Bar & Grill)",
+    "name": "jPerfect Pina (Batch)",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40433,7 +40433,7 @@
   {
     "id": "drm-cbg-20",
     "masterId": "drm-sweet-tart-bar-grill-m",
-    "name": "Sweet Tart (Bar & Grill)",
+    "name": "Sweet Tart",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -43034,7 +43034,7 @@
   {
     "id": "drm-cbg-42",
     "masterId": "drm-mojito-strawberry-lemonade-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade(Bar & Grill)",
+    "name": "Mojito Strawberry Lemonade",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43098,7 +43098,7 @@
   {
     "id": "drm-cds-43",
     "masterId": "drm-mojito-strawberry-lemonade-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade(Bar & Grill)",
+    "name": "Mojito Strawberry Lemonade",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45704,7 +45704,7 @@
   {
     "id": "drm-cbg-66",
     "masterId": "drm-dos-a-rita-bar-grill-m",
-    "name": "Dos-a-Rita (Bar & Grill)",
+    "name": "Dos-a-Rita",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45745,7 +45745,7 @@
   {
     "id": "drm-cbg-67",
     "masterId": "drm-florida-sunshine-bar-grill-m",
-    "name": "Florida Sunshine(Bar & Grill)",
+    "name": "Florida Sunshine",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -49476,7 +49476,7 @@
   {
     "id": "drm-cbg-106",
     "masterId": "drm-mojito-strawberry-lemonade-na-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade NA(Bar & Grill)",
+    "name": "Mojito Strawberry Lemonade NA",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49525,7 +49525,7 @@
   {
     "id": "drm-cds-102",
     "masterId": "drm-mojito-strawberry-lemonade-na-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade NA(Bar & Grill)",
+    "name": "Mojito Strawberry Lemonade NA",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49772,7 +49772,7 @@
   {
     "id": "drm-cds-105",
     "masterId": "drm-cds-105-m",
-    "name": "Perfect Pina (Batch) (Bar & Grill)",
+    "name": "Perfect Pina (Batch)",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -50448,7 +50448,7 @@
   {
     "id": "drm-nb-39",
     "masterId": "drm-nb-39-m",
-    "name": "Espresso Martini (NB)",
+    "name": "Espresso Martini",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50831,7 +50831,7 @@
   {
     "id": "drm-nb-47",
     "masterId": "drm-nb-47-m",
-    "name": "Mojito (NB)",
+    "name": "Mojito",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51076,7 +51076,7 @@
   {
     "id": "drm-nb-51",
     "masterId": "drm-nb-51-m",
-    "name": "Top Shelf Spicy Margarita (NB)",
+    "name": "Top Shelf Spicy Margarita",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51530,7 +51530,7 @@
   {
     "id": "drm-si-13",
     "masterId": "drm-si-13-m",
-    "name": "Brkft Old Fashion SI",
+    "name": "Brkft Old Fashion",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -51713,7 +51713,7 @@
   {
     "id": "drm-si-16",
     "masterId": "drm-si-16-m",
-    "name": "Irish Coffee SI",
+    "name": "Irish Coffee",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -61045,7 +61045,7 @@
   {
     "id": "bm-si-14",
     "masterId": "bm-si-14-m",
-    "name": "Benedict Crab SI",
+    "name": "Benedict Crab",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61179,7 +61179,7 @@
   {
     "id": "bm-si-16",
     "masterId": "bm-si-16-m",
-    "name": "Shrimp & Grits Breakfast SI",
+    "name": "Shrimp & Grits Breakfast",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61550,7 +61550,7 @@
   {
     "id": "bm-si-22",
     "masterId": "bm-si-22-m",
-    "name": "Omelet Veggie (SI)",
+    "name": "Omelet Veggie",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61690,7 +61690,7 @@
   {
     "id": "bm-si-24",
     "masterId": "bm-si-24-m",
-    "name": "Chicken and Waffle (Salty Is)",
+    "name": "Chicken and Waffle",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -66405,7 +66405,7 @@
   {
     "id": "dm-cds-22",
     "masterId": "dm-alligator-bites-all-stores-m",
-    "name": "Alligator Bites (All Stores)",
+    "name": "Alligator Bites",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -66474,7 +66474,7 @@
   {
     "id": "dm-cds-23",
     "masterId": "m-ms6719r2nj9mma",
-    "name": "Boom-Boom Shrimp (All stores)",
+    "name": "Boom-Boom Shrimp",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -66767,7 +66767,7 @@
   {
     "id": "dm-cds-29",
     "masterId": "dm-cbg-29-m",
-    "name": "Crab & Spinach Dip (All stores)",
+    "name": "Crab & Spinach Dip",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -66813,7 +66813,7 @@
   {
     "id": "dm-cds-30",
     "masterId": "dm-nb-16-m",
-    "name": "EZ Steamed Shrimp (Both portions) (All stores)",
+    "name": "EZ Steamed Shrimp (Both portions)",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -68691,7 +68691,7 @@
   {
     "id": "dm-cds-62",
     "masterId": "dm-grouper-sandwich-all-stores-m",
-    "name": "Grouper Sandwich (All Stores)",
+    "name": "Grouper Sandwich",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -69147,7 +69147,7 @@
   {
     "id": "dm-cbg-44",
     "masterId": "dm-cbg-44-m",
-    "name": "Kid Mac n Cheese (All stores)",
+    "name": "Kid Mac n Cheese",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -69492,7 +69492,7 @@
   {
     "id": "dm-cbg-53",
     "masterId": "dm-grouper-sandwich-all-stores-m",
-    "name": "Grouper Sandwich (All Stores)",
+    "name": "Grouper Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -69603,7 +69603,7 @@
   {
     "id": "dm-cbg-55",
     "masterId": "dm-cbg-55-m",
-    "name": "Crab Cake Sandwich (All stores)",
+    "name": "Crab Cake Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -69728,7 +69728,7 @@
   {
     "id": "dm-cbg-57",
     "masterId": "dm-cbg-57-m",
-    "name": "Buffalo Chicken Sandwich (All stores)",
+    "name": "Buffalo Chicken Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -69836,7 +69836,7 @@
   {
     "id": "dm-cbg-59",
     "masterId": "dm-nb-86-m",
-    "name": "Mahi Sandwich (All Stores)",
+    "name": "Mahi Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -70026,7 +70026,7 @@
   {
     "id": "dm-cbg-62",
     "masterId": "dm-cbg-62-m",
-    "name": "Salmon BLT (Bar & Grill)",
+    "name": "Salmon BLT",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -70091,7 +70091,7 @@
   {
     "id": "dm-cbg-63",
     "masterId": "dm-nb-81-m",
-    "name": "Sirloin Burger (All Stores)",
+    "name": "Sirloin Burger",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -70217,7 +70217,7 @@
   {
     "id": "dm-cbg-65",
     "masterId": "dm-cbg-65-m",
-    "name": "Grouper Sliders (Bar & Grill)",
+    "name": "Grouper Sliders",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -70330,7 +70330,7 @@
   {
     "id": "dm-cbg-67",
     "masterId": "dm-cbg-67-m",
-    "name": "Turkey Burger (Bar & Grill)",
+    "name": "Turkey Burger",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -70979,7 +70979,7 @@
   {
     "id": "dm-cbg-78",
     "masterId": "dm-cbg-78-m",
-    "name": "No Worries/Crabby Combo (All stores)",
+    "name": "No Worries/Crabby Combo",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73041,7 +73041,7 @@
   {
     "id": "dm-cds-91",
     "masterId": "dm-grouper-dinner-m",
-    "name": "Grouper Dinner (All stores)",
+    "name": "Grouper Dinner",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -73094,7 +73094,7 @@
   {
     "id": "dm-cds-92",
     "masterId": "dm-nb-53-m",
-    "name": "Shrimp Grilled (All Stores)",
+    "name": "Shrimp Grilled",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -73145,7 +73145,7 @@
   {
     "id": "dm-cds-93",
     "masterId": "dm-nb-52-m",
-    "name": "Shrimp Fried (All Stores)",
+    "name": "Shrimp Fried",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -74655,7 +74655,7 @@
   {
     "id": "dm-cbg-104",
     "masterId": "dm-cbg-104-m",
-    "name": "Avocado Ceviche (Bar & Grill)",
+    "name": "Avocado Ceviche",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -75467,7 +75467,7 @@
   {
     "id": "dm-cbg-121",
     "masterId": "dm-cbg-121-m",
-    "name": "Black Beans/Rice (Bar & Grill)",
+    "name": "Black Beans/Rice",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -75529,7 +75529,7 @@
   {
     "id": "dm-cbg-123",
     "masterId": "dm-cbg-123-m",
-    "name": "Chips (Bar & Grill)",
+    "name": "Chips",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -75591,7 +75591,7 @@
   {
     "id": "dm-cbg-126",
     "masterId": "dm-cbg-126-m",
-    "name": "Corn (Bar & Grill)",
+    "name": "Corn",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Sides",
