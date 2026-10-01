@@ -8288,42 +8288,49 @@
     "name": "Clam Chowder Add",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 portion",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Seasoning House Spice",
         "qty": "1",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "4"
       },
       {
         "name": "Onions Yellow (Diced)",
         "qty": "1",
-        "unit": "lb. (16oz)"
+        "unit": "lb. (16oz)",
+        "qty2": "4"
       },
       {
         "name": "Bacon Pieces",
         "qty": "2",
-        "unit": "lb. (32oz)"
+        "unit": "lb. (32oz)",
+        "qty2": "8"
       },
       {
         "name": "Clams in Ocean Water",
         "qty": "1",
-        "unit": "Can (51oz)"
+        "unit": "Can (51oz)",
+        "qty2": "4"
       }
     ],
     "steps": [
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
-      "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
+      "Add house spice and clams (drain juice into the number of portions you are making).",
       "Heat while stirring for 3 minutes.",
-      "Split into 4 containers evenly.",
-      "Yield = 100oz. = 6.25# = 4 containers or portion bads",
-      "SLOW SEASON - Split into 8 containers evenly to make 1/2 batches",
-      "Ingredients - Double Batch"
+      "Split into containers evenly."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 Bag",
+      "label2": "4 Bags",
+      "count": 2
+    },
+    "yield2": "4 portions"
   },
   {
     "id": "dp-pl-8",
@@ -8331,42 +8338,49 @@
     "name": "Clam Chowder Add",
     "location": "Palm",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 portion",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Seasoning House Spice",
         "qty": "1",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "4"
       },
       {
         "name": "Onions Yellow (Diced)",
         "qty": "1",
-        "unit": "lb. (16oz)"
+        "unit": "lb. (16oz)",
+        "qty2": "4"
       },
       {
         "name": "Bacon Pieces",
         "qty": "2",
-        "unit": "lb. (32oz)"
+        "unit": "lb. (32oz)",
+        "qty2": "8"
       },
       {
         "name": "Clams in Ocean Water",
         "qty": "1",
-        "unit": "Can (51oz)"
+        "unit": "Can (51oz)",
+        "qty2": "4"
       }
     ],
     "steps": [
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
-      "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
+      "Add house spice and clams (drain juice into the number of portions you are making).",
       "Heat while stirring for 3 minutes.",
-      "Split into 4 containers evenly.",
-      "Yield = 100oz. = 6.25# = 4 containers or portion bads",
-      "SLOW SEASON - Split into 8 containers evenly to make 1/2 batches",
-      "Ingredients - Double Batch"
+      "Split into containers evenly."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 Bag",
+      "label2": "4 Bags",
+      "count": 2
+    },
+    "yield2": "4 portions"
   },
   {
     "id": "dp-cds-7",
@@ -8374,42 +8388,49 @@
     "name": "Clam Chowder Add",
     "location": "CDS",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 portion",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Seasoning House Spice",
         "qty": "1",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "4"
       },
       {
         "name": "Onions Yellow (Diced)",
         "qty": "1",
-        "unit": "lb. (16oz)"
+        "unit": "lb. (16oz)",
+        "qty2": "4"
       },
       {
         "name": "Bacon Pieces",
         "qty": "2",
-        "unit": "lb. (32oz)"
+        "unit": "lb. (32oz)",
+        "qty2": "8"
       },
       {
         "name": "Clams in Ocean Water",
         "qty": "1",
-        "unit": "Can (51oz)"
+        "unit": "Can (51oz)",
+        "qty2": "4"
       }
     ],
     "steps": [
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
-      "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
+      "Add house spice and clams (drain juice into the number of portions you are making).",
       "Heat while stirring for 3 minutes.",
-      "Split into 4 containers evenly.",
-      "Yield = 100oz. = 6.25# = 4 containers or portion bads",
-      "SLOW SEASON - Split into 8 containers evenly to make 1/2 batches",
-      "Ingredients - Double Batch"
+      "Split into containers evenly."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 Bag",
+      "label2": "4 Bags",
+      "count": 2
+    },
+    "yield2": "4 portions"
   },
   {
     "id": "dp-cbg-6",
@@ -8417,42 +8438,49 @@
     "name": "Clam Chowder Add",
     "location": "CBG",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 portion",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Seasoning House Spice",
         "qty": "1",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "4"
       },
       {
         "name": "Onions Yellow (Diced)",
         "qty": "1",
-        "unit": "lb. (16oz)"
+        "unit": "lb. (16oz)",
+        "qty2": "4"
       },
       {
         "name": "Bacon Pieces",
         "qty": "2",
-        "unit": "lb. (32oz)"
+        "unit": "lb. (32oz)",
+        "qty2": "8"
       },
       {
         "name": "Clams in Ocean Water",
         "qty": "1",
-        "unit": "Can (51oz)"
+        "unit": "Can (51oz)",
+        "qty2": "4"
       }
     ],
     "steps": [
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
-      "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
+      "Add house spice and clams (drain juice into the number of portions you are making).",
       "Heat while stirring for 3 minutes.",
-      "Split into 4 containers evenly.",
-      "Yield = 100oz. = 6.25# = 4 containers or portion bads",
-      "SLOW SEASON - Split into 8 containers evenly to make 1/2 batches",
-      "Ingredients - Double Batch"
+      "Split into containers evenly."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 Bag",
+      "label2": "4 Bags",
+      "count": 2
+    },
+    "yield2": "4 portions"
   },
   {
     "id": "dp-si-6",
@@ -8460,42 +8488,49 @@
     "name": "Clam Chowder Add",
     "location": "Salty's Island",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1 portion",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Seasoning House Spice",
         "qty": "1",
-        "unit": "Weight oz"
+        "unit": "Weight oz",
+        "qty2": "4"
       },
       {
         "name": "Onions Yellow (Diced)",
         "qty": "1",
-        "unit": "lb. (16oz)"
+        "unit": "lb. (16oz)",
+        "qty2": "4"
       },
       {
         "name": "Bacon Pieces",
         "qty": "2",
-        "unit": "lb. (32oz)"
+        "unit": "lb. (32oz)",
+        "qty2": "8"
       },
       {
         "name": "Clams in Ocean Water",
         "qty": "1",
-        "unit": "Can (51oz)"
+        "unit": "Can (51oz)",
+        "qty2": "4"
       }
     ],
     "steps": [
       "Sauté the onion and bacon pieces in a large skillet until the onions caramelize and the bacon crisps.",
-      "Add 1 v/oz of house spice and 1 can of clams (drain juice into 4 containers).",
+      "Add house spice and clams (drain juice into the number of portions you are making).",
       "Heat while stirring for 3 minutes.",
-      "Split into 4 containers evenly.",
-      "Yield = 100oz. = 6.25# = 4 containers or portion bads",
-      "SLOW SEASON - Split into 8 containers evenly to make 1/2 batches",
-      "Ingredients - Double Batch"
+      "Split into containers evenly."
     ],
     "notes": "",
-    "images": []
+    "images": [],
+    "dualBatch": {
+      "label1": "1 Bag",
+      "label2": "4 Bags",
+      "count": 2
+    },
+    "yield2": "4 portions"
   },
   {
     "id": "dp-nb-23",
