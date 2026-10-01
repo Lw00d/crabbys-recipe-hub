@@ -1,12 +1,12 @@
 # Beachside Recipe Hub — Handoff
 
 Paste this whole document as your first message in a new chat to resume.
-As of this writing: **2,039 recipes** across **two companies**, latest code
-commit `c6d7ab5`; `data/recipes.json` moves constantly on top of that as
+As of this writing: **2,058 recipes** across **two companies**, latest code
+commit `af02765`; `data/recipes.json` moves constantly on top of that as
 people save.
 
 **Everything is in the repo.** `index.html`, `worker.js`, `data/recipes.json`,
-the 166-test suite and this document all live in git. A new session can rebuild
+the 196-test suite and this document all live in git. A new session can rebuild
 full context from a checkout — it does not need a chat transcript.
 
 The suite runs from a clean clone: `npm install jsdom && node tests/run-all.mjs`,
@@ -15,7 +15,7 @@ than a pass count, treat that as a failure — `run-all.mjs` does, but the line 
 easy to skim past next to nine lines of green.
 
 **Two companies, deliberately separate.** BSHGRP (1,688 recipes, five books)
-and BSHGRP2 (351 recipes, three books). `LOC_GROUP` in `index.html` keeps them
+and BSHGRP2 (370 recipes, three books, including 18 Procedures). `LOC_GROUP` in `index.html` keeps them
 apart structurally: a masterId in one cannot reach a row in the other, even if
 the ids collided. They do not share recipes, submenu vocabulary, or naming
 conventions, and a convention from one is not evidence for the other.
@@ -158,7 +158,7 @@ the same book if that bites.
 
 ## BSHGRP2 — loaded 2026-09-18
 
-351 recipes from 283 spreadsheets: **Mar Vista 133, Sandbar 104, Beach House
+351 recipes from 283 spreadsheets (the 18 Procedures came later, see below): **Mar Vista 133, Sandbar 104, Beach House
 114**. Source was a zip of `.xlsx` files arranged `Location / Menu / Sub Menu`.
 The converters are not in the repo — they were one-shot scripts — but every
 decision they encoded is below, because the same decisions govern any future
@@ -654,6 +654,115 @@ for `\n` or `\t` inside a step catches it.
 
 ---
 
+## Linking — four mechanisms, and what each can reach
+
+All four resolve **by name, within one book**. Nothing stores a link, so a
+link cannot go stale — but a rename silently breaks one, which is why a rename
+is the single most dangerous edit in this data. Always check for references
+first.
+
+| From | To | How |
+|---|---|---|
+| An ingredient | a prep recipe | name match, `prepLinkFor()` |
+| A step | a Procedures recipe | step is **entirely** the name, `procLinkFor()` |
+| A step | a prep recipe | same, falls through to `PREP_INDEX` |
+| A Prep Hub item | a recipe | Jon's `recipe_hub_url`, keyed on **masterId** |
+
+Only the last is stored, and it lives in Jon's database, not ours.
+
+### A trailing parenthetical is ignored when matching
+
+An ingredient carries notes its prep recipe's name does not: `Clam Chowder Add
+(Prep)`, `Shrimp Pieces (Pull Thaw)`, `Lettuce Romaine (Pre-cut)`, `Corn Stock
+( in house )`. Those used to block the link.
+
+`prepLinkFor()` tries an exact match first, then retries without a trailing
+parenthetical. **Do not "fix" this by renaming ingredients.** `(Pull Thaw)`
+tells a cook it comes out of the freezer; `(Pre-cut)` and `(6oz)` are real
+information. Stripping them to buy a link is the wrong trade, and the matcher
+already handles it. 618 links became 800.
+
+Exact match wins, so a prep recipe genuinely named `Calamari (Prep)` is not
+shadowed by one named `Calamari`. Only a **trailing** parenthetical is
+ignored — leading or mid-string is not.
+
+### Steps link only on an exact whole-line match
+
+`Follow the Blackening Procedure for the grouper` stays plain text. The
+pattern that works is a header and then the bare name:
+
+```
+Blackening:
+Season the presentation side heavily, sear 2 minutes a side.
+Blackening Procedure
+```
+
+The header is any step ending in `:` (`isSection()`), the middle line is the
+inline cue, and the third is the link. It opens as an **overlay** via
+`openPrepLayer()`, so a cook mid-service does not lose their place.
+
+A prep recipe can also point at what it feeds, which no ingredient list can
+express — `Clam Chowder Add` ends with `Used in:` / `Soup Clam Chowder`. That
+is the reverse direction and it is available to any prep recipe.
+
+---
+
+## Procedures — BSHGRP2's answer to the SOP problem
+
+BSHGRP1 pastes the grilling SOP into every recipe verbatim. That is why its
+linked groups drift. **BSHGRP2 keeps one copy per book and links to it.**
+
+Six station procedures, 18 rows (three linked per procedure), category
+`Procedures`, 31 photos. 97 links from 40 recipes.
+
+`Procedures` needs no code: `buildCategories()` unions `BASE_CATEGORIES` with
+whatever is in the data. It is deliberately **not** in `PREP_CATEGORIES`, so
+procedures stay off prep sheets and an ingredient named "Blackening" cannot
+resolve to one.
+
+Names come from the source filenames, not the sheet titles — a link must read
+`Blackening Procedure` and match exactly. The sheet title is kept in `notes`.
+
+**The photos are Excel in-cell images**, stored as rich values. openpyxl
+cannot see them, and they are why every other cell in those files reads
+`#VALUE!` — those cells *are* the photos. Read them from the raw archive,
+ordered by cell position, which is step order.
+
+Two things left here: `Cornmeal Breading Procedure` has no referencing recipe,
+and `Grilled Chicken Procedure` / `Blackening Procedure` read oddly on a
+grouper. The source sheets are titled "GRILLED CHICKEN **and FISH**", so the
+content is right and only the names are narrow. Renaming now costs two places:
+the 3 rows and the 30 link lines that must keep matching exactly.
+
+---
+
+## Tim's reviews — how to read them
+
+Tim sends Word documents of corrections. **He numbers steps the way the app
+DISPLAYS them, so section headers are not counted.** This is the single most
+important thing to know before acting on one.
+
+"Hash Brown Casserole — remove line 4; it's the same as line 2" makes no sense
+against the raw array. Counting his way it is exactly right. It also meant the
+Breakfast **Menu** recipe, not the Breakfast **Prep** recipe of nearly the same
+name — editing that one would have deleted "Portion into 4 shallow half pans"
+from a prep sheet.
+
+Other things that held across the 8/25/26 review:
+
+- **His shorthand is not the hub's names.** `Bene Country` is `Benedict
+  Country`, `Kids Pancake` is `Kid Pancake`.
+- **Some items are already done.** These are second reviews; applying them
+  blind re-does or undoes work.
+- **Some premises are wrong.** He asked to cut BLT w/ Salmon to 3 bacon slices
+  "to match all other BLTs" — every BLT in the hub uses 4 except BLTA.
+- **Roughly a quarter are questions, not instructions.** Do not guess at them.
+
+Of 64 items, 9 verified against the data and were applied. The rest are
+triaged and waiting on answers from Tim or John.
+
+---
+
 ## Empty section headers — deliberate, do not strip
 
 160 recipes carry a section header with nothing under it: 53 `Plateware:`,
@@ -756,6 +865,20 @@ Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
     line did not match and survived as a duplicate. Normalise first, then
     compare.
 
+21. **A rename that breaks a link with no error.** Links resolve by name, so
+    renaming a prep recipe silently unlinks every ingredient pointing at it.
+    Before any rename, search the data for references. The 90 store-suffix
+    renames were safe only because nothing referenced them — that was checked,
+    not assumed.
+22. **Reading a correction document literally.** Tim numbers steps as the app
+    displays them, excluding headers, and two recipes can share almost the
+    same name across categories. Taken at face value, "remove line 4" would
+    have deleted a line from the wrong recipe.
+23. **Fixing data to suit the code.** The obvious fix for `Clam Chowder Add
+    (Prep)` not linking was to rename the ingredient. That would have thrown
+    away what `(Pull Thaw)` and `(Pre-cut)` tell a cook. The matcher was the
+    right place to change, and it fixed 182 links instead of one.
+
 ---
 
 ## Active constraints
@@ -782,11 +905,20 @@ Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
 
 ### Prep Hub follow-ups
 
-1. **Recipe links for the rest.** 334 rows were sent to Jon covering every
-   active prep recipe, of which 56 were already linked. Everything else — the
-   136 BSHGRP2 recipes, the ~40 older unlinked items, and the Pasta Linguine
-   Scampi/Olive Oil split — is his to import and cross-check. Send future
-   batches the same way: one row per item, `?master=` URLs, let him collapse.
+1. **Recipe links for the rest.** Two files are with Jon: 334 rows covering
+   every active prep recipe, and a BSHGRP2-only re-send of 137 rows. 56 were
+   already imported. Send future batches the same way — **one row per store,
+   `?master=` URLs, and let him collapse on his own recipe ids.** Ours cannot
+   tell what is one recipe on his side; that is how si-island's "Broccoli SI"
+   was missed, and he caught it by cross-checking live data.
+
+   24 BSHGRP2 rows are flagged `same_name_different_recipe_elsewhere`. Eleven
+   names exist under more than one masterId. Some are the same recipe
+   transcribed differently (Stone Crab Mustard: `mustard, dry` vs `mustard,
+   dry powder`); others are genuinely different (Mar Vista's Ceviche Juice
+   uses agave and blood orange, Beach House's uses lemon and orange). They are
+   deliberately **not** merged — merging makes the app propagate content and
+   would overwrite one store's recipe with another's.
 2. **Watch masterIds if you do linking work.** They are external identifiers
    now; merging a divergent group breaks any `recipe_hub_url` pointing at the
    losing one.
@@ -794,33 +926,44 @@ Accumulated across sessions. Items 16–20 are from the BSHGRP2 load.
 Yield tests and the roles gap are both closed by the handoff — his page does
 them, and the embed session is always staff tier. Do not reopen either.
 
+### Tim's breakfast review — 8/25/26
+
+3. **55 of 64 items are unresolved.** 17 are questions, 5 are master-copy
+   operations, 1 is for JB/Kory, and the rest did not verify against the data.
+   Two published worksheets hold the detail: a full triage and a question
+   sheet with the hub's own answers filled in beside each question. Read
+   "Tim's reviews" above before touching any of it.
+4. **"All Food Items need Expo & Plateware sections"** is the largest item in
+   that document, and it is the other side of the 160 empty headers kept on
+   purpose. That is a project, not a line item.
+
 ### Blocked on you / the SOP
 
-4. **Char Grill Method for sirloin burgers.** SOP §8 says *"(Steps to be
+5. **Char Grill Method for sirloin burgers.** SOP §8 says *"(Steps to be
    added.)"*. Four recipes waiting: `Sirloin Burger (All Stores)` (CBG + NB,
    linked), `Palm (Sirloin) Burger`, `Backyard Burger`.
-5. **Scallops — 7 recipes, no SOP section.** They sear on *both* flat sides,
+6. **Scallops — 7 recipes, no SOP section.** They sear on *both* flat sides,
    which none of the existing rules cover. Currently untouched by design.
-6. **Do smash burgers finish with lemon butter?** §7 doesn't say; the universal
+7. **Do smash burgers finish with lemon butter?** §7 doesn't say; the universal
    rule says always. `Smash Burgers` (CBG) currently has none.
-7. **Five kid burgers** deliberately skipped — currently two lines each
+8. **Five kid burgers** deliberately skipped — currently two lines each
    ("Place the burger on the grill. Turn over halfway"). Decide whether they
    should get the full technique.
 
 ### Security / hygiene
 
-8. **Rotate the GitHub PAT.** Outstanding across several sessions now, and
+9. **Rotate the GitHub PAT.** Outstanding across several sessions now, and
    exposed in more transcripts each time it is pasted. A fine-grained token
    scoped to this one repo with Contents: read and write is all any session
    needs — not a classic `repo`-scoped one.
-9. **Rotate all twelve store logins and the admin password.** Pasted into
-   transcripts on 2026-09-17 and again on 2026-09-18, and exported to a
-   spreadsheet. Every store shares one password, so one leak is twelve stores.
-   Worth giving each site its own while changing them anyway — and note that
-   every iPad has the old one saved in Safari, so someone has to go round.
-10. **Re-add the Cloudflare config as encrypted Secrets.** Still plain Variables.
+10. **Rotate all twelve store logins and the admin password.** Pasted into
+    transcripts on 2026-09-17 and again on 2026-09-18, and exported to a
+    spreadsheet. Every store shares one password, so one leak is twelve stores.
+    Worth giving each site its own while changing them anyway — and note that
+    every iPad has the old one saved in Safari, so someone has to go round.
+11. **Re-add the Cloudflare config as encrypted Secrets.** Still plain Variables.
     See the top of this document.
-11. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
+12. **`drm-nb-45` was hard-deleted** rather than set `active: false`, against
     convention. Recoverable from git history if unintended.
 
 Done since the last handoff: `worker.js` and the test suite are committed, the
@@ -829,55 +972,55 @@ path, `PREP_PATHS` carries only real routes, and both save guards are in place.
 
 ### BSHGRP2 follow-ups
 
-12. **BSHGRP2 recipe links** are in the 334-row file with everything else —
+13. **BSHGRP2 recipe links** are in the 334-row file with everything else —
     see Prep Hub follow-ups. Nothing to build here; `prep-links.json` is a
     historical record and must not be wired back up.
-13. **Decide whether `mango lime butter` (×2, Mar Vista) should be one recipe**,
+14. **Decide whether `mango lime butter` (×2, Mar Vista) should be one recipe**,
     with one renamed to Mango Lime Base.
-14. **27 BSHGRP2 recipes have no method.** Someone who cooks them has to write
+15. **27 BSHGRP2 recipes have no method.** Someone who cooks them has to write
     it; there is nothing in the source to recover.
-15. **Drop `Pickled vegetables — garnish.`** from Mar Vista Calamari's Expo
+16. **Drop `Pickled vegetables — garnish.`** from Mar Vista Calamari's Expo
     block if you agree it duplicates the two lines above it.
-16. **BSHGRP1's four pasta recipes** still have a `Garnish with garlic bread`
+17. **BSHGRP1's four pasta recipes** still have a `Garnish with garlic bread`
     step alongside an Expo block. Left alone because they are linked; decide
     whether the BSHGRP2 treatment should apply there too.
 
 ### Data quality
 
-17. **46 linked groups are internally divergent** (out of 358). The old
+18. **46 linked groups are internally divergent** (out of 358). The old
     `Beachside_Linked_Recipe_Mismatches.xlsx` is stale — regenerate before
     acting. Every fish group opened this session turned out divergent, and the
     fix was the same shape each time: normalise wording, standardise headers,
     pick one Expo line. Worth one systematic sweep rather than discovering them
     group by group. `Grouper Sandwich` (4 stores) and `Grouper Dinner` are done.
-18. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
+19. **"Wrong protein" scan.** `Bairdi (3/4#) & Shrimp` referenced ribs
     throughout because it was copied from a ribs plate. Scan for recipes
     mentioning a protein absent from their ingredients.
-19. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
+20. **`Lightly season chicken with steak seasoning`** — one recipe. Deliberate
     or copy-paste?
-20. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
+21. **`Honey Fig Salmon`** lists `Old bay` in ingredients but its step now says
     requested seasoning.
-21. **Clear filters doesn't reset the address bar** — if someone clicks the
+22. **Clear filters doesn't reset the address bar** — if someone clicks the
     Link button then clears filters, a pin at that moment captures stale
     filters.
-22. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
+23. **`loc=` gap for single-store logins.** In `applyFiltersFromUrl()`, a
     store login opening `?loc=Mar Vista` would see it, crossing the
     BSHGRP/BSHGRP2 boundary. The Link button sidesteps this by never emitting
     `loc=` for those logins, but the reader is still permissive. Three-line fix.
 
 ### Older threads, untouched all session
 
-23. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
+24. **Drink batch-size project**: Palm ✅, North Beach ✅. CBG, CDS, Salty's
     Island still not sent. Also unresolved: the Miami Vice rum-brand mismatch
     ("Planteray Dark Rum" saved vs "Cruzan 137 Rum" in the newer doc).
-24. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
+25. **Brussels Sprouts overlap at Salty's Island** — `Brussels Sprouts
     (Appetizer)` vs `Brussels Sprout Side`. Never got a yes/no.
-25. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
+26. **Spanish translation — paused.** Bilingual-in-place schema (`name_es`,
     `steps_es[]`, per-ingredient `name_es`) so `masterId` propagation keeps
     working; language toggle in the UI; batches by location + category; a
     fluent speaker spot-checks before it goes on the line. **Still unanswered:
     which Spanish variant** (neutral/Latin American, Mexican, Caribbean).
-26. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
+27. **Periodic duplicate/mislabel scan** — group by location+category+submenu+
     name, diff content, check ID prefix vs location field. Not re-run in a long
     while.
 
