@@ -35112,7 +35112,7 @@
   {
     "id": "drm-pl-2",
     "masterId": "drm-pl-2-m",
-    "name": "A Sanitizer Tablets Mix",
+    "name": "AA Sanitizer Tablets Mix",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "",
@@ -35737,7 +35737,7 @@
   {
     "id": "drm-pl-12",
     "masterId": "drm-pl-12-m",
-    "name": "Grand Margarita",
+    "name": "Margarita Grand ",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -35899,7 +35899,7 @@
   {
     "id": "drm-pl-15",
     "masterId": "drm-florida-sunset-m",
-    "name": "Florida Sunset",
+    "name": "Florida Sunset 14, 20oz",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -35932,7 +35932,7 @@
         "qty2": "1.5"
       },
       {
-        "name": "Hornitos",
+        "name": "Hornitos Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -35949,13 +35949,11 @@
       "Blend till smooth",
       "Pour Strawberry mix into the empty glass",
       "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "14oz: Float with .5oz tequila",
-      "20oz: Float with .5oz tequila",
+      "**Both get a Float with .5oz Tequila**",
       "Garnish:",
       "Lime wedge",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -35968,7 +35966,7 @@
   {
     "id": "drm-cbg-1",
     "masterId": "drm-florida-sunset-m",
-    "name": "Florida Sunset",
+    "name": "Florida Sunset 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -36001,7 +35999,7 @@
         "qty2": "1.5"
       },
       {
-        "name": "Hornitos",
+        "name": "Hornitos Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -36018,13 +36016,11 @@
       "Blend till smooth",
       "Pour Strawberry mix into the empty glass",
       "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "14oz: Float with .5oz tequila",
-      "20oz: Float with .5oz tequila",
+      "**Both get a Float with .5oz Tequila**",
       "Garnish:",
       "Lime wedge",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -36037,7 +36033,7 @@
   {
     "id": "drm-cds-3",
     "masterId": "drm-florida-sunset-m",
-    "name": "Florida Sunset",
+    "name": "Florida Sunset 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -36070,7 +36066,7 @@
         "qty2": "1.5"
       },
       {
-        "name": "Hornitos",
+        "name": "Hornitos Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -36087,13 +36083,11 @@
       "Blend till smooth",
       "Pour Strawberry mix into the empty glass",
       "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "14oz: Float with .5oz tequila",
-      "20oz: Float with .5oz tequila",
+      "**Both get a Float with .5oz Tequila**",
       "Garnish:",
       "Lime wedge",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -36106,7 +36100,7 @@
   {
     "id": "drm-si-1",
     "masterId": "drm-florida-sunset-m",
-    "name": "Florida Sunset",
+    "name": "Florida Sunset 14, 20oz",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -36139,7 +36133,7 @@
         "qty2": "1.5"
       },
       {
-        "name": "Hornitos",
+        "name": "Hornitos Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -36156,13 +36150,11 @@
       "Blend till smooth",
       "Pour Strawberry mix into the empty glass",
       "Pour from the blender into the middle of the strawberry mix, pour quickly so the strawberry mix rises on the sides of the cup",
-      "14oz: Float with .5oz tequila",
-      "20oz: Float with .5oz tequila",
+      "**Both get a Float with .5oz Tequila**",
       "Garnish:",
       "Lime wedge",
       "Glassware:",
-      "14oz: 14oz glass or logo cup",
-      "20oz: 20oz glass or logo cup"
+      "14 or 20oz Glass or Logo cup"
     ],
     "notes": "",
     "images": [],
@@ -36500,7 +36492,7 @@
   {
     "id": "drm-pl-17",
     "masterId": "drm-dirty-banana-m",
-    "name": "Dirty Banana",
+    "name": "Dirty Banana 14, 20oz",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -36568,7 +36560,7 @@
   {
     "id": "drm-cbg-3",
     "masterId": "drm-dirty-banana-m",
-    "name": "Dirty Banana",
+    "name": "Dirty Banana 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -36636,7 +36628,7 @@
   {
     "id": "drm-cds-5",
     "masterId": "drm-dirty-banana-m",
-    "name": "Dirty Banana",
+    "name": "Dirty Banana 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -36704,7 +36696,7 @@
   {
     "id": "drm-nb-8",
     "masterId": "drm-dirty-banana-m",
-    "name": "Dirty Banana",
+    "name": "Dirty Banana 14, 20oz",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -37270,7 +37262,7 @@
   {
     "id": "drm-pl-26",
     "masterId": "drm-mojito-m",
-    "name": "Mojito",
+    "name": "Mojito 14, 20oz",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -37337,7 +37329,7 @@
   {
     "id": "drm-cbg-4",
     "masterId": "drm-mojito-m",
-    "name": "Mojito",
+    "name": "Mojito 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -37404,7 +37396,7 @@
   {
     "id": "drm-cds-6",
     "masterId": "drm-mojito-m",
-    "name": "Mojito",
+    "name": "Mojito 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -38949,7 +38941,7 @@
   {
     "id": "drm-pl-43",
     "masterId": "drm-pl-43-m",
-    "name": "Bloody Mary 14oz & Bucket",
+    "name": "Bloody Mary 14 & 32oz",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -38989,20 +38981,13 @@
       }
     ],
     "steps": [
-      "14oz: Fill the glass with ice",
+      "Fill the Glass or Bucket with ice",
       "Pour all ingredients in",
-      "Give a quick stir or a rolling back and forth with tin.",
+      "Give a quick stir, or a roll back and forth with tin.",
       "Garnish:",
       "3 Olives, lemon, Lime",
       "Glassware:",
-      "14oz glass or Logo cup",
-      "*32oz Bucket:* ",
-      "Fill the bucket with ice. Pour all ingredients in",
-      "Give a quick stir with a bar spoon, or roll back and forth with tin",
-      "Garnish:",
-      "3 Olives, lemon, Lime",
-      "Glassware:",
-      "32oz bucket"
+      "14oz Glass, Logo cup, or 32oz Bucket"
     ],
     "notes": "",
     "images": [],
@@ -39095,7 +39080,7 @@
   {
     "id": "drm-pl-45",
     "masterId": "drm-ultimate-bloody-mary-m",
-    "name": "Ultimate Bloody Mary",
+    "name": "Bloody Mary Ultimate",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -39156,7 +39141,7 @@
   {
     "id": "drm-nb-17",
     "masterId": "drm-ultimate-bloody-mary-m",
-    "name": "Ultimate Bloody Mary",
+    "name": "Bloody Mary Ultimate",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -39475,7 +39460,7 @@
   {
     "id": "drm-cbg-10",
     "masterId": "drm-crab-trap-m",
-    "name": "Crab Trap",
+    "name": "Crab Trap Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39536,7 +39521,7 @@
   {
     "id": "drm-cds-12",
     "masterId": "drm-crab-trap-m",
-    "name": "Crab Trap",
+    "name": "Crab Trap Batch",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39597,7 +39582,7 @@
   {
     "id": "drm-cbg-12",
     "masterId": "drm-cbg-12-m",
-    "name": "jPerfect Pina (Batch)",
+    "name": "Perfect Pina (Batch)",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -39783,7 +39768,7 @@
   {
     "id": "drm-cbg-16",
     "masterId": "drm-dragon-fruit-margarita-m",
-    "name": "Dragon Fruit Margarita",
+    "name": "Margarita Dragon Fruit Tap & HM",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39823,12 +39808,13 @@
       }
     ],
     "steps": [
+      "Handmade ",
       "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
       "Add dragon fruit, then margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
       "Garnish:",
-      "1 lime wedge",
+      "Lime wedge",
       "Glassware:",
       "14, 16, or 20-oz Glass, Logo cup, or Bucket",
       "**IF POURING FROM TAP**",
@@ -39838,7 +39824,7 @@
       "20oz = 9oz from the tap, and 1.5oz Dragon Fruit",
       "32oz bucket = 14oz from tap, and 2.5oz Dragon Fruit",
       " Fill with batch recipe from the tap, and shake before serving",
-      "If in a bucket, roll it back and forth with a tin."
+      "Bucket, roll it back and forth with a tin."
     ],
     "notes": "",
     "images": []
@@ -39846,7 +39832,7 @@
   {
     "id": "drm-cds-17",
     "masterId": "drm-dragon-fruit-margarita-m",
-    "name": "Dragon Fruit Margarita",
+    "name": "Margarita Dragon Fruit Tap & HM",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39886,12 +39872,13 @@
       }
     ],
     "steps": [
+      "Handmade ",
       "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
       "Add dragon fruit, then margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
       "Garnish:",
-      "1 lime wedge",
+      "Lime wedge",
       "Glassware:",
       "14, 16, or 20-oz Glass, Logo cup, or Bucket",
       "**IF POURING FROM TAP**",
@@ -39901,7 +39888,7 @@
       "20oz = 9oz from the tap, and 1.5oz Dragon Fruit",
       "32oz bucket = 14oz from tap, and 2.5oz Dragon Fruit",
       " Fill with batch recipe from the tap, and shake before serving",
-      "If in a bucket, roll it back and forth with a tin."
+      "Bucket, roll it back and forth with a tin."
     ],
     "notes": "",
     "images": []
@@ -39909,7 +39896,7 @@
   {
     "id": "drm-nb-20",
     "masterId": "drm-dragon-fruit-margarita-m",
-    "name": "Dragon Fruit Margarita",
+    "name": "Margarita Dragon Fruit Tap & HM",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39949,12 +39936,13 @@
       }
     ],
     "steps": [
+      "Handmade ",
       "Add tequila, triple sec & 1 lime wedge in a 14-oz glass, muddle.",
       "Add dragon fruit, then margarita mix,",
       "Cover with shaker tin, shake",
       "Rim the glass if requested, fill the glass with Ice",
       "Garnish:",
-      "1 lime wedge",
+      "Lime wedge",
       "Glassware:",
       "14, 16, or 20-oz Glass, Logo cup, or Bucket",
       "**IF POURING FROM TAP**",
@@ -39964,7 +39952,7 @@
       "20oz = 9oz from the tap, and 1.5oz Dragon Fruit",
       "32oz bucket = 14oz from tap, and 2.5oz Dragon Fruit",
       " Fill with batch recipe from the tap, and shake before serving",
-      "If in a bucket, roll it back and forth with a tin."
+      "Bucket, roll it back and forth with a tin."
     ],
     "notes": "",
     "images": []
@@ -41248,7 +41236,7 @@
   {
     "id": "drm-cbg-28",
     "masterId": "drm-deep-blue-m",
-    "name": "Deep Blue",
+    "name": "Deep Blue 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -41281,7 +41269,7 @@
         "qty2": "2.5"
       },
       {
-        "name": "Tito's",
+        "name": "Tito's Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -41294,21 +41282,18 @@
       }
     ],
     "steps": [
-      "14 oz Drink ",
-      "In a blender, add 12oz of ice, 1 oz of Tito's, and all the other ingredients into the blender cup.",
+      "**14 or 20 oz Drink** ",
+      "In a blender, add the correct amount of ice, ",
+      "Add part of the Tito's, and all the other ingredients into the blender cup.",
       "Blend till smooth and pour from the blender into the correct glassware",
-      "Top with .5oz Float of 1.5oz of Tito's",
+      "14oz - Top with .5oz Float of 1.5oz of Tito's",
+      "20oz - Top with .5oz of the 2.25oz of Tito's",
       "Garnish:",
       "Lemon Wedge",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "20 oz Drink ",
-      "Same instructions, and garnish as above",
-      "Top with .5oz of the 2.25oz of Tito's",
-      "Glassware:",
-      "20 oz glass or logo cup",
-      "BATCH POUR:",
-      "Fill the glass with the pre-made batch mix",
+      "14 or 20oz Glass or Logo cup",
+      "**BATCH POUR**",
+      "Fill the glass with ice, add the pre-made batch mix",
       "Top with .5oz float of Tito's"
     ],
     "notes": "",
@@ -41322,7 +41307,7 @@
   {
     "id": "drm-cds-29",
     "masterId": "drm-deep-blue-m",
-    "name": "Deep Blue",
+    "name": "Deep Blue 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -41355,7 +41340,7 @@
         "qty2": "2.5"
       },
       {
-        "name": "Tito's",
+        "name": "Tito's Float ",
         "qty": ".5",
         "unit": "Oz Float",
         "qty2": ".5"
@@ -41368,21 +41353,18 @@
       }
     ],
     "steps": [
-      "14 oz Drink ",
-      "In a blender, add 12oz of ice, 1 oz of Tito's, and all the other ingredients into the blender cup.",
+      "**14 or 20 oz Drink** ",
+      "In a blender, add the correct amount of ice, ",
+      "Add part of the Tito's, and all the other ingredients into the blender cup.",
       "Blend till smooth and pour from the blender into the correct glassware",
-      "Top with .5oz Float of 1.5oz of Tito's",
+      "14oz - Top with .5oz Float of 1.5oz of Tito's",
+      "20oz - Top with .5oz of the 2.25oz of Tito's",
       "Garnish:",
       "Lemon Wedge",
       "Glassware:",
-      "14 oz glass or logo cup",
-      "20 oz Drink ",
-      "Same instructions, and garnish as above",
-      "Top with .5oz of the 2.25oz of Tito's",
-      "Glassware:",
-      "20 oz glass or logo cup",
-      "BATCH POUR:",
-      "Fill the glass with the pre-made batch mix",
+      "14 or 20oz Glass or Logo cup",
+      "**BATCH POUR**",
+      "Fill the glass with ice, add the pre-made batch mix",
       "Top with .5oz float of Tito's"
     ],
     "notes": "",
@@ -41708,7 +41690,7 @@
   {
     "id": "drm-cbg-32",
     "masterId": "drm-tito-s-frozen-lemonade-14-20oz-m",
-    "name": "Tito's Frozen Lemonade 14 & 20oz",
+    "name": "Tito's Frozen Lemonade 14 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -41774,7 +41756,7 @@
   {
     "id": "drm-cds-33",
     "masterId": "drm-tito-s-frozen-lemonade-14-20oz-m",
-    "name": "Tito's Frozen Lemonade 14 & 20oz",
+    "name": "Tito's Frozen Lemonade 14 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -42110,7 +42092,7 @@
   {
     "id": "drm-cbg-35",
     "masterId": "drm-dragon-fruit-rum-runner-m",
-    "name": "Dragon Fruit Rum Runner",
+    "name": "Rum Runner Dragon Fruit 14 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42162,11 +42144,10 @@
       }
     ],
     "steps": [
-      "In a 14 or 20oz glass filled with ice",
-      "Fill the glass from the tap",
+      "In the correct glass filled with ice. Fill the glass from the tap. Leave enough room for Dragon Fruit ",
       "Glassware:",
-      "14oz Glass or Logo cup + .50 oz Dragon Fruit ",
-      "20oz Glass or Logo cup+ 1.0 oz Dragon Fruit ",
+      "14oz Glass or Logo cup- Add .50 oz Dragon Fruit ",
+      "20oz Glass or Logo cup - Add 1.0 oz Dragon Fruit ",
       "Garnish:",
       "Cherry, Orange slice"
     ],
@@ -42181,7 +42162,7 @@
   {
     "id": "drm-cds-36",
     "masterId": "drm-dragon-fruit-rum-runner-m",
-    "name": "Dragon Fruit Rum Runner",
+    "name": "Rum Runner Dragon Fruit 14 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42233,11 +42214,10 @@
       }
     ],
     "steps": [
-      "In a 14 or 20oz glass filled with ice",
-      "Fill the glass from the tap",
+      "In the correct glass filled with ice. Fill the glass from the tap. Leave enough room for Dragon Fruit ",
       "Glassware:",
-      "14oz Glass or Logo cup + .50 oz Dragon Fruit ",
-      "20oz Glass or Logo cup+ 1.0 oz Dragon Fruit ",
+      "14oz Glass or Logo cup- Add .50 oz Dragon Fruit ",
+      "20oz Glass or Logo cup - Add 1.0 oz Dragon Fruit ",
       "Garnish:",
       "Cherry, Orange slice"
     ],
@@ -42358,7 +42338,7 @@
   {
     "id": "drm-cbg-37",
     "masterId": "drm-the-cure-all-m",
-    "name": "The Cure All 14 20",
+    "name": "The Cure All 14 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42430,7 +42410,7 @@
   {
     "id": "drm-cds-38",
     "masterId": "drm-the-cure-all-m",
-    "name": "The Cure All 14 20",
+    "name": "The Cure All 14 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42800,7 +42780,7 @@
   {
     "id": "drm-cbg-40",
     "masterId": "drm-mojito-berry-m",
-    "name": "Mojito Berry",
+    "name": "Mojito Berry 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -42867,7 +42847,7 @@
   {
     "id": "drm-cds-41",
     "masterId": "drm-mojito-berry-m",
-    "name": "Mojito Berry",
+    "name": "Mojito Berry 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43455,7 +43435,7 @@
   {
     "id": "drm-cbg-46",
     "masterId": "drm-two-to-mango-m",
-    "name": "Two to Mango 14 & 20oz",
+    "name": "Two to Mango 14 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43525,7 +43505,7 @@
   {
     "id": "drm-cds-47",
     "masterId": "drm-two-to-mango-m",
-    "name": "Two to Mango 14 & 20oz",
+    "name": "Two to Mango 14 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43641,7 +43621,7 @@
   {
     "id": "drm-cbg-48",
     "masterId": "drm-chubby-mermaid-pina-rita-14-20oz-m",
-    "name": "Chubby Mermaid (Pina-Rita)14 & 20oz",
+    "name": "Chubby Mermaid / Pina-Rita 14 & 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43723,7 +43703,7 @@
   {
     "id": "drm-cds-49",
     "masterId": "drm-chubby-mermaid-pina-rita-14-20oz-m",
-    "name": "Chubby Mermaid (Pina-Rita)14 & 20oz",
+    "name": "Chubby Mermaid / Pina-Rita 14 & 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43805,7 +43785,7 @@
   {
     "id": "drm-cbg-49",
     "masterId": "drm-easy-breezy-m",
-    "name": "Easy Breezy",
+    "name": "Easy Breezy 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43871,7 +43851,7 @@
   {
     "id": "drm-cds-50",
     "masterId": "drm-easy-breezy-m",
-    "name": "Easy Breezy",
+    "name": "Easy Breezy 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44533,7 +44513,7 @@
   {
     "id": "drm-cbg-55",
     "masterId": "drm-bloody-mary-14-20oz-m",
-    "name": "Bloody Mary 14& 20oz",
+    "name": "Bloody Mary 14 & 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44563,11 +44543,11 @@
         "name": "Agave Nectar",
         "qty": "Wet",
         "unit": "Rim",
-        "qty2": "Wet Rim"
+        "qty2": "Rim"
       },
       {
         "name": "Seasoning House",
-        "qty": "",
+        "qty": "   -",
         "unit": "Rimming",
         "qty2": "Rimming"
       },
@@ -44591,16 +44571,14 @@
       }
     ],
     "steps": [
-      "In a 14-oz cup with ice",
+      "In the correct size cup with ice",
       "Add Vodka and Bloody Mary Mix.",
       "Shake well.",
-      "Rim cup with house spice.",
+      "Rim the cup with house spice.",
       "Glassware:",
-      "14 oz Glass or logo cup",
+      "14 or 20 oz Glass or Logo cup",
       "Garnish:",
-      "3 Olives, Lemon and Lime Wedge",
-      "Glassware:",
-      "20 oz Glass or Logo cup"
+      "3 Olives, Lemon and Lime Wedge"
     ],
     "notes": "",
     "images": [],
@@ -44613,7 +44591,7 @@
   {
     "id": "drm-cds-56",
     "masterId": "drm-bloody-mary-14-20oz-m",
-    "name": "Bloody Mary 14& 20oz",
+    "name": "Bloody Mary 14 & 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44643,11 +44621,11 @@
         "name": "Agave Nectar",
         "qty": "Wet",
         "unit": "Rim",
-        "qty2": "Wet Rim"
+        "qty2": "Rim"
       },
       {
         "name": "Seasoning House",
-        "qty": "",
+        "qty": "   -",
         "unit": "Rimming",
         "qty2": "Rimming"
       },
@@ -44671,16 +44649,14 @@
       }
     ],
     "steps": [
-      "In a 14-oz cup with ice",
+      "In the correct size cup with ice",
       "Add Vodka and Bloody Mary Mix.",
       "Shake well.",
-      "Rim cup with house spice.",
+      "Rim the cup with house spice.",
       "Glassware:",
-      "14 oz Glass or logo cup",
+      "14 or 20 oz Glass or Logo cup",
       "Garnish:",
-      "3 Olives, Lemon and Lime Wedge",
-      "Glassware:",
-      "20 oz Glass or Logo cup"
+      "3 Olives, Lemon and Lime Wedge"
     ],
     "notes": "",
     "images": [],
@@ -44693,7 +44669,7 @@
   {
     "id": "drm-cbg-56",
     "masterId": "drm-bloody-mary-ultimate-m",
-    "name": "Bloody Mary Ultimate",
+    "name": "Bloody Mary Ultimate ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44761,7 +44737,7 @@
   {
     "id": "drm-cbg-57",
     "masterId": "drm-bloody-mary-stc-ftp-m",
-    "name": "Bloody Mary STC/FTP",
+    "name": "Bloody Mary STC",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44808,7 +44784,7 @@
       "Garnish:",
       "3 olives, celery stick, lime wedge",
       "Glassware:",
-      "14oz Glass, or logo cup"
+      "14oz Glass, or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -44816,7 +44792,7 @@
   {
     "id": "drm-cbg-58",
     "masterId": "drm-bloody-angry-sa-m",
-    "name": "Bloody Angry (SA)",
+    "name": "Bloody Mary Angry (SA)",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45375,7 +45351,7 @@
   {
     "id": "drm-cbg-63",
     "masterId": "drm-sangria-red-14-20oz-m",
-    "name": "Sangria Red 14 & 20oz",
+    "name": "Sangria Red 14, 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45445,7 +45421,7 @@
   {
     "id": "drm-cds-63",
     "masterId": "drm-sangria-red-14-20oz-m",
-    "name": "Sangria Red 14 & 20oz",
+    "name": "Sangria Red 14, 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45854,7 +45830,7 @@
   {
     "id": "drm-cbg-68",
     "masterId": "drm-sangria-white-14-20-32oz-m",
-    "name": "Sangria White 14, 20, & 32oz",
+    "name": "Sangria White 14, 20 32oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -45932,7 +45908,7 @@
   {
     "id": "drm-cds-68",
     "masterId": "drm-sangria-white-14-20-32oz-m",
-    "name": "Sangria White 14, 20, & 32oz",
+    "name": "Sangria White 14, 20 32oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46316,7 +46292,7 @@
   {
     "id": "drm-cbg-71",
     "masterId": "drm-crabby-crush-orange-crush-m",
-    "name": "Crabby Crush (Orange Crush)",
+    "name": "Orange Crush / Crabby Crush 14, 20oz ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46375,7 +46351,7 @@
   {
     "id": "drm-cbg-72",
     "masterId": "drm-crab-trap-14-20-32-m",
-    "name": "Crab Trap 14, 20, 32",
+    "name": "Crab Trap 14, 20, 32oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46398,7 +46374,7 @@
   {
     "id": "drm-cds-72",
     "masterId": "drm-crab-trap-14-20-32-m",
-    "name": "Crab Trap 14, 20, 32",
+    "name": "Crab Trap 14, 20, 32oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46465,7 +46441,7 @@
   {
     "id": "drm-cbg-74",
     "masterId": "drm-cocojito-ds-m",
-    "name": "Cocojito (DS)",
+    "name": "Cocojito 14 & 20oz",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46494,20 +46470,20 @@
       {
         "name": "Lime Wedge",
         "qty": "2",
-        "unit": "each/ Muddle",
+        "unit": "Each/ Muddle",
         "qty2": "2"
       },
       {
         "name": "Agave",
-        "qty": "",
-        "unit": "Wet rim",
-        "qty2": "Wet rim"
+        "qty": "Wet ",
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Toasted Coconut",
-        "qty": "",
-        "unit": "Rim the glass",
-        "qty2": "Rim the glass"
+        "qty": "Rim ",
+        "unit": "Glass",
+        "qty2": "Rim "
       },
       {
         "name": "Club Soda (if needed)",
@@ -46517,17 +46493,14 @@
       }
     ],
     "steps": [
-      "In a 14-oz Glass",
-      "Pour Coconut Rum & Coco Lopez",
-      "Add lime wedges & mint leaves",
-      "Muddle together",
+      "In the correct size Glass",
+      "Add Rum, Coco Lopez, Lime wedges & Mint leaves",
+      "Muddle together,  then add ice",
       "Transfer to the shaker, shake well",
-      "Rim Glass w/ Agave & toasted coconut",
-      "Pour back into the glass and top with club soda",
+      "Rim Glass w/ Agave & Toasted Coconut",
+      "Pour back into the rimmed glass and top with club soda",
       "Garnish:",
-      "Toasted Coconut Rim, lime and mint (in glass)",
-      "20 oz Drink:",
-      "Instructions - Same as above",
+      "Toasted Coconut Rim, muddled Lime and Mint",
       "Glassware:",
       "14 or 20 oz Glass or Logo cup "
     ],
@@ -46542,7 +46515,7 @@
   {
     "id": "drm-cds-74",
     "masterId": "drm-cocojito-ds-m",
-    "name": "Cocojito (DS)",
+    "name": "Cocojito 14 & 20oz",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46571,20 +46544,20 @@
       {
         "name": "Lime Wedge",
         "qty": "2",
-        "unit": "each/ Muddle",
+        "unit": "Each/ Muddle",
         "qty2": "2"
       },
       {
         "name": "Agave",
-        "qty": "",
-        "unit": "Wet rim",
-        "qty2": "Wet rim"
+        "qty": "Wet ",
+        "unit": "Rim",
+        "qty2": "Wet"
       },
       {
         "name": "Toasted Coconut",
-        "qty": "",
-        "unit": "Rim the glass",
-        "qty2": "Rim the glass"
+        "qty": "Rim ",
+        "unit": "Glass",
+        "qty2": "Rim "
       },
       {
         "name": "Club Soda (if needed)",
@@ -46594,17 +46567,14 @@
       }
     ],
     "steps": [
-      "In a 14-oz Glass",
-      "Pour Coconut Rum & Coco Lopez",
-      "Add lime wedges & mint leaves",
-      "Muddle together",
+      "In the correct size Glass",
+      "Add Rum, Coco Lopez, Lime wedges & Mint leaves",
+      "Muddle together,  then add ice",
       "Transfer to the shaker, shake well",
-      "Rim Glass w/ Agave & toasted coconut",
-      "Pour back into the glass and top with club soda",
+      "Rim Glass w/ Agave & Toasted Coconut",
+      "Pour back into the rimmed glass and top with club soda",
       "Garnish:",
-      "Toasted Coconut Rim, lime and mint (in glass)",
-      "20 oz Drink:",
-      "Instructions - Same as above",
+      "Toasted Coconut Rim, muddled Lime and Mint",
       "Glassware:",
       "14 or 20 oz Glass or Logo cup "
     ],
@@ -47312,7 +47282,7 @@
   {
     "id": "drm-cbg-81",
     "masterId": "drm-all-american-tito-s-lemonade-ds-menu-m",
-    "name": "All American Tito's Lemonade",
+    "name": "Tito's Lemonade All American ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -47381,7 +47351,7 @@
   {
     "id": "drm-cds-80",
     "masterId": "drm-all-american-tito-s-lemonade-ds-menu-m",
-    "name": "All American Tito's Lemonade",
+    "name": "Tito's Lemonade All American ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -47555,7 +47525,7 @@
   {
     "id": "drm-cbg-83",
     "masterId": "drm-coco-nut-cappuccino-bar-grill-m",
-    "name": "Coco-Nut Cappuccino(Bar & Grill)",
+    "name": "Coco-Nut Cappuccino (B&G)",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -47809,7 +47779,7 @@
   {
     "id": "drm-cbg-87",
     "masterId": "drm-cbg-87-m",
-    "name": "French Vanilla Iced Coffee",
+    "name": "Iced Coffee French Vanilla ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -47837,7 +47807,7 @@
       "In a 20 oz glass/ logo cup, filled with ice",
       "Add the 4 French Vanilla creamers",
       "Shake or stir the Cold Brew before adding to the cup",
-      "Add the Cold Brew",
+      "Add the Cold Brew, stir",
       "Topped with Whipped Cream",
       "Garnish:",
       "Whipped Cream",
@@ -47958,7 +47928,7 @@
   {
     "id": "drm-cbg-89",
     "masterId": "drm-cbg-89-m",
-    "name": "Hazelnut Iced Coffee",
+    "name": "Iced Coffee Hazelnut ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -47986,7 +47956,7 @@
       "In a 20 oz glass/ logo cup, filled with ice",
       "Add the 4 Hazelnut creamers",
       "Shake or stir the Cold Brew before filling the cup",
-      "Add cold Brew,",
+      "Add cold Brew, stir",
       "Topped with Whipped Cream",
       "Glassware:",
       "20oz Logo cup, or Glass",
@@ -48296,15 +48266,14 @@
       }
     ],
     "steps": [
-      "In a 14oz cup with ice, mix Vodka and Bloody Mary Mix. Shake well.",
-      "Rim cup with house spice.",
+      "In the correct size glassware, filled with ice, ",
+      "Add vodka and Bloody Mary Mix. Give a quick shake or stir with a bar spoon; ",
+      "Bucket: give a quick stir with a bar spoon, or roll back and forth with a tin",
+      "Rim glassware with house spice.",
       "Garnish:",
       "3 Olives, Lemon and Lime Wedge ",
       "Glassware:",
-      "14 oz Glass or Logo cup",
-      "*32oz Bucket Drink:*",
-      "Put the ingredients in a bucket filled with ice",
-      "Give a quick stir with a bar spoon, add garnish "
+      "14 oz Glass, Logo cup, or 32oz Bucket"
     ],
     "notes": "",
     "images": [],
@@ -48363,15 +48332,14 @@
       }
     ],
     "steps": [
-      "In a 14oz cup with ice, mix Vodka and Bloody Mary Mix. Shake well.",
-      "Rim cup with house spice.",
+      "In the correct size glassware, filled with ice, ",
+      "Add vodka and Bloody Mary Mix. Give a quick shake or stir with a bar spoon; ",
+      "Bucket: give a quick stir with a bar spoon, or roll back and forth with a tin",
+      "Rim glassware with house spice.",
       "Garnish:",
       "3 Olives, Lemon and Lime Wedge ",
       "Glassware:",
-      "14 oz Glass or Logo cup",
-      "*32oz Bucket Drink:*",
-      "Put the ingredients in a bucket filled with ice",
-      "Give a quick stir with a bar spoon, add garnish "
+      "14 oz Glass, Logo cup, or 32oz Bucket"
     ],
     "notes": "",
     "images": [],
@@ -48555,7 +48523,7 @@
   {
     "id": "drm-cbg-96",
     "masterId": "drm-refresher-peach-mango-m",
-    "name": "Refresher Peach/ Mango",
+    "name": "Refresher Peach/Mango",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48597,7 +48565,7 @@
   {
     "id": "drm-cbg-97",
     "masterId": "drm-margarita-na-coco-straw-m",
-    "name": "Margarita NA(Coco/Straw)",
+    "name": "NA Margarita (Coco/Straw)",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48633,7 +48601,7 @@
       "Rim glass with desired garnish for the rim.",
       "Pour into the rimmed 14oz cup or glass",
       "Garnish:",
-      "Lime wedge, Orange Slice",
+      "Lime wedge, and Orange Slice",
       "Glassware: 14 oz Glass or Logo cup"
     ],
     "notes": "",
@@ -48642,7 +48610,7 @@
   {
     "id": "drm-cds-93",
     "masterId": "drm-margarita-na-coco-straw-m",
-    "name": "Margarita NA(Coco/Straw)",
+    "name": "NA Margarita (Coco/Straw)",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48678,7 +48646,7 @@
       "Rim glass with desired garnish for the rim.",
       "Pour into the rimmed 14oz cup or glass",
       "Garnish:",
-      "Lime wedge, Orange Slice",
+      "Lime wedge, and Orange Slice",
       "Glassware: 14 oz Glass or Logo cup"
     ],
     "notes": "",
@@ -48687,7 +48655,7 @@
   {
     "id": "drm-cbg-98",
     "masterId": "drm-dragon-fruit-marg-na-m",
-    "name": "Dragon Fruit Marg. NA",
+    "name": "NA Dragon Fruit Margarita ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48732,7 +48700,7 @@
   {
     "id": "drm-cds-94",
     "masterId": "drm-dragon-fruit-marg-na-m",
-    "name": "Dragon Fruit Marg. NA",
+    "name": "NA Dragon Fruit Margarita ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48777,7 +48745,7 @@
   {
     "id": "drm-cbg-99",
     "masterId": "drm-mojito-coco-na-m",
-    "name": "Mojito Coco NA",
+    "name": "NA Mojito Coco",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48837,7 +48805,7 @@
   {
     "id": "drm-cds-95",
     "masterId": "drm-mojito-coco-na-m",
-    "name": "Mojito Coco NA",
+    "name": "NA Mojito Coco",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48897,7 +48865,7 @@
   {
     "id": "drm-cbg-100",
     "masterId": "drm-mojito-berry-na-m",
-    "name": "Mojito Berry NA",
+    "name": "NA Mojito Berry",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48947,7 +48915,7 @@
   {
     "id": "drm-cds-96",
     "masterId": "drm-mojito-berry-na-m",
-    "name": "Mojito Berry NA",
+    "name": "NA Mojito Berry",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -48997,7 +48965,7 @@
   {
     "id": "drm-cbg-101",
     "masterId": "drm-chubby-mermaid-na-m",
-    "name": "Chubby Mermaid NA",
+    "name": "NA Chubby Mermaid ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49051,7 +49019,7 @@
   {
     "id": "drm-cds-97",
     "masterId": "drm-chubby-mermaid-na-m",
-    "name": "Chubby Mermaid NA",
+    "name": "NA Chubby Mermaid ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49105,7 +49073,7 @@
   {
     "id": "drm-cbg-102",
     "masterId": "drm-mojito-blackberry-lime-na-m",
-    "name": "Mojito Blackberry Lime NA",
+    "name": "NA Mojito Blackberry Lime",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49155,7 +49123,7 @@
   {
     "id": "drm-cds-98",
     "masterId": "drm-mojito-blackberry-lime-na-m",
-    "name": "Mojito Blackberry Lime NA",
+    "name": "NA Mojito Blackberry Lime",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49205,7 +49173,7 @@
   {
     "id": "drm-cbg-103",
     "masterId": "drm-mojito-strawberry-na-m",
-    "name": "Mojito Strawberry NA",
+    "name": "NA Mojito Strawberry",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49264,7 +49232,7 @@
   {
     "id": "drm-cds-99",
     "masterId": "drm-mojito-strawberry-na-m",
-    "name": "Mojito Strawberry NA",
+    "name": "NA Mojito Strawberry",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49323,7 +49291,7 @@
   {
     "id": "drm-cbg-104",
     "masterId": "drm-island-tiki-punch-na-m",
-    "name": "Island(Tiki) Punch NA",
+    "name": "NA Island Tiki Punch ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49378,7 +49346,7 @@
   {
     "id": "drm-cds-100",
     "masterId": "drm-island-tiki-punch-na-m",
-    "name": "Island(Tiki) Punch NA",
+    "name": "NA Island Tiki Punch ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49433,7 +49401,7 @@
   {
     "id": "drm-cbg-105",
     "masterId": "drm-florida-sunset-na-m",
-    "name": "Florida Sunset NA",
+    "name": "NA Florida Sunset",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49482,7 +49450,7 @@
   {
     "id": "drm-cds-101",
     "masterId": "drm-florida-sunset-na-m",
-    "name": "Florida Sunset NA",
+    "name": "NA Florida Sunset",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49531,7 +49499,7 @@
   {
     "id": "drm-cbg-106",
     "masterId": "drm-mojito-strawberry-lemonade-na-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade NA",
+    "name": "NA Mojito Strawberry Lemonade",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49580,7 +49548,7 @@
   {
     "id": "drm-cds-102",
     "masterId": "drm-mojito-strawberry-lemonade-na-bar-grill-m",
-    "name": "Mojito Strawberry Lemonade NA",
+    "name": "NA Mojito Strawberry Lemonade",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49629,7 +49597,7 @@
   {
     "id": "drm-cbg-107",
     "masterId": "drm-frozen-lemonade-na-m",
-    "name": "Frozen Lemonade NA",
+    "name": "NA Frozen Lemonade ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49659,13 +49627,13 @@
       }
     ],
     "steps": [
-      "**Note: Replace strawberry mix with water if requested the flavor /ordered.**",
+      "**Note: Replace water with strawberry mix if requested the flavor /ordered.**",
       "Fill the cup with ice and add it to the blender with mix and water",
       "Pour from blender into 14oz cup",
       "Garnish:",
       "Lemon wedge, Cherry ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -49673,7 +49641,7 @@
   {
     "id": "drm-cds-103",
     "masterId": "drm-frozen-lemonade-na-m",
-    "name": "Frozen Lemonade NA",
+    "name": "NA Frozen Lemonade ",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -49703,13 +49671,13 @@
       }
     ],
     "steps": [
-      "**Note: Replace strawberry mix with water if requested the flavor /ordered.**",
+      "**Note: Replace water with strawberry mix if requested the flavor /ordered.**",
       "Fill the cup with ice and add it to the blender with mix and water",
       "Pour from blender into 14oz cup",
       "Garnish:",
       "Lemon wedge, Cherry ",
       "Glassware:",
-      "14 oz glass or logo cup"
+      "14 oz Glass or Logo cup"
     ],
     "notes": "",
     "images": []
@@ -50017,7 +49985,7 @@
   {
     "id": "drm-nb-31",
     "masterId": "drm-nb-31-m",
-    "name": "Tito's Mojito 14 & 20",
+    "name": "Tito's Mojito 14 20oz",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50084,7 +50052,7 @@
   {
     "id": "drm-nb-32",
     "masterId": "drm-nb-32-m",
-    "name": "Sangria White 14 & 32",
+    "name": "Sangria White 14, 32oz",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50158,7 +50126,7 @@
   {
     "id": "drm-nb-33",
     "masterId": "drm-nb-33-m",
-    "name": "Sangria Red 14 & 20",
+    "name": "Sangria Red 14, 20oz",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50387,10 +50355,9 @@
     ],
     "steps": [
       "In a 14-oz Glass",
-      "Pour Coconut Rum & Coco Lopez",
-      "Add lime wedges & mint leaves",
+      "Add Coconut & Silver Rum, Coco Lopez, lime wedges & mint leaves",
       "Muddle together, without bruising the mint leaves",
-      "Transfer to the shaker, shake well",
+      "Transfer to the shaker, add ice, and shake well",
       "Rim the glassware",
       "Pour back into a glass, top with club soda",
       "Garnish:",
@@ -50755,7 +50722,7 @@
   {
     "id": "drm-nb-43",
     "masterId": "drm-nb-43-m",
-    "name": " Rum Punch NB 14,20,32 Tap",
+    "name": "Rum Punch 14,20,32 Tap Pour",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -50946,7 +50913,7 @@
   {
     "id": "drm-nb-48",
     "masterId": "drm-nb-48-m",
-    "name": "Whistle Pig Smoked Old Fashion",
+    "name": "Old Fashion Whistle Pig Smoked",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51061,7 +51028,7 @@
   {
     "id": "drm-nb-50",
     "masterId": "drm-nb-50-m",
-    "name": "Grand Margarita",
+    "name": "Margarita Grand ",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51133,7 +51100,7 @@
   {
     "id": "drm-nb-51",
     "masterId": "drm-nb-51-m",
-    "name": "Top Shelf Spicy Margarita (NB)",
+    "name": "Margarita Top Shelf Spicy",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51206,7 +51173,7 @@
   {
     "id": "drm-nb-52",
     "masterId": "drm-nb-52-m",
-    "name": "Twisted Lemonade Tito's",
+    "name": "Twisted Tea Lemonade Tito's",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51404,7 +51371,7 @@
   {
     "id": "drm-nb-56",
     "masterId": "drm-nb-56-m",
-    "name": "Batch Frozen Lemonade",
+    "name": "NA Frozen Lemonade Batch",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -51436,7 +51403,7 @@
   {
     "id": "drm-nb-57",
     "masterId": "drm-nb-57-m",
-    "name": "Lemon Freeze Drink",
+    "name": "Lemon Freeze Adult Drink",
     "location": "Salty Crab North Beach",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -51593,7 +51560,7 @@
   {
     "id": "drm-si-13",
     "masterId": "drm-si-13-m",
-    "name": "Brkft Old Fashion",
+    "name": "Old Fashion Breakfast",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -51652,7 +51619,7 @@
   {
     "id": "drm-si-14",
     "masterId": "drm-si-14-m",
-    "name": "Angry Bloody",
+    "name": "Bloody Mary Angry",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -51806,7 +51773,7 @@
       }
     ],
     "steps": [
-      "Offered hot or cold",
+      "**Offered hot or cold**",
       "(If cold, fill the glass with Ice)",
       "Pour Jameson's Irish Whiskey,",
       "Fill with black coffee",
@@ -51878,7 +51845,7 @@
   {
     "id": "drm-si-18",
     "masterId": "drm-si-18-m",
-    "name": "SI Gin Kinship & Tonic",
+    "name": "Gin Kinship & Tonic",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -51981,7 +51948,7 @@
   {
     "id": "drm-si-20",
     "masterId": "drm-si-20-m",
-    "name": "SI Island Mule",
+    "name": "Island Mule",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52031,7 +51998,7 @@
   {
     "id": "drm-si-21",
     "masterId": "drm-si-21-m",
-    "name": "SI Old Fashioned",
+    "name": "Old Fashioned",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52084,7 +52051,7 @@
   {
     "id": "drm-si-22",
     "masterId": "drm-si-22-m",
-    "name": "SI Older Fashion",
+    "name": "Older Fashion",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52137,7 +52104,7 @@
   {
     "id": "drm-si-23",
     "masterId": "drm-si-23-m",
-    "name": "SI Pumpkin Old Fashion",
+    "name": "Old Fashion Pumpkin ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52183,7 +52150,7 @@
   {
     "id": "drm-si-24",
     "masterId": "drm-si-24-m",
-    "name": "SI Filthy Old Fashion",
+    "name": "Old Fashion Filthy",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52236,7 +52203,7 @@
   {
     "id": "drm-si-25",
     "masterId": "drm-si-25-m",
-    "name": "Classic Mai Tai",
+    "name": "Mai Tai Classic ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52300,7 +52267,7 @@
   {
     "id": "drm-si-26",
     "masterId": "drm-si-26-m",
-    "name": "SI Espresso Martini",
+    "name": "Espresso Martini",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52347,7 +52314,7 @@
   {
     "id": "drm-si-27",
     "masterId": "drm-si-27-m",
-    "name": "SI Pineapple Mango Margarita",
+    "name": "Margarita Pineapple Mango ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52599,7 +52566,7 @@
   {
     "id": "drm-si-31",
     "masterId": "drm-si-31-m",
-    "name": "SI Rum Runner Bucket 14 20oz",
+    "name": "Rum Runner 14 20 32oz ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52664,7 +52631,7 @@
   {
     "id": "drm-si-32",
     "masterId": "drm-si-32-m",
-    "name": "SI Blueberry Lemon Drop",
+    "name": "Blueberry Lemon Drop",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52785,7 +52752,7 @@
   {
     "id": "drm-si-34",
     "masterId": "drm-si-fresh-made-pina-colada-m",
-    "name": "SI Fresh Made Pina Colada",
+    "name": "Pina Colada Fresh Made",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52850,7 +52817,7 @@
   {
     "id": "drm-si-36",
     "masterId": "drm-si-36-m",
-    "name": "SI Tequila Drop",
+    "name": "Tequila Drop",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52874,12 +52841,12 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Triple sec.",
+        "name": "Triple Sec",
         "qty": ".5",
         "unit": "Vol oz"
       },
       {
-        "name": "Lemn Twist",
+        "name": "Lemon Twist",
         "qty": "1ea.",
         "unit": "Garnish"
       }
@@ -52953,7 +52920,7 @@
   {
     "id": "drm-si-38",
     "masterId": "drm-si-38-m",
-    "name": "SI Filthy Martini",
+    "name": "Filthy Martini",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -52999,7 +52966,7 @@
   {
     "id": "drm-si-39",
     "masterId": "drm-si-39-m",
-    "name": "SI Honey Bee Sting",
+    "name": "Honey Bee Sting",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53087,7 +53054,7 @@
   {
     "id": "drm-si-41",
     "masterId": "drm-si-black-cherry-margarita-m",
-    "name": "SI Black Cherry Margarita",
+    "name": "Margarita Black Cherry 14, 20, 32oz ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53136,7 +53103,7 @@
   {
     "id": "drm-si-43",
     "masterId": "drm-si-43-m",
-    "name": "Build Your Own Marg.",
+    "name": " Margarita Build Your Own",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53209,7 +53176,7 @@
   {
     "id": "drm-si-44",
     "masterId": "drm-si-44-m",
-    "name": "Margarita (Regular)",
+    "name": "Margarita House ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53266,7 +53233,7 @@
   {
     "id": "drm-si-45",
     "masterId": "drm-si-45-m",
-    "name": "Top Shelf Margarita",
+    "name": "Margarita Top Shelf",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53323,7 +53290,7 @@
   {
     "id": "drm-si-46",
     "masterId": "drm-si-46-m",
-    "name": "Island Daquiri",
+    "name": "Daquiri Island ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53467,7 +53434,7 @@
   {
     "id": "drm-si-49",
     "masterId": "drm-island-tiki-punch-na-m",
-    "name": "Island(Tiki) Punch NA",
+    "name": "NA Island Tiki Punch ",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -60287,7 +60254,7 @@
   {
     "id": "bm-cbg-54",
     "masterId": "bm-cbg-54-m",
-    "name": "Ultimate Bloody Mary",
+    "name": "Bloody Mary Ultimate ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -60361,7 +60328,7 @@
   {
     "id": "bm-cbg-55",
     "masterId": "bm-cbg-55-m",
-    "name": "Refresher Watermelon/Kiwi",
+    "name": "Refresher Watermelon/ Kiwi",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -60734,7 +60701,7 @@
   {
     "id": "bm-cbg-63",
     "masterId": "bm-cbg-63-m",
-    "name": "Dan the Man Mimosa/ Electric",
+    "name": "Mimosa Dan the Man / Electric",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -60789,7 +60756,7 @@
   {
     "id": "bm-cbg-64",
     "masterId": "bm-cbg-64-m",
-    "name": "All American Bloody Mary",
+    "name": "Bloody Mary All American ",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
