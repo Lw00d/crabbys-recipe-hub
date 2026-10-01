@@ -816,9 +816,22 @@ function buildPrepIndex(){
     if(!PREP_INDEX.has(k)) PREP_INDEX.set(k, r.id);   // first match wins
   });
 }
+// An ingredient usually carries a note the prep recipe's name does not:
+// "Clam Chowder Add (Prep)", "Shrimp Pieces (Pull Thaw)", "Lettuce Romaine
+// (Pre-cut)", "Corn Stock ( in house )". Those notes matter to the cook, so
+// they stay in the ingredient list — but they used to block the link.
+//
+// Exact match first, so a prep recipe genuinely named "Calamari (Prep)" still
+// wins. Only if that fails do we retry without a TRAILING parenthetical. All
+// 62 ingredient→recipe pairs this creates were checked by hand: the note is
+// always a state, portion or source, never a different recipe.
 function prepLinkFor(recipe, ingName){
   if(!recipe || !ingName) return null;
-  const id = PREP_INDEX.get(prepKey(recipe.location, ingName));
+  let id = PREP_INDEX.get(prepKey(recipe.location, ingName));
+  if(!id){
+    const stem = String(ingName).replace(/\s*\([^)]*\)\s*$/, '').trim();
+    if(stem && stem !== String(ingName).trim()) id = PREP_INDEX.get(prepKey(recipe.location, stem));
+  }
   return (id && id !== recipe.id) ? id : null;   // never link a recipe to itself
 }
 // ─── PROCEDURE LINKS IN STEPS ───────────────────────────────────────────────
