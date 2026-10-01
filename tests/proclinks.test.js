@@ -32,8 +32,10 @@ function env(recipes) {
     const RECIPES = ${JSON.stringify(recipes)};
     const PROC_CATEGORY = 'Procedures';
     let PROC_INDEX = new Map();
-    ${grab('prepKey')} ${grab('buildProcIndex')} ${grab('procLinkFor')}
-    buildProcIndex();
+    const PREP_CATEGORIES = ['Dinner Prep','Breakfast Prep','Line Prep'];
+    let PREP_INDEX = new Map();
+    ${grab('prepKey')} ${grab('buildPrepIndex')} ${grab('buildProcIndex')} ${grab('procLinkFor')}
+    buildPrepIndex(); buildProcIndex();
     return { procLinkFor, size: PROC_INDEX.size };
   `;
   return new Function(src)();
@@ -97,6 +99,33 @@ t('an inactive procedure is not linkable', () => {
   assert.strictEqual(e.procLinkFor(USER, 'Blackening Procedure'), null);
 });
 
+console.log('\na prep recipe can point at the dish it feeds');
+
+t('a step that is exactly a prep recipe name links to it', () => {
+  // The reverse of the ingredient link: "Clam Chowder Add" ends by pointing
+  // at "Soup Clam Chowder", which no ingredient list can express.
+  const e = env([
+    { id: 'dp-cbg-6', location: 'CBG', name: 'Clam Chowder Add', category: 'Dinner Prep', active: true, steps: [], ingredients: [] },
+    { id: 'm-soup', location: 'CBG', name: 'Soup Clam Chowder', category: 'Dinner Prep', active: true, steps: [], ingredients: [] },
+  ]);
+  assert.strictEqual(e.procLinkFor({ id: 'dp-cbg-6', location: 'CBG' }, 'Soup Clam Chowder'), 'm-soup');
+});
+t('it still will not cross a book', () => {
+  const e = env([{ id: 'm-soup', location: 'CDS', name: 'Soup Clam Chowder', category: 'Dinner Prep', active: true, steps: [], ingredients: [] }]);
+  assert.strictEqual(e.procLinkFor({ location: 'CBG' }, 'Soup Clam Chowder'), null);
+});
+t('a Dinner MENU recipe is not a step-link target', () => {
+  const e = env([{ id: 'dm-1', location: 'CBG', name: 'Clam Chowder Bowl', category: 'Dinner Menu', active: true, steps: [], ingredients: [] }]);
+  assert.strictEqual(e.procLinkFor({ location: 'CBG' }, 'Clam Chowder Bowl'), null);
+});
+t('a procedure still wins over a prep recipe of the same name', () => {
+  const e = env([
+    { id: 'pr-1', location: 'CBG', name: 'Blackening Procedure', category: 'Procedures', active: true, steps: [], ingredients: [] },
+    { id: 'dp-1', location: 'CBG', name: 'Blackening Procedure', category: 'Dinner Prep', active: true, steps: [], ingredients: [] },
+  ]);
+  assert.strictEqual(e.procLinkFor({ location: 'CBG' }, 'Blackening Procedure'), 'pr-1');
+});
+
 console.log('\nseparate from the ingredient prep links');
 
 t('Procedures is not in PREP_CATEGORIES', () => {
@@ -104,9 +133,11 @@ t('Procedures is not in PREP_CATEGORIES', () => {
   assert.ok(!/Procedures/.test(m),
     'a procedure would show on prep sheets and steal ingredient links');
 });
-t('a Dinner Prep recipe is not in the procedure index', () => {
+t('a Dinner Prep recipe is not in the PROCEDURE index', () => {
+  // It may still be a step-link target via PREP_INDEX — see above — but it is
+  // not a procedure, so it never appears on the Procedures filter.
   const e = env([{ id: 'dp-mv-1', location: 'Mar Vista', name: 'Blackening Procedure',
-                   category: 'Dinner Prep', active: true }]);
+                   category: 'Dinner Prep', active: true, steps: [], ingredients: [] }]);
   assert.strictEqual(e.size, 0);
 });
 t('the two indexes are built together on every load', () => {

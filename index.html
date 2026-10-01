@@ -858,11 +858,19 @@ function buildProcIndex(){
     if(!PROC_INDEX.has(k)) PROC_INDEX.set(k, r.id);
   });
 }
-// Matches only when the step is ENTIRELY the procedure's name. A step that
-// merely mentions blackening keeps its own wording and stays plain text.
+// Matches only when the step is ENTIRELY the target's name. A step that merely
+// mentions blackening keeps its own wording and stays plain text.
+//
+// Procedures first, then prep recipes — so a prep recipe can point at the dish
+// it feeds ("Clam Chowder Add" ends with a link to "Soup Clam Chowder"), which
+// is the reverse of the ingredient link and the only way to express it.
+// Checked before allowing this: exactly one step in the whole file is already
+// the name of a prep recipe, 'Calamari:', and isSection() claims that first
+// because of the colon. So it creates no link that was not asked for.
 function procLinkFor(recipe, stepText){
   if(!recipe || typeof stepText !== 'string') return null;
-  const id = PROC_INDEX.get(prepKey(recipe.location, stepText.trim().replace(/[.:]$/,'')));
+  const k = prepKey(recipe.location, stepText.trim().replace(/[.:]$/,''));
+  const id = PROC_INDEX.get(k) || PREP_INDEX.get(k);
   return (id && id !== recipe.id) ? id : null;
 }
 function procCell(recipe, text){
