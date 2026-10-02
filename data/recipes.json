@@ -36898,7 +36898,7 @@
   {
     "id": "drm-pl-20",
     "masterId": "drm-pl-20-m",
-    "name": "Clean-Cut Mojito",
+    "name": "Mojito Clean-Cut ",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -38714,7 +38714,9 @@
       "COLD - 20oz Logo Cup"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murf9by1ml9dj6.jpg"
+    ]
   },
   {
     "id": "drm-pl-41",
@@ -50464,7 +50466,9 @@
       "14-oz. Glass or Logo cup"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murfbhz4zpchn0.jpg"
+    ]
   },
   {
     "id": "drm-nb-39",
@@ -53103,7 +53107,7 @@
   {
     "id": "drm-si-43",
     "masterId": "drm-si-43-m",
-    "name": " Margarita Build Your Own",
+    "name": "Margarita Build Your Own",
     "location": "Salty's Island",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -53158,8 +53162,8 @@
       }
     ],
     "steps": [
-      "NOTE: Choose from, Don Julio, Hornitos, Tres Generaciones, Patron, or Casamigos",
-      "NOTE: Flavors to choose from: Peach, Mango, Strawberry, Dragon Fruit",
+      "**NOTE: Choose from, Don Julio, Hornitos, Tres Generaciones, Patron, or Casamigos**",
+      "**NOTE: Flavors to choose from: Peach, Mango, Strawberry, Dragon Fruit**",
       "Fill the 14-oz glass with ice, add to the shaker tin",
       "Add Tequila of Choice, and Flavoring (if requested)",
       "Add OJ, Triple Sec, and Margarita mix",
@@ -58229,7 +58233,9 @@
       "BLT w/ Egg cooks"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murfoblv3u4w2n.png"
+    ]
   },
   {
     "id": "bm-cbg-25",
