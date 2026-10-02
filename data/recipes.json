@@ -90131,8 +90131,8 @@
       }
     ],
     "steps": [
-      "Season salmon and grill. Cook though on the grill and brush with honey fig glaze.",
-      "grilled fish procedure",
+      "Season salmon and grill. Cook though on the grill ",
+      "grilled chicken and fish procedure",
       "Brush the fish with the Honey Fig Glaze.",
       "Season and grill asparagus and set aside.",
       "Plate rice and asapragus on plate with salmon on top.",
@@ -90157,6 +90157,12 @@
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": ""
+      },
       {
         "name": "Branzino, butterfly",
         "qty": "1",
@@ -90207,14 +90213,22 @@
       }
     ],
     "steps": [
+      "Saute:",
       "Heat large sauté pan with oil, lightly dredge fish in calamari flour and sear skin side down.",
       "Flip fish and sear other side. Add butter and chopped parsley to sauté pan to finish.",
       "Plate fish on large platter.",
-      "Heat mushroom farro and sauté spinach for the sides.",
-      "Sauce fish with lemon chive beurre blanc sauce and garnish with lemon wedges"
+      "Heat mushroom farro and set aside",
+      "Sauté' Spinach and set aside",
+      "Grill:",
+      "Grill on lemon half for garnish",
+      "Expo:",
+      "Lemon Chive Beurre Blanc - drizzled around the plate",
+      "Grilled Lemon Half - Garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur9jd17h45w70.jpg"
+    ],
     "active": true,
     "id": "dm-bh-48",
     "masterId": "dm-bh-48-m",
@@ -90243,13 +90257,13 @@
         "qty2": ""
       },
       {
-        "name": "Regular Side",
+        "name": "Regular Side - Guest choice",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
       },
       {
-        "name": "Premium Side",
+        "name": "Premium Side - guest choice",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -90298,6 +90312,11 @@
       }
     ],
     "steps": [
+      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
+      "Pull Steak and let rest",
+      "Prepare sides ordered to go with filet. ",
+      "Scoop garlic butter on top of steak right before going out.",
+      "Surf Options:",
       "Cook the 16/20 Shrimp, Tail on (One Choice of the following) blackened, grilled or fried, as ordered.",
       "Sear the Crab Cake (One Choice of the following) on the flat top.",
       "Cook the Grouper 6oz portion (One Choice of the following) blackened, grilled or fried, as ordered.",
@@ -90305,9 +90324,6 @@
       "Cook the Salmon (8oz) (One Choice of the following) grilled or blackened, as ordered.",
       "Steam the Bairdi Crab Cluster (One Choice of the following) with Old Bay and butter.",
       "Fry the Coconut Shrimp (One Choice of the following).",
-      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
-      "Pull Steak and let rest",
-      "Scoop garlic butter on top of steak right before going out.",
       "If surf option is selected, switch to the large platter for platting."
     ],
     "notes": "",
