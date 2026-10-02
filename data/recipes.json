@@ -81723,6 +81723,8 @@
     ],
     "steps": [
       "Follow Blackened /Grilled Procedures( no fry for this one )",
+      "Blackening Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Blackening Spice / Lemon Butter for Blackened Salmon",
       "Salt / Pepper / Lemon Butter For Grilled Salmon",
       "Heat Crab up in beurre blanc and pour over fish before serving",
@@ -81732,7 +81734,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": false,
+    "active": true,
     "id": "dm-mv-17",
     "masterId": "dm-mv-17-m",
     "location": "Mar Vista"
@@ -81785,7 +81787,7 @@
     "steps": [
       "Follow Blackened /Grilled Procedures( no fry for this one )",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Blackening Spice / Lemon Butter for Blackened Salmon",
       "Salt / Pepper / Lemon Butter For Grilled Salmon",
       "Heat Crab up in beurre blanc and pour over fish before serving",
@@ -81848,7 +81850,7 @@
     "steps": [
       "Follow Blackened /Grilled Procedures( no fry for this one )",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Blackening Spice / Lemon Butter for Blackened Salmon",
       "Salt / Pepper / Lemon Butter For Grilled Salmon",
       "Heat Crab up in beurre blanc and pour over fish before serving",
@@ -82088,7 +82090,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken and Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Snapper",
       "Blackening Spice / Lemon Butter for Blackened Snapper",
@@ -82153,7 +82155,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken and Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Snapper",
       "Blackening Spice / Lemon Butter for Blackened Snapper",
@@ -82218,7 +82220,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken and Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Snapper",
       "Blackening Spice / Lemon Butter for Blackened Snapper",
@@ -82283,7 +82285,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Swordfish",
       "Blackening Spice / Lemon Butter for Blackened Swordfish",
@@ -82348,7 +82350,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Swordfish",
       "Blackening Spice / Lemon Butter for Blackened Swordfish",
@@ -82413,7 +82415,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Swordfish",
       "Blackening Spice / Lemon Butter for Blackened Swordfish",
