@@ -85534,11 +85534,10 @@
     "steps": [
       "Remove calamari from portion bag into pre dip batter",
       "Strain out of pre dip and into calamari breader.",
-      "Make sure calamari is coated well.",
-      "Cook for 2 minutes until calamari is nice and crispy. Drain in save-a-day",
-      "Plate Calamari and pomodoro sauce in small salad bowl.",
+      "Cook for 2-3 minutes until calamari is nice and crispy. Drain in save-a-day",
+      "Plate Calamari and sell to expo.",
       "Expo:",
-      "Pomodoro Sauce — warm on expo.",
+      "Pomodoro Sauce — warm on expo / garnish",
       "Lemon Wedge — garnish.",
       "Fresh Parsley, chopped — garnish."
     ],
@@ -85684,7 +85683,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Skillet",
     "ingredients": [
       {
         "name": "21/25 Shrimp Tail off",
@@ -85731,16 +85730,15 @@
     ],
     "steps": [
       "Heat up sauté and add a touch of cooking oil.",
-      "Add shrimp and blackening spice to cook.",
+      "Add shrimp and blackening spice to cook. (Doesn't need a lot of blackening)",
       "Add heavy cream to pan and reduce by half.",
       "Melt cajun butter into sauté pan. Do not boil the butter or it will break the sauce.",
-      "Plate in bowl and send to expo.",
+      "Plate in skillet and sell to expo.",
       "Expo - garnish with chopped scallions, 2 pieces of baked focaccia and a pasta spoon.",
       "Expo:",
-      "Blackening Sesoning — dust over the shrimp.",
-      "Baked Focaccia Bread — garnish.",
-      "Green Onions Chopped — garnish.",
-      "Lemon Wedge — garnish."
+      "Baked Focaccia Bread — 2 slices for garnish",
+      "Green Onions Chopped — garnish on top",
+      "Lemon Wedge — garnish"
     ],
     "notes": "",
     "images": [],
@@ -85810,14 +85808,8 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Rarebit / Sandwich Rec / Soup Spoon",
     "ingredients": [
-      {
-        "name": "Tortilla Chips",
-        "qty": "6",
-        "unit": "oz-wt",
-        "qty2": ""
-      },
       {
         "name": "Crab and Spinach Dip",
         "qty": "8",
@@ -85831,6 +85823,12 @@
         "qty2": ""
       },
       {
+        "name": "Tortilla Chips",
+        "qty": "6",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
         "name": "Chopped Parsley",
         "qty": "as",
         "unit": "garnish",
@@ -85839,11 +85837,10 @@
     ],
     "steps": [
       "Portion crab and spinach dip in rarebit. Place cheese on top.",
-      "Bake in oven for about 5 minutes until cheese is melted with a little color.",
+      "Bake in oven for about 5-6 minutes until cheese is melted with a little color.",
       "Expo:",
       "Tortilla Chips — warm on expo.",
-      "Chopped Parsley — garnish.",
-      "Fried tortilla chips on side — garnish."
+      "Chopped Parsley — garnish on top"
     ],
     "notes": "",
     "images": [],
@@ -87815,7 +87812,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Crab Cake NEW",
+    "name": "Crab Cake",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "90 OZ-wt",
