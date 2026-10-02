@@ -89982,13 +89982,13 @@
         "qty2": ""
       },
       {
-        "name": "Coconut Scallops",
+        "name": "Coconut Crusted Scallops",
         "qty": "2",
         "unit": "each",
         "qty2": ""
       },
       {
-        "name": "Coconut Flounder 4oz",
+        "name": "Coconut Crusted Flounder",
         "qty": "1",
         "unit": "portion",
         "qty2": ""
@@ -92850,7 +92850,7 @@
     "location": "Beach House"
   },
   {
-    "name": "Mango Salsa NEW",
+    "name": "Mango Salsa",
     "category": "Dinner Prep",
     "submenu": "Prep",
     "yield": "10 LB",
