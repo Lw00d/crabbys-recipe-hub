@@ -80966,8 +80966,10 @@
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
-    "active": false,
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur8vy98543h76.jpg"
+    ],
+    "active": true,
     "id": "dm-mv-13",
     "masterId": "dm-mv-13-m",
     "location": "Mar Vista"
@@ -81021,7 +81023,9 @@
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur8vy98543h76.jpg"
+    ],
     "active": true,
     "id": "dm-sb-13",
     "masterId": "dm-mv-13-m",
@@ -81076,7 +81080,9 @@
       "Chopped Parsley — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur8vy98543h76.jpg"
+    ],
     "active": true,
     "id": "dm-bh-13",
     "masterId": "dm-mv-13-m",
@@ -90054,14 +90060,14 @@
       },
       {
         "name": "Broccolini Side",
-        "qty": "1",
-        "unit": "each",
+        "qty": "6",
+        "unit": "oz-wt",
         "qty2": ""
       },
       {
         "name": "Mashed Potato Side",
-        "qty": "1",
-        "unit": "each",
+        "qty": "8",
+        "unit": "oz-wt",
         "qty2": ""
       },
       {
@@ -90075,10 +90081,13 @@
       "Pull out parcooked chicken and begin cooking on grill. Cage side down. Don’t Burn.",
       "Pull off chicken and finish cooking in oven to 165.",
       "Plate mash potatoes and broccolini on plate with chicken set on top.",
-      "Plate blackberry bbq around the plate and a little on top of the chicken"
+      "Expo:",
+      "Blackberry BBQ - Drizzle bbq sauce around the chicken and plate. "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur8wuewy3m5yl.jpg"
+    ],
     "active": true,
     "id": "dm-bh-46",
     "masterId": "dm-bh-46-m",
@@ -90092,7 +90101,7 @@
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Entree Plate",
     "ingredients": [
       {
         "name": "Salmon 8oz",
@@ -90120,14 +90129,17 @@
       }
     ],
     "steps": [
-      "Brush the fish with the Honey Fig Glaze.",
       "Season salmon and grill. Cook though on the grill and brush with honey fig glaze.",
+      "grilled fish procedure",
+      "Brush the fish with the Honey Fig Glaze.",
       "Season and grill asparagus and set aside.",
       "Plate rice and asapragus on plate with salmon on top.",
       "Brush salmon again before going out."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur90tpvqg8u8s.jpg"
+    ],
     "active": true,
     "id": "dm-bh-47",
     "masterId": "dm-bh-47-m",
