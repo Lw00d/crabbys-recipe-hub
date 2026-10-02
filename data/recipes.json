@@ -89905,7 +89905,7 @@
         "qty2": ""
       },
       {
-        "name": "Sausage,Pepper, Shallot Set",
+        "name": "Sausage and Grits set",
         "qty": "1",
         "unit": "each",
         "qty2": ""
@@ -89995,14 +89995,14 @@
       },
       {
         "name": "Grilled Asparagus side",
-        "qty": "1",
-        "unit": "portion",
+        "qty": "3",
+        "unit": "oz-wt",
         "qty2": ""
       },
       {
-        "name": "Plain rice side",
-        "qty": "1",
-        "unit": "portion",
+        "name": "Plain Rice",
+        "qty": "7",
+        "unit": "oz-wt",
         "qty2": ""
       },
       {
@@ -90023,12 +90023,14 @@
       "Grill asparagus and set aside.",
       "Plate rice and asparagus in center of the plate.",
       "Place fried coconut seafood around plate in piles together.",
-      "Scoop mango salsa in the center with the pina colada sauce drizzles around the plate",
       "Expo:",
-      "Pina Colada Sauce — warm on expo."
+      "Mango Salsa - Scoop in the center",
+      "Pina Colada Sauce — warm on expo / drizzled around the plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mur8p4lctrabvu.jpg"
+    ],
     "active": true,
     "id": "dm-bh-45",
     "masterId": "dm-bh-45-m",
