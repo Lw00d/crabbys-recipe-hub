@@ -79220,7 +79220,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dm-sb-2",
     "masterId": "dm-mv-2-m",
     "location": "Sandbar"
@@ -87917,7 +87917,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Guac",
+    "name": "Guacamole",
     "category": "Dinner Prep",
     "submenu": "Cold Prep",
     "yield": "48 OZ-fl",
