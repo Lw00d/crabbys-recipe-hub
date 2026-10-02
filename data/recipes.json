@@ -81136,7 +81136,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Grouper",
       "Blackening Spice / Lemon Butter for Blackened Grouper",
@@ -81203,7 +81203,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Grouper",
       "Blackening Spice / Lemon Butter for Blackened Grouper",
@@ -81270,7 +81270,7 @@
     "steps": [
       "Follow Blackened /Grilled / Fried Procedures",
       "Blackening Procedure",
-      "Grilled Chicken Procedure",
+      "Grilled Chicken and Fish Procedure",
       "Fried Seafood Procedure",
       "Pre-Wash / Calamari Breader for Fried Grouper",
       "Blackening Spice / Lemon Butter for Blackened Grouper",
@@ -100657,7 +100657,7 @@
     "location": "Beach House"
   },
   {
-    "name": "Grilled Chicken Procedure",
+    "name": "Grilled Chicken and Fish Procedure",
     "category": "Procedures",
     "submenu": "",
     "yield": "",
@@ -100692,7 +100692,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "Grilled Chicken Procedure",
+    "name": "Grilled Chicken and Fish Procedure",
     "category": "Procedures",
     "submenu": "",
     "yield": "",
@@ -100727,7 +100727,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Grilled Chicken Procedure",
+    "name": "Grilled Chicken and Fish Procedure",
     "category": "Procedures",
     "submenu": "",
     "yield": "",
