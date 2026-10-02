@@ -85883,7 +85883,7 @@
         "qty2": ""
       },
       {
-        "name": "Queso",
+        "name": "Queso Cheese Sauce",
         "qty": "6",
         "unit": "fl-oz",
         "qty2": ""
@@ -100938,5 +100938,97 @@
     "id": "m-muekhoahavfe0h",
     "masterId": "m-muekhoahphc4xz",
     "location": "CBG"
+  },
+  {
+    "id": "m-murc38o6f9b5ls",
+    "masterId": "m-murc38o6f9b5ls",
+    "name": "Queso Cheese Sauce",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "3 gallons",
+    "portions": "64",
+    "portionSize": "6 fl oz",
+    "shelfLife": "5",
+    "smallware": "Cambro",
+    "ingredients": [
+      {
+        "qty": "8",
+        "unit": "oz-wt",
+        "name": "Red Bell pepper diced"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Green Bell Pepper diced"
+      },
+      {
+        "qty": "3.5",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Jalapeno diced"
+      },
+      {
+        "qty": "1.5",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Old Bay seasoning"
+      },
+      {
+        "qty": "5",
+        "qty2": "",
+        "unit": "lbs",
+        "name": "White American Cheese"
+      },
+      {
+        "qty": "5",
+        "qty2": "",
+        "unit": "lbs",
+        "name": "Pepperjack Cheese, shredded"
+      },
+      {
+        "qty": "3",
+        "qty2": "",
+        "unit": "lbs",
+        "name": "Cream Cheese"
+      },
+      {
+        "qty": "to",
+        "qty2": "",
+        "unit": "taste",
+        "name": "White Pepper"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Kosher Salt"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "quart",
+        "name": "Heavy Cream"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Shallots"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Garlic"
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
