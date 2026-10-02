@@ -80630,6 +80630,12 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
@@ -80680,6 +80686,12 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
@@ -80730,6 +80742,12 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
       }
     ],
     "steps": [
@@ -82438,7 +82456,7 @@
     "submenu": "Handhelds",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Sandwich Plate",
     "ingredients": [
       {
         "name": "Brined Chicken Breast",
@@ -82509,6 +82527,7 @@
       "Buttermilk / Calamari Breader for Fried",
       "Blackening Spice for Blackened Chicken",
       "Salt / Pepper for Grilled Chicken",
+      "Toast bun on flat top with clarified butter",
       "Toss cooked chicken in buffalo sauce and place on toasted bun.",
       "Top with Blue cheese crumbles and send to expo to complete.",
       "Expo:",
@@ -82518,8 +82537,10 @@
       "Pickled Spear — garnish."
     ],
     "notes": "",
-    "images": [],
-    "active": false,
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdveakaccejy.jpg"
+    ],
+    "active": true,
     "id": "dm-mv-21",
     "masterId": "dm-mv-21-m",
     "location": "Mar Vista"
@@ -82530,7 +82551,7 @@
     "submenu": "Handhelds",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Sandwich Plate",
     "ingredients": [
       {
         "name": "Brined Chicken Breast",
@@ -82601,6 +82622,7 @@
       "Buttermilk / Calamari Breader for Fried",
       "Blackening Spice for Blackened Chicken",
       "Salt / Pepper for Grilled Chicken",
+      "Toast bun on flat top with clarified butter",
       "Toss cooked chicken in buffalo sauce and place on toasted bun.",
       "Top with Blue cheese crumbles and send to expo to complete.",
       "Expo:",
@@ -82610,7 +82632,9 @@
       "Pickled Spear — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdveakaccejy.jpg"
+    ],
     "active": true,
     "id": "dm-sb-21",
     "masterId": "dm-mv-21-m",
@@ -82622,7 +82646,7 @@
     "submenu": "Handhelds",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Sandwich Plate",
     "ingredients": [
       {
         "name": "Brined Chicken Breast",
@@ -82693,6 +82717,7 @@
       "Buttermilk / Calamari Breader for Fried",
       "Blackening Spice for Blackened Chicken",
       "Salt / Pepper for Grilled Chicken",
+      "Toast bun on flat top with clarified butter",
       "Toss cooked chicken in buffalo sauce and place on toasted bun.",
       "Top with Blue cheese crumbles and send to expo to complete.",
       "Expo:",
@@ -82702,7 +82727,9 @@
       "Pickled Spear — garnish."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdveakaccejy.jpg"
+    ],
     "active": true,
     "id": "dm-bh-21",
     "masterId": "dm-mv-21-m",
@@ -82717,13 +82744,13 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grilled Chicken (cut in half)",
+        "name": "Pesto Marinated Chicken Breast cut in half",
         "qty": "6",
         "unit": "OZ-wt",
         "qty2": ""
       },
       {
-        "name": "Pesto Mayo (prep item)",
+        "name": "Pesto Mayo",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -82776,8 +82803,10 @@
       "Balsamic Glaze — drizzle on the sandwich."
     ],
     "notes": "",
-    "images": [],
-    "active": false,
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdy8xk2on3xk.jpg"
+    ],
+    "active": true,
     "id": "dm-mv-22",
     "masterId": "dm-mv-22-m",
     "location": "Mar Vista"
@@ -82791,13 +82820,13 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grilled Chicken (cut in half)",
+        "name": "Pesto Marinated Chicken Breast cut in half",
         "qty": "6",
         "unit": "OZ-wt",
         "qty2": ""
       },
       {
-        "name": "Pesto Mayo (prep item)",
+        "name": "Pesto Mayo",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -82850,7 +82879,9 @@
       "Balsamic Glaze — drizzle on the sandwich."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdy8xk2on3xk.jpg"
+    ],
     "active": true,
     "id": "dm-sb-22",
     "masterId": "dm-mv-22-m",
@@ -82865,13 +82896,13 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grilled Chicken (cut in half)",
+        "name": "Pesto Marinated Chicken Breast cut in half",
         "qty": "6",
         "unit": "OZ-wt",
         "qty2": ""
       },
       {
-        "name": "Pesto Mayo (prep item)",
+        "name": "Pesto Mayo",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -82924,7 +82955,9 @@
       "Balsamic Glaze — drizzle on the sandwich."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/murdy8xk2on3xk.jpg"
+    ],
     "active": true,
     "id": "dm-bh-22",
     "masterId": "dm-mv-22-m",
@@ -86176,7 +86209,7 @@
         "qty2": ""
       },
       {
-        "name": "Roasted Tomato Sauce",
+        "name": "Roasted Tomato Caper Sauce",
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
@@ -86195,12 +86228,16 @@
       }
     ],
     "steps": [
+      "Grill:",
       "Prep the Prepped Branzino with 2 lemon slices, thyme, oil, salt and pepper.",
-      "Use the Oil / Salt / Pepper to cook the fish.",
-      "Oil and season fish.\n 2. Add fish to grill and gentlyh press down.\n 3. Cook 2 minutes and flip/turn. \n 4. Cook fish to 140.\n 5. Sauté - heat up roasted tomato sauce. \n 6. Expo - Garnish with parsley and broiled feta",
+      "Oil and season fish.",
+      "Add fish to grill and gentlyh press down.",
+      "Cook 2 minutes and flip/turn. Cook fish to 140.",
+      "Saute:",
+      "Heat up roasted tomato caper sauce in sauté pan",
       "Expo:",
-      "Broiled Feta — garnish.",
-      "Parsley, chopped — garnish."
+      "Broiled Feta — garnish on top",
+      "Parsley, chopped — garnish on top"
     ],
     "notes": "",
     "images": [],
@@ -86406,12 +86443,15 @@
       }
     ],
     "steps": [
+      "Sauté:",
       "Heat up sauté pan, add oil, shallots, and shrimp.  Season with Salt and pepper",
       "Deglaze with white wine and reduce.",
       "Add alfredo sauce and bring to temp.",
       "Add half the parmesan to the pan, then plate.",
-      "Garnish pasta with chopped parsley and remaining shaved parm.",
-      "Served with 2 pieces of warm focaccia bread"
+      "Remaining Shaved Parm - Garnish on top",
+      "Chopped Parsley - Garnish on top",
+      "Expo:",
+      "Side Focaccia Bread - Warm on expo"
     ],
     "notes": "",
     "images": [],
