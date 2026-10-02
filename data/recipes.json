@@ -85780,6 +85780,12 @@
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "Lemon Wedge"
       }
     ],
     "steps": [
@@ -85788,10 +85794,9 @@
       "Make sure internal temp reaches 145 degrees",
       "Place remoulade center of the on plate and spread out to make a circle with the bottom of the ladel.",
       "Place crab cake in the center of the sauce.",
-      "Make a little salad with the greens and pickled shallots, use as garnish for the crab cake.",
       "Expo:",
-      "Pickled Shallots — garnish.",
-      "Mixed Greens — garnish."
+      "Make a little salad with the greens and pickled shallots, use as garnish for the crab cake.",
+      "Lemon Wedge — garnish."
     ],
     "notes": "",
     "images": [],
