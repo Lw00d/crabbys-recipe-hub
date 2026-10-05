@@ -101061,5 +101061,93 @@
     "id": "m-muveg9299egi7a",
     "masterId": "m-muveg92945je8z",
     "location": "CDS"
+  },
+  {
+    "name": "Ginger Soy Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2.25 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger  (1 cup chopped )",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic (1 cup chopped",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "sesame oil",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "plum sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "red pepper flake",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "rice wine vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "green onion",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat sesame oil in large pot",
+      "Add garlic and ginger, cook for about 5 minutes and turn heat off",
+      "Add plum sauce, soy sauce, vinegar, sugar, and pepper flakes.",
+      "Bring sauce to a simmer to dissolve sugar.",
+      "Cool down",
+      "Once cool, add the chopped cilantro and scallions",
+      "Adjust seasoning if needed.",
+      "Wrap label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dp-bh-42",
+    "masterId": "dp-mv-33-m",
+    "location": "Beach House"
   }
 ]
