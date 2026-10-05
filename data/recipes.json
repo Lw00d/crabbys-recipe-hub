@@ -6340,7 +6340,7 @@
     "submenu": "Appetizers",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "App Plate",
     "ingredients": [
       {
         "name": "Crab Cake (Prep)",
@@ -6361,6 +6361,7 @@
       "Flip the crab cake to the seared side up, and place it on a pizza tray",
       "Bake for 6 minutes at 450°F",
       "Put it on a small plate and give it to the expo.",
+      "Fried:",
       "Use an ivory scoop and place the crab cake directly into the flour and lightly dust it.",
       "Put into the fryer and cook for about 2 minutes or until cakes have a rich, golden brown color",
       "Place in a save-a-day to drain off excess oil",
@@ -19556,7 +19557,7 @@
     "submenu": "Appetizers",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "App Plate",
     "ingredients": [
       {
         "name": "Crab Cake (Prep)",
@@ -19577,6 +19578,7 @@
       "Flip the crab cake to the seared side up, and place it on a pizza tray",
       "Bake for 6 minutes at 450°F",
       "Put it on a small plate and give it to the expo.",
+      "Fried:",
       "Use an ivory scoop and place the crab cake directly into the flour and lightly dust it.",
       "Put into the fryer and cook for about 2 minutes or until cakes have a rich, golden brown color",
       "Place in a save-a-day to drain off excess oil",
@@ -34253,13 +34255,13 @@
   {
     "id": "dm-cbg-28",
     "masterId": "dm-cbg-28-m",
-    "name": "Crab Cake",
+    "name": "Crab Cake App",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "Small / App Plate",
     "ingredients": [
       {
         "name": "Crab Cake (Prep)",
@@ -34294,7 +34296,9 @@
       "Put in a save-a-day to drain off excess oil",
       "Put on a small plate",
       "Expo:",
-      "Plateware:"
+      "Lemon wedge ",
+      "Plateware:",
+      "Small Plate "
     ],
     "notes": "",
     "images": []
@@ -73161,8 +73165,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Dinner__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Dinner__All_stores__1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Dinner__All_stores__2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Dinner__All_stores__2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Dinner__All_stores__1.jpg"
     ]
   },
   {
