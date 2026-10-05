@@ -1361,13 +1361,27 @@ function updateInactiveToggleUI(){
 
 function getLinkedCount(r){ if(!r.masterId) return 0; return RECIPES.filter(o=>o.masterId===r.masterId && o.id!==r.id && LOC_GROUP[o.location]===LOC_GROUP[r.location]).length; }
 
+// "3 stores" used to count siblings the viewer cannot see, so a group with one
+// store switched off read "3 stores" while only two cards appeared — which is
+// exactly how a deactivated recipe looked like a deleted one. Show both numbers
+// when they differ: "2 of 3 stores".
+function linkedBadge(r){
+  const n = getLinkedCount(r);
+  if(!n) return '';
+  const group = RECIPES.filter(o=>o.masterId===r.masterId && LOC_GROUP[o.location]===LOC_GROUP[r.location]);
+  const live = group.filter(o=>o.active !== false).length;
+  const label = (live === group.length || live === 0) ? `${group.length} stores`
+                                                      : `${live} of ${group.length} stores`;
+  return `<span class="badge badge-master">\u{1F517} ${label}</span>`;
+}
+
 function renderCard(recipe){
   const lc = LOC_CLASS[recipe.location]||'';
   const card = document.createElement('div');
   card.className = `recipe-card ${lc}${recipe.active===false?' recipe-card-inactive':''}`;
   const sub = recipe.submenu ? `<span class="badge badge-sub">${recipe.submenu}</span>` : '';
   const n = getLinkedCount(recipe);
-  const master = n ? `<span class="badge badge-master">🔗 ${n+1} stores</span>` : '';
+  const master = linkedBadge(recipe);
   const modFlag = unlocked && recipe._modified ? `<span class="badge badge-modified">edited</span>` : '';
   const newFlag = unlocked && recipe._new ? `<span class="badge badge-new">new</span>` : '';
   const inactiveFlag = recipe.active===false ? `<span class="badge badge-modified">inactive</span>` : '';
@@ -1418,7 +1432,7 @@ function renderModalView(){
 
   const sub = recipe.submenu ? `<span class="badge badge-sub">${recipe.submenu}</span>` : '';
   const n = getLinkedCount(recipe);
-  const master = n ? `<span class="badge badge-master">🔗 ${n+1} stores</span>` : '';
+  const master = linkedBadge(recipe);
   document.getElementById('modalMeta').innerHTML = `<span class="badge badge-loc">${LOC_SHORT[recipe.location]||recipe.location}</span><span class="badge badge-cat">${recipe.category}</span>${sub}${master}`;
 
   const metas=[];

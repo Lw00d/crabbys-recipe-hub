@@ -14252,38 +14252,6 @@
     "images": []
   },
   {
-    "id": "dp-cbg-51",
-    "masterId": "dp-datil-pepper-sauce-m",
-    "name": "Datil Pepper Sauce",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "5 days",
-    "smallware": "1 - 16 or a 32oz Squeeze bottle, Whisk, Rubber Spatula, Mixing Bowl, day bag, and day label",
-    "ingredients": [
-      {
-        "name": "Datil Pepper Bloody Mary Mix",
-        "qty": "16",
-        "unit": "Ounces"
-      },
-      {
-        "name": "BBQ Sauce",
-        "qty": "8",
-        "unit": "Ounces"
-      }
-    ],
-    "steps": [
-      "**Datil pepper sauce- 2 parts Datil Bloody Mary mix & 1 part BBQ sauce**",
-      "In a mixing bowl, add the ingredients and combine well.",
-      "Pour into a 16 or 32-oz squeeze bottle",
-      "Cover the bottle with a day bag, and screw the top on.",
-      "Label, date, with a day dot and refrigerate."
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
-  },
-  {
     "id": "dp-cds-56",
     "masterId": "dp-hushpuppies-m",
     "name": "Hushpuppies",
