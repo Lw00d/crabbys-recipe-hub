@@ -88668,89 +88668,6 @@
     "location": "Sandbar"
   },
   {
-    "name": "Ginger Soy Sauce",
-    "category": "Dinner Prep",
-    "submenu": "Hot Prep",
-    "yield": "5 Gallon",
-    "portions": "320",
-    "portionSize": "2 OZ-fl",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Garlic, clove (chopped)",
-        "qty": "2",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Ginger root (chopped)",
-        "qty": "2",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Sesame Oil",
-        "qty": "4",
-        "unit": "OZ-fl",
-        "qty2": ""
-      },
-      {
-        "name": "Plum Sauce",
-        "qty": "2",
-        "unit": "Gallon",
-        "qty2": ""
-      },
-      {
-        "name": "Crushed Red Pepper Flakes",
-        "qty": "0.25",
-        "unit": "cup",
-        "qty2": ""
-      },
-      {
-        "name": "Soy Sauce, light",
-        "qty": "2",
-        "unit": "Gallon",
-        "qty2": ""
-      },
-      {
-        "name": "Sugar",
-        "qty": "5",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Rice Wine Vinegar",
-        "qty": "2",
-        "unit": "Cup",
-        "qty2": ""
-      },
-      {
-        "name": "Scallion",
-        "qty": "1",
-        "unit": "cup",
-        "qty2": ""
-      },
-      {
-        "name": "Cilantro",
-        "qty": "2",
-        "unit": "bunches",
-        "qty2": ""
-      }
-    ],
-    "steps": [
-      "Chop the Scallion and add once cooled.",
-      "Chop the Cilantro and add once cooled.",
-      "Heat sesame oil in a large stock pot.\n 2. Sweat garlic, ginger and pepper flakes until soft.\n 3. Add soy sauce, plum sauce, vinegar and sugar. \n 4. Bring to a simmer for 10 minutes.\n 5. Cool with ice wand.\n 6. Fold in cilantro and scallions\n 7. Wrap / Label / Date"
-    ],
-    "notes": "",
-    "images": [],
-    "active": true,
-    "id": "dp-sb-25",
-    "masterId": "dp-sb-25-m",
-    "location": "Sandbar"
-  },
-  {
     "name": "Peel and Eat Shrimp",
     "category": "Dinner Prep",
     "submenu": "Hot Prep",
@@ -91932,89 +91849,6 @@
     "active": true,
     "id": "dp-bh-4",
     "masterId": "dp-bh-4-m",
-    "location": "Beach House"
-  },
-  {
-    "name": "Ginger Soy Sauce",
-    "category": "Dinner Prep",
-    "submenu": "Hot Prep",
-    "yield": "5 Gallon",
-    "portions": "320",
-    "portionSize": "2 OZ-fl",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Garlic, clove (chopped)",
-        "qty": "2",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Ginger root (chopped)",
-        "qty": "2",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Sesame Oil",
-        "qty": "4",
-        "unit": "OZ-fl",
-        "qty2": ""
-      },
-      {
-        "name": "Plum Sauce",
-        "qty": "2",
-        "unit": "Gallon",
-        "qty2": ""
-      },
-      {
-        "name": "Crushed Red Pepper Flakes",
-        "qty": "0.25",
-        "unit": "cup",
-        "qty2": ""
-      },
-      {
-        "name": "Soy Sauce, light",
-        "qty": "2",
-        "unit": "Gallon",
-        "qty2": ""
-      },
-      {
-        "name": "Sugar",
-        "qty": "5",
-        "unit": "cups",
-        "qty2": ""
-      },
-      {
-        "name": "Rice Wine Vinegar",
-        "qty": "2",
-        "unit": "Cup",
-        "qty2": ""
-      },
-      {
-        "name": "Scallion",
-        "qty": "1",
-        "unit": "cup",
-        "qty2": ""
-      },
-      {
-        "name": "Cilantro",
-        "qty": "2",
-        "unit": "bunches",
-        "qty2": ""
-      }
-    ],
-    "steps": [
-      "Chop the Scallion and add once cooled.",
-      "Chop the Cilantro and add once cooled.",
-      "Heat sesame oil in a large stock pot.\n 2. Sweat garlic, ginger and pepper flakes until soft.\n 3. Add soy sauce, plum sauce, vinegar and sugar. \n 4. Bring to a simmer for 10 minutes.\n 5. Cool with ice wand.\n 6. Fold in cilantro and scallions\n 7. Wrap / Label / Date"
-    ],
-    "notes": "",
-    "images": [],
-    "active": true,
-    "id": "dp-bh-5",
-    "masterId": "dp-bh-5-m",
     "location": "Beach House"
   },
   {
@@ -101051,5 +100885,181 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Ginger Soy Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2.25 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger  (1 cup chopped )",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic (1 cup chopped",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "sesame oil",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "plum sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "red pepper flake",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "rice wine vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "green onion",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat sesame oil in large pot",
+      "Add garlic and ginger, cook for about 5 minutes and turn heat off",
+      "Add plum sauce, soy sauce, vinegar, sugar, and pepper flakes.",
+      "Bring sauce to a simmer to dissolve sugar.",
+      "Cool down",
+      "Once cool, add the chopped cilantro and scallions",
+      "Adjust seasoning if needed.",
+      "Wrap label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-muvcb21nqy4q51",
+    "masterId": "m-muvcb21n6ofksv",
+    "location": "CDS"
+  },
+  {
+    "name": "Ginger Soy Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2.25 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger  (1 cup chopped )",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic (1 cup chopped",
+        "qty": "0.5",
+        "unit": "Lbs",
+        "qty2": ""
+      },
+      {
+        "name": "sesame oil",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "plum sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": ""
+      },
+      {
+        "name": "red pepper flake",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "rice wine vinegar",
+        "qty": "1",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "sugar",
+        "qty": "2.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": ""
+      },
+      {
+        "name": "green onion",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat sesame oil in large pot",
+      "Add garlic and ginger, cook for about 5 minutes and turn heat off",
+      "Add plum sauce, soy sauce, vinegar, sugar, and pepper flakes.",
+      "Bring sauce to a simmer to dissolve sugar.",
+      "Cool down",
+      "Once cool, add the chopped cilantro and scallions",
+      "Adjust seasoning if needed.",
+      "Wrap label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-muvcavwfmptd0v",
+    "masterId": "dp-mv-33-m",
+    "location": "Sandbar"
   }
 ]
