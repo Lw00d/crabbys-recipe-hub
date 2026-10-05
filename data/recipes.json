@@ -101061,40 +101061,5 @@
     "id": "m-muvcavwfmptd0v",
     "masterId": "dp-mv-33-m",
     "location": "Sandbar"
-  },
-  {
-    "name": "Chipotle Aioli (Copy)",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "10 days",
-    "smallware": "Small mixing bowl, rubber spatula, and whisk",
-    "ingredients": [
-      {
-        "name": "Double Egg Mayo",
-        "qty": "30",
-        "unit": "Vol oz"
-      },
-      {
-        "name": "Chipotle in sauce",
-        "qty": "2",
-        "unit": "Whole peppers"
-      },
-      {
-        "name": "Sauce from Chipotle",
-        "qty": "2",
-        "unit": "Vol oz"
-      }
-    ],
-    "steps": [
-      "Put all ingredients in a mixing bowl",
-      "Pull peppers apart with your hands",
-      "Stir until blended and a consistent color with pepper pieces throughout",
-      "Pour into a 32-oz squeeze bottle"
-    ],
-    "notes": "",
-    "images": [],
-    "id": "m-muvee3je6va4ma",
-    "masterId": "m-muvee3jf42itxy",
-    "location": "CDS"
   }
 ]
