@@ -100851,77 +100851,69 @@
     "name": "Ginger Soy Sauce",
     "category": "Dinner Prep",
     "submenu": "Hot Prep",
-    "yield": "2.25 gallons",
+    "yield": "2.25 Gallons",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
       {
-        "name": "Ginger  (1 cup chopped )",
-        "qty": "0.5",
-        "unit": "Lbs",
-        "qty2": ""
-      },
-      {
-        "name": "Garlic (1 cup chopped",
-        "qty": "0.5",
-        "unit": "Lbs",
-        "qty2": ""
-      },
-      {
-        "name": "sesame oil",
-        "qty": "0.25",
-        "unit": "Cup",
-        "qty2": ""
+        "name": "soy sauce",
+        "qty": "1",
+        "unit": "Gallons",
+        "qty2": "2"
       },
       {
         "name": "plum sauce",
         "qty": "1",
         "unit": "Gallons",
-        "qty2": ""
+        "qty2": "2"
       },
       {
-        "name": "soy sauce",
+        "name": "Ground Ginger",
         "qty": "1",
-        "unit": "Gallons",
-        "qty2": ""
+        "unit": "Tbs",
+        "qty2": "2"
       },
       {
-        "name": "red pepper flake",
+        "name": "sesame oil",
         "qty": "0.25",
         "unit": "Cup",
-        "qty2": ""
+        "qty2": ".5"
       },
       {
-        "name": "rice wine vinegar",
+        "name": "Granulated Ginger",
         "qty": "1",
-        "unit": "Cup",
-        "qty2": ""
+        "unit": "Tbs",
+        "qty2": "2"
       },
       {
         "name": "sugar",
         "qty": "2.5",
         "unit": "Cup",
-        "qty2": ""
+        "qty2": "5"
       },
       {
-        "name": "cilantro",
-        "qty": "1",
-        "unit": "Bunch",
-        "qty2": ""
+        "name": "red pepper flake",
+        "qty": "0.25",
+        "unit": "Cup",
+        "qty2": ".5"
       },
       {
         "name": "green onion",
         "qty": "0.5",
         "unit": "Cup",
-        "qty2": ""
+        "qty2": "1"
+      },
+      {
+        "name": "cilantro",
+        "qty": "1",
+        "unit": "Bunch",
+        "qty2": "2"
       }
     ],
     "steps": [
-      "Heat sesame oil in large pot",
-      "Add garlic and ginger, cook for about 5 minutes and turn heat off",
-      "Add plum sauce, soy sauce, vinegar, sugar, and pepper flakes.",
+      "Add plum sauce, soy sauce, vinegar, sugar, sesame oil and pepper flakes in a large pot",
       "Bring sauce to a simmer to dissolve sugar.",
       "Cool down",
       "Once cool, add the chopped cilantro and scallions",
@@ -100933,7 +100925,13 @@
     "active": true,
     "id": "m-muvcb21nqy4q51",
     "masterId": "m-muvcb21n6ofksv",
-    "location": "CDS"
+    "location": "CDS",
+    "dualBatch": {
+      "label1": "1x",
+      "label2": "2x",
+      "count": 2
+    },
+    "yield2": "4.5 Gallons"
   },
   {
     "name": "Ginger Soy Sauce",
