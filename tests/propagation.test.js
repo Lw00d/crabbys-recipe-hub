@@ -110,6 +110,32 @@ t('two siblings do not share arrays with each other', () => {
   assert.strictEqual(e.RECIPES[2].steps.length, 1);
 });
 
+console.log('\nactive is per store, not content');
+
+t('an inactive sibling is not reactivated by an edit elsewhere', () => {
+  const a = R('a','m-1','CBG','Sides','X'), b = R('b','m-1','CDS','Sides','X');
+  b.active = false;                      // deliberately retired at CDS
+  const e = env([a, b]);
+  e.RECIPES[0].steps = ['changed'];
+  e.propagateToLinked(e.RECIPES[0]);
+  assert.strictEqual(e.RECIPES[1].active, false, 'CDS was switched back on');
+  assert.deepStrictEqual(e.RECIPES[1].steps, ['changed'], 'content should still propagate');
+});
+t('an active sibling is not switched off by an edit at a retired store', () => {
+  const a = R('a','m-1','CBG','Sides','X'), b = R('b','m-1','CDS','Sides','X');
+  a.active = false;
+  const e = env([a, b]);
+  e.propagateToLinked(e.RECIPES[0]);
+  assert.notStrictEqual(e.RECIPES[1].active, false, 'CDS got switched off');
+});
+t('a sibling with no active flag does not gain one', () => {
+  const a = R('a','m-1','CBG','Sides','X'), b = R('b','m-1','CDS','Sides','X');
+  a.active = true;
+  const e = env([a, b]);
+  e.propagateToLinked(e.RECIPES[0]);
+  assert.ok(!('active' in e.RECIPES[1]), 'an undefined flag must stay undefined');
+});
+
 console.log('\nportions');
 t('portions propagates to linked siblings like any other content field', () => {
   const a = R('a','m-1','CBG','Sides','X'), b = R('b','m-1','CDS','Sides','X');

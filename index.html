@@ -679,8 +679,16 @@ function propagateToLinked(r){
     // Propagating submenu would collapse all of them onto the edited row's
     // submenu and make the recipe vanish from the other menus.
     const keepSubmenu = s.submenu;
+    // Keep each sibling's own active flag too. Whether a store serves a recipe
+    // is a per-STORE decision, not content: 11 linked groups deliberately have
+    // it off at some stores and on at others — Stone Crab is retired at Beach
+    // House, Smash Burger at Mar Vista and Sandbar. Propagating it would mean
+    // one edit at any store silently reactivating every retired copy, or
+    // deactivating every live one.
+    const keepActive = s.active;
     Object.assign(s, shareContentFields(r));
     s.submenu = keepSubmenu;
+    if(keepActive === undefined) delete s.active; else s.active = keepActive;
     s._modified = true;
   });
   return siblings.length;
