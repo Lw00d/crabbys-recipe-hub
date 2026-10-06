@@ -91590,7 +91590,12 @@
       }
     ],
     "steps": [
-      "Heat butter in a sauce pot and add onion, garlic, chipotle peppers, salt, pepper and chili powder and slowly cook until soft.\n 2. Deglaze with bourbon.\n 3. Add remaining ingredients and bring to light simmer for 20 minutes\n 4. Blend on high and pass through a chinois. \n 5. Adjust seasoning if needed.\n 6. Wrap / label /date"
+      "Heat butter in a sauce pot and add onion, garlic, chipotle peppers, salt, pepper and chili powder and slowly cook until soft.\n",
+      "Deglaze with bourbon.",
+      " Add remaining ingredients and bring to light simmer for 20 minutes",
+      " Blend on high and pass through a chinois. ",
+      "Adjust seasoning if needed.",
+      " Wrap / label /date"
     ],
     "notes": "",
     "images": [],
@@ -91671,7 +91676,11 @@
       }
     ],
     "steps": [
-      "Sweat onions, garlic and spices.\n 2. Deglaze with vinegar and add tomatoes.\n 3. Bring to a simmer for about 20 minutes\n 4. Blend in vita prep and adjust seasoning if needed. Should be spicy\n 5. Cool sauce / wrap / label / date"
+      "Sweat onions, garlic and spices.",
+      " Deglaze with vinegar and add tomatoes.",
+      " Bring to a simmer for about 20 minutes",
+      " Blend in vita prep and adjust seasoning if needed. Should be spicy",
+      " Cool sauce / wrap / label / date"
     ],
     "notes": "",
     "images": [],
@@ -91770,7 +91779,13 @@
       }
     ],
     "steps": [
-      "Add bacon to large rondo and render out the fat. Remove from pot but save oil.\n 2. Add remaining oil, celery, onion, garlic and thyme to sweat.\n 3. Add bacon back in with bay leaves and simmer for 3 minutes.\n 4. Tak off stove and add canned chowder, canned clams and potatoes\n 5. Adjust seasoning with salt and pepper.\n 6. Portion and seal in vacuum bag\n 7. Wrap / Label / Date"
+      "Add bacon to large rondo and render out the fat. Remove from pot but save oil.",
+      " Add remaining oil, celery, onion, garlic and thyme to sweat.",
+      "Add bacon back in with bay leaves and simmer for 3 minutes.",
+      "Take off stove and add canned chowder, canned clams and potatoes",
+      "Adjust seasoning with salt and pepper.",
+      "Portion and seal in vacuum bag",
+      " Wrap / Label / Date"
     ],
     "notes": "",
     "images": [],
@@ -93364,7 +93379,7 @@
     "submenu": "Proteins",
     "yield": "43.4 LB",
     "portions": "86.8",
-    "portionSize": "8 OZ-wt",
+    "portionSize": "8 OZ-wt/ 4 oz -wt shredded",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
@@ -93375,15 +93390,15 @@
         "qty2": ""
       },
       {
-        "name": "Black Pepper, ground",
-        "qty": "1",
-        "unit": "OZ-wt",
+        "name": "Black Pepper, ground - to season meat ",
+        "qty": "as",
+        "unit": "needed",
         "qty2": ""
       },
       {
-        "name": "Kosher salt",
-        "qty": "1",
-        "unit": "OZ-wt",
+        "name": "Kosher salt - to season meat",
+        "qty": "as",
+        "unit": "needed",
         "qty2": ""
       },
       {
@@ -93430,7 +93445,20 @@
       }
     ],
     "steps": [
-      "Season short ribs on all sides with Salt and pepper.\n 2. Heat oil in large rondo and sear meat on all sides.\n 3. Stack them together in a deep hotel pan. \n 4. When all the meat is seared... add carrots, onions and garlic to pan.\n 5. Deglaze pot with red wine. \n 6. Add remaining ingredients to pot and bring to simmer.\n 7. Add cooked veggies and liquid to short rib pan.\n 8. Wrap in plastic wrap and aluminum foil. \n 9. Roast in oven @300 degrees for 4-5 hours.\n10. Check after 4 hours to see how they are doing. Smaller pieces of will cook faster\n11. Once cooked. remove from oven and let cool in walk in, preferably overnight. \n12. Remove meat from jus and heat up jus. Strain, cool and reserve...Wrap /Label /Date.\n13. Clean big chunks of fat off meat and begin to portion 6 oz pieces for entree.\n14. The rest will be shredded and portioned for tacos."
+      "Season short ribs on all sides with Salt and pepper.",
+      " Heat oil in large rondo and sear meat on all sides.",
+      " Stack them together in a deep hotel pan. ",
+      " When all the meat is seared... add carrots, onions and garlic to pan.",
+      "Deglaze pot with red wine. ",
+      " Add remaining ingredients to pot and bring to simmer.",
+      " Add cooked veggies and liquid to short rib pan.",
+      " Wrap in plastic wrap and aluminum foil. ",
+      "Roast in oven @300 degrees for 4-5 hours.",
+      "Check after 4 hours to see how they are doing. Smaller pieces of will cook faster",
+      "Once cooked. remove from oven and let cool in walk in, preferably overnight. ",
+      "Remove meat from jus and heat up jus. Strain, cool and reserve...Wrap /Label /Date.",
+      "Clean big chunks of fat off meat and begin to portion 8 oz pieces for entree.",
+      "The rest will be shredded and portioned for tacos."
     ],
     "notes": "",
     "images": [],
@@ -93499,7 +93527,9 @@
       }
     ],
     "steps": [
-      "Add sugar, salt and spices to 2 gallons of water and bring to a simmer until dissolved.\n 2. Remove from heat and add ice.\n 3. Brine all Chicken 8 hours."
+      "Add sugar, salt and spices to 2 gallons of water and bring to a simmer until dissolved.",
+      "Remove from heat and add ice.",
+      "Brine all Chicken 8 hours."
     ],
     "notes": "",
     "images": [],
