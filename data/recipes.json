@@ -92747,7 +92747,7 @@
         "qty2": ""
       },
       {
-        "name": "Limes",
+        "name": "Limes, juice only ",
         "qty": "2",
         "unit": "Each",
         "qty2": ""
@@ -92755,7 +92755,7 @@
       {
         "name": "Cilantro",
         "qty": "2",
-        "unit": "Each",
+        "unit": "bunch",
         "qty2": ""
       },
       {
@@ -92772,8 +92772,10 @@
       }
     ],
     "steps": [
-      "Use the juice of the Limes only.",
-      "Make sure mango is diced well enough.\n 2. Mix in a bowl with pico. \n 3. Adjust seasoning.\n 4. Wrap / Label / Date"
+      "Make sure mango is diced well enough",
+      " Mix in a bowl with pico. ",
+      "Adjust seasoning.",
+      "Wrap / Label / Date"
     ],
     "notes": "",
     "images": [],
@@ -92830,7 +92832,9 @@
       }
     ],
     "steps": [
-      "Fine dice shallots and place in a bowl. The total measurement is 2 cups diced shallots\n 2. mix everything together in a container.\n 3. Wrap / Label / Date"
+      "Fine dice shallots and place in a bowl. The total measurement is 2 cups diced shallots",
+      "mix everything together in a container.",
+      "Wrap / Label / Date"
     ],
     "notes": "",
     "images": [],
@@ -92850,9 +92854,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Basil Pesto, frozen",
-        "qty": "128",
-        "unit": "OZ-fl",
+        "name": "Basil Pesto, thawed out",
+        "qty": "1",
+        "unit": "Gallon",
         "qty2": ""
       },
       {
@@ -92920,7 +92924,10 @@
       }
     ],
     "steps": [
-      "Slice peppers about a 1/4 inch thick and place in 12 qt or bigger container.\n 2. Bring rest of ingredients to a simmer to dissolve\n 3. Pour hot liquid over peppers and cool. Mix well so peppers are coated\n 4. Wrap / label / date"
+      "Slice peppers about a 1/4 inch thick and place in 12 qt or bigger container.",
+      " Bring rest of ingredients to a simmer to dissolve",
+      "Pour hot liquid over peppers and cool. Mix well so peppers are coated",
+      "Wrap / label / date"
     ],
     "notes": "",
     "images": [],
@@ -93947,7 +93954,12 @@
       }
     ],
     "steps": [
-      "Bring water, lemon and old bay to a boil\n 2. Get ice bath ready\n 3. Add shrimp to water and cook for 3 minutes\n 4. Remove from water and shock in ice bath\n 5. wrap / label / date \n 6. store with an ice bag"
+      "Bring water, lemon and old bay to a boil",
+      "Get ice bath ready",
+      "Add shrimp to water and cook for 3 minutes",
+      "Remove from water and shock in ice bath",
+      "wrap / label / date ",
+      "store with an ice bag"
     ],
     "notes": "",
     "images": [],
