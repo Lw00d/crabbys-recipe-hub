@@ -101421,5 +101421,75 @@
     ],
     "notes": "",
     "images": []
+  },
+  {
+    "name": "Chicken Nachos ",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tortilla Chips",
+        "qty": "2",
+        "unit": "handful"
+      },
+      {
+        "name": "Chix Breast",
+        "qty": "1",
+        "unit": "Each"
+      },
+      {
+        "name": "Garlic Spread",
+        "qty": "",
+        "unit": "Baste"
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "",
+        "unit": "Season"
+      },
+      {
+        "name": "Cherry Peppers",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Cheese Queso White",
+        "qty": "1",
+        "unit": "4oz portion"
+      },
+      {
+        "name": "Black Beans",
+        "qty": "1",
+        "unit": "4oz portion"
+      },
+      {
+        "name": "Pico De Gallo",
+        "qty": "1",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Cheese Queso White",
+        "qty": "1",
+        "unit": "4oz portion"
+      }
+    ],
+    "steps": [
+      "In a Lined round basket",
+      "Plate the chips, add 1 ladle of cheese sauce, and the Black Bean, covering all chips",
+      "Ladle the Pico de Gallo and the Cherry Peppers, spreading evenly across all chips",
+      "Add the Blackened Chicken that been cut into pieces,  pieces evenly across all chips",
+      "Add the Cherry Peppers across the chips",
+      "Then add another layer of cheese across the top.",
+      "Plateware:",
+      "Lined round basket"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-muy7xc5q7ya19n",
+    "masterId": "m-muy7xc5qdze3ea",
+    "location": "CBG"
   }
 ]
