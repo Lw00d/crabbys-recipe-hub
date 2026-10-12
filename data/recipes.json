@@ -101736,5 +101736,38 @@
     "id": "m-mv5gfb0pnynpyw",
     "masterId": "dp-bh-20-m",
     "location": "Sandbar"
+  },
+  {
+    "name": "Pesto Mayo",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "3 Gallon",
+    "portions": "384",
+    "portionSize": "2 Tbsp",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Basil Pesto, thawed out",
+        "qty": "1",
+        "unit": "Gallon",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix together well, wrap / label / date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mv5jgxw2iqh0m4",
+    "masterId": "m-mv5jgxw22rghln",
+    "location": "Sandbar"
   }
 ]
