@@ -85844,9 +85844,9 @@
         "qty2": ""
       },
       {
-        "name": "Baked Focaccia Bread",
+        "name": "Focaccia Bread",
         "qty": "2",
-        "unit": "each",
+        "unit": "slices",
         "qty2": ""
       },
       {
@@ -85875,7 +85875,9 @@
       "Lemon Wedge — garnish"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv5ftsct7tvdfz.jpg"
+    ],
     "active": true,
     "id": "dm-sb-38",
     "masterId": "dm-sb-38-m",
