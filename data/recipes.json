@@ -83127,7 +83127,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83214,7 +83214,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83301,7 +83301,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83664,7 +83664,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83752,7 +83752,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83840,7 +83840,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -83916,7 +83916,7 @@
         "qty2": ""
       },
       {
-        "name": "Lobster Roll Sauce / Mayo",
+        "name": "Lobster Roll Sauce",
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
@@ -83989,7 +83989,7 @@
         "qty2": ""
       },
       {
-        "name": "Lobster Roll Sauce / Mayo",
+        "name": "Lobster Roll Sauce",
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
@@ -84062,7 +84062,7 @@
         "qty2": ""
       },
       {
-        "name": "Lobster Roll Sauce / Mayo",
+        "name": "Lobster Roll Sauce",
         "qty": "2",
         "unit": "fl-oz",
         "qty2": ""
@@ -84147,7 +84147,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -84237,7 +84237,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -84327,7 +84327,7 @@
         "qty2": ""
       },
       {
-        "name": "Shredded Cheese (combo)",
+        "name": "Cheddar Jack Cheese Mix",
         "qty": "1.5",
         "unit": "oz.wt",
         "qty2": ""
@@ -101694,5 +101694,51 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Lobster Roll Sauce",
+    "category": "Dinner Prep",
+    "submenu": "Prep",
+    "yield": "4 Quart",
+    "portions": "32",
+    "portionSize": "4 OZ-fl",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lemons",
+        "qty": "4",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Kosher Salt",
+        "qty": "0.33",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Juice, zest and juice",
+        "qty": "0.5",
+        "unit": "Cup",
+        "qty2": ""
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "1",
+        "unit": "Gallon",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Mix everything together well in a bowl.",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mv5gfb0pnynpyw",
+    "masterId": "dp-bh-20-m",
+    "location": "Sandbar"
   }
 ]
