@@ -101485,5 +101485,85 @@
     "id": "m-muy7xc5q7ya19n",
     "masterId": "m-muy7xc5qdze3ea",
     "location": "CBG"
+  },
+  {
+    "id": "m-mv5f1p9pdybj93",
+    "masterId": "m-mv5f1p9pdybj93",
+    "name": "Island Chicken Sandwich",
+    "location": "Sandbar",
+    "category": "Dinner Menu",
+    "submenu": "Handhelds",
+    "yield": "1",
+    "portions": "ea",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "each",
+        "name": "Chicken Breast Brined"
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "needed ",
+        "name": "Clarified Butter"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "Burger Bun"
+      },
+      {
+        "qty": "1.5",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Island Jerk Glaze"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Lemon Aioli"
+      },
+      {
+        "qty": "2.5",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Pickled Pineapple Slaw"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Pickle"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Regular Side"
+      }
+    ],
+    "steps": [
+      "Grill chicken breast until fully cooked.",
+      "Grilled chicken and fish procedure",
+      "Brush or toss chicken with 1.5 oz Island Jerk Glaze.",
+      "Return briefly to the grill or hot surface to tack the glaze onto the chicken.",
+      "Grill pineapple ring until hot with good visible char.",
+      "Toast brioche bun.",
+      "Spread 1/2 oz Lemon Aioli on bottom bun",
+      "Add 2.5 oz Pickled Pineapple Slaw.",
+      "Place glazed chicken over slaw",
+      "Top with grilled pineapple ring",
+      "Spread remaining 1/2 oz Lemon Aioli on top bun.",
+      "Sides:",
+      "1 Regular side"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
