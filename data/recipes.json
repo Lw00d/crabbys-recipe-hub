@@ -101565,5 +101565,101 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Focaccia Bread",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "18 slices",
+    "portions": "18",
+    "portionSize": "slices",
+    "shelfLife": "2 hours",
+    "smallware": "half sheet pan",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "ea",
+        "name": "Focaccia Bread",
+        "qty2": ""
+      },
+      {
+        "qty": "1.5",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Olive oil"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Shaved Parmesan , crumbled"
+      },
+      {
+        "qty": "to",
+        "qty2": "",
+        "unit": "taste",
+        "name": "Salt and pepper"
+      }
+    ],
+    "steps": [
+      "Dress focaccia with oil / cheese / salt / pepper",
+      "Place on half sheet tray and bake @350",
+      "Bake for 8-10 minutes",
+      "Cut in half length wise, then turn and make 9 cuts. You should get 18 slices"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mv5fl8k0r84w6l",
+    "masterId": "m-mv5ffnf15t62tu",
+    "location": "Mar Vista"
+  },
+  {
+    "id": "m-mv5ffnf15t62tu",
+    "masterId": "m-mv5ffnf15t62tu",
+    "name": "Focaccia Bread",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "18 slices",
+    "portions": "18",
+    "portionSize": "slices",
+    "shelfLife": "2 hours",
+    "smallware": "half sheet pan",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "ea",
+        "name": "Focaccia Bread",
+        "qty2": ""
+      },
+      {
+        "qty": "1.5",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Olive oil"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Shaved Parmesan , crumbled"
+      },
+      {
+        "qty": "to",
+        "qty2": "",
+        "unit": "taste",
+        "name": "Salt and pepper"
+      }
+    ],
+    "steps": [
+      "Dress focaccia with oil / cheese / salt / pepper",
+      "Place on half sheet tray and bake @350",
+      "Bake for 8-10 minutes",
+      "Cut in half length wise, then turn and make 9 cuts. You should get 18 slices"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
