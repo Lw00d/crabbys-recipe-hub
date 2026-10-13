@@ -10549,7 +10549,12 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6p8wpeb1c1gi.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6p926mshmp6w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6p979ysxp8ce.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6p9coa05l2zs.jpg"
+    ]
   },
   {
     "id": "dp-nb-55",
@@ -18304,12 +18309,12 @@
   {
     "id": "bp-si-11",
     "masterId": "bp-spicy-syrup-m",
-    "name": "Spicy Syrup",
+    "name": "Spicy Honey Syrup",
     "location": "Salty's Island",
     "category": "Breakfast Prep",
-    "yield": "1 recipe = 1 - 6\"1/3 SS Pan, 4 (32oz squeeze), or 7 (16oz)",
-    "shelfLife": "5-6 Days",
-    "smallware": "blender, rubber spatula, 1 SS 6\" 1/3 pan, squeeze bottles",
+    "yield": "1 recipe = 2 - SS - 6\" 1/3 Pan,",
+    "shelfLife": "7 days",
+    "smallware": "blender w/ lid, rubber spatula, & Squeeze bottles (see above)",
     "ingredients": [
       {
         "name": "Honey Clover Bears",
@@ -18333,26 +18338,32 @@
       }
     ],
     "steps": [
-      "In a blender container, add the following ingredients",
+      "In a blender mixing container, add the following ingredients",
       "Honey, Jalapeno, Apple juice, and Sriracha sauce,",
       "Blend until mixed thoroughly.",
       "Once mixed, place in a 6\" 1/3 Stainless Steel Pan",
       "Cover, label, and date, then place in a cooler",
-      "Once mixed, it can be placed in squeeze bottles or portioned into 2-oz cups with a lid and returned to a cooler"
+      "Could be portioned into 2-oz cups with a lid, and returned to the cooler"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pafp7vhvl4x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6palo0z277qa.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6par7vidp2wr.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pawceq92fcv.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pb2xqq6ajrc.jpg"
+    ],
     "active": false
   },
   {
     "id": "bp-cbg-6",
     "masterId": "bp-spicy-syrup-m",
-    "name": "Spicy Syrup",
+    "name": "Spicy Honey Syrup",
     "location": "CBG",
     "category": "Breakfast Prep",
-    "yield": "1 recipe = 1 - 6\"1/3 SS Pan, 4 (32oz squeeze), or 7 (16oz)",
-    "shelfLife": "5-6 Days",
-    "smallware": "blender, rubber spatula, 1 SS 6\" 1/3 pan, squeeze bottles",
+    "yield": "1 recipe = 2 - SS - 6\" 1/3 Pan,",
+    "shelfLife": "7 days",
+    "smallware": "blender w/ lid, rubber spatula, & Squeeze bottles (see above)",
     "ingredients": [
       {
         "name": "Honey Clover Bears",
@@ -18376,15 +18387,21 @@
       }
     ],
     "steps": [
-      "In a blender container, add the following ingredients",
+      "In a blender mixing container, add the following ingredients",
       "Honey, Jalapeno, Apple juice, and Sriracha sauce,",
       "Blend until mixed thoroughly.",
       "Once mixed, place in a 6\" 1/3 Stainless Steel Pan",
       "Cover, label, and date, then place in a cooler",
-      "Once mixed, it can be placed in squeeze bottles or portioned into 2-oz cups with a lid and returned to a cooler"
+      "Could be portioned into 2-oz cups with a lid, and returned to the cooler"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pafp7vhvl4x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6palo0z277qa.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6par7vidp2wr.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pawceq92fcv.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pb2xqq6ajrc.jpg"
+    ],
     "active": false
   },
   {
@@ -18845,7 +18862,13 @@
       "Could be portioned into 2-oz cups with a lid, and returned to the cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pafp7vhvl4x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6palo0z277qa.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6par7vidp2wr.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pawceq92fcv.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pb2xqq6ajrc.jpg"
+    ]
   },
   {
     "id": "bp-nb-12",
@@ -18900,7 +18923,11 @@
       "Label, date, and Place at the Expo station"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pbzvkjiemfe.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pc4u05dfwvb.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pcakp497csk.jpg"
+    ]
   },
   {
     "id": "bp-cbg-12",
@@ -18929,7 +18956,11 @@
       "Label, date, and Place at the Expo station"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pbzvkjiemfe.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pc4u05dfwvb.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6pcakp497csk.jpg"
+    ]
   },
   {
     "id": "bp-nb-14",
