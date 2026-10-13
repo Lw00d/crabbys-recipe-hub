@@ -1799,7 +1799,9 @@
       "Smallware: portion bags"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
+    ],
     "id": "m-msrujf5wgdh9ob",
     "masterId": "m-msby2akrn6utll",
     "location": "Palm"
@@ -4930,7 +4932,9 @@
       "Smallware: portion bags"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
+    ],
     "id": "m-msjdjoftwg9kjl",
     "masterId": "m-msby2akrn6utll",
     "location": "CBG"
@@ -11665,7 +11669,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rddrqfg5wdr.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
     ]
   },
   {
@@ -14299,7 +14303,12 @@
       "Yields: 1- 4\" lined 1/3 pan"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rib8ogw60kg.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rigxs5mnbqc.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rix28ty3mtl.jpg"
+    ]
   },
   {
     "id": "dp-cds-53",
@@ -14408,7 +14417,12 @@
       "Yields: 1- 4\" lined 1/3 pan"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rib8ogw60kg.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rigxs5mnbqc.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rix28ty3mtl.jpg"
+    ]
   },
   {
     "id": "dp-pl-82",
@@ -17277,7 +17291,12 @@
       "**To keep avocado green, place half avocados with pit removed in boiling water for 10 seconds, then place in ice water bath for 1 minute until cooled. Once cooled, remove skin and dice like normal**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rjo639izda8.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rjx25uwxljr.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rk25fa61h6j.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rk8c89r00ve.jpg"
+    ]
   },
   {
     "id": "dp-si-31",
@@ -19230,7 +19249,12 @@
       "Busy Time X 5"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rkwigvv2t1n.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rl1wnlsdaab.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rl5jcc6jldk.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rl9ljhq8gmp.jpg"
+    ]
   },
   {
     "id": "bp-cbg-14",
@@ -102026,5 +102050,46 @@
     "id": "m-mv6qsr1uksnhwn",
     "masterId": "dp-jonah-claws-scored-prep-m",
     "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Chicken Wings Prep",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "qty": "10",
+        "unit": "Lb./cs"
+      },
+      {
+        "name": "Olive Oil",
+        "qty": "6",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Salt n Pepper",
+        "qty": "1",
+        "unit": "Oz"
+      }
+    ],
+    "steps": [
+      "Place chicken wings in a mixing bowl, add oil, and S&P",
+      "Mix thoroughly so all wings are coated in oil",
+      "Par bake at 400 for 20 minutes.",
+      "Let wings cool in the walk-in",
+      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, drums & flaps, or 5 and 3",
+      "Place in a portion bag, tie shut.",
+      "Place in a pan and store in the walk-in",
+      "40#/cs fresh - 25 portions"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6reilu5zj8ef.jpg"
+    ],
+    "id": "m-mv6rf94ow62lgf",
+    "masterId": "dp-chicken-wings-m",
+    "location": "CDS"
   }
 ]
