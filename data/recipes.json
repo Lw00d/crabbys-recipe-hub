@@ -14773,7 +14773,11 @@
       "Crab will last 4-5 days thawed."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qqtxniy5xa7.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qr6fd8iaa1c.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qri06hg14a2.jpg"
+    ]
   },
   {
     "id": "dp-cbg-56",
@@ -14801,7 +14805,11 @@
       "Crab will last 4-5 days thawed."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qqtxniy5xa7.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qr6fd8iaa1c.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qri06hg14a2.jpg"
+    ]
   },
   {
     "id": "dp-cds-60",
@@ -101913,5 +101921,69 @@
     "id": "m-mv5jgxw2iqh0m4",
     "masterId": "m-mv5jgxw22rghln",
     "location": "Sandbar"
+  },
+  {
+    "name": "Jonah Claws (Scored) Prep",
+    "category": "Dinner Prep",
+    "yield": "17-18 portions / 85 -90%",
+    "shelfLife": "4 days after thawed",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jonah Claws",
+        "qty": "1",
+        "unit": "10#/ cs"
+      }
+    ],
+    "steps": [
+      "Open Bags, place the claws into a Lexan",
+      "Portion in one-pound increments using red mesh bags",
+      "*Weights should run .95 - 1.02 lbs for proper weight*",
+      "Place all portions back into original box",
+      "Date, number of portions, seal, back into the freezer",
+      "Pull Frozen according to your daily needs",
+      "Crab will last 4-5 days thawed."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qqtxniy5xa7.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qr6fd8iaa1c.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qri06hg14a2.jpg"
+    ],
+    "id": "m-mv6qsu46goefpu",
+    "masterId": "dp-jonah-claws-scored-prep-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Jonah Claws (Scored) Prep",
+    "category": "Dinner Prep",
+    "yield": "17-18 portions / 85 -90%",
+    "shelfLife": "4 days after thawed",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jonah Claws",
+        "qty": "1",
+        "unit": "10#/ cs"
+      }
+    ],
+    "steps": [
+      "Open Bags, place the claws into a Lexan",
+      "Portion in one-pound increments using red mesh bags",
+      "*Weights should run .95 - 1.02 lbs for proper weight*",
+      "Place all portions back into original box",
+      "Date, number of portions, seal, back into the freezer",
+      "Pull Frozen according to your daily needs",
+      "Crab will last 4-5 days thawed."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qqtxniy5xa7.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qr6fd8iaa1c.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6qri06hg14a2.jpg"
+    ],
+    "id": "m-mv6qsr1uksnhwn",
+    "masterId": "dp-jonah-claws-scored-prep-m",
+    "location": "Salty Crab North Beach"
   }
 ]
