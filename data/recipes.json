@@ -7900,44 +7900,32 @@
     "name": "Crab Roll Meat Portions (Cold)",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
-    "yield": "8 - 4.25oz portions",
+    "yield": "2oz portions",
     "shelfLife": "3 days",
-    "smallware": "mixing bowl, rubber spatula, lemon bags, 8oz deli containers, and lids",
+    "smallware": "colander, mixing bowl day portion bags  ",
     "ingredients": [
       {
         "name": "Crab Meat Alaskan",
         "qty": "1",
         "unit": "2.5 Lb. Bag"
-      },
-      {
-        "name": "Hellman's Mayo",
-        "qty": "12",
-        "unit": "Vol Oz"
       }
     ],
     "steps": [
       "New 2.5# packaging of Crabmeat",
       "Take a 2.5# bag of Alaskan crab meat and remove it from its packaging.",
-      "Drain the meat and empty it into a large mixing bowl. LIGHTLY press the water out of the whole leg pieces and set aside. Now do the same with the small meat pieces",
-      "Add 12 volume oz. of Hellman's mayo",
-      "Fold crab meat and mayo until combined.",
-      "Make sure not to break up the crab meat when mixing.",
-      "Portion the whole leg pieces evenly into 8oz8-ozli containers,",
-      "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
-      "Now, place a container with the whole leg on the scale, and top off with the small/ broken meat mixture, bringing it up to the 4.25oz weight.",
-      "Label the lids and date them.",
-      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate.",
-      "Take 1# of Alaskan crab meat and remove it from its packaging.",
-      "Drain the meat and empty it into a large mixing bowl",
-      "Add 6 volume oz. of Hellman's mayo",
-      "Fold crab meat and mayo until combined.",
-      "Make sure not to break up the crab meat when mixing.",
-      "Portion the mixture evenly into 4- 8oz deli containers, lid them, and label them.",
-      "Place all portions into a large lemon bag, tie off, label, date, and store.",
-      "You should yield 4 portions out of the 1 lb. of crab."
+      "Place the meat in a perforated pan /colander to drain. Then place it into a large mixing bowl. ",
+      "LIGHTLY press the water out of the whole leg pieces and set aside. Now do the same with the small meat pieces",
+      "Place the Whole Leg pieces aside. To be used in the Crab Roll Recipe",
+      "If not made the same day. Place whole leg pieces in a Lexan container, labeled with a USE FIRST day sticker."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6wvhdcir3xa8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4mziqfxlxi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4hbplhdrgn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4cfym1ap4u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x46r6dy8xmj.png"
+    ]
   },
   {
     "id": "dp-nb-13",
@@ -11868,9 +11856,7 @@
       "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
       "Now, place a container with the whole leg on the scale, and top it off with the small/ broken meat mixture, bringing it up to the 4.0oz weight.",
       "Label the lids and date them.",
-      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate.",
-      "Sorting of legs and meat",
-      "Gently pressing the water out of meat"
+      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate."
     ],
     "notes": "",
     "images": [
@@ -11921,9 +11907,7 @@
       "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
       "Now, place a container with the whole leg on the scale, and top it off with the small/ broken meat mixture, bringing it up to the 4.0oz weight.",
       "Label the lids and date them.",
-      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate.",
-      "Sorting of legs and meat",
-      "Gently pressing the water out of meat"
+      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate."
     ],
     "notes": "",
     "images": [
@@ -102301,9 +102285,7 @@
       "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
       "Now, place a container with the whole leg on the scale, and top it off with the small/ broken meat mixture, bringing it up to the 4.0oz weight.",
       "Label the lids and date them.",
-      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate.",
-      "Sorting of legs and meat",
-      "Gently pressing the water out of meat"
+      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate."
     ],
     "notes": "",
     "images": [
@@ -102354,9 +102336,7 @@
       "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
       "Now, place a container with the whole leg on the scale, and top it off with the small/ broken meat mixture, bringing it up to the 4.0oz weight.",
       "Label the lids and date them.",
-      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate.",
-      "Sorting of legs and meat",
-      "Gently pressing the water out of meat"
+      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate."
     ],
     "notes": "",
     "images": [
@@ -102529,6 +102509,123 @@
     ],
     "id": "m-mv6v8h8yokycfd",
     "masterId": "dp-pl-39-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Crab Roll Meat Portions (Cold)",
+    "category": "Dinner Prep",
+    "yield": "2oz portions",
+    "shelfLife": "3 days",
+    "smallware": "colander, mixing bowl day portion bags  ",
+    "ingredients": [
+      {
+        "name": "Crab Meat Alaskan",
+        "qty": "1",
+        "unit": "2.5 Lb. Bag"
+      }
+    ],
+    "steps": [
+      "New 2.5# packaging of Crabmeat",
+      "Take a 2.5# bag of Alaskan crab meat and remove it from its packaging.",
+      "Place the meat in a perforated pan /colander to drain. Then place it into a large mixing bowl. ",
+      "LIGHTLY press the water out of the whole leg pieces and set aside. Now do the same with the small meat pieces",
+      "Place the Whole Leg pieces aside. To be used in the Crab Roll Recipe",
+      "If not made the same day. Place whole leg pieces in a Lexan container, labeled with a USE FIRST day sticker."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6wvhdcir3xa8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4mziqfxlxi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4hbplhdrgn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4cfym1ap4u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x46r6dy8xmj.png"
+    ],
+    "id": "m-mv6xyc9qni61y4",
+    "masterId": "dp-nb-12-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Crab Roll Meat Portions (Cold)",
+    "category": "Dinner Prep",
+    "yield": "2oz portions",
+    "shelfLife": "3 days",
+    "smallware": "colander, mixing bowl day portion bags  ",
+    "ingredients": [
+      {
+        "name": "Crab Meat Alaskan",
+        "qty": "1",
+        "unit": "2.5 Lb. Bag"
+      }
+    ],
+    "steps": [
+      "New 2.5# packaging of Crabmeat",
+      "Take a 2.5# bag of Alaskan crab meat and remove it from its packaging.",
+      "Place the meat in a perforated pan /colander to drain. Then place it into a large mixing bowl. ",
+      "LIGHTLY press the water out of the whole leg pieces and set aside. Now do the same with the small meat pieces",
+      "Place the Whole Leg pieces aside. To be used in the Crab Roll Recipe",
+      "If not made the same day. Place whole leg pieces in a Lexan container, labeled with a USE FIRST day sticker."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6wvhdcir3xa8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4mziqfxlxi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4hbplhdrgn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x4cfym1ap4u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6x46r6dy8xmj.png"
+    ],
+    "id": "m-mv6w3621a64jaf",
+    "masterId": "dp-nb-12-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Crab Roll Meat (Cold)",
+    "category": "Dinner Prep",
+    "yield": "23 - 25 - 4.0oz portions",
+    "shelfLife": "3 days",
+    "smallware": "mixing bowl, rubber spatula, lemon bags, 8oz deli containers, and lids",
+    "ingredients": [
+      {
+        "name": "Alaskan Crab Meat",
+        "qty": "1",
+        "unit": "5 Lbs. Bag"
+      },
+      {
+        "name": "Whole Leg Pieces (leftover)",
+        "qty": "1-1.2",
+        "unit": "Lb. Crabmeat"
+      },
+      {
+        "name": "Helliman's Mayonnaises",
+        "qty": "24",
+        "unit": "Wt. oz."
+      }
+    ],
+    "steps": [
+      "Take a 5# bag of Alaskan crab meat and remove it from its packaging. Drain the meat (+ any whole legs leftover from crabmeat portions).",
+      "Sort the whole legs from the shredded / pieces of meat, keeping them in separate containers",
+      "Press the water out of the whole leg pieces and set aside. Now do the same with the small meat pieces",
+      "In a mixing bowl. Add the piece of meat, then add 24 volume oz. of Hellman's mayo",
+      "Fold crab meat and mayo until combined.",
+      "Make sure not to break up the whole crab meat legs when mixing.",
+      "Portion the whole leg pieces evenly into 8oz deli containers, (No less than 2 or 3 whole legs)",
+      "NOW -Place an EMPTY 8-oz deli container on the scale and Zero it out.",
+      "Now, place a container with the whole leg on the scale, and top it off with the small/ broken meat mixture, bringing it up to the 4.0oz weight.",
+      "Label the lids and date them.",
+      "Place all 8 portions into a large lemon bag, tie off, label, date, and rotate."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vpsgfh5nmqg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vpw517p7acr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vq320sl4d6d.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vq8a2w9ut6p.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vqc8tdu6v78.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vqj6rw76gwv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vqpgek94qr5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6vquhe0advfb.png"
+    ],
+    "id": "m-mv6w1xoupjowy5",
+    "masterId": "dp-crab-roll-meat-cold-m",
     "location": "CDS"
   }
 ]
