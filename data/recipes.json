@@ -105625,5 +105625,314 @@
     "id": "dm-sb-77",
     "masterId": "dm-sb-77-m",
     "location": "Sandbar"
+  },
+  {
+    "name": "Ultimate Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Combo",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "EZ Peel Shrimp (steamed in old bay / lemon water)",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp (fried)",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp tail on (grilled, brushed with lemon butter)",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Butter (for brushing the grilled shrimp)",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Regular / Premium Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season and grill 4 shrimp and brush with lemon butter",
+      "Fry coconut shrimp and set aside",
+      "Steam 4 ez peel shrimp in oldbay lemon water. Dust with old bay on expo",
+      "Plate each shrimp, served with 1 regular and 1 premium side",
+      "Expo:",
+      "Sweet Chili Sauce — ramekin on the side.",
+      "Cocktail Sauce — ramekin on the side.",
+      "Lemon Wedge — garnish.",
+      "Old Bay — on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-78",
+    "masterId": "dm-sb-78-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bairdi Crab Combo",
+    "category": "Dinner Menu",
+    "submenu": "Combo",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "EZ Peel Shrimp (steamed with the crab)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clams, middleneck (steamed with the crab)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular / Premium Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Place crab, ezpeel and clams in \"seasoned crab Pot\" to steam for about 3 minutes or until cooked.",
+      "Remove and place on metal tray.",
+      "Dust with old bay seasoning and sell to expo.",
+      "Garnished with Lemon wedge, clarified butter and mustard sauce",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-79",
+    "masterId": "dm-sb-79-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Rum Runner Rib Combo",
+    "category": "Dinner Menu",
+    "submenu": "Combo",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Ribs (portion)",
+        "qty": "0.5",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Rum Runner Glaze",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Pineapple Slaw",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular / Premium Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp, Tail on — blackened, grilled or fried (One Choice of the following)",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp — fried (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Hot Honey Chicken Tenders — fried (One Choice of the following)",
+        "qty": "5",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Peel n Eat Shrimp — old bay steamed (One Choice of the following)",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Pickled Pineapple Slaw — garnish on top.",
+      "Cilantro, Chopped — garnish on top.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-80",
+    "masterId": "dm-sb-80-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Surf n Turf Combos",
+    "category": "Dinner Menu",
+    "submenu": "Combo",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16oz Bone In Ribeye",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Butter",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and Pepper",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "name": "Regular / Premium Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "16/20 Shrimp, Tail on — blackened, grilled or fried (One Choice of the following)",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Coconut Shrimp — fried (One Choice of the following)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Peel n Eat Shrimp — old bay steamed (One Choice of the following)",
+        "qty": "8",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
+      "Pull Steak and let rest",
+      "Cut a ring of butter and place on top of the steak before going out.",
+      "Plate steak with both sides with selected shrimp added on."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-81",
+    "masterId": "dm-sb-81-m",
+    "location": "Sandbar"
   }
 ]
