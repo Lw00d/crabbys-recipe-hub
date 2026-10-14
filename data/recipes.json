@@ -105306,5 +105306,324 @@
     "id": "dm-sb-72",
     "masterId": "dm-sb-72-m",
     "location": "Sandbar"
+  },
+  {
+    "name": "Bone in Ribeye Frites",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16oz Bone In Ribeye",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Butter",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic-Parm Fries",
+        "qty": "1",
+        "unit": "order",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and Pepper",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
+      "Pull Steak and let rest",
+      "Plate a side of Garlic-Parm fries down and the steak/bone leaning on the fries.",
+      "Cut a ring of butter and place on top of the steak before going out."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-73",
+    "masterId": "dm-sb-73-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Hot Honey Tenders Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brined Chicken Tenders (8 oz portion)",
+        "qty": "7",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Buttermilk",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Calamari Breader",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Buffalo Hot Honey",
+        "qty": "1.5",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Side Fries",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Side Coleslaw",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Follow frying procedure for Fried Chicken",
+      "Fried Chicken Procedure",
+      "Pull out onto save-a-day",
+      "Toss chicken in hot honey sauce and plate"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-74",
+    "masterId": "dm-sb-74-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Rum Runner Ribs Half Rack",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Ribs (portion)",
+        "qty": "0.5",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Rum Runner Glaze",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Pineapple Slaw",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Side Fries",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Side Coleslaw",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Pickled Pineapple Slaw — garnish on top.",
+      "Cilantro, Chopped — garnish on top.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-75",
+    "masterId": "dm-sb-75-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Rum Runner Ribs Full Rack",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Ribs (full order)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Rum Runner Glaze",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Pineapple Slaw",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Side Fries",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Side Coleslaw",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Pickled Pineapple Slaw — garnish on top.",
+      "Cilantro, Chopped — garnish on top.",
+      "Lime Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-76",
+    "masterId": "dm-sb-76-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Titos Battered Hogfish",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Portioned Hogfish(8oz)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Titos Flour",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Titos Batter",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      },
+      {
+        "name": "Side of Fries",
+        "qty": "1",
+        "unit": "order",
+        "qty2": ""
+      },
+      {
+        "name": "Side Cole Slaw",
+        "qty": "1",
+        "unit": "order",
+        "qty2": ""
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Malt Vinegar",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pull out hogfish and run through tempura procedure.  Into titos flour, then the batter, then fry",
+      "Tempura Procedure",
+      "Once fish is cooked, drain in save-a-day tray.",
+      "Plate side of fries on plate and place fish on top.",
+      "Garnish with lemon wedge and chopped parsley"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-77",
+    "masterId": "dm-sb-77-m",
+    "location": "Sandbar"
   }
 ]
