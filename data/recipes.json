@@ -105111,5 +105111,200 @@
     "id": "dm-sb-69",
     "masterId": "dm-sb-69-m",
     "location": "Sandbar"
+  },
+  {
+    "name": "Brussels App",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Brussels, halved",
+        "qty": "10",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Hot Honey Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Sesame Seed",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Measure out halved brussels with a pint container.",
+      "Fry for about 2 minutes, don't let them get too dark.",
+      "Add hot honey sauce to mixing bowl",
+      "Drain brussels and toss in sauce.",
+      "Plate and garnish with sesame seeds"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-70",
+    "masterId": "dm-sb-70-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Crab Fries",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "French Fries",
+        "qty": "9",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Crab combo meat portion",
+        "qty": "2",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Aioli",
+        "qty": "1.5",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Green Onions, Cut",
+        "qty": "1",
+        "unit": "tablespoon",
+        "qty2": ""
+      },
+      {
+        "name": "Gulf Bay / Old Bay",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook a side a fries and arrange on plate.",
+      "Warm portioned crab meat in garlic butter.",
+      "Spread crab over fries.",
+      "Garnish with a drizzle of lemon aioli, green onions with old bay dusted on top.",
+      "Expo:",
+      "Lemon Aioli — drizzled over the fries, squeeze bottle.",
+      "Green Onions, Cut — garnish on top.",
+      "Gulf Bay / Old Bay — garnish on top."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-71",
+    "masterId": "dm-sb-71-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Sandbar Clams",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Clams, Middleneck",
+        "qty": "10",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Shallots, sliced",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Garlic Butter",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Bacon bits, chopped",
+        "qty": "0.5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Heirloom Tomato Cherry, halved",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "White Wine",
+        "qty": "1",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Focaccia Bread",
+        "qty": "2",
+        "unit": "slices",
+        "qty2": ""
+      },
+      {
+        "name": "Parsley, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Heat oil in saute pan, add shallots, garlic and clams. Cover and begin to cook.",
+      "When pan gets to hot add white wine to deglaze and reduce. Cover and continue cooking.",
+      "Once wine is reduced all the way, add cream, tomato and bacon. Reduce by half.",
+      "Make sure clams are opened up before plating",
+      "Plate Clams, served with focaccia bread and lemon wedge",
+      "Expo:",
+      "Parsley, Chopped — garnish on top.",
+      "Lemon Wedge — garnish."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-72",
+    "masterId": "dm-sb-72-m",
+    "location": "Sandbar"
   }
 ]
