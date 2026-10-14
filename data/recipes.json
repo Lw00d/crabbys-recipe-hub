@@ -104956,5 +104956,160 @@
     "id": "m-mv8bssuuhi4lvk",
     "masterId": "dp-beer-batter-bar-n-grill-m",
     "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Floribbean Beach Bowl",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Coconut Rice",
+        "qty": "8",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Mango, Diced",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Fried Sweet Plantain",
+        "qty": "3",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Jerk Seasoning",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Green Jerk Sauce",
+        "qty": "1.5",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Pineapple Slaw",
+        "qty": "3.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Sweet Coconut",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-68",
+    "masterId": "dm-sb-68-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Tropical Salad",
+    "category": "Dinner Menu",
+    "submenu": "Tacos / Bowls",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Baby Kale",
+        "qty": "1.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Romaine, cut",
+        "qty": "4",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Red Cabbage, shaved",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Carrot, shredded",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Red Bell Pepper, diced",
+        "qty": "0.75",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple, diced",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, chopped",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Green Onion, Chopped",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "name": "Macadamia Nuts (toasted and chopped)",
+        "qty": "0.5",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Thai Peanut Dressing",
+        "qty": "2",
+        "unit": "fl-oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Toasted Sweet Coconut",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add Greens, carrot, pineapple, peppers and herbs in a bowl and toss with Thai Peanut dressing",
+      "Plate Salad and garnish with toasted coconut flakes, sesame seeds, and macadamia nuts"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dm-sb-69",
+    "masterId": "dm-sb-69-m",
+    "location": "Sandbar"
   }
 ]
