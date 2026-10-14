@@ -1489,7 +1489,15 @@
       "Cover with Starry soda, label, date, and refrigerate."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eawg58tgvl5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb0gr5ybe7b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb3lc90sc6k.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebhdmxlo9uv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebm4velimif.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebqvd74u8vr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebx4qinu3ax.png"
+    ],
     "id": "m-msyyi9q8wdg566",
     "masterId": "dp-cds-85-m",
     "location": "CBG"
@@ -2210,7 +2218,14 @@
       "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8daupyn7s0i2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db0lfktor79.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db3ndy9g51s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db72momw6bf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbb646rrbx7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbk8v0uc3w9.png"
+    ],
     "id": "m-msqbyu8hfhn6wu",
     "masterId": "dp-tomato-slices-lto-m",
     "location": "Salty's Island"
@@ -2238,7 +2253,14 @@
       "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8daupyn7s0i2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db0lfktor79.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db3ndy9g51s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db72momw6bf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbb646rrbx7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbk8v0uc3w9.png"
+    ],
     "id": "m-msqbyu2vzxnp6t",
     "masterId": "dp-tomato-slices-lto-m",
     "location": "CBG"
@@ -2266,7 +2288,14 @@
       "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8daupyn7s0i2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db0lfktor79.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db3ndy9g51s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db72momw6bf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbb646rrbx7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbk8v0uc3w9.png"
+    ],
     "id": "m-msqbytkqdpgae8",
     "masterId": "dp-tomato-slices-lto-m",
     "location": "Palm"
@@ -2294,7 +2323,14 @@
       "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8daupyn7s0i2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db0lfktor79.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db3ndy9g51s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db72momw6bf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbb646rrbx7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbk8v0uc3w9.png"
+    ],
     "id": "m-msqbysrskfqdub",
     "masterId": "dp-tomato-slices-lto-m",
     "location": "CDS"
@@ -2328,7 +2364,9 @@
       "Place 4 prepped shrimp tails up"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d8lgsb49wbv.png"
+    ],
     "id": "m-msqbni5tg60lqz",
     "masterId": "dp-nb-56-m",
     "location": "Salty's Island"
@@ -2392,7 +2430,15 @@
       "Place back in the freezer until ready to use."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ck8wuy30hee.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckbpnqbkn1l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckerizrdbyb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckhb3hxmjvj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckmd9o3dmss.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckqeugxnfwl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckw19eqwjrs.png"
+    ],
     "id": "m-msqaos0fnvme2g",
     "masterId": "dp-si-39-m",
     "location": "CBG"
@@ -2422,7 +2468,15 @@
       "Place back in the freezer until ready to use."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ck8wuy30hee.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckbpnqbkn1l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckerizrdbyb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckhb3hxmjvj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckmd9o3dmss.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckqeugxnfwl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckw19eqwjrs.png"
+    ],
     "id": "m-msqaopbygxtgm4",
     "masterId": "dp-si-39-m",
     "location": "Salty Crab North Beach"
@@ -2577,14 +2631,20 @@
     "steps": [
       "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
+      "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
       "Acceptable weights 7.9 - 8.1oz"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
+    ],
     "id": "m-msqa3kudt4e8h4",
     "masterId": "dp-scallop-prep-m",
     "location": "Palm"
@@ -2605,14 +2665,20 @@
     "steps": [
       "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
+      "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
       "Acceptable weights 7.9 - 8.1oz"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
+    ],
     "id": "m-msq9o8oz9gg0wz",
     "masterId": "dp-scallop-prep-m",
     "location": "CBG"
@@ -2633,14 +2699,20 @@
     "steps": [
       "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
+      "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
       "Acceptable weights 7.9 - 8.1oz"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
+    ],
     "id": "m-msq9o5eourk1vx",
     "masterId": "dp-scallop-prep-m",
     "location": "Salty Crab North Beach"
@@ -2660,12 +2732,16 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
-      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
+      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
       "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dneabtk9n7x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dnkhlccecpf.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dp0kxpnicve.jpg"
+    ],
     "id": "m-msq9mnxs3gd3d2",
     "masterId": "dp-sausage-pieces-m",
     "location": "Salty's Island"
@@ -2685,12 +2761,16 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
-      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
+      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
       "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dneabtk9n7x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dnkhlccecpf.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dp0kxpnicve.jpg"
+    ],
     "id": "m-msq9lr54fjbnje",
     "masterId": "dp-sausage-pieces-m",
     "location": "CDS"
@@ -3336,7 +3416,9 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8egz7taddge2.png"
+    ],
     "id": "m-msowmv5o8v9brr",
     "masterId": "m-msowkxs4jddgfw",
     "location": "Salty Crab North Beach"
@@ -3363,7 +3445,9 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8egz7taddge2.png"
+    ],
     "id": "m-msowkxs47m8dsv",
     "masterId": "m-msowkxs4jddgfw",
     "location": "CDS"
@@ -3390,7 +3474,12 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehkiwte3321.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eho8af4c37b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehrrzqqup6d.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehv9h44wg5j.png"
+    ],
     "id": "m-msov9yk4rn8h6g",
     "masterId": "m-msov92xchd77oe",
     "location": "Palm"
@@ -3417,7 +3506,12 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehkiwte3321.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eho8af4c37b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehrrzqqup6d.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehv9h44wg5j.png"
+    ],
     "id": "m-msov9xyg04gk95",
     "masterId": "m-msov92xchd77oe",
     "location": "CDS"
@@ -3444,7 +3538,12 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehkiwte3321.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eho8af4c37b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehrrzqqup6d.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehv9h44wg5j.png"
+    ],
     "id": "m-msov9x0pucgykl",
     "masterId": "m-msov92xchd77oe",
     "location": "Salty Crab North Beach"
@@ -3471,7 +3570,12 @@
       "Label, date, and write number of pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehkiwte3321.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eho8af4c37b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehrrzqqup6d.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ehv9h44wg5j.png"
+    ],
     "id": "m-msov92xcsx3b24",
     "masterId": "m-msov92xchd77oe",
     "location": "CBG"
@@ -3917,7 +4021,13 @@
       "Cutting in half (if to big)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0qy6iyjrbi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0uj67h0nqj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0xwlpaeyat.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c12doyunelq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c16z0nsv1dv.png"
+    ],
     "id": "m-msotny9uaw2a7x",
     "masterId": "dp-leaf-lettuce-for-lto-m",
     "location": "CBG"
@@ -3943,7 +4053,13 @@
       "Cutting in half (if to big)"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0qy6iyjrbi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0uj67h0nqj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0xwlpaeyat.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c12doyunelq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c16z0nsv1dv.png"
+    ],
     "id": "m-msotny4yfvghic",
     "masterId": "dp-leaf-lettuce-for-lto-m",
     "location": "Salty Crab North Beach"
@@ -3967,7 +4083,10 @@
       "Label, Date, and rotate old to the front."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqk1wibzig5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqp66fh0epo.png"
+    ],
     "id": "m-msosvd2betmaqx",
     "masterId": "dp-hamburger-7oz-m",
     "location": "Salty's Island"
@@ -3991,7 +4110,9 @@
       "Label and Date."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ers08fl0ugp.png"
+    ],
     "id": "m-msostu8fq01n5v",
     "masterId": "dp-hamburger-4oz-m",
     "location": "Salty's Island"
@@ -4015,7 +4136,9 @@
       "Label and Date."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ers08fl0ugp.png"
+    ],
     "id": "m-msostttve5t7xl",
     "masterId": "dp-hamburger-4oz-m",
     "location": "Salty Crab North Beach"
@@ -4413,7 +4536,17 @@
       "Weight for a portion 7.4 - 7.6oz"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ezzu4tki9cn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f03ffqoncyq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f07ai9hvv87.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0bc56j8fhm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0f6xmc8xgq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0jnvzmn1uk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0pwh1bmd83.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0u4kwk9i43.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0y1fnxbbbi.png"
+    ],
     "id": "m-msngux27raa72v",
     "masterId": "dp-flounder-stuffed-portioning-m",
     "location": "CBG"
@@ -4783,7 +4916,11 @@
       "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1s0kr88v42.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1w2ckjciu8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d20yihiwo7h.png"
+    ],
     "dualBatch": {
       "label1": "1 bag",
       "label2": "4 bags",
@@ -4827,7 +4964,11 @@
       "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1s0kr88v42.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1w2ckjciu8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d20yihiwo7h.png"
+    ],
     "dualBatch": {
       "label1": "1 bag",
       "label2": "4 bags",
@@ -4871,7 +5012,11 @@
       "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1s0kr88v42.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1w2ckjciu8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d20yihiwo7h.png"
+    ],
     "dualBatch": {
       "label1": "1 bag",
       "label2": "4 bags",
@@ -4915,7 +5060,11 @@
       "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1s0kr88v42.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1w2ckjciu8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d20yihiwo7h.png"
+    ],
     "dualBatch": {
       "label1": "1 bag",
       "label2": "4 bags",
@@ -7270,7 +7419,14 @@
       "*Do not use slices with holes, cores showing, or the bottom of the tomatoes. Only whole slices are to be used for LTO*"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8daupyn7s0i2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db0lfktor79.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db3ndy9g51s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8db72momw6bf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbb646rrbx7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dbk8v0uc3w9.png"
+    ]
   },
   {
     "id": "dp-nb-5",
@@ -7814,7 +7970,13 @@
       "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efjq5gfx259.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efnt757qi0a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efrsqap0t26.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efvuy6bbtfw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eg0zxfvgb14.png"
+    ]
   },
   {
     "id": "dp-cds-2",
@@ -7872,7 +8034,13 @@
       "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efjq5gfx259.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efnt757qi0a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efrsqap0t26.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efvuy6bbtfw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eg0zxfvgb14.png"
+    ]
   },
   {
     "id": "dp-cbg-3",
@@ -7930,7 +8098,13 @@
       "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efjq5gfx259.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efnt757qi0a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efrsqap0t26.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efvuy6bbtfw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eg0zxfvgb14.png"
+    ]
   },
   {
     "id": "dp-nb-12",
@@ -9481,12 +9655,12 @@
       }
     ],
     "steps": [
-      "Pre-Skewered Shrimp:",
+      "**Pre-Skewered Shrimp:**",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
-      "Skewering Instructions:",
+      "** In-House Skewering Instructions:**",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
       "Check with manager about the weight and bag size used for storage",
@@ -9494,7 +9668,14 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cup30kbc3gc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cv6wljljg0q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cvbewo8ypar.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwenmats92e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwqw7lpavzj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwzq2ybw84c.png"
+    ]
   },
   {
     "id": "dp-pl-15",
@@ -9513,12 +9694,12 @@
       }
     ],
     "steps": [
-      "Pre-Skewered Shrimp:",
+      "**Pre-Skewered Shrimp:**",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
-      "Skewering Instructions:",
+      "** In-House Skewering Instructions:**",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
       "Check with manager about the weight and bag size used for storage",
@@ -9526,7 +9707,14 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cup30kbc3gc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cv6wljljg0q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cvbewo8ypar.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwenmats92e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwqw7lpavzj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwzq2ybw84c.png"
+    ]
   },
   {
     "id": "dp-cds-13",
@@ -9545,12 +9733,12 @@
       }
     ],
     "steps": [
-      "Pre-Skewered Shrimp:",
+      "**Pre-Skewered Shrimp:**",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
-      "Skewering Instructions:",
+      "** In-House Skewering Instructions:**",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
       "Check with manager about the weight and bag size used for storage",
@@ -9558,7 +9746,14 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cup30kbc3gc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cv6wljljg0q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cvbewo8ypar.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwenmats92e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwqw7lpavzj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwzq2ybw84c.png"
+    ]
   },
   {
     "id": "dp-cbg-11",
@@ -9577,12 +9772,12 @@
       }
     ],
     "steps": [
-      "Pre-Skewered Shrimp:",
+      "**Pre-Skewered Shrimp:**",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
-      "Skewering Instructions:",
+      "** In-House Skewering Instructions:**",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
       "Check with manager about the weight and bag size used for storage",
@@ -9590,7 +9785,14 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cup30kbc3gc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cv6wljljg0q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cvbewo8ypar.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwenmats92e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwqw7lpavzj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwzq2ybw84c.png"
+    ]
   },
   {
     "id": "dp-si-9",
@@ -9609,12 +9811,12 @@
       }
     ],
     "steps": [
-      "Pre-Skewered Shrimp:",
+      "**Pre-Skewered Shrimp:**",
       "Take out the amount needed for the day from the case.",
       "Check with the Manager to see if they want you to place on a thaw pull daily",
       "Once thawed, place in the correct pan",
       "Label, date, rotate, and refrigerate.",
-      "Skewering Instructions:",
+      "** In-House Skewering Instructions:**",
       "Place 4 P&D Shrimp on one 9-inch skewer.",
       "Skewer shrimp head to head and tail to tail, creating two circles per skewer",
       "Check with manager about the weight and bag size used for storage",
@@ -9622,7 +9824,14 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cup30kbc3gc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cv6wljljg0q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cvbewo8ypar.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwenmats92e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwqw7lpavzj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cwzq2ybw84c.png"
+    ]
   },
   {
     "id": "dp-nb-32",
@@ -9642,13 +9851,18 @@
     ],
     "steps": [
       "Pull the specified number of bags of red shrimp and pierce the bags.",
-      "If thawing under cold running water in the original bag, Do NOT pierce the bags",
+      "**If thawing under cold running water in the original bag, Do NOT pierce the bags**",
       "As soon as the shrimp thaw, pierce the bag to drain",
       "Check with manager about the weight and bag size used for storage",
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csd7w28edxk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cshqzng7ych.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csmdvrl6ir3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cspxwhlhelz.png"
+    ]
   },
   {
     "id": "dp-pl-16",
@@ -9668,13 +9882,18 @@
     ],
     "steps": [
       "Pull the specified number of bags of red shrimp and pierce the bags.",
-      "If thawing under cold running water in the original bag, Do NOT pierce the bags",
+      "**If thawing under cold running water in the original bag, Do NOT pierce the bags**",
       "As soon as the shrimp thaw, pierce the bag to drain",
       "Check with manager about the weight and bag size used for storage",
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csd7w28edxk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cshqzng7ych.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csmdvrl6ir3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cspxwhlhelz.png"
+    ]
   },
   {
     "id": "dp-cds-14",
@@ -9694,13 +9913,18 @@
     ],
     "steps": [
       "Pull the specified number of bags of red shrimp and pierce the bags.",
-      "If thawing under cold running water in the original bag, Do NOT pierce the bags",
+      "**If thawing under cold running water in the original bag, Do NOT pierce the bags**",
       "As soon as the shrimp thaw, pierce the bag to drain",
       "Check with manager about the weight and bag size used for storage",
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csd7w28edxk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cshqzng7ych.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csmdvrl6ir3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cspxwhlhelz.png"
+    ]
   },
   {
     "id": "dp-cbg-12",
@@ -9720,13 +9944,18 @@
     ],
     "steps": [
       "Pull the specified number of bags of red shrimp and pierce the bags.",
-      "If thawing under cold running water in the original bag, Do NOT pierce the bags",
+      "**If thawing under cold running water in the original bag, Do NOT pierce the bags**",
       "As soon as the shrimp thaw, pierce the bag to drain",
       "Check with manager about the weight and bag size used for storage",
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csd7w28edxk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cshqzng7ych.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csmdvrl6ir3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cspxwhlhelz.png"
+    ]
   },
   {
     "id": "dp-si-10",
@@ -9746,13 +9975,18 @@
     ],
     "steps": [
       "Pull the specified number of bags of red shrimp and pierce the bags.",
-      "If thawing under cold running water in the original bag, Do NOT pierce the bags",
+      "**If thawing under cold running water in the original bag, Do NOT pierce the bags**",
       "As soon as the shrimp thaw, pierce the bag to drain",
       "Check with manager about the weight and bag size used for storage",
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csd7w28edxk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cshqzng7ych.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8csmdvrl6ir3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cspxwhlhelz.png"
+    ]
   },
   {
     "id": "dp-nb-33",
@@ -9948,7 +10182,11 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cr7mffqtyn2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crco6x9we0o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crgjrx0lbqv.png"
+    ]
   },
   {
     "id": "dp-pl-17",
@@ -9974,7 +10212,11 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cr7mffqtyn2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crco6x9we0o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crgjrx0lbqv.png"
+    ]
   },
   {
     "id": "dp-cds-15",
@@ -10000,7 +10242,11 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cr7mffqtyn2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crco6x9we0o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crgjrx0lbqv.png"
+    ]
   },
   {
     "id": "dp-cbg-13",
@@ -10026,7 +10272,11 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cr7mffqtyn2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crco6x9we0o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crgjrx0lbqv.png"
+    ]
   },
   {
     "id": "dp-si-11",
@@ -10052,7 +10302,11 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cr7mffqtyn2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crco6x9we0o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8crgjrx0lbqv.png"
+    ]
   },
   {
     "id": "dp-nb-38",
@@ -10087,7 +10341,13 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cg6wmyxxu02.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgn840r4a2g.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgrfw892zrh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgx5bz1pk3s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ch15c715r6v.png"
+    ]
   },
   {
     "id": "dp-nb-39",
@@ -10284,14 +10544,20 @@
     "steps": [
       "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "For optimal results, count all the scallops in the bag.",
+      "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
       "Acceptable weights 7.9 - 8.1oz"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
+    ]
   },
   {
     "id": "dp-nb-43",
@@ -10555,7 +10821,7 @@
       }
     ],
     "steps": [
-      "Food Safety:",
+      "**Food Safety:**",
       "Must use fresh oysters within 2 weeks of harvest date.",
       "Keep the tag with the oysters at all times — very important. Mark the last date sold on the tag.",
       "Once all oysters from that tag are sold, bring the tag to the office and place it in the oyster tag box.",
@@ -10573,7 +10839,13 @@
       "Mark on the sheet the quantity of usable (clean, shucked) oysters yielded."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1am1o9t0h1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1gxxksiwyz.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1l6oznvvfu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1ony99uvh2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1uqu0cxvuw.jpg"
+    ]
   },
   {
     "id": "dp-pl-21",
@@ -10592,7 +10864,7 @@
       }
     ],
     "steps": [
-      "Food Safety:",
+      "**Food Safety:**",
       "Must use fresh oysters within 2 weeks of harvest date.",
       "Keep the tag with the oysters at all times — very important. Mark the last date sold on the tag.",
       "Once all oysters from that tag are sold, bring the tag to the office and place it in the oyster tag box.",
@@ -10610,7 +10882,13 @@
       "Mark on the sheet the quantity of usable (clean, shucked) oysters yielded."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1am1o9t0h1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1gxxksiwyz.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1l6oznvvfu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1ony99uvh2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1uqu0cxvuw.jpg"
+    ]
   },
   {
     "id": "dp-cds-18",
@@ -10629,7 +10907,7 @@
       }
     ],
     "steps": [
-      "Food Safety:",
+      "**Food Safety:**",
       "Must use fresh oysters within 2 weeks of harvest date.",
       "Keep the tag with the oysters at all times — very important. Mark the last date sold on the tag.",
       "Once all oysters from that tag are sold, bring the tag to the office and place it in the oyster tag box.",
@@ -10647,7 +10925,13 @@
       "Mark on the sheet the quantity of usable (clean, shucked) oysters yielded."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1am1o9t0h1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1gxxksiwyz.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1l6oznvvfu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1ony99uvh2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1uqu0cxvuw.jpg"
+    ]
   },
   {
     "id": "dp-cbg-16",
@@ -10666,7 +10950,7 @@
       }
     ],
     "steps": [
-      "Food Safety:",
+      "**Food Safety:**",
       "Must use fresh oysters within 2 weeks of harvest date.",
       "Keep the tag with the oysters at all times — very important. Mark the last date sold on the tag.",
       "Once all oysters from that tag are sold, bring the tag to the office and place it in the oyster tag box.",
@@ -10684,7 +10968,13 @@
       "Mark on the sheet the quantity of usable (clean, shucked) oysters yielded."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1am1o9t0h1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1gxxksiwyz.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1l6oznvvfu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1ony99uvh2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1uqu0cxvuw.jpg"
+    ]
   },
   {
     "id": "dp-si-13",
@@ -10703,7 +10993,7 @@
       }
     ],
     "steps": [
-      "Food Safety:",
+      "**Food Safety:**",
       "Must use fresh oysters within 2 weeks of harvest date.",
       "Keep the tag with the oysters at all times — very important. Mark the last date sold on the tag.",
       "Once all oysters from that tag are sold, bring the tag to the office and place it in the oyster tag box.",
@@ -10721,7 +11011,13 @@
       "Mark on the sheet the quantity of usable (clean, shucked) oysters yielded."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1am1o9t0h1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1gxxksiwyz.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1l6oznvvfu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1ony99uvh2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e1uqu0cxvuw.jpg"
+    ]
   },
   {
     "id": "dp-nb-51",
@@ -11024,7 +11320,9 @@
       "Place 4 prepped shrimp tails up"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d8lgsb49wbv.png"
+    ]
   },
   {
     "id": "dp-nb-58",
@@ -11048,7 +11346,10 @@
       "Label, Date, and rotate old to the front."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqk1wibzig5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqp66fh0epo.png"
+    ]
   },
   {
     "id": "dp-pl-24",
@@ -11072,7 +11373,10 @@
       "Label, Date, and rotate old to the front."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqk1wibzig5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqp66fh0epo.png"
+    ]
   },
   {
     "id": "dp-cds-21",
@@ -11096,7 +11400,10 @@
       "Label, Date, and rotate old to the front."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqk1wibzig5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqp66fh0epo.png"
+    ]
   },
   {
     "id": "dp-cbg-20",
@@ -11120,7 +11427,10 @@
       "Label, Date, and rotate old to the front."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqk1wibzig5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eqp66fh0epo.png"
+    ]
   },
   {
     "id": "dp-nb-59",
@@ -11139,25 +11449,28 @@
       }
     ],
     "steps": [
-      "Preparation:",
       "Take the dough ball out of the freezer",
       "Take a dough ball out of the bag",
-      "Pull out the wrap long enough to cover both sides of the dough ball",
-      "Now with the pan spray, spray, on both under and on top of the dough ball",
+      "Pull out the plastic wrap long enough to cover both sides of the dough ball",
+      "Now, with the pan spray, spray on both the bottom and on top of the dough ball",
       "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
       "Place 12 dough balls per sheet pan",
       "Label the pan with the date and time, and each dough ball with a day dot",
       "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
       "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
-      "*Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday*",
-      "*Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)*",
+      "**Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday**",
+      "**Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)**",
       "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
       "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
       "Time and Temperature will dictate how long it should be left out",
       "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c32p9ae6ttu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c39wga2jrvt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c3eh969y7jn.png"
+    ]
   },
   {
     "id": "dp-cbg-21",
@@ -11176,25 +11489,28 @@
       }
     ],
     "steps": [
-      "Preparation:",
       "Take the dough ball out of the freezer",
       "Take a dough ball out of the bag",
-      "Pull out the wrap long enough to cover both sides of the dough ball",
-      "Now with the pan spray, spray, on both under and on top of the dough ball",
+      "Pull out the plastic wrap long enough to cover both sides of the dough ball",
+      "Now, with the pan spray, spray on both the bottom and on top of the dough ball",
       "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
       "Place 12 dough balls per sheet pan",
       "Label the pan with the date and time, and each dough ball with a day dot",
       "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
       "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
-      "*Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday*",
-      "*Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)*",
+      "**Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday**",
+      "**Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)**",
       "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
       "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
       "Time and Temperature will dictate how long it should be left out",
       "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c32p9ae6ttu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c39wga2jrvt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c3eh969y7jn.png"
+    ]
   },
   {
     "id": "dp-nb-60",
@@ -11432,10 +11748,9 @@
       }
     ],
     "steps": [
-      "Oyster Prep:",
       "These oysters are already shucked; they need to be lightly washed in salt water to have the grit removed and have the muscle detached",
       "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter (33 oz) of cold water for a salt water wash**",
-      "Make sure there is no shell in the oyster.",
+      "Check and remove any pieces of the shell in the oyster.",
       "Cut the muscle off the bottom of the shell.",
       "Oyster Safety:",
       "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
@@ -11446,7 +11761,11 @@
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7ej8s2f51b.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7iz1laou58.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7nac6j2s5y.jpg"
+    ]
   },
   {
     "id": "dp-pl-27",
@@ -11465,10 +11784,9 @@
       }
     ],
     "steps": [
-      "Oyster Prep:",
       "These oysters are already shucked; they need to be lightly washed in salt water to have the grit removed and have the muscle detached",
       "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter (33 oz) of cold water for a salt water wash**",
-      "Make sure there is no shell in the oyster.",
+      "Check and remove any pieces of the shell in the oyster.",
       "Cut the muscle off the bottom of the shell.",
       "Oyster Safety:",
       "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
@@ -11479,7 +11797,11 @@
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7ej8s2f51b.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7iz1laou58.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7nac6j2s5y.jpg"
+    ]
   },
   {
     "id": "dp-cds-25",
@@ -11498,10 +11820,9 @@
       }
     ],
     "steps": [
-      "Oyster Prep:",
       "These oysters are already shucked; they need to be lightly washed in salt water to have the grit removed and have the muscle detached",
       "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter (33 oz) of cold water for a salt water wash**",
-      "Make sure there is no shell in the oyster.",
+      "Check and remove any pieces of the shell in the oyster.",
       "Cut the muscle off the bottom of the shell.",
       "Oyster Safety:",
       "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
@@ -11512,7 +11833,11 @@
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7ej8s2f51b.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7iz1laou58.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7nac6j2s5y.jpg"
+    ]
   },
   {
     "id": "dp-cbg-24",
@@ -11531,10 +11856,9 @@
       }
     ],
     "steps": [
-      "Oyster Prep:",
       "These oysters are already shucked; they need to be lightly washed in salt water to have the grit removed and have the muscle detached",
       "**Use 10 grams (10 grams = 1.5 teaspoons) of Morton salt per liter (33 oz) of cold water for a salt water wash**",
-      "Make sure there is no shell in the oyster.",
+      "Check and remove any pieces of the shell in the oyster.",
       "Cut the muscle off the bottom of the shell.",
       "Oyster Safety:",
       "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
@@ -11545,7 +11869,11 @@
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7ej8s2f51b.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7iz1laou58.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e7nac6j2s5y.jpg"
+    ]
   },
   {
     "id": "dp-pl-28",
@@ -11575,7 +11903,13 @@
       "Using a rubber spatula, place the mix into a 32oz squeeze bottle."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3bmnruxv8j.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3fgmfm51dl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3iyhgmrjze.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3m9tfou323.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3pnu83lng2.png"
+    ]
   },
   {
     "id": "dp-pl-29",
@@ -12495,16 +12829,21 @@
       }
     ],
     "steps": [
-      "Green Onions, sliced thin,",
-      "Combined all ingredients into a medium-sized mixing bowl",
-      "Pour into a qt. size squeeze bottle",
+      "Green Onions, sliced very thin,",
+      "Combined all ingredients into a medium-sized mixing bowl, whisk",
+      "Pour into a quart-size squeeze bottle",
       "Cover the top of the bottle opening with a date portion bag",
       "Screw the top on",
       "Label, date, the bottle, and place in the cooler",
       "BUSY SEASON (X4)"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c82bk8lv2y7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c878p6o0xml.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8arg055w5y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8fiuxrg1v0.png"
+    ]
   },
   {
     "id": "dp-pl-46",
@@ -12807,7 +13146,13 @@
       "Cutting in half (if to big)"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0qy6iyjrbi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0uj67h0nqj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0xwlpaeyat.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c12doyunelq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c16z0nsv1dv.png"
+    ]
   },
   {
     "id": "dp-cds-34",
@@ -12833,7 +13178,13 @@
       "Cutting in half (if to big)"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0qy6iyjrbi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0uj67h0nqj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0xwlpaeyat.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c12doyunelq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c16z0nsv1dv.png"
+    ]
   },
   {
     "id": "dp-si-18",
@@ -12859,7 +13210,13 @@
       "Cutting in half (if to big)"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0qy6iyjrbi.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0uj67h0nqj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c0xwlpaeyat.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c12doyunelq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c16z0nsv1dv.png"
+    ]
   },
   {
     "id": "dp-pl-51",
@@ -13045,7 +13402,10 @@
       "Filling oyster w/ Str Corn"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e0f86zsiudv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e0jt4iyshpm.png"
+    ]
   },
   {
     "id": "dp-pl-54",
@@ -13090,7 +13450,14 @@
       "Portion 4oz of slices in a plastic wrap or date bag"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dfgf5qiwxl9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dfkxrasg5jk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dfo5rvb5lof.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dfrh3nsyryt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dfunl2da5hc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dg53ry9hp6v.png"
+    ]
   },
   {
     "id": "dp-cbg-31",
@@ -13261,7 +13628,10 @@
       "Add honey while mixing to combine"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8du458f3k8nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8duaawh4i5rv.png"
+    ]
   },
   {
     "id": "dp-cds-36",
@@ -13294,7 +13664,10 @@
       "Add honey while mixing to combine"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8du458f3k8nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8duaawh4i5rv.png"
+    ]
   },
   {
     "id": "dp-cbg-32",
@@ -13327,7 +13700,10 @@
       "Add honey while mixing to combine"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8du458f3k8nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8duaawh4i5rv.png"
+    ]
   },
   {
     "id": "dp-pl-60",
@@ -13346,17 +13722,23 @@
       }
     ],
     "steps": [
-      "Sandwich Portion:",
+      "**Sandwich Portion:**",
       "Take and place 10 filets into a date portion bag",
       "Label, date and rotate",
-      "Nugget Portion:",
+      "**Nugget Portion:**",
       "Lay the fillet out on the cutting board and cut in 1/2 lengthwise.",
       "Cut each half into 4 or 5 equal sizes pieces (depending on the size of the filet.)",
       "Portion into a day portion bag 7.9- 8.1oz portions",
       "Label, date and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dda1ywbaf4v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dddquo1demb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ddh8rda6f5i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ddla61iek6i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ddrpe3rw394.png"
+    ]
   },
   {
     "id": "dp-pl-61",
@@ -13740,7 +14122,14 @@
       "Label, date, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8evygcmffxxv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ew30o061hwe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ew8koyzjoij.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ewewpuyqttj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ewj6gvyybi2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ewmulzac1jr.png"
+    ]
   },
   {
     "id": "dp-cbg-35",
@@ -14119,7 +14508,12 @@
       "Gently squeezing some of the water out"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ez1vep4ohje.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ez5ls8xg2nx.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ezag2c6jozs.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eze83y0twfx.png"
+    ]
   },
   {
     "id": "dp-cbg-44",
@@ -14151,7 +14545,12 @@
       "Gently squeezing some of the water out"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ez1vep4ohje.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ez5ls8xg2nx.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ezag2c6jozs.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eze83y0twfx.png"
+    ]
   },
   {
     "id": "dp-pl-77",
@@ -14755,7 +15154,9 @@
       "Label and Date."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ers08fl0ugp.png"
+    ]
   },
   {
     "id": "dp-cds-54",
@@ -14779,7 +15180,9 @@
       "Label and Date."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ers08fl0ugp.png"
+    ]
   },
   {
     "id": "dp-cbg-49",
@@ -14803,7 +15206,9 @@
       "Label and Date."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ers08fl0ugp.png"
+    ]
   },
   {
     "id": "dp-cds-55",
@@ -14872,7 +15277,13 @@
       "*Remember, this is a time Controlled Item*"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eob3olmfu9z.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eof5e6q0ad9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eoj0envnq8c.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eolxxkiouei.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eopitt9tv4n.png"
+    ]
   },
   {
     "id": "dp-cbg-52",
@@ -14906,7 +15317,13 @@
       "*Remember, this is a time Controlled Item*"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eob3olmfu9z.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eof5e6q0ad9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eoj0envnq8c.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eolxxkiouei.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eopitt9tv4n.png"
+    ]
   },
   {
     "id": "dp-cbg-53",
@@ -14939,7 +15356,10 @@
       "Full Bag = 8 lbs."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzhc22bch9u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzl924t695o.png"
+    ],
     "dualBatch": {
       "label1": "1/2 Bag",
       "label2": "Whole Bag",
@@ -15043,7 +15463,13 @@
       "Then top with Crab & Spin dip"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4lh7dxab2w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e3ww37k6dza.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4hc6r1pw31.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4yxb0y77jn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e539nxx4dn3.png"
+    ]
   },
   {
     "id": "dp-cbg-55",
@@ -15088,7 +15514,13 @@
       "Then top with Crab & Spin dip"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4lh7dxab2w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e3ww37k6dza.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4hc6r1pw31.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4yxb0y77jn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e539nxx4dn3.png"
+    ]
   },
   {
     "id": "dp-cds-59",
@@ -15417,7 +15849,9 @@
       "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ejfalukebgf.png"
+    ]
   },
   {
     "id": "dp-pl-95",
@@ -15633,12 +16067,16 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "For oven cooking, cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.",
-      "For chargrilling you will cook the links whole on chargrill until skin is crispy and starting to break open. Let rest in cooler for 20 minutes before cutting.",
+      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
       "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dneabtk9n7x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dnkhlccecpf.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dp0kxpnicve.jpg"
+    ]
   },
   {
     "id": "dp-cbg-61",
@@ -15678,7 +16116,9 @@
       "Place 4 prepped shrimp tails up in a round rarebit"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8da24o7xrxrb.png"
+    ]
   },
   {
     "id": "dp-cbg-62",
@@ -15771,7 +16211,9 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dsni7xwp9v0.png"
+    ]
   },
   {
     "id": "dp-cds-66",
@@ -15799,7 +16241,9 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dsni7xwp9v0.png"
+    ]
   },
   {
     "id": "dp-cbg-63",
@@ -15827,7 +16271,9 @@
       "Label, date, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dsni7xwp9v0.png"
+    ]
   },
   {
     "id": "dp-cbg-64",
@@ -15862,7 +16308,15 @@
       "Place inside a day portion bag, and place in the W.I. cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etiw3oaf1zg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etmqfgksgpf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etqeawm4rbm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etxtne53hjk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eu39exi8ep0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eu8hlge7fte.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eugjsy15xhe.png"
+    ]
   },
   {
     "id": "dp-si-25",
@@ -15897,7 +16351,15 @@
       "Place inside a day portion bag, and place in the W.I. cooler"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etiw3oaf1zg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etmqfgksgpf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etqeawm4rbm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8etxtne53hjk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eu39exi8ep0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eu8hlge7fte.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eugjsy15xhe.png"
+    ]
   },
   {
     "id": "dp-cbg-65",
@@ -16327,12 +16789,15 @@
       "Slowly add the cold water while whisking (this will prevent the formation of clumps in the mix).",
       "Scrap down the sides of the bowl, and whisk again",
       "KEEP the batter in the cooler, or ON ICE while on the line",
-      "The product will need to be whisk together before using.",
-      "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,"
+      "**The product will need to be whisked together before each use.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8brvh9f5324e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs0uhyuhdyn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs5e9trgfpk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bsaat42czt1.png"
+    ]
   },
   {
     "id": "dp-cds-78",
@@ -16398,7 +16863,17 @@
       "Weight for a portion 7.4 - 7.6oz"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ezzu4tki9cn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f03ffqoncyq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f07ai9hvv87.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0bc56j8fhm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0f6xmc8xgq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0jnvzmn1uk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0pwh1bmd83.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0u4kwk9i43.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f0y1fnxbbbi.png"
+    ]
   },
   {
     "id": "dp-cds-80",
@@ -16449,7 +16924,11 @@
       "2- Qt. size squeeze bottles, date bags, day dot label"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f1swocllajm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f1wdp4drz1r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8f210ofad8f5.png"
+    ]
   },
   {
     "id": "dp-cds-83",
@@ -16511,12 +16990,20 @@
       "Cover with Starry soda, label, date, and refrigerate."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eawg58tgvl5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb0gr5ybe7b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb3lc90sc6k.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebhdmxlo9uv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebm4velimif.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebqvd74u8vr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebx4qinu3ax.png"
+    ]
   },
   {
     "id": "dp-cds-86",
     "masterId": "dp-lobster-tail-8-16oz-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail ( 8 & 16oz)",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -16535,16 +17022,18 @@
       }
     ],
     "steps": [
-      "Thaw under refrigeration and keep in the individually bagged",
-      "Label, date, each tail, refrigerate, and rotate"
+      "Thaw under refrigeration and keep individually bagged",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ejfalukebgf.png"
+    ]
   },
   {
     "id": "dp-cbg-67",
     "masterId": "dp-lobster-tail-8-16oz-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail ( 8 & 16oz)",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -16563,11 +17052,13 @@
       }
     ],
     "steps": [
-      "Thaw under refrigeration and keep in the individually bagged",
-      "Label, date, each tail, refrigerate, and rotate"
+      "Thaw under refrigeration and keep individually bagged",
+      "Label, date, refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ejfalukebgf.png"
+    ]
   },
   {
     "id": "dp-cds-88",
@@ -16658,7 +17149,13 @@
       "*If to thick we use a little milk to loosen the sauce up*"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8em9n8u532e4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emddkuw711a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emh2chqpkt5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emkv26o5ptp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emoewi9spjr.png"
+    ]
   },
   {
     "id": "dp-cds-90",
@@ -16776,7 +17273,15 @@
       "Store in freezer until ready to use."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cnaqx70z4hk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cney3vfsxi2.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8co2fq7orgcz.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8co7qcz0qhbv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cobh7pofgmf.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8coi8ndibilv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8coml5db7czl.png"
+    ]
   },
   {
     "id": "dp-cds-94",
@@ -16802,7 +17307,10 @@
       "Add 1- 8oz deli cup full to salad mix recipe"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dyjgxtxt0v9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dyn9bijzl4j.png"
+    ]
   },
   {
     "id": "dp-cds-95",
@@ -17308,12 +17816,15 @@
       "Slowly add the cold water while whisking (this will prevent the formation of clumps in the mix).",
       "Scrap down the sides of the bowl, and whisk again",
       "KEEP the batter in the cooler, or ON ICE while on the line",
-      "The product will need to be whisk together before using.",
-      "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,"
+      "**The product will need to be whisked together before each use.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8brvh9f5324e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs0uhyuhdyn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs5e9trgfpk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bsaat42czt1.png"
+    ]
   },
   {
     "id": "dp-si-27",
@@ -17342,12 +17853,15 @@
       "Slowly add the cold water while whisking (this will prevent the formation of clumps in the mix).",
       "Scrap down the sides of the bowl, and whisk again",
       "KEEP the batter in the cooler, or ON ICE while on the line",
-      "The product will need to be whisk together before using.",
-      "Same steps as above",
-      "Keep on a Ice Bath while on cooks Breading Table,"
+      "**The product will need to be whisked together before each use.**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8brvh9f5324e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs0uhyuhdyn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs5e9trgfpk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bsaat42czt1.png"
+    ]
   },
   {
     "id": "dp-cbg-78",
@@ -17923,7 +18437,11 @@
       "Split into line-size portions for the steam table"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1s0kr88v42.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d1w2ckjciu8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d20yihiwo7h.png"
+    ],
     "dualBatch": {
       "label1": "1 bag",
       "label2": "4 bags",
@@ -17959,7 +18477,15 @@
       "Place back in the freezer until ready to use."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ck8wuy30hee.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckbpnqbkn1l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckerizrdbyb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckhb3hxmjvj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckmd9o3dmss.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckqeugxnfwl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckw19eqwjrs.png"
+    ]
   },
   {
     "id": "dp-si-41",
@@ -103128,5 +103654,1276 @@
     "id": "m-mv8a2slh3uyji3",
     "masterId": "dp-nb-13-m",
     "location": "CDS"
+  },
+  {
+    "name": "Lemon Cream Sauce (for fried chicken)",
+    "category": "Dinner Prep",
+    "yield": "154 oz. or 4.25 qtrs.",
+    "shelfLife": "3 days",
+    "smallware": "stock pot, whisk, rubber spatula, Cambro",
+    "ingredients": [
+      {
+        "name": "Scampi Butter",
+        "qty": "0.5",
+        "unit": "Tub (2.25#)"
+      },
+      {
+        "name": "White Cooking Wine",
+        "qty": "3",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "Flour",
+        "qty": "3",
+        "unit": "Oz/wt."
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "2",
+        "unit": "quarts"
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "House Spice",
+        "qty": "0.5",
+        "unit": "Oz/wt."
+      }
+    ],
+    "steps": [
+      "In a stock pot, add the white wine and cook the alcohol off the wine",
+      "Carefully add the scampi butter, and melt it on medium/low heat. Once it's melted",
+      "Slowly add the flour while stirring continuously until incorporated into the butter. Bringing it to just about the boiling point.",
+      "While whisking, add 1 quart of heavy cream while on heat and let it come to a simmer (but not scalded)",
+      "Continue to whisk to combined,",
+      "Once it's smooth, add the other quart of cream, lemon juice, and house spice.",
+      "Whisk together to a ribbon texture",
+      "Do Not scrape the product stuck to the bottom of the pot.",
+      "Store in covered Cambro",
+      "When transferring to the Cambro, GENTLY scrape the side, and the bottom of the pot",
+      "*If to thick we use a little milk to loosen the sauce up*"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8em9n8u532e4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emddkuw711a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emh2chqpkt5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emkv26o5ptp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emoewi9spjr.png"
+    ],
+    "id": "m-mv8en4ksa3zj29",
+    "masterId": "dp-cds-89-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Lemon Cream Sauce (for fried chicken)",
+    "category": "Dinner Prep",
+    "yield": "154 oz. or 4.25 qtrs.",
+    "shelfLife": "3 days",
+    "smallware": "stock pot, whisk, rubber spatula, Cambro",
+    "ingredients": [
+      {
+        "name": "Scampi Butter",
+        "qty": "0.5",
+        "unit": "Tub (2.25#)"
+      },
+      {
+        "name": "White Cooking Wine",
+        "qty": "3",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "Flour",
+        "qty": "3",
+        "unit": "Oz/wt."
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "2",
+        "unit": "quarts"
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "House Spice",
+        "qty": "0.5",
+        "unit": "Oz/wt."
+      }
+    ],
+    "steps": [
+      "In a stock pot, add the white wine and cook the alcohol off the wine",
+      "Carefully add the scampi butter, and melt it on medium/low heat. Once it's melted",
+      "Slowly add the flour while stirring continuously until incorporated into the butter. Bringing it to just about the boiling point.",
+      "While whisking, add 1 quart of heavy cream while on heat and let it come to a simmer (but not scalded)",
+      "Continue to whisk to combined,",
+      "Once it's smooth, add the other quart of cream, lemon juice, and house spice.",
+      "Whisk together to a ribbon texture",
+      "Do Not scrape the product stuck to the bottom of the pot.",
+      "Store in covered Cambro",
+      "When transferring to the Cambro, GENTLY scrape the side, and the bottom of the pot",
+      "*If to thick we use a little milk to loosen the sauce up*"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8em9n8u532e4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emddkuw711a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emh2chqpkt5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emkv26o5ptp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emoewi9spjr.png"
+    ],
+    "id": "m-mv8en0pvrnbzbl",
+    "masterId": "dp-cds-89-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Lemon Cream Sauce (for fried chicken)",
+    "category": "Dinner Prep",
+    "yield": "154 oz. or 4.25 qtrs.",
+    "shelfLife": "3 days",
+    "smallware": "stock pot, whisk, rubber spatula, Cambro",
+    "ingredients": [
+      {
+        "name": "Scampi Butter",
+        "qty": "0.5",
+        "unit": "Tub (2.25#)"
+      },
+      {
+        "name": "White Cooking Wine",
+        "qty": "3",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "Flour",
+        "qty": "3",
+        "unit": "Oz/wt."
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "2",
+        "unit": "quarts"
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "2",
+        "unit": "Oz/Fl"
+      },
+      {
+        "name": "House Spice",
+        "qty": "0.5",
+        "unit": "Oz/wt."
+      }
+    ],
+    "steps": [
+      "In a stock pot, add the white wine and cook the alcohol off the wine",
+      "Carefully add the scampi butter, and melt it on medium/low heat. Once it's melted",
+      "Slowly add the flour while stirring continuously until incorporated into the butter. Bringing it to just about the boiling point.",
+      "While whisking, add 1 quart of heavy cream while on heat and let it come to a simmer (but not scalded)",
+      "Continue to whisk to combined,",
+      "Once it's smooth, add the other quart of cream, lemon juice, and house spice.",
+      "Whisk together to a ribbon texture",
+      "Do Not scrape the product stuck to the bottom of the pot.",
+      "Store in covered Cambro",
+      "When transferring to the Cambro, GENTLY scrape the side, and the bottom of the pot",
+      "*If to thick we use a little milk to loosen the sauce up*"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8em9n8u532e4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emddkuw711a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emh2chqpkt5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emkv26o5ptp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8emoewi9spjr.png"
+    ],
+    "id": "m-mv8emxe92nnsqt",
+    "masterId": "dp-cds-89-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Lobster Tail ( 8 & 16oz)",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Lobster Tail Jumbo 16oz.",
+        "qty": "15-16oz",
+        "unit": "Weight oz each"
+      },
+      {
+        "name": "Lobster Tails 8oz",
+        "qty": "7.5- 9oz",
+        "unit": "Weight oz each"
+      }
+    ],
+    "steps": [
+      "Thaw under refrigeration and keep individually bagged",
+      "Label, date, refrigerate, and rotate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ejfalukebgf.png"
+    ],
+    "id": "m-mv8ejloj0krhi7",
+    "masterId": "dp-lobster-tail-8-16oz-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Mango Salsa",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cilantro",
+        "qty": "2 bunches",
+        "unit": "4 Weight oz (before chopping)"
+      },
+      {
+        "name": "Lime",
+        "qty": "7",
+        "unit": "Each (squeezed)"
+      },
+      {
+        "name": "Jalapeno (good size)",
+        "qty": "7",
+        "unit": "Ea. Stem removed, seeded, and diced), = 6oz"
+      },
+      {
+        "name": "Mango Chunks",
+        "qty": "1",
+        "unit": "5lb Bag"
+      },
+      {
+        "name": "Pico",
+        "qty": "1",
+        "unit": "5lb Bag (drained)"
+      },
+      {
+        "name": "Grinder Black Pepper",
+        "qty": "1",
+        "unit": "Tablespoon"
+      },
+      {
+        "name": "Seasoning Salt Kosher",
+        "qty": "1",
+        "unit": "Tablespoon"
+      }
+    ],
+    "steps": [
+      "Cut off the bottom half to 2/3s of cilantro stems (either throw away, or pick good for expo line), rough chop the top part of cilantro with skinny stems and mainly leaves, and add to the mix",
+      "Remove stems and seeds from jalapeños and dice into ¼\" pieces.",
+      "In a large mixing bowl add Mango, Jalapenos, and Pico, gently mix with a rubber spatula",
+      "Add salt, pepper, and cilantro, mix",
+      "Squeeze lime over the top of the mixture, and mix",
+      "Place in proper storage container",
+      "Label, date, rotate, and refrigerate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efjq5gfx259.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efnt757qi0a.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efrsqap0t26.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8efvuy6bbtfw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eg0zxfvgb14.png"
+    ],
+    "id": "m-mv8egbeoh12jl8",
+    "masterId": "dp-mango-salsa-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Onion Straws",
+    "category": "Dinner Prep",
+    "yield": "1 ea. onion",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion yellow",
+        "qty": "1ea",
+        "unit": "or Daily usage"
+      },
+      {
+        "name": "Starry Lime Soda",
+        "qty": "cover",
+        "unit": "Onions"
+      }
+    ],
+    "steps": [
+      "*Portion enough for daily usage*",
+      "Peel onions, leaving the root on the end.",
+      "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
+      "Fill container with Starry, separating onions and completely covering.",
+      "Cover with Starry soda, label, date, and refrigerate."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eawg58tgvl5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb0gr5ybe7b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb3lc90sc6k.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebhdmxlo9uv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebm4velimif.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebqvd74u8vr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebx4qinu3ax.png"
+    ],
+    "id": "m-mv8ec60976gpmc",
+    "masterId": "dp-cds-85-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Onion Straws",
+    "category": "Dinner Prep",
+    "yield": "1 ea. onion",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Onion yellow",
+        "qty": "1ea",
+        "unit": "or Daily usage"
+      },
+      {
+        "name": "Starry Lime Soda",
+        "qty": "cover",
+        "unit": "Onions"
+      }
+    ],
+    "steps": [
+      "*Portion enough for daily usage*",
+      "Peel onions, leaving the root on the end.",
+      "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
+      "Fill container with Starry, separating onions and completely covering.",
+      "Cover with Starry soda, label, date, and refrigerate."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eawg58tgvl5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb0gr5ybe7b.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8eb3lc90sc6k.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebhdmxlo9uv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebm4velimif.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebqvd74u8vr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ebx4qinu3ax.png"
+    ],
+    "id": "m-mv8ec4pgkbbc98",
+    "masterId": "dp-cds-85-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Oysters Crabbyfellars",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 Day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oysters on the half shell",
+        "qty": "144",
+        "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Garlic Spread melted"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Fill",
+        "name": "Crab & Spin Dip "
+      }
+    ],
+    "steps": [
+      "Oyster Prep:",
+      "These oysters are already shucked; they need to be lightly washed in salt water to have grit removed and have the muscle detached",
+      "**Use 10 grams(=1.5 teaspoons) of Morton salt per liter of cold water for a saltwater wash.**",
+      "Make sure there isn't any shell in the oyster.",
+      "Cut the muscle off the bottom of the shell.",
+      "Oyster Saftey:",
+      "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
+      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
+      "**Do not stack prepped more than 3 high in the storage container with the logo deli in between each layer**",
+      "Crabbyfellars Prep:",
+      "Top Oysters with Garlic Spread",
+      "Then top with Crab & Spin dip"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4lh7dxab2w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e3ww37k6dza.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4hc6r1pw31.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4yxb0y77jn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e539nxx4dn3.png"
+    ],
+    "id": "m-mv8e5bgvzuqh4k",
+    "masterId": "dp-oysters-crabbyfellars-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Oysters Crabbyfellars",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 Day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Oysters on the half shell",
+        "qty": "144",
+        "unit": "Oysters"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Garlic Spread melted"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "Fill",
+        "name": "Crab & Spin Dip "
+      }
+    ],
+    "steps": [
+      "Oyster Prep:",
+      "These oysters are already shucked; they need to be lightly washed in salt water to have grit removed and have the muscle detached",
+      "**Use 10 grams(=1.5 teaspoons) of Morton salt per liter of cold water for a saltwater wash.**",
+      "Make sure there isn't any shell in the oyster.",
+      "Cut the muscle off the bottom of the shell.",
+      "Oyster Saftey:",
+      "Keep the tag with the oysters and ensure you mark the last date sold on the tag.",
+      "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
+      "**Do not stack prepped more than 3 high in the storage container with the logo deli in between each layer**",
+      "Crabbyfellars Prep:",
+      "Top Oysters with Garlic Spread",
+      "Then top with Crab & Spin dip"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4lh7dxab2w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e3ww37k6dza.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4hc6r1pw31.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4yxb0y77jn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e539nxx4dn3.png"
+    ],
+    "id": "m-mv8e58suf2htsu",
+    "masterId": "dp-oysters-crabbyfellars-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Rib Glaze",
+    "category": "Dinner Prep",
+    "yield": "22oz. = 1- 32oz Squeeze bottle",
+    "shelfLife": "",
+    "smallware": "medium mixing bowl, whisk, rubber spatula, Cambro w/ lid",
+    "ingredients": [
+      {
+        "name": "Rib Dry Rub",
+        "qty": ".5",
+        "unit": "Lbs."
+      },
+      {
+        "name": "Starry Lemon Lime",
+        "qty": "10",
+        "unit": "Oz."
+      },
+      {
+        "name": "Honey",
+        "qty": "4",
+        "unit": "Oz."
+      }
+    ],
+    "steps": [
+      "Add the Rib dry mix and Starry, whisk together",
+      "Add honey while mixing to combine"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8du458f3k8nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8duaawh4i5rv.png"
+    ],
+    "id": "m-mv8dugn7pucyb1",
+    "masterId": "dp-rib-glaze-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Salmon",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Salmon 8oz",
+        "qty": "1",
+        "unit": "Weight oz. each"
+      }
+    ],
+    "steps": [
+      "Pull the daily needs for the next day's prep",
+      "Remove the fish from the sealed bag",
+      "Place them in/on a perforated tray to thaw and drain",
+      "Cover with Plastic wrap, label, and date",
+      "Place portions into a small day bag",
+      "Place on a sheet tray",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dsni7xwp9v0.png"
+    ],
+    "id": "m-mv8dsvj4vpvjpb",
+    "masterId": "dp-salmon-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Sausage Pieces",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "3 Days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sausage Links",
+        "qty": "1",
+        "unit": "bag"
+      }
+    ],
+    "steps": [
+      "Cut the string between each of the links",
+      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dneabtk9n7x.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dnkhlccecpf.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dp0kxpnicve.jpg"
+    ],
+    "id": "m-mv8drc6vbhwqxy",
+    "masterId": "dp-sausage-pieces-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Scallop (prep)",
+    "category": "Dinner Prep",
+    "yield": "10# case = 19 / 8oz. Portions",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Scallops 10/20",
+        "qty": "1",
+        "unit": "Lb."
+      }
+    ],
+    "steps": [
+      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Let thaw under refrigeration",
+      "**For optimal results, count all the scallops in the bag.**",
+      "Portion into 7.9 - 8.1oz portions",
+      "Enter the amount of pounds used and portions made into the prep production",
+      "**Never vary from the amount of pounds paid for**",
+      "Acceptable weights 7.9 - 8.1oz"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
+    ],
+    "id": "m-mv8diydy357z5k",
+    "masterId": "dp-scallop-prep-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Stuffed Shrimp",
+    "category": "Dinner Prep",
+    "yield": "80 each = 1 Lined full 2\" pan",
+    "shelfLife": "3 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp P& D",
+        "qty": "80",
+        "unit": "each"
+      },
+      {
+        "name": "Crab Cake Recipe",
+        "qty": "40",
+        "unit": "Ounce = (10 cakes)"
+      }
+    ],
+    "steps": [
+      "Butterfly shrimp and place them butterflied side down on the pan",
+      "Place 1/2oz. (0.50oz= Silver Scoop) of crab cake mix on top of the shrimp,",
+      "Place completed stuffed shrimp into a full 2\" pan.",
+      "Place lid on 2\" pan, label, date, and refrigerate",
+      "For dinners:",
+      "Place 6 prepped shrimp in tails up",
+      "For shrimp 3 way or combos:",
+      "Place 4 prepped shrimp tails up"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d8lgsb49wbv.png"
+    ],
+    "id": "m-mv8d8vm4e6zfvo",
+    "masterId": "dp-nb-56-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Sriracha Mayo",
+    "category": "Dinner Prep",
+    "yield": "1 - 32oz bottle",
+    "shelfLife": "7 days",
+    "smallware": "mixing bowl, whisk, rubber spatula, quart squeeze bottle, day bag, and day dot",
+    "ingredients": [
+      {
+        "name": "Mayo",
+        "qty": "28",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Sriracha Sauce",
+        "qty": "1",
+        "unit": "4oz cup"
+      }
+    ],
+    "steps": [
+      "Add the mayo to a mixing bowl",
+      "Pour in Sriracha Sauce",
+      "Mix with a whisk to combine",
+      "Using a rubber spatula, place the mix into a 32oz squeeze bottle."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3bmnruxv8j.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3fgmfm51dl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3iyhgmrjze.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3m9tfou323.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8d3pnu83lng2.png"
+    ],
+    "id": "m-mv8d3xx49kymfh",
+    "masterId": "dp-pl-28-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Shrimp Steamed 1/2 lb",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day thawed",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp EZ Peel",
+        "qty": "5",
+        "unit": "Lbs."
+      }
+    ],
+    "steps": [
+      "For ease, wrap the mesh bag around a pitcher and add the shrimp to that bag. Prep using still frozen EZ Peel Shrimp.",
+      "Place 9 each shrimp into red mesh bag. Allow enough room for the shrimp to be cooked without being packed to tightly.",
+      "Tie the bag and (leaving about ½ inch between) tie another knot to separate the bags.",
+      "Place another 9 shrimp into the empty bag and tie.",
+      "Separate the bags by cutting between the two knots.",
+      "Label, date each 10-count bag.",
+      "Place 10 Portions into a red mesh bag and place back in the original case.",
+      "Label the outside of the box with a date.",
+      "Place back in the freezer until ready to use."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ck8wuy30hee.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckbpnqbkn1l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckerizrdbyb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckhb3hxmjvj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckmd9o3dmss.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckqeugxnfwl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ckw19eqwjrs.png"
+    ],
+    "id": "m-mv8clrts5sgj6d",
+    "masterId": "dp-si-39-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Scampi Sauce Boils",
+    "category": "Dinner Prep",
+    "yield": "1 recipe = 1.4 gallons",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Capri Chablis",
+        "qty": "8",
+        "unit": "oz"
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "3",
+        "unit": "Ea./ quarts"
+      },
+      {
+        "name": "Scampi Butter",
+        "qty": "1",
+        "unit": "4.5lb. tub"
+      }
+    ],
+    "steps": [
+      "Bring the Wine to a boil",
+      "Thoroughly mix all ingredients",
+      "Place the mix in a Cambro with a lid.",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cg6wmyxxu02.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgn840r4a2g.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgrfw892zrh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgx5bz1pk3s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ch15c715r6v.png"
+    ],
+    "id": "m-mv8che1psfmk7r",
+    "masterId": "dp-nb-38-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Scampi Sauce Boils",
+    "category": "Dinner Prep",
+    "yield": "1 recipe = 1.4 gallons",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Capri Chablis",
+        "qty": "8",
+        "unit": "oz"
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "3",
+        "unit": "Ea./ quarts"
+      },
+      {
+        "name": "Scampi Butter",
+        "qty": "1",
+        "unit": "4.5lb. tub"
+      }
+    ],
+    "steps": [
+      "Bring the Wine to a boil",
+      "Thoroughly mix all ingredients",
+      "Place the mix in a Cambro with a lid.",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cg6wmyxxu02.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgn840r4a2g.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgrfw892zrh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgx5bz1pk3s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ch15c715r6v.png"
+    ],
+    "id": "m-mv8chd4uo9qnr7",
+    "masterId": "dp-nb-38-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Scampi Sauce Boils",
+    "category": "Dinner Prep",
+    "yield": "1 recipe = 1.4 gallons",
+    "shelfLife": "5 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Capri Chablis",
+        "qty": "8",
+        "unit": "oz"
+      },
+      {
+        "name": "Heavy Cream",
+        "qty": "3",
+        "unit": "Ea./ quarts"
+      },
+      {
+        "name": "Scampi Butter",
+        "qty": "1",
+        "unit": "4.5lb. tub"
+      }
+    ],
+    "steps": [
+      "Bring the Wine to a boil",
+      "Thoroughly mix all ingredients",
+      "Place the mix in a Cambro with a lid.",
+      "Label, date, and refrigerate"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cg6wmyxxu02.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgn840r4a2g.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgrfw892zrh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgx5bz1pk3s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ch15c715r6v.png"
+    ],
+    "id": "m-mv8ch7bnifeb4q",
+    "masterId": "dp-nb-38-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Poke Sauce",
+    "category": "Dinner Prep",
+    "yield": "4 / 32 oz. squeeze bottles",
+    "shelfLife": "5 days",
+    "smallware": "Medium mixing bowl, gloves, 1-Qt squeeze bottle, rubber spatula, whisk , day dot, and day portion bag",
+    "ingredients": [
+      {
+        "name": "Agave Syrup",
+        "qty": "8",
+        "unit": "Vol Oz."
+      },
+      {
+        "name": "Green Onions (green part only )",
+        "qty": "4",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Soy Sauce",
+        "qty": "20",
+        "unit": "Vol Oz."
+      }
+    ],
+    "steps": [
+      "Green Onions, sliced very thin,",
+      "Combined all ingredients into a medium-sized mixing bowl, whisk",
+      "Pour into a quart-size squeeze bottle",
+      "Cover the top of the bottle opening with a date portion bag",
+      "Screw the top on",
+      "Label, date, the bottle, and place in the cooler",
+      "BUSY SEASON (X4)"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c82bk8lv2y7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c878p6o0xml.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8arg055w5y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8fiuxrg1v0.png"
+    ],
+    "id": "m-mv8ca7a5b8jz4k",
+    "masterId": "dp-pl-45-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Poke Sauce",
+    "category": "Dinner Prep",
+    "yield": "4 / 32 oz. squeeze bottles",
+    "shelfLife": "5 days",
+    "smallware": "Medium mixing bowl, gloves, 1-Qt squeeze bottle, rubber spatula, whisk , day dot, and day portion bag",
+    "ingredients": [
+      {
+        "name": "Agave Syrup",
+        "qty": "8",
+        "unit": "Vol Oz."
+      },
+      {
+        "name": "Green Onions (green part only )",
+        "qty": "4",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Soy Sauce",
+        "qty": "20",
+        "unit": "Vol Oz."
+      }
+    ],
+    "steps": [
+      "Green Onions, sliced very thin,",
+      "Combined all ingredients into a medium-sized mixing bowl, whisk",
+      "Pour into a quart-size squeeze bottle",
+      "Cover the top of the bottle opening with a date portion bag",
+      "Screw the top on",
+      "Label, date, the bottle, and place in the cooler",
+      "BUSY SEASON (X4)"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c82bk8lv2y7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c878p6o0xml.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8arg055w5y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8fiuxrg1v0.png"
+    ],
+    "id": "m-mv8ca3hdkjhgiq",
+    "masterId": "dp-pl-45-m",
+    "location": "CBG"
+  },
+  {
+    "name": "Poke Sauce",
+    "category": "Dinner Prep",
+    "yield": "4 / 32 oz. squeeze bottles",
+    "shelfLife": "5 days",
+    "smallware": "Medium mixing bowl, gloves, 1-Qt squeeze bottle, rubber spatula, whisk , day dot, and day portion bag",
+    "ingredients": [
+      {
+        "name": "Agave Syrup",
+        "qty": "8",
+        "unit": "Vol Oz."
+      },
+      {
+        "name": "Green Onions (green part only )",
+        "qty": "4",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Soy Sauce",
+        "qty": "20",
+        "unit": "Vol Oz."
+      }
+    ],
+    "steps": [
+      "Green Onions, sliced very thin,",
+      "Combined all ingredients into a medium-sized mixing bowl, whisk",
+      "Pour into a quart-size squeeze bottle",
+      "Cover the top of the bottle opening with a date portion bag",
+      "Screw the top on",
+      "Label, date, the bottle, and place in the cooler",
+      "BUSY SEASON (X4)"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c82bk8lv2y7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c878p6o0xml.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8arg055w5y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c8fiuxrg1v0.png"
+    ],
+    "id": "m-mv8c9yca8wuq76",
+    "masterId": "dp-pl-45-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Pizza Dough Balls",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pizza Dough Ball",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Take the dough ball out of the freezer",
+      "Take a dough ball out of the bag",
+      "Pull out the plastic wrap long enough to cover both sides of the dough ball",
+      "Now, with the pan spray, spray on both the bottom and on top of the dough ball",
+      "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
+      "Place 12 dough balls per sheet pan",
+      "Label the pan with the date and time, and each dough ball with a day dot",
+      "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
+      "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
+      "**Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday**",
+      "**Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)**",
+      "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
+      "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
+      "Time and Temperature will dictate how long it should be left out",
+      "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c32p9ae6ttu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c39wga2jrvt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c3eh969y7jn.png"
+    ],
+    "id": "m-mv8c3ra6eiyp6o",
+    "masterId": "dp-pizza-dough-balls-bar-grill-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Pizza Dough Balls",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pizza Dough Ball",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Take the dough ball out of the freezer",
+      "Take a dough ball out of the bag",
+      "Pull out the plastic wrap long enough to cover both sides of the dough ball",
+      "Now, with the pan spray, spray on both the bottom and on top of the dough ball",
+      "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
+      "Place 12 dough balls per sheet pan",
+      "Label the pan with the date and time, and each dough ball with a day dot",
+      "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
+      "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
+      "**Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday**",
+      "**Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)**",
+      "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
+      "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
+      "Time and Temperature will dictate how long it should be left out",
+      "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c32p9ae6ttu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c39wga2jrvt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c3eh969y7jn.png"
+    ],
+    "id": "m-mv8c3o8pwg39ok",
+    "masterId": "dp-pizza-dough-balls-bar-grill-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Pizza Dough Balls",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "2 days",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pizza Dough Ball",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Take the dough ball out of the freezer",
+      "Take a dough ball out of the bag",
+      "Pull out the plastic wrap long enough to cover both sides of the dough ball",
+      "Now, with the pan spray, spray on both the bottom and on top of the dough ball",
+      "Cover the dough ball with the wrap to make a pocket, leaving about 2 inches around the ball so it can expand",
+      "Place 12 dough balls per sheet pan",
+      "Label the pan with the date and time, and each dough ball with a day dot",
+      "Put the tray on the bottom of the speed rack (move the other trays up one so that you pull from the top pan first)",
+      "Leave it in the walk-in cooler, preferably for 48 hours before you pull it out of the walk-in cooler, unless you need it sooner.",
+      "**Wed and Thursdays are the days you would wrap the most since they take two days to thaw and wouldn't be ready for use until Friday and Saturday**",
+      "**Saturday and Sunday should be the days you do the fewest because they wouldn't be ready until Mon and Tues (our slowest days)**",
+      "Pull out from the walk-in what you need for the whole day and let it sit out for an hour or so, or until it starts to rise or proof up, and then put it in the pizza cooler",
+      "Don't wait until it is completely proofed before you put it away, or it will continue to proof in the cooler until it cools",
+      "Time and Temperature will dictate how long it should be left out",
+      "If you are out of dough and it is Frozen it will take about 7 or 8 hours at room temperature until it proofs and can be used (do not put under or on direct heat). If you need it first thing in the morning, it can be left out over night as long as it is not more than 7 or 8 hours and also at 75 degrees or cooler."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c32p9ae6ttu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c39wga2jrvt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8c3eh969y7jn.png"
+    ],
+    "id": "m-mv8c3klcfm8x0k",
+    "masterId": "dp-pizza-dough-balls-bar-grill-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Grits",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "8",
+        "unit": "Weight oz",
+        "qty2": "16"
+      },
+      {
+        "name": "Grits",
+        "qty": "1/2",
+        "unit": "8 lbs. Bag",
+        "qty2": "1"
+      }
+    ],
+    "steps": [
+      "Heat grits up using an immersion circulator or microwave.",
+      "Once heated to 145°F,",
+      "Place in a lined pan on the line",
+      "Add shredded cheese and mix",
+      "Full Bag = 8 lbs."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzhc22bch9u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzl924t695o.png"
+    ],
+    "dualBatch": {
+      "label1": "1/2 Bag",
+      "label2": "Whole Bag",
+      "count": 2
+    },
+    "id": "m-mv8bzzp565ex56",
+    "masterId": "dp-grits-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Grits",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "8",
+        "unit": "Weight oz",
+        "qty2": "16"
+      },
+      {
+        "name": "Grits",
+        "qty": "1/2",
+        "unit": "8 lbs. Bag",
+        "qty2": "1"
+      }
+    ],
+    "steps": [
+      "Heat grits up using an immersion circulator or microwave.",
+      "Once heated to 145°F,",
+      "Place in a lined pan on the line",
+      "Add shredded cheese and mix",
+      "Full Bag = 8 lbs."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzhc22bch9u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzl924t695o.png"
+    ],
+    "dualBatch": {
+      "label1": "1/2 Bag",
+      "label2": "Whole Bag",
+      "count": 2
+    },
+    "id": "m-mv8bzun2nx88me",
+    "masterId": "dp-grits-m",
+    "location": "Salty's Island"
+  },
+  {
+    "name": "Grits",
+    "category": "Dinner Prep",
+    "yield": "",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cheese Cheddar/Jack Shredded",
+        "qty": "8",
+        "unit": "Weight oz",
+        "qty2": "16"
+      },
+      {
+        "name": "Grits",
+        "qty": "1/2",
+        "unit": "8 lbs. Bag",
+        "qty2": "1"
+      }
+    ],
+    "steps": [
+      "Heat grits up using an immersion circulator or microwave.",
+      "Once heated to 145°F,",
+      "Place in a lined pan on the line",
+      "Add shredded cheese and mix",
+      "Full Bag = 8 lbs."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzhc22bch9u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bzl924t695o.png"
+    ],
+    "dualBatch": {
+      "label1": "1/2 Bag",
+      "label2": "Whole Bag",
+      "count": 2
+    },
+    "id": "m-mv8bzp1z07stik",
+    "masterId": "dp-grits-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Beer Batter",
+    "category": "Dinner Prep",
+    "yield": "3 quarts (roughly)",
+    "shelfLife": "1 day - to be tossed at the end of the night",
+    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "ingredients": [
+      {
+        "name": "Water (Cold)",
+        "qty": "5 - 5.5",
+        "unit": "cups = (40 - 44oz)"
+      },
+      {
+        "name": "Golden Dip Beer Batter",
+        "qty": "6 cups =",
+        "unit": "2 lb."
+      }
+    ],
+    "steps": [
+      "Be sure you are using cold water; if possible, get the water from the soda tower",
+      "Add the dry mix to a medium-sized mixing bowl,",
+      "Slowly add the cold water while whisking (this will prevent the formation of clumps in the mix).",
+      "Scrap down the sides of the bowl, and whisk again",
+      "KEEP the batter in the cooler, or ON ICE while on the line",
+      "**The product will need to be whisked together before each use.**"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8brvh9f5324e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs0uhyuhdyn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs5e9trgfpk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bsaat42czt1.png"
+    ],
+    "id": "m-mv8bsx3ki55ox4",
+    "masterId": "dp-beer-batter-bar-n-grill-m",
+    "location": "Palm"
+  },
+  {
+    "name": "Beer Batter",
+    "category": "Dinner Prep",
+    "yield": "3 quarts (roughly)",
+    "shelfLife": "1 day - to be tossed at the end of the night",
+    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "ingredients": [
+      {
+        "name": "Water (Cold)",
+        "qty": "5 - 5.5",
+        "unit": "cups = (40 - 44oz)"
+      },
+      {
+        "name": "Golden Dip Beer Batter",
+        "qty": "6 cups =",
+        "unit": "2 lb."
+      }
+    ],
+    "steps": [
+      "Be sure you are using cold water; if possible, get the water from the soda tower",
+      "Add the dry mix to a medium-sized mixing bowl,",
+      "Slowly add the cold water while whisking (this will prevent the formation of clumps in the mix).",
+      "Scrap down the sides of the bowl, and whisk again",
+      "KEEP the batter in the cooler, or ON ICE while on the line",
+      "**The product will need to be whisked together before each use.**"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8brvh9f5324e.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs0uhyuhdyn.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bs5e9trgfpk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8bsaat42czt1.png"
+    ],
+    "id": "m-mv8bssuuhi4lvk",
+    "masterId": "dp-beer-batter-bar-n-grill-m",
+    "location": "Salty Crab North Beach"
   }
 ]
