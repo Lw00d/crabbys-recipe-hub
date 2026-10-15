@@ -894,8 +894,25 @@ function ingCell(recipe, name){
   return `<span class="ing-link" onclick="openPrepLayer('${esc(String(id))}')" title="Open the prep recipe">${hl(name)}<span class="ing-arrow">\u2197</span></span>`;
 }
 
-function buildSubmenus(){ SUBMENUS={}; RECIPES.forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
-function buildCategories(){ const set=new Set(BASE_CATEGORIES); RECIPES.forEach(r=>{ if(r.category) set.add(r.category); }); CATS = Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'})); renderCatDropdown(); }
+// Which recipes this login could ever see: its own book, or for the all-stores
+// admin, whichever company is selected. The filter dropdowns are built from
+// these rather than from every recipe, so a store is not offered categories
+// and submenus that are empty for it — a Sandbar login has no Coffee Drinks,
+// no Ice Cream and no Shell Bar, and listing them just wastes a tap.
+function inScope(r){
+  if(IS_LOCATION_RESTRICTED) return r.location === ASSIGNED_LOCATION;
+  return LOC_GROUP[r.location] === activeGroup;
+}
+function buildSubmenus(){ SUBMENUS={}; RECIPES.filter(inScope).forEach(r=>{ if(!SUBMENUS[r.category])SUBMENUS[r.category]=new Set(); if(r.submenu)SUBMENUS[r.category].add(r.submenu); }); updateSubmenuOptions(); }
+// BASE_CATEGORIES is the house order, not a promise that every store has one
+// of each; intersect it with what is actually in scope. An empty scope falls
+// back to the full list rather than leaving the dropdown blank.
+function buildCategories(){
+  const present = new Set(); RECIPES.filter(inScope).forEach(r=>{ if(r.category) present.add(r.category); });
+  const set = present.size ? present : new Set(BASE_CATEGORIES);
+  CATS = Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
+  renderCatDropdown();
+}
 function setStatus(state,text){ document.getElementById('statusDot').className='status-dot '+(state==='online'?'':state); document.getElementById('statusText').textContent=text; }
 
 // ─── URL-BASED DEFAULT FILTERS ───────────────────────────────────────────────
@@ -2274,7 +2291,8 @@ function switchGroup(g){
   activeLocs.clear(); activeCats.clear(); activeSubs.clear();
   searchQuery=''; document.getElementById('searchInput').value='';
   renderLocationFilters();
-  renderCatDropdown();
+  buildCategories();          // scope changed — BSHGRP2 has no Coffee Drinks
+  buildSubmenus();
   updateSubmenuOptions();
   render();
 }
