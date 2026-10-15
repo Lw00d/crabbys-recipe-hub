@@ -111492,5 +111492,764 @@
     "id": "dk-bh-40",
     "masterId": "dk-white-sangria-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Pina Colada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan coconut Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-41",
+    "masterId": "dk-pina-colada-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Pina Colada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan coconut Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-41",
+    "masterId": "dk-pina-colada-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Pina Colada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan coconut Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-41",
+    "masterId": "dk-pina-colada-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Elvis on the Beach",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hard Truth PB Whiskey",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-42",
+    "masterId": "dk-elvis-on-the-beach-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Elvis on the Beach",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hard Truth PB Whiskey",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-42",
+    "masterId": "dk-elvis-on-the-beach-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Elvis on the Beach",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hard Truth PB Whiskey",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-42",
+    "masterId": "dk-elvis-on-the-beach-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Light Rum",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Daiquiri mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-43",
+    "masterId": "dk-strawberry-daiquiri-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Light Rum",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Daiquiri mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-43",
+    "masterId": "dk-strawberry-daiquiri-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Light Rum",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Daiquiri mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-43",
+    "masterId": "dk-strawberry-daiquiri-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Miami Vice",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Lt Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry puree",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-44",
+    "masterId": "dk-miami-vice-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Miami Vice",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Lt Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry puree",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-44",
+    "masterId": "dk-miami-vice-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Miami Vice",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Lt Rum (on bottom)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Strawberry puree",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "Pineapple + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-44",
+    "masterId": "dk-miami-vice-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Key Lime Lada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kiwi Lime Syrup",
+        "qty": "Line",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Lada Batch",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "Top",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Graham Cracker Crumbs",
+        "qty": "Sprinkle",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi Lime (if no batch is available)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice (if no batch is available)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix (if no batch is available)",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Line glass with kiwi lime syrup",
+      "Fill glass with batched cocktail",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "If no batch is available:",
+      "Line glass with kiwi lime syrup",
+      "1.5oz Bacardi lime on bottom",
+      ".5oz lime juice on bottom",
+      "Fill with Frozen Pina Colada Mix",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "No garnish"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-45",
+    "masterId": "dk-key-lime-lada-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Key Lime Lada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kiwi Lime Syrup",
+        "qty": "Line",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Lada Batch",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "Top",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Graham Cracker Crumbs",
+        "qty": "Sprinkle",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi Lime (if no batch is available)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice (if no batch is available)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix (if no batch is available)",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Line glass with kiwi lime syrup",
+      "Fill glass with batched cocktail",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "If no batch is available:",
+      "Line glass with kiwi lime syrup",
+      "1.5oz Bacardi lime on bottom",
+      ".5oz lime juice on bottom",
+      "Fill with Frozen Pina Colada Mix",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "No garnish"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-45",
+    "masterId": "dk-key-lime-lada-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Key Lime Lada",
+    "category": "Drink Menu",
+    "submenu": "Frozens",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Kiwi Lime Syrup",
+        "qty": "Line",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Lada Batch",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Black (float on top)",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Whipped Cream",
+        "qty": "Top",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Graham Cracker Crumbs",
+        "qty": "Sprinkle",
+        "unit": "",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi Lime (if no batch is available)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice (if no batch is available)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Frozen Pina Colada Mix (if no batch is available)",
+        "qty": "Fill",
+        "unit": "glass",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Line glass with kiwi lime syrup",
+      "Fill glass with batched cocktail",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "If no batch is available:",
+      "Line glass with kiwi lime syrup",
+      "1.5oz Bacardi lime on bottom",
+      ".5oz lime juice on bottom",
+      "Fill with Frozen Pina Colada Mix",
+      "Float .75oz Cruzan Black on top",
+      "Top with whipped cream",
+      "Sprinkle graham cracker crumbs on whipped cream",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "No garnish"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-45",
+    "masterId": "dk-key-lime-lada-m",
+    "location": "Beach House"
   }
 ]
