@@ -106755,5 +106755,104 @@
     "id": "dk-bh-6",
     "masterId": "dk-rum-runner-keg-batch-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Spicy Tequila",
+    "category": "Drink Menu",
+    "submenu": "Infusions",
+    "yield": "2 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": "~6",
+        "unit": "bottles",
+        "qty2": ""
+      },
+      {
+        "name": "Jalapenos, sliced thick (so they do not fall through the infuser holes)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Infuse for 24 hours before using."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-7",
+    "masterId": "dk-spicy-tequila-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Spicy Tequila",
+    "category": "Drink Menu",
+    "submenu": "Infusions",
+    "yield": "2 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": "~6",
+        "unit": "bottles",
+        "qty2": ""
+      },
+      {
+        "name": "Jalapenos, sliced thick (so they do not fall through the infuser holes)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Infuse for 24 hours before using."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-7",
+    "masterId": "dk-spicy-tequila-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Spicy Tequila",
+    "category": "Drink Menu",
+    "submenu": "Infusions",
+    "yield": "2 gallons",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": "~6",
+        "unit": "bottles",
+        "qty2": ""
+      },
+      {
+        "name": "Jalapenos, sliced thick (so they do not fall through the infuser holes)",
+        "qty": "6",
+        "unit": "each",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Infuse for 24 hours before using."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-7",
+    "masterId": "dk-spicy-tequila-m",
+    "location": "Beach House"
   }
 ]
