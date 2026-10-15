@@ -358,7 +358,7 @@
     "category": "Dinner Prep",
     "yield": "1/3 pan",
     "shelfLife": "1 day",
-    "smallware": "",
+    "smallware": "mixing bowl, gloves, storage container",
     "ingredients": [
       {
         "name": "Cabbage Shredded (5# bag)",
@@ -372,8 +372,10 @@
       }
     ],
     "steps": [
-      "In a 1/3 pan, mix the Cabbage and sauce",
-      "Fold together until fully mixed"
+      "In a 1/3 pan, mix the Cabbage and Baja sauce",
+      "Fold together until fully mixed",
+      "Place into the correct storage container  and lid",
+      "Label, date, refrigerate and rotate  "
     ],
     "notes": "",
     "images": [],
@@ -3989,7 +3991,7 @@
       "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
       "With the wedge slicer, cut the lemons into 6 wedges.",
       "Place cut wedges into lemon bags (large portion bag)",
-      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag or on the storage container",
       "Place in the refrigerate, and rotate"
     ],
     "notes": "",
@@ -5277,11 +5279,12 @@
       }
     ],
     "steps": [
+      "** Pre-Cut**",
       "Before opening the bag, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before opening",
       "Do not toss out without the Manager looking at it first",
       "The salad person needs to remove any wilted or discolored pieces before use",
-      "With Spinner:",
+      "**With Spinner:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves into 1\" cuts",
@@ -5294,11 +5297,12 @@
       "Put the top on and do step #6 again",
       "Remove the slotted basket, and portion into lemon bags",
       "Label, date, and store in the cooler, above any raw foods",
-      "NO SPINNER:",
+      "**NO SPINNER:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves in 1\" cuts",
-      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water, or over a sink.",
+      "Toss the romaine a few times to remove additional water ",
       "Label, date, and store in the walk-in cooler, above any raw foods"
     ],
     "notes": "",
@@ -5321,11 +5325,12 @@
       }
     ],
     "steps": [
+      "** Pre-Cut**",
       "Before opening the bag, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before opening",
       "Do not toss out without the Manager looking at it first",
       "The salad person needs to remove any wilted or discolored pieces before use",
-      "With Spinner:",
+      "**With Spinner:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves into 1\" cuts",
@@ -5338,11 +5343,12 @@
       "Put the top on and do step #6 again",
       "Remove the slotted basket, and portion into lemon bags",
       "Label, date, and store in the cooler, above any raw foods",
-      "NO SPINNER:",
+      "**NO SPINNER:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves in 1\" cuts",
-      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water, or over a sink.",
+      "Toss the romaine a few times to remove additional water ",
       "Label, date, and store in the walk-in cooler, above any raw foods"
     ],
     "notes": "",
@@ -5365,11 +5371,12 @@
       }
     ],
     "steps": [
+      "** Pre-Cut**",
       "Before opening the bag, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before opening",
       "Do not toss out without the Manager looking at it first",
       "The salad person needs to remove any wilted or discolored pieces before use",
-      "With Spinner:",
+      "**With Spinner:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves into 1\" cuts",
@@ -5382,11 +5389,12 @@
       "Put the top on and do step #6 again",
       "Remove the slotted basket, and portion into lemon bags",
       "Label, date, and store in the cooler, above any raw foods",
-      "NO SPINNER:",
+      "**NO SPINNER:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves in 1\" cuts",
-      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water, or over a sink.",
+      "Toss the romaine a few times to remove additional water ",
       "Label, date, and store in the walk-in cooler, above any raw foods"
     ],
     "notes": "",
@@ -7306,7 +7314,7 @@
     "location": "CBG"
   },
   {
-    "name": "Avocados (fresh)",
+    "name": "Avocado (fresh)",
     "category": "Breakfast Prep",
     "yield": "",
     "shelfLife": "",
@@ -7454,11 +7462,12 @@
       }
     ],
     "steps": [
+      "** Pre-Cut**",
       "Before opening the bag, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before opening",
       "Do not toss out without the Manager looking at it first",
       "The salad person needs to remove any wilted or discolored pieces before use",
-      "With Spinner:",
+      "**With Spinner:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves into 1\" cuts",
@@ -7471,11 +7480,12 @@
       "Put the top on and do step #6 again",
       "Remove the slotted basket, and portion into lemon bags",
       "Label, date, and store in the cooler, above any raw foods",
-      "NO SPINNER:",
+      "**NO SPINNER:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves in 1\" cuts",
-      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water, or over a sink.",
+      "Toss the romaine a few times to remove additional water ",
       "Label, date, and store in the walk-in cooler, above any raw foods"
     ],
     "notes": "",
@@ -7498,11 +7508,12 @@
       }
     ],
     "steps": [
+      "** Pre-Cut**",
       "Before opening the bag, look for discolored or wilted pieces",
       "If questionable, ask a manager to look at it before opening",
       "Do not toss out without the Manager looking at it first",
       "The salad person needs to remove any wilted or discolored pieces before use",
-      "With Spinner:",
+      "**With Spinner:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves into 1\" cuts",
@@ -7515,11 +7526,12 @@
       "Put the top on and do step #6 again",
       "Remove the slotted basket, and portion into lemon bags",
       "Label, date, and store in the cooler, above any raw foods",
-      "NO SPINNER:",
+      "**NO SPINNER:**",
       "Take 24 romaine hearts",
       "Cut the Core from each, and remove outer leaves (if discolored) and discard",
       "Cut remaining leaves in 1\" cuts",
-      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water",
+      "Rinse and drain in Lexan with holes into another Lexan without holes to catch water, or over a sink.",
+      "Toss the romaine a few times to remove additional water ",
       "Label, date, and store in the walk-in cooler, above any raw foods"
     ],
     "notes": "",
@@ -8342,7 +8354,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "4oz ladle, 1/2 sheet pan,  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8377,7 +8389,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "4oz ladle, 1/2 sheet pan,  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8412,7 +8424,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "4oz ladle, 1/2 sheet pan,  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8447,7 +8459,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "4oz ladle, 1/2 sheet pan,  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8553,10 +8565,10 @@
       "Weigh out 6oz for each portion into day bags.",
       "Place 15 portions of calamari into the Lemon bag",
       "Label, date, and rotate in the refrigerator.",
-      "If receiving whole calamari:",
+      "**If receiving whole calamari tubes**",
       "Slice calamari into 1/2inch thick rings",
       "Weigh out 6oz for each portion",
-      "Place portioned calamari into the Lemon bag"
+      "Place portioned calamari into the correct storage container"
     ],
     "notes": "",
     "images": [
@@ -8587,10 +8599,10 @@
       "Weigh out 6oz for each portion into day bags.",
       "Place 15 portions of calamari into the Lemon bag",
       "Label, date, and rotate in the refrigerator.",
-      "If receiving whole calamari:",
+      "**If receiving whole calamari tubes**",
       "Slice calamari into 1/2inch thick rings",
       "Weigh out 6oz for each portion",
-      "Place portioned calamari into the Lemon bag"
+      "Place portioned calamari into the correct storage container"
     ],
     "notes": "",
     "images": [
@@ -8621,10 +8633,10 @@
       "Weigh out 6oz for each portion into day bags.",
       "Place 15 portions of calamari into the Lemon bag",
       "Label, date, and rotate in the refrigerator.",
-      "If receiving whole calamari:",
+      "**If receiving whole calamari tubes**",
       "Slice calamari into 1/2inch thick rings",
       "Weigh out 6oz for each portion",
-      "Place portioned calamari into the Lemon bag"
+      "Place portioned calamari into the correct storage container"
     ],
     "notes": "",
     "images": [
@@ -8655,10 +8667,10 @@
       "Weigh out 6oz for each portion into day bags.",
       "Place 15 portions of calamari into the Lemon bag",
       "Label, date, and rotate in the refrigerator.",
-      "If receiving whole calamari:",
+      "**If receiving whole calamari tubes**",
       "Slice calamari into 1/2inch thick rings",
       "Weigh out 6oz for each portion",
-      "Place portioned calamari into the Lemon bag"
+      "Place portioned calamari into the correct storage container"
     ],
     "notes": "",
     "images": [
@@ -12108,7 +12120,7 @@
     "name": "Calamari Strips",
     "location": "Palm",
     "category": "Dinner Prep",
-    "yield": "1- 5# bag = 14.5/ 5oz portions",
+    "yield": "1- 5# bag = 9/ 8oz portions",
     "shelfLife": "3 days",
     "smallware": "1- 4\" perforated full pan, or Lexan, day portion bags, lemon bags",
     "ingredients": [
@@ -12974,7 +12986,7 @@
       "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
       "With the wedge slicer, cut the lemons into 6 wedges.",
       "Place cut wedges into lemon bags (large portion bag)",
-      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag or on the storage container",
       "Place in the refrigerate, and rotate"
     ],
     "notes": "",
@@ -13006,7 +13018,7 @@
       "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
       "With the wedge slicer, cut the lemons into 6 wedges.",
       "Place cut wedges into lemon bags (large portion bag)",
-      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag or on the storage container",
       "Place in the refrigerate, and rotate"
     ],
     "notes": "",
@@ -13038,7 +13050,7 @@
       "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
       "With the wedge slicer, cut the lemons into 6 wedges.",
       "Place cut wedges into lemon bags (large portion bag)",
-      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag or on the storage container",
       "Place in the refrigerate, and rotate"
     ],
     "notes": "",
@@ -13070,7 +13082,7 @@
       "Wash thoroughly with Fruit & Veggie Rinse and drain lemons",
       "With the wedge slicer, cut the lemons into 6 wedges.",
       "Place cut wedges into lemon bags (large portion bag)",
-      "Tie shut and label, date, with a day bag, tied to the lemon bag",
+      "Tie shut and label, date, with a day bag, tied to the lemon bag or on the storage container",
       "Place in the refrigerate, and rotate"
     ],
     "notes": "",
@@ -17674,12 +17686,12 @@
   {
     "id": "dp-cbg-72",
     "masterId": "dp-avocado-egg-rolls-m",
-    "name": "Avocado Egg Rolls",
+    "name": "Avocado Egg Rolls Prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "1.25oz Scoop (for Chipotle Mix), full sheet pan, water, deli container,",
+    "smallware": "",
     "ingredients": [
       {
         "name": "Chipotle topper",
@@ -17698,14 +17710,13 @@
       }
     ],
     "steps": [
-      "Cut each avocado half into 4 slices(do not mix in bowl)",
+      "Cut each avocado half into 4 slices (do not mix in bowl)",
       "Lay out eggroll wrap in a diamond shape, point facing you",
       "Use a 2-oz scoop, and place 1.5oz of mix in the center of the wrap",
       "Place 2 slices of avocado onto the mix",
       "Dip fingers into clean water and gently damp all sides of the wrap",
       "Roll gently and tuck in sides to form an eggroll shape",
-      "Place in fryer for 1 minute to par-cook",
-      "Label, date, and refrigerate"
+      "Place in fryer for 1 minute to par-cook"
     ],
     "notes": "",
     "images": [],
@@ -18187,7 +18198,7 @@
   {
     "id": "dp-si-31",
     "masterId": "dp-avocado-egg-rolls-m",
-    "name": "Avocado Egg Rolls- Pre- Made",
+    "name": "Avocado Egg Rolls Prep",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "",
@@ -18211,7 +18222,7 @@
       }
     ],
     "steps": [
-      "Cut each avocado half into 4 slices(do not mix in bowl)",
+      "Cut each avocado half into 4 slices (do not mix in bowl)",
       "Lay out eggroll wrap in a diamond shape, point facing you",
       "Use a 2-oz scoop, and place 1.5oz of mix in the center of the wrap",
       "Place 2 slices of avocado onto the mix",
@@ -20118,7 +20129,7 @@
   {
     "id": "bp-nb-15",
     "masterId": "bp-nb-15-m",
-    "name": "Avocado Mix (Salsa) in works",
+    "name": "Avocado Mix ",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Prep",
     "yield": "",
@@ -20305,7 +20316,7 @@
   {
     "id": "bp-cbg-17",
     "masterId": "bp-cbg-17-m",
-    "name": "Avocados (fresh)",
+    "name": "Avocado (fresh)",
     "location": "CBG",
     "category": "Breakfast Prep",
     "yield": "",
