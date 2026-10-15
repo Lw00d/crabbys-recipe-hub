@@ -106854,5 +106854,4625 @@
     "id": "dk-bh-7",
     "masterId": "dk-spicy-tequila-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Avissi Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Aperol",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-8",
+    "masterId": "dk-aperol-spritz-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Avissi Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Aperol",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-8",
+    "masterId": "dk-aperol-spritz-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Avissi Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Aperol",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-8",
+    "masterId": "dk-aperol-spritz-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "AppleTini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Apple Pucker",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-9",
+    "masterId": "dk-appletini-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "AppleTini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Apple Pucker",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-9",
+    "masterId": "dk-appletini-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "AppleTini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Apple Pucker",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-9",
+    "masterId": "dk-appletini-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bahama Mama",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Spiced",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Coconut",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-10",
+    "masterId": "dk-bahama-mama-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bahama Mama",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Spiced",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Coconut",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-10",
+    "masterId": "dk-bahama-mama-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bahama Mama",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Spiced",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Coconut",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-10",
+    "masterId": "dk-bahama-mama-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bay Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-11",
+    "masterId": "dk-bay-breeze-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bay Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-11",
+    "masterId": "dk-bay-breeze-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bay Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-11",
+    "masterId": "dk-bay-breeze-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bloody Maria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-12",
+    "masterId": "dk-bloody-maria-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bloody Maria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-12",
+    "masterId": "dk-bloody-maria-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bloody Maria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-12",
+    "masterId": "dk-bloody-maria-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bloody Mary",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-13",
+    "masterId": "dk-bloody-mary-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bloody Mary",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-13",
+    "masterId": "dk-bloody-mary-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bloody Mary",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon + lime + 2 bc olives + celery"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-13",
+    "masterId": "dk-bloody-mary-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Blue Hawaiian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Curacao",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "pineapple + orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-14",
+    "masterId": "dk-blue-hawaiian-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Blue Hawaiian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Curacao",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "pineapple + orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-14",
+    "masterId": "dk-blue-hawaiian-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Blue Hawaiian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pina Colada Mix",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Curacao",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "pineapple + orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-14",
+    "masterId": "dk-blue-hawaiian-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Bourbon Smash",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bourbon of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "1",
+        "unit": "Wedge",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-15",
+    "masterId": "dk-bourbon-smash-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Bourbon Smash",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bourbon of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "1",
+        "unit": "Wedge",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-15",
+    "masterId": "dk-bourbon-smash-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bourbon Smash",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bourbon of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "1",
+        "unit": "Wedge",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-15",
+    "masterId": "dk-bourbon-smash-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Cosmo",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-16",
+    "masterId": "dk-cosmo-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Cosmo",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-16",
+    "masterId": "dk-cosmo-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Cosmo",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-16",
+    "masterId": "dk-cosmo-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Dark n Stormy",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar (on top)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-17",
+    "masterId": "dk-dark-n-stormy-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Dark n Stormy",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar (on top)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-17",
+    "masterId": "dk-dark-n-stormy-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Dark n Stormy",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar (on top)",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-17",
+    "masterId": "dk-dark-n-stormy-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka or Tequila of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua (sub Baileys if “creamy”)",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "3 espresso beans"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-18",
+    "masterId": "dk-espresso-martini-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka or Tequila of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua (sub Baileys if “creamy”)",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "3 espresso beans"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-18",
+    "masterId": "dk-espresso-martini-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka or Tequila of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua (sub Baileys if “creamy”)",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "3 espresso beans"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-18",
+    "masterId": "dk-espresso-martini-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "French 75",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-19",
+    "masterId": "dk-french-75-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "French 75",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-19",
+    "masterId": "dk-french-75-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "French 75",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Prosecco",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-19",
+    "masterId": "dk-french-75-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "French Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Raspberry Liqueur",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-20",
+    "masterId": "dk-french-martini-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "French Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Raspberry Liqueur",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-20",
+    "masterId": "dk-french-martini-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "French Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Raspberry Liqueur",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-20",
+    "masterId": "dk-french-martini-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Irish Coffee",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jameson",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Baileys",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Coffee Cup",
+      "Garnish:",
+      "Whipped Cream"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-21",
+    "masterId": "dk-irish-coffee-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Irish Coffee",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jameson",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Baileys",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Coffee Cup",
+      "Garnish:",
+      "Whipped Cream"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-21",
+    "masterId": "dk-irish-coffee-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Irish Coffee",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Jameson",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Baileys",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Espresso",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Coffee Cup",
+      "Garnish:",
+      "Whipped Cream"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-21",
+    "masterId": "dk-irish-coffee-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lemon Cooler",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-22",
+    "masterId": "dk-lemon-cooler-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Lemon Cooler",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-22",
+    "masterId": "dk-lemon-cooler-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Lemon Cooler",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "3",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemonade",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-22",
+    "masterId": "dk-lemon-cooler-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sugar",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose Citron",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Agave",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grand Marnier",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon juice, or squeeze 2 lemon wedges",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-23",
+    "masterId": "dk-lemon-drop-martini-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sugar",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose Citron",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Agave",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grand Marnier",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon juice, or squeeze 2 lemon wedges",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-23",
+    "masterId": "dk-lemon-drop-martini-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Sugar",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose Citron",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Agave",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grand Marnier",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon juice, or squeeze 2 lemon wedges",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "lemon twist"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-23",
+    "masterId": "dk-lemon-drop-martini-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Long Island",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bombay Sapphire",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Titos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Silver",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-24",
+    "masterId": "dk-long-island-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Long Island",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bombay Sapphire",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Titos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Silver",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-24",
+    "masterId": "dk-long-island-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Long Island",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Hornitos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bombay Sapphire",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Titos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cruzan Silver",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-24",
+    "masterId": "dk-long-island-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Long Island (top shelf)",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Casamigos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Hendricks",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-25",
+    "masterId": "dk-long-island-top-shelf-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Long Island (top shelf)",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Casamigos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Hendricks",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-25",
+    "masterId": "dk-long-island-top-shelf-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Long Island (top shelf)",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Casamigos",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Hendricks",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grey Goose",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bacardi",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sour Mix",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Coke",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lemon"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-25",
+    "masterId": "dk-long-island-top-shelf-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mai Tai",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orgeat Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (Ocean Spray)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar floater",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "mint + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-26",
+    "masterId": "dk-mai-tai-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mai Tai",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orgeat Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (Ocean Spray)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar floater",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "mint + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-26",
+    "masterId": "dk-mai-tai-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Mai Tai",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Cruzan Silver",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orgeat Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Pineapple Juice",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (Ocean Spray)",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Papas Pilar floater",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "mint + lime + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-26",
+    "masterId": "dk-mai-tai-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Manhattan",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "black cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-27",
+    "masterId": "dk-manhattan-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Manhattan",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "black cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-27",
+    "masterId": "dk-manhattan-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Manhattan",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "black cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-27",
+    "masterId": "dk-manhattan-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Michelada",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tajin",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Dos Equis",
+        "qty": "1",
+        "unit": "Bottle",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add rocks.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-28",
+    "masterId": "dk-michelada-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Michelada",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tajin",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Dos Equis",
+        "qty": "1",
+        "unit": "Bottle",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add rocks.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-28",
+    "masterId": "dk-michelada-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Michelada",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tajin",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      },
+      {
+        "name": "Dos Equis",
+        "qty": "1",
+        "unit": "Bottle",
+        "qty2": ""
+      },
+      {
+        "name": "Bloody Mary Mix",
+        "qty": "2.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Add rocks.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-28",
+    "masterId": "dk-michelada-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mimosa",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Gambino Brut",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-29",
+    "masterId": "dk-mimosa-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mimosa",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Gambino Brut",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-29",
+    "masterId": "dk-mimosa-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Mimosa",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Gambino Brut",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Flute",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-29",
+    "masterId": "dk-mimosa-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Mojito",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rum of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "5",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Muddle.",
+      "Add rocks.",
+      "Top with soda.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-30",
+    "masterId": "dk-mojito-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Mojito",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rum of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "5",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Muddle.",
+      "Add rocks.",
+      "Top with soda.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-30",
+    "masterId": "dk-mojito-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Mojito",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Rum of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      },
+      {
+        "name": "Mint",
+        "qty": "5",
+        "unit": "Leaves",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Muddle.",
+      "Add rocks.",
+      "Top with soda.",
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-30",
+    "masterId": "dk-mojito-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Moscow Mule",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-31",
+    "masterId": "dk-moscow-mule-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Moscow Mule",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-31",
+    "masterId": "dk-moscow-mule-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Moscow Mule",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Ginger Beer",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-31",
+    "masterId": "dk-moscow-mule-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Negroni",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Campari",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-32",
+    "masterId": "dk-negroni-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Negroni",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Campari",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-32",
+    "masterId": "dk-negroni-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Negroni",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Campari",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sweet Vermouth",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-32",
+    "masterId": "dk-negroni-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-33",
+    "masterId": "dk-old-fashioned-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-33",
+    "masterId": "dk-old-fashioned-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Whiskey of choice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Bitters",
+        "qty": "2",
+        "unit": "dashes",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange peel"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-33",
+    "masterId": "dk-old-fashioned-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Orange Crush",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grey Goose Citron",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sprite",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-34",
+    "masterId": "dk-orange-crush-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Orange Crush",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grey Goose Citron",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sprite",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-34",
+    "masterId": "dk-orange-crush-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Orange Crush",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Grey Goose Citron",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Triple Sec",
+        "qty": ".75",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Natalies OJ",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Sprite",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange, squeezed",
+        "qty": "2",
+        "unit": "Wedges",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "orange"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-34",
+    "masterId": "dk-orange-crush-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Ranch Water",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-35",
+    "masterId": "dk-ranch-water-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Ranch Water",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-35",
+    "masterId": "dk-ranch-water-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Ranch Water",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Juice",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-35",
+    "masterId": "dk-ranch-water-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Red Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Cab",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-36",
+    "masterId": "dk-red-sangria-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Red Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Cab",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-36",
+    "masterId": "dk-red-sangria-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Red Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Cab",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-36",
+    "masterId": "dk-red-sangria-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Sea Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grapefruit Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-37",
+    "masterId": "dk-sea-breeze-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Sea Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grapefruit Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-37",
+    "masterId": "dk-sea-breeze-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Sea Breeze",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Cranberry Juice",
+        "qty": "3",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grapefruit Juice",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Pint Glass",
+      "Garnish:",
+      "lime"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-37",
+    "masterId": "dk-sea-breeze-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-38",
+    "masterId": "dk-tequila-sunrise-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-38",
+    "masterId": "dk-tequila-sunrise-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tequila of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Orange Juice (ocean spray)",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": ".25",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "orange + cherry"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-38",
+    "masterId": "dk-tequila-sunrise-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "White Russian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Creamer",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-39",
+    "masterId": "dk-white-russian-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "White Russian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Creamer",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-39",
+    "masterId": "dk-white-russian-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "White Russian",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Vodka of choice",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Kahlua",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Creamer",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Rocks Glass"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-39",
+    "masterId": "dk-white-russian-m",
+    "location": "Beach House"
+  },
+  {
+    "name": "White Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Pinot Grigio",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-mv-40",
+    "masterId": "dk-white-sangria-m",
+    "location": "Mar Vista"
+  },
+  {
+    "name": "White Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Pinot Grigio",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-sb-40",
+    "masterId": "dk-white-sangria-m",
+    "location": "Sandbar"
+  },
+  {
+    "name": "White Sangria",
+    "category": "Drink Menu",
+    "submenu": "Classic Cocktails",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Seaglass Pinot Grigio",
+        "qty": "5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Blackberry Brandy",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Peach Schnapps",
+        "qty": ".5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Simple Syrup",
+        "qty": "1",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Soda",
+        "qty": "Splash",
+        "unit": "",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Glassware:",
+      "Wine Glass",
+      "Garnish:",
+      "orange + 2 raspberries"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "dk-bh-40",
+    "masterId": "dk-white-sangria-m",
+    "location": "Beach House"
   }
 ]
