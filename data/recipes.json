@@ -20292,7 +20292,7 @@
     "name": "Old Honey Butter",
     "location": "CBG",
     "category": "Breakfast Prep",
-    "yield": "",
+    "yield": "Yields- 12 -3/4 full 2oz cups",
     "shelfLife": "6 Days",
     "smallware": "Whisk, mixing bowl, rubber spatula, 2oz cups, and lids",
     "ingredients": [
@@ -20319,14 +20319,7 @@
       "Whisk the softened butter and cinnamon sugar together, blend well",
       "Add honey into the mixture, while whisking to incorporate, blend well",
       "Portion into 2-oz cups- 3/4 full, lid, and date.",
-      "Yields- 12 -3/4 full 2oz cups",
-      "Instructions:",
-      "Pull the butter the night before or early morning to soften. Do Not melt",
-      "Place in mixing bowl, cover, label, and date.",
-      "Whisk the softened butter and cinnamon sugar together, blend well",
-      "Add honey into the mixture, while whisking to incorporate, blend well",
-      "Portion into 2-oz cups- 3/4 full, lid, and date.",
-      "Yields- 27-28 - 2oz cups -3/4 full 2oz cups"
+      "Yields: 12 -3/4 full 2oz cups"
     ],
     "notes": "",
     "images": []
@@ -23168,7 +23161,9 @@
       "Lemon Wedge, 2 sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9p9irx5sxucs.jpg"
+    ]
   },
   {
     "id": "dm-nb-49",
@@ -36635,7 +36630,13 @@
       "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qewz8l96jlq.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qffoo1q9j0s.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qg1k5cb1qz6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qirbkryutke.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qicnei9hp8i.jpg"
+    ]
   },
   {
     "id": "drm-nb-3",
@@ -36663,7 +36664,13 @@
       "Label, date, rotate, and refrigerate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qewz8l96jlq.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qffoo1q9j0s.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qg1k5cb1qz6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qirbkryutke.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9qicnei9hp8i.jpg"
+    ]
   },
   {
     "id": "drm-pl-6",
@@ -78544,6 +78551,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv9p8vjrnefwou.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/New_York_Strip_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/New_York_Strip_CBG_1.jpg"
     ]
