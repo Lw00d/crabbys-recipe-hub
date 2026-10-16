@@ -56805,7 +56805,7 @@
     "ingredients": [
       {
         "name": "Pancake/Waffle Mix",
-        "qty": "3",
+        "qty": "2",
         "unit": "2oz ladles"
       },
       {
@@ -56826,7 +56826,7 @@
     ],
     "steps": [
       "Spray oil on a section of the clean flat top",
-      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Drop 2 - 2oz ladles of batter mix onto the flat top.",
       "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
       "Add berries if requested at this time. (lay out evenly across the cakes)",
       "Once you see several bubbles, flip the cake over",
@@ -56851,7 +56851,7 @@
     "ingredients": [
       {
         "name": "Pancake/Waffle Mix",
-        "qty": "3",
+        "qty": "2",
         "unit": "2oz ladles"
       },
       {
@@ -56872,7 +56872,7 @@
     ],
     "steps": [
       "Spray oil on a section of the clean flat top",
-      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Drop 2 - 2oz ladles of batter mix onto the flat top.",
       "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
       "Add berries if requested at this time. (lay out evenly across the cakes)",
       "Once you see several bubbles, flip the cake over",
@@ -56897,7 +56897,7 @@
     "ingredients": [
       {
         "name": "Pancake/Waffle Mix",
-        "qty": "3",
+        "qty": "2",
         "unit": "2oz ladles"
       },
       {
@@ -56918,7 +56918,7 @@
     ],
     "steps": [
       "Spray oil on a section of the clean flat top",
-      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Drop 2 - 2oz ladles of batter mix onto the flat top.",
       "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
       "Add berries if requested at this time. (lay out evenly across the cakes)",
       "Once you see several bubbles, flip the cake over",
@@ -56943,7 +56943,7 @@
     "ingredients": [
       {
         "name": "Pancake/Waffle Mix",
-        "qty": "3",
+        "qty": "2",
         "unit": "2oz ladles"
       },
       {
@@ -56964,7 +56964,7 @@
     ],
     "steps": [
       "Spray oil on a section of the clean flat top",
-      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Drop 2 - 2oz ladles of batter mix onto the flat top.",
       "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
       "Add berries if requested at this time. (lay out evenly across the cakes)",
       "Once you see several bubbles, flip the cake over",
@@ -56989,7 +56989,7 @@
     "ingredients": [
       {
         "name": "Pancake/Waffle Mix",
-        "qty": "3",
+        "qty": "2",
         "unit": "2oz ladles"
       },
       {
@@ -57010,7 +57010,7 @@
     ],
     "steps": [
       "Spray oil on a section of the clean flat top",
-      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Drop 2 - 2oz ladles of batter mix onto the flat top.",
       "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
       "Add berries if requested at this time. (lay out evenly across the cakes)",
       "Once you see several bubbles, flip the cake over",
@@ -115311,6 +115311,52 @@
     "images": [],
     "id": "m-mvbef943dym5j5",
     "masterId": "m-mvbef9438s1s3h",
+    "location": "CBG"
+  },
+  {
+    "name": "Pancakes Tall Stack NEW",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pancake/Waffle Mix",
+        "qty": "3",
+        "unit": "2oz ladles"
+      },
+      {
+        "name": "Choice of Meat",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Fruit Cup",
+        "qty": "1",
+        "unit": "prep"
+      },
+      {
+        "name": "Blueberry or Strawberry",
+        "qty": "2oz",
+        "unit": "Cup- If requested"
+      }
+    ],
+    "steps": [
+      "Spray oil on a section of the clean flat top",
+      "Drop 3 - 2oz ladles of batter mix onto the flat top.",
+      "Wait a minute or 2 minutes till the batter starts to form (the edge will form, see several bubbles forming)",
+      "Add berries if requested at this time. (lay out evenly across the cakes)",
+      "Once you see several bubbles, flip the cake over",
+      "Cook for another 1 to 2 minutes",
+      "Add the meat choice next to one side of the pancakes",
+      "Expo:",
+      "Powder Sugar, 2 Butter packs, & Fruit cup"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvbeiknun275ke",
+    "masterId": "m-mvbeiknuyk93o9",
     "location": "CBG"
   }
 ]
