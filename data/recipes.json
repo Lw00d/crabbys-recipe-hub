@@ -115251,5 +115251,66 @@
     "id": "m-mvbe2whaofkvkd",
     "masterId": "m-mvbe2wha35ooyx",
     "location": "CBG"
+  },
+  {
+    "name": "Omelet Flagler Ave",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Omelet Pan"
+      },
+      {
+        "name": "Bacon Pieces",
+        "qty": "1",
+        "unit": "Sunflower Scoop"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "2 oz cup",
+        "name": "Onion Red (Diced)"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "2 oz cup",
+        "name": "Tomatoes heirloom (cut)"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Egg Pan"
+      },
+      {
+        "name": "Liquid eggs",
+        "qty": "1",
+        "unit": "6oz ladle"
+      },
+      {
+        "name": "Cheddar jack",
+        "qty": "1",
+        "unit": "4oz cup"
+      }
+    ],
+    "steps": [
+      "Add Bacon, Onions and Tomatoes to a buttered pan.",
+      "Butter an omelet pan with butter",
+      "Add liquid eggs to the omelet pan and begin to cook",
+      "Once eggs are cooked through on the bottom, flip the omelet",
+      "Add all toppings to one side of the omelet, including cheese",
+      "Fold the finished omelet onto a large plate",
+      "Add toast to the plate"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvbef943dym5j5",
+    "masterId": "m-mvbef9438s1s3h",
+    "location": "CBG"
   }
 ]
