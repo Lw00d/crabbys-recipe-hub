@@ -115358,5 +115358,61 @@
     "id": "m-mvbeiknun275ke",
     "masterId": "m-mvbeiknuyk93o9",
     "location": "CBG"
+  },
+  {
+    "name": "Beachside Breakfast Bowl New*",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Meat (choice of)",
+        "qty": "1",
+        "unit": "Portion"
+      },
+      {
+        "name": "Onion yellow",
+        "qty": "1",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Egg Pan"
+      },
+      {
+        "name": "Liquid eggs",
+        "qty": "1.5",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Breakfast Potatoes",
+        "qty": "6",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "qty": "2",
+        "unit": "Weight oz"
+      }
+    ],
+    "steps": [
+      "Place the requested meat, and onions on the flat top",
+      "*Cook while you start your eggs*",
+      "Scramble eggs in a pan",
+      "Flip the meat and onions, and add cooked potatoes to the flat top",
+      "Place the cooked potatoes in a square bowl",
+      "Top potatoes with the scrambled eggs",
+      "Top the eggs with the Meat, Onions and Cheese",
+      "Garnish:",
+      "Plateware:"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvbeqtym3z7gwq",
+    "masterId": "m-mvbeqtymkcf1ub",
+    "location": "CBG"
   }
 ]
