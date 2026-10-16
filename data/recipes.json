@@ -115178,5 +115178,78 @@
     "id": "dk-bh-62",
     "masterId": "dk-tobasco-bacon-bloody-mary-m",
     "location": "Beach House"
+  },
+  {
+    "name": "Omelet New Orleans NEW",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter Cajun",
+        "qty": "2",
+        "unit": "Sunflower Scoop"
+      },
+      {
+        "name": "Sausage Kielbasa",
+        "qty": "1 link",
+        "unit": "4 Pieces sliced on the bias"
+      },
+      {
+        "name": "Peppers Piquillo (Diced)",
+        "qty": "1",
+        "unit": "2oz cup"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "2oz cup",
+        "name": "Mushroom (sliced)"
+      },
+      {
+        "name": "Cream Heavy Whipping",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Egg Pan"
+      },
+      {
+        "name": "Liquid eggs",
+        "qty": "1.5",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Cheddar/Jack cheese",
+        "qty": "1",
+        "unit": "4oz cup"
+      },
+      {
+        "name": "Bread",
+        "qty": "1",
+        "unit": "Slice"
+      }
+    ],
+    "steps": [
+      "Add Cajun butter to a sauté pan",
+      "Add kielbasa, mushrooms and peppers to a sauté pan, and stir while cooking",
+      "Once the ingredients are almost done, add the heavy cream and stir around.",
+      "Brush an omelet pan with butter",
+      "Add liquid eggs to the omelet pan and begin to cook",
+      "Once eggs are cooked through on the bottom, flip the omelet",
+      "Add the cheese, and fold the finished Cheese Omelet onto a large plate",
+      "Now top the omelet with all ingredients from the other sauté pan.",
+      "Expo:",
+      "Plateware:"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvbe2whaofkvkd",
+    "masterId": "m-mvbe2wha35ooyx",
+    "location": "CBG"
   }
 ]
