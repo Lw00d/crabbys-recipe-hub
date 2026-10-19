@@ -22741,18 +22741,18 @@
         "unit": "12/14 oz logo cup"
       },
       {
-        "name": "Dressing Caesar",
-        "qty": "1",
+        "name": "Dressing Caesar Roman",
+        "qty": "2",
         "unit": "2oz ladle"
       },
       {
         "name": "Cheese Parmesan",
         "qty": "dust",
-        "unit": "Top of the salad"
+        "unit": "top"
       },
       {
         "name": "Croutons",
-        "qty": "5 to 7",
+        "qty": "10 to 12",
         "unit": "Each"
       },
       {
@@ -22762,13 +22762,21 @@
       }
     ],
     "steps": [
-      "Place 2 -12/14oz logo cups of romaine lettuce in the mixing bowl",
-      "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a large salad bowl.",
-      "Place garlic bread on top of the salad."
+      "In a mixing bowl, toss 2- 12/14oz logo cup of romaine lettuce with cheese, croutons, and Caesar dressing.",
+      "Combine well.",
+      "Place in pasta bowl.",
+      "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Expo:",
+      "Garlic Bread (& Protein of choice if requested) ",
+      "Plateware:",
+      "Pasta bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
+    ]
   },
   {
     "id": "dm-pl-2",
@@ -22787,18 +22795,18 @@
         "unit": "12/14 oz logo cup"
       },
       {
-        "name": "Dressing Caesar",
-        "qty": "1",
+        "name": "Dressing Caesar Roman",
+        "qty": "2",
         "unit": "2oz ladle"
       },
       {
         "name": "Cheese Parmesan",
         "qty": "dust",
-        "unit": "Top of the salad"
+        "unit": "top"
       },
       {
         "name": "Croutons",
-        "qty": "5 to 7",
+        "qty": "10 to 12",
         "unit": "Each"
       },
       {
@@ -22808,13 +22816,21 @@
       }
     ],
     "steps": [
-      "Place 2 -12/14oz logo cups of romaine lettuce in the mixing bowl",
-      "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a large salad bowl.",
-      "Place garlic bread on top of the salad."
+      "In a mixing bowl, toss 2- 12/14oz logo cup of romaine lettuce with cheese, croutons, and Caesar dressing.",
+      "Combine well.",
+      "Place in pasta bowl.",
+      "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Expo:",
+      "Garlic Bread (& Protein of choice if requested) ",
+      "Plateware:",
+      "Pasta bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
+    ]
   },
   {
     "id": "dm-nb-40",
@@ -22851,8 +22867,7 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a large salad bowl.",
-      "Place garlic bread on top of the salad."
+      "Place in a small salad bowl."
     ],
     "notes": "",
     "images": []
@@ -22892,8 +22907,7 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a large salad bowl.",
-      "Place garlic bread on top of the salad."
+      "Place in a small salad bowl."
     ],
     "notes": "",
     "images": []
@@ -29164,7 +29178,7 @@
   {
     "id": "dm-si-51",
     "masterId": "dm-si-51-m",
-    "name": "Caesar Large & Small",
+    "name": "Caesar Salad Large ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -29206,7 +29220,6 @@
       "Garlic bread, Parmesan cheese, 7-9 Croutons",
       "Plateware:",
       "Large Salad Bowl",
-      "Small / Add on: Small Round Bowl",
       "Served - Plain Ceasar LG"
     ],
     "notes": "",
@@ -75430,14 +75443,14 @@
         "unit": "2oz ladle"
       },
       {
-        "name": "Croutons",
-        "qty": "7 to 9",
-        "unit": "Each"
-      },
-      {
         "name": "Cheese Parmesan",
         "qty": "dust",
         "unit": "top"
+      },
+      {
+        "name": "Croutons",
+        "qty": "10 to 12",
+        "unit": "Each"
       },
       {
         "name": "Bread Garlic Toast",
@@ -75449,18 +75462,17 @@
       "In a mixing bowl, toss 2- 12/14oz logo cup of romaine lettuce with cheese, croutons, and Caesar dressing.",
       "Combine well.",
       "Place in pasta bowl.",
-      "Garlic bread off to the side",
-      "Protein - If ordered gets placed on top",
+      "**Served plain or w/ requested protein (location options of protein will vary)**",
       "Expo:",
-      "Garlic bread",
+      "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
       "Pasta bowl"
     ],
-    "notes": "Served plain, w/ Chicken, or w/ Shrimp",
+    "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
     ]
   },
   {
@@ -75475,36 +75487,33 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Caesar Dressing Roman",
-        "qty": "1",
-        "unit": "2 oz ladle"
-      },
-      {
         "name": "Lettuce Romaine (Prep)",
         "qty": "1",
-        "unit": "12/14 oz logo cup"
+        "unit": "12/14oz logo cup"
       },
       {
-        "name": "Parmesan Cheese Grated",
-        "qty": "dust",
-        "unit": "top"
+        "name": "Dressing Caesar",
+        "qty": "1",
+        "unit": "2oz ladle"
+      },
+      {
+        "name": "Cheese Parmesan",
+        "qty": "",
+        "unit": "Dusting"
       },
       {
         "name": "Croutons",
-        "qty": "4 to 6",
+        "qty": "5 to 7",
         "unit": "Each"
       }
     ],
     "steps": [
-      "In a mixing bowl - toss a 12/14oz logo cup of romaine lettuce, with cheese, croutons, and Caesar dressing. Combine well.",
-      "Place on the correct plateware.",
-      "Plateware:",
-      "Small bowl"
+      "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
+      "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
+      "Place in a small salad bowl."
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Small_0.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-cds-109",
@@ -76342,13 +76351,13 @@
       "In a mixing bowl, toss 2- 12/14oz logo cup of romaine lettuce with cheese, croutons, and Caesar dressing.",
       "Combine well.",
       "Place in pasta bowl.",
+      "**Served plain or w/ requested protein (location options of protein will vary)**",
       "Expo:",
-      "Garlic bread",
+      "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
-      "Pasta bowl",
-      "Served w/ Garlic Bread & Chicken"
+      "Pasta bowl"
     ],
-    "notes": "Served plain or w/ Shrimp",
+    "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
@@ -76367,19 +76376,19 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Caesar Dressing Roman",
-        "qty": "1",
-        "unit": "2 oz ladle"
-      },
-      {
         "name": "Lettuce Romaine (Prep)",
         "qty": "1",
-        "unit": "12/14 oz logo cup"
+        "unit": "12/14oz logo cup"
       },
       {
-        "name": "Parmesan Cheese Grated",
-        "qty": "dust",
-        "unit": "top"
+        "name": "Dressing Caesar",
+        "qty": "1",
+        "unit": "2oz ladle"
+      },
+      {
+        "name": "Cheese Parmesan",
+        "qty": "",
+        "unit": "Dusting"
       },
       {
         "name": "Croutons",
@@ -76388,15 +76397,12 @@
       }
     ],
     "steps": [
-      "In a mixing bowl - toss a 12/14oz logo cup of romaine lettuce, with cheese, croutons, and Caesar dressing. Combine well.",
-      "Place on the correct plateware.",
-      "Plateware:",
-      "App plate or small bowl"
+      "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
+      "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
+      "Place in a small salad bowl."
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Small_CBG_0.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-cbg-107",
