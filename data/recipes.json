@@ -1215,7 +1215,9 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfbix1owszpnx.jpg"
+    ],
     "id": "m-mtctlfce4038cn",
     "masterId": "dm-cds-15-m",
     "location": "CBG"
@@ -23714,7 +23716,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nezhxegzmt.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nraxpkojv4.jpg"
     ]
   },
   {
@@ -23775,29 +23779,30 @@
         "unit": "All the fish"
       },
       {
-        "name": "Prep as requested",
+        "name": "Cook As Requested",
         "qty": "",
         "unit": ""
       }
     ],
     "steps": [
       "Note: We do not skin or debone the fillets. We cook it as we receive it.",
-      "Take the fish from the bag, drain the liquid.",
-      "Prepare as requested. (SEE FISH Cooking Method)",
-      "Cook accordingly.",
-      "Fried -Transfer to save a day.",
-      "Grilled or blackened, place on the correct Plateware.",
+      "Remove the fish from the bag, drain the liquid",
+      "Prepare as requested",
+      "Cook as requested",
+      "Fried - Transfer to a Sav-a-Day to drain excess oil.",
+      "Grilled or Blackened - Baste with garlic spread",
+      "Place on correct Plateware.",
       "Expo:",
-      "lemon, requested sides (regular sides)",
+      "chopped parsley, lemons, requested sides",
       "Garnish:",
-      "Single - 1 lemon wedge, or Family 3 or 4 wedges",
+      "Single - 1 lemon wedge, or Family 3 wedges",
       "Plateware:",
-      "Single order - Dinner Plate, /",
-      "FRIED - Lined round basket with individual sides",
-      "Family Style - on a lined 1/4 tray side in bowls"
+      "Dinner Plate, Sides on plate",
+      "Family Style - Dinner Plate, Sides on a side plate"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfb95nvlp6ifs.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_2.jpg"
@@ -27007,7 +27012,7 @@
   {
     "id": "dm-si-15",
     "masterId": "dm-grouper-m",
-    "name": "Grouper",
+    "name": "Grouper Bowl",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -27093,7 +27098,7 @@
   {
     "id": "dm-si-16",
     "masterId": "dm-grouper-m",
-    "name": "Grouper",
+    "name": "Grouper Bowl",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -27179,7 +27184,7 @@
   {
     "id": "dm-si-17",
     "masterId": "dm-grouper-m",
-    "name": "Grouper",
+    "name": "Grouper Dinner",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -28486,7 +28491,10 @@
       "1/4 Lined sheet tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfa08hlgyze75.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9yogk20ew39.jpg"
+    ]
   },
   {
     "id": "dm-si-37",
@@ -31214,7 +31222,9 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfbix1owszpnx.jpg"
+    ]
   },
   {
     "id": "dm-cds-16",
@@ -31769,7 +31779,9 @@
       "7\" Rectangular Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfbehc5sged9t.jpg"
+    ]
   },
   {
     "id": "dm-pl-23",
@@ -32174,7 +32186,10 @@
       "7\" Round plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfbfduw4bg13n.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfbggj9apgc56.jpg"
+    ]
   },
   {
     "id": "dm-pl-29",
@@ -33345,7 +33360,9 @@
       "Round Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfafnpgajn4al.jpg"
+    ]
   },
   {
     "id": "dm-pl-51",
@@ -33647,7 +33664,9 @@
       "Lined 1/4 tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf96sgxtbx546.jpg"
+    ]
   },
   {
     "id": "dm-pl-57",
@@ -33855,7 +33874,12 @@
       "Lined 1/4 Tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9fm6gsm0euq.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9jrapqyuu6g.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9ke7tsp4b9t.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9x1naiiwiga.jpg"
+    ]
   },
   {
     "id": "dm-pl-60",
@@ -33899,7 +33923,7 @@
       "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
       "Drain before plating onto a lined 1/4 tray",
-      "Grilled/ Fire Roasted:",
+      "Grilled/Fire Roasted:",
       "Place drained boiled crab on a large sizzler pan",
       "Coat generously with garlic spread and Old Bay",
       "Place in a salamander or a 450°F oven for 2 to 3 minutes or until the seasoning is golden brown",
@@ -33913,19 +33937,22 @@
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Steak Time Guide:",
-      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130–140°F",
-      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
+      "Rare - 4 minutes on flat top - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - 5 minutes on flat top - a warm red center, otherwise pink 130-140°F",
+      "Medium - 7 minutes on flat top - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150-160°F",
       "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo:",
-      "2 sides, 2oz butter, lemon wedge, steak knife",
+      "requested sides, 2oz butter, chopped parsley, lemon wedge, steak knife",
       "Plateware:",
-      "Lined 1/4 tray"
+      "White Combo Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg"
+    ]
   },
   {
     "id": "dm-pl-61",
@@ -63860,7 +63887,11 @@
       "The sandwich is served pressed and closed"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf90svx0457x6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf91k9sg0hz2b.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf91pd04h1qgv.jpg"
+    ]
   },
   {
     "id": "bm-nb-31",
@@ -69389,7 +69420,9 @@
       "White Combo Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9sdzvppidzk.jpg"
+    ]
   },
   {
     "id": "dm-cds-50",
@@ -69459,7 +69492,10 @@
       "White Combo Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg"
+    ]
   },
   {
     "id": "dm-cds-51",
@@ -72244,7 +72280,7 @@
         "unit": "Each"
       },
       {
-        "name": "Cook as requested Fr/G, or Blk",
+        "name": "Prepare as requested Blk/Fr/Gr",
         "qty": "",
         "unit": ""
       },
@@ -72279,12 +72315,14 @@
       "Transfer to a Save-A-Day to drain excess oil.",
       "Place Grouper on toasted bun and serve.",
       "Expo:",
-      "2 sides, 2oz butter, lemon wedge",
+      "requested sides, chopped parsley, 2oz butter, lemon wedge",
       "Plateware:",
-      "Lined 1/4 Tray"
+      "White Combo Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9sdzvppidzk.jpg"
+    ]
   },
   {
     "id": "dm-cbg-74",
@@ -72349,12 +72387,15 @@
       "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered medium well and well done will be butterflied unless the guest requests not to be butterflied.",
       "Expo:",
-      "2 sides, 2oz butter, lemon wedge, steak knife",
+      "requested sides, 2oz butter, chopped parsley, lemon wedge, steak knife",
       "Plateware:",
-      "Lined 1/4 Tray, app plate"
+      "White Combo Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg"
+    ]
   },
   {
     "id": "dm-cbg-75",
@@ -72398,14 +72439,18 @@
       "Cook for 4-6 minutes, till cooked and hot throughout.",
       "Remove and drain the water. HOT place on the appropriate plate. COLD submerge in an ice bath to completely chill and stop the cooking process. Drain the shrimp, and place them on the correct plateware.",
       "Hot or Cold sprinkle with Old Bay",
-      "Once the Ribs are done, place them on a lined 1/4 tray, and then place the Shrimp alongside the Ribs",
+      "Scampi:",
+      "Add 4oz ladle of Scampi sauce to a sauté pan",
+      "Add Shrimp to the pan, cook for 3-4 minutes, and toss the shrimp around to cook and coat evenly ",
       "Expo:",
       "4oz butter, lemon wedge, 2 sides",
       "Plateware:",
       "Lined 1/4 Tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfa6v3h20koc3.jpg"
+    ]
   },
   {
     "id": "dm-cbg-76",
@@ -74911,6 +74956,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfb95nvlp6ifs.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Boat_Fish_2.jpg"
@@ -74975,22 +75021,26 @@
       "STEAMED:",
       "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
-      "Drain before plating onto a Combo platter or 1/4 lined tray",
+      "Pull and drain the water off the crab before plating",
       "GRILLED:",
-      "Place drained boiled crab on a large sizzler pan.",
+      "Place the drained boiled crab on a large sizzler pan.",
       "Coat generously with garlic spread and Old Bay,",
-      "Place in a salamander or 450°F oven for 2 to 3 minutes or until seasoning is golden brown.",
-      "Place the crab on the lined 1/4 tray",
+      "Then place in a salamander or 450- 500°F oven for 1 to 3 minutes or until seasoning is golden brown.",
+      "Do Not Burn the shell or seasoning.",
       "Expo:",
-      "chopped parsley, sides, Lemon wedge, 4oz of butter",
+      "2 sides, Lemon wedge, 4oz of butter",
       "Plateware:",
-      "Combo Platter"
+      "1/4 Lined sheet tray",
+      "5# Bairdi Portion Fire Roasted",
+      "Add On -3/4# Bairdi Portion Traditional Steamed"
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nezhxegzmt.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nraxpkojv4.jpg"
     ]
   },
   {
