@@ -89385,7 +89385,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-3",
     "masterId": "dp-sb-3-m",
     "location": "Sandbar"
@@ -89454,7 +89454,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-4",
     "masterId": "dp-sb-4-m",
     "location": "Sandbar"
@@ -89529,7 +89529,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-5",
     "masterId": "dp-sb-5-m",
     "location": "Sandbar"
@@ -89628,7 +89628,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-7",
     "masterId": "dp-sb-7-m",
     "location": "Sandbar"
@@ -89697,7 +89697,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-8",
     "masterId": "dp-sb-8-m",
     "location": "Sandbar"
@@ -89876,7 +89876,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-11",
     "masterId": "dp-sb-11-m",
     "location": "Sandbar"
@@ -90224,7 +90224,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-17",
     "masterId": "dp-sb-17-m",
     "location": "Sandbar"
@@ -90270,7 +90270,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-18",
     "masterId": "dp-sb-18-m",
     "location": "Sandbar"
@@ -90349,7 +90349,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-20",
     "masterId": "dp-sb-20-m",
     "location": "Sandbar"
@@ -90622,7 +90622,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-27",
     "masterId": "dp-sb-27-m",
     "location": "Sandbar"
@@ -90685,7 +90685,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-28",
     "masterId": "dp-sb-28-m",
     "location": "Sandbar"
@@ -90736,7 +90736,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-29",
     "masterId": "dp-sb-29-m",
     "location": "Sandbar"
@@ -90831,7 +90831,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-31",
     "masterId": "dp-sb-31-m",
     "location": "Sandbar"
@@ -90888,7 +90888,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-32",
     "masterId": "dp-sb-32-m",
     "location": "Sandbar"
@@ -90994,7 +90994,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-34",
     "masterId": "dp-sb-34-m",
     "location": "Sandbar"
@@ -91063,7 +91063,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-35",
     "masterId": "dp-sb-35-m",
     "location": "Sandbar"
@@ -91150,7 +91150,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-36",
     "masterId": "dp-sb-36-m",
     "location": "Sandbar"
@@ -91175,7 +91175,7 @@
     "steps": [],
     "notes": "Please save veg trimmings to make the veg stock. Onion, carrot, celery, broccolini tips etc.... nothing red.",
     "images": [],
-    "active": true,
+    "active": false,
     "id": "dp-sb-37",
     "masterId": "dp-sb-37-m",
     "location": "Sandbar"
@@ -103419,7 +103419,7 @@
   {
     "name": "Lobster Roll Sauce",
     "category": "Dinner Prep",
-    "submenu": "Prep",
+    "submenu": "Cold Prep",
     "yield": "4 Quart",
     "portions": "32",
     "portionSize": "4 OZ-fl",
@@ -117577,7 +117577,7 @@
     "yield": "1 quart",
     "portions": "??",
     "portionSize": "??",
-    "shelfLife": "",
+    "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
@@ -117701,7 +117701,13 @@
       }
     ],
     "steps": [
-      ""
+      "Wash and dry herbs well.",
+      "Rough chop scallions, herbs, garlic, ginger and peppers.",
+      "Add all ingredients except the oil to blender or robo coupe???",
+      "Pulse until finely chopped.",
+      "Stream in oil with blender running to emulsify sauce. ",
+      "Adjust seasoning if needed.",
+      "Rest 30 minutes before using. "
     ],
     "notes": "",
     "images": [],
@@ -117950,6 +117956,12 @@
         "qty2": "",
         "unit": "oz-wt",
         "name": "Kosher Salt"
+      },
+      {
+        "qty": "??",
+        "qty2": "",
+        "unit": "??",
+        "name": "coco lopez"
       }
     ],
     "steps": [
