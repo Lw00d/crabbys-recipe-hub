@@ -116841,5 +116841,176 @@
     "id": "tg-nb-5",
     "masterId": "tg-pumpkin-pie-m",
     "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Ultimate Shrimp Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16/20 Shrimp Skewer",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "each",
+        "name": "EZ Peel Shrimp"
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "each",
+        "name": "Coconut Crusted SHrimp"
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Cocktail Sauce",
+        "qty": "2",
+        "unit": "OZ-fl",
+        "qty2": ""
+      },
+      {
+        "name": "Chopped Parsley",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Premium Side"
+      }
+    ],
+    "steps": [
+      "Pull out shrimp skewer, season and cook on the grill. - Brush with lemon butter",
+      "Pull coconut shrimp and fry, set aside in save a day",
+      "Pull ez peel shrimp out and cook in seasoned old bay water. ",
+      "Prepare the order sides and build plate accordingly. ",
+      "Expo:",
+      "Cocktail Sauce - 2 oz ramekin",
+      "Thai Chili sauce - 2 oz ramekin",
+      "Lemon Wedge - Garnish",
+      "Sides:",
+      "Served with (1) regular and (1)premium side"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mvgsbg0xe1no1q",
+    "masterId": "m-mvgsbg0x0dvjyu",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Rum Runner Ribs Combo",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Prepped Ribs (portion)",
+        "qty": "0.5",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Rum Runner Glaze",
+        "qty": "0.5",
+        "unit": "cup",
+        "qty2": ""
+      },
+      {
+        "name": "Pickled Pineapple Slaw",
+        "qty": "2",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Cilantro, Chopped",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "name": "Lime Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Regular Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Premium Side",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "each",
+        "name": "Royal Red Shrimp"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "Coconut Shrimp "
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "EZ Peel Shrimp"
+      },
+      {
+        "qty": "5",
+        "qty2": "",
+        "unit": "each",
+        "name": "Hot honey Chicken Tenders"
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Pickled Pineapple Slaw — garnish on top.",
+      "Cilantro, Chopped — garnish on top.",
+      "Lime Wedge — garnish.",
+      "Combo Adds:",
+      "8 each Royal Red Shrimp",
+      "6 each Coconut Shrimp ",
+      "6 each EZ Peel Shrimp",
+      "5 each Hot honey Chicken Tenders"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mvgs7b2yi4npo6",
+    "masterId": "m-mvgs7b2yqercxb",
+    "location": "Sandbar"
   }
 ]
