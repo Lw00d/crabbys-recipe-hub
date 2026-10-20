@@ -118098,5 +118098,31 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "id": "m-mvh6gflqgpjf34",
+    "masterId": "m-mvh6gflqgpjf34",
+    "name": "Street Corn Succotash Base",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "???",
+    "portions": "???",
+    "portionSize": "???",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "5",
+        "unit": "lbs",
+        "name": ""
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
