@@ -105537,7 +105537,7 @@
   {
     "name": "Floribbean Beach Bowl",
     "category": "Dinner Menu",
-    "submenu": "Tacos / Bowls",
+    "submenu": "Soup - Salad - Dessert",
     "yield": "",
     "portions": "",
     "portionSize": "",
@@ -105563,9 +105563,9 @@
         "qty2": ""
       },
       {
-        "name": "Jerk Seasoning",
-        "qty": "a",
-        "unit": "pinch",
+        "name": "Pickled Pineapple Slaw",
+        "qty": "3.5",
+        "unit": "oz-wt",
         "qty2": ""
       },
       {
@@ -105575,19 +105575,48 @@
         "qty2": ""
       },
       {
-        "name": "Pickled Pineapple Slaw",
-        "qty": "3.5",
-        "unit": "oz-wt",
-        "qty2": ""
+        "qty": "1",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Green Jerk Glaze"
       },
       {
         "name": "Toasted Sweet Coconut",
         "qty": "as",
         "unit": "garnish",
         "qty2": ""
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "ea",
+        "name": "16/20 Shrimp Skewers"
+      },
+      {
+        "name": "Jerk Seasoning",
+        "qty": "a",
+        "unit": "pinch",
+        "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "micro cilantro"
       }
     ],
-    "steps": [],
+    "steps": [
+      "Grill:",
+      "Season shrimp skewers with jerk seasoning and grill.  - Sell to Expo",
+      "Fry:",
+      "Fry sweet plantains and toss with island jerk glaze - sell to pantry",
+      "Pantry:",
+      "Place warm rice in center of salad bowl.",
+      "Place remaining ingredients around the rice in small piles - plantains / mango / pickled pineapple slaw. Garnish with green jerk sauce, jerk glaze and toasted coconut.",
+      "Expo:",
+      "Plate cooked shrimp skewers on top off rice bowl.",
+      "Micro Cilantro - garnish on top"
+    ],
     "notes": "",
     "images": [],
     "active": true,
@@ -117418,5 +117447,80 @@
     "id": "m-mvgsjos3yljuaq",
     "masterId": "m-mvgsjos3hdlfft",
     "location": "Sandbar"
+  },
+  {
+    "id": "m-mvgxr24miq4bws",
+    "masterId": "m-mvgxr24miq4bws",
+    "name": "Side Buttered Pasta",
+    "location": "Sandbar",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "half",
+        "unit": "portion",
+        "name": "Fettuccine pasta "
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "butter"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "oz",
+        "name": "Shaved parmesan cheese"
+      }
+    ],
+    "steps": [
+      "Drop pasta in boiling water to heat up. Drain well.",
+      "In a sauté pan, melt the butter.",
+      "Toss pasta in with the butter and plate onto the side bowl.",
+      "Top with shaved parmesan"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvgxmzk91v42d2",
+    "masterId": "m-mvgxmzk91v42d2",
+    "name": "Side Sweet Plantains",
+    "location": "Sandbar",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "3",
+        "unit": "oz-wt",
+        "name": "Sweet Plantains"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Island Jerk Glaze"
+      }
+    ],
+    "steps": [
+      "Fry plantains for about 2-3 minutes until hot with a little color.",
+      "Toss in a bowl with the island jerk glaze and salt",
+      "Plate in the side bowl plate and sell. "
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
