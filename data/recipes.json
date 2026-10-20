@@ -117012,5 +117012,65 @@
     "id": "m-mvgs7b2yi4npo6",
     "masterId": "m-mvgs7b2yqercxb",
     "location": "Sandbar"
+  },
+  {
+    "name": "Huevos Rancheros Tortilla Chips",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tortilla Chips",
+        "qty": "8",
+        "unit": "Each"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Pan"
+      },
+      {
+        "name": "Eggs",
+        "qty": "2",
+        "unit": "Each"
+      },
+      {
+        "name": "Black Beans",
+        "qty": "4",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Queso Fresco",
+        "qty": "2",
+        "unit": "Weight oz"
+      },
+      {
+        "name": "Rancher Sauce (prep)",
+        "qty": "2",
+        "unit": "Vol oz"
+      },
+      {
+        "name": "Avocado Salsa",
+        "qty": "4",
+        "unit": "Vol oz"
+      }
+    ],
+    "steps": [
+      "Place corn chips in bowl in 2 stacks of 4",
+      "Layer black beans then cheese over tortilla chip stacks",
+      "Place the pico next",
+      "Brush egg pan w/ butter",
+      "Cook 2 eggs sunny side up and place 1 over the top of each stack",
+      "Top with 1oz Pico",
+      "Expo:",
+      "Add avocado salsa, queso, ranchero sauce, jalapeno slices, cilantro, and lime wedge"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvgva15c4oly8e",
+    "masterId": "m-mvgva15cc5r0c0",
+    "location": "CBG"
   }
 ]
