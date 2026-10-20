@@ -105625,21 +105625,15 @@
     "location": "Sandbar"
   },
   {
-    "name": "Tropical Salad",
+    "name": "Tropical Coconut Salad",
     "category": "Dinner Menu",
-    "submenu": "Tacos / Bowls",
+    "submenu": "Soup - Salad - Dessert",
     "yield": "",
     "portions": "",
     "portionSize": "",
     "shelfLife": "",
     "smallware": "",
     "ingredients": [
-      {
-        "name": "Baby Kale",
-        "qty": "1.5",
-        "unit": "oz-wt",
-        "qty2": ""
-      },
       {
         "name": "Romaine, cut",
         "qty": "4",
@@ -105653,27 +105647,27 @@
         "qty2": ""
       },
       {
-        "name": "Carrot, shredded",
-        "qty": "0.75",
+        "name": "Baby Kale",
+        "qty": "1.5",
         "unit": "oz-wt",
         "qty2": ""
       },
       {
         "name": "Red Bell Pepper, diced",
-        "qty": "0.75",
+        "qty": "1",
+        "unit": "oz-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Carrot, shredded",
+        "qty": "1",
         "unit": "oz-wt",
         "qty2": ""
       },
       {
         "name": "Pineapple, diced",
-        "qty": "2",
+        "qty": "2.5",
         "unit": "oz-wt",
-        "qty2": ""
-      },
-      {
-        "name": "Cilantro, chopped",
-        "qty": "a",
-        "unit": "pinch",
         "qty2": ""
       },
       {
@@ -105684,7 +105678,7 @@
       },
       {
         "name": "Macadamia Nuts (toasted and chopped)",
-        "qty": "0.5",
+        "qty": "1",
         "unit": "oz-wt",
         "qty2": ""
       },
