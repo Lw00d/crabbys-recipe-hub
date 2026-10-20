@@ -117908,5 +117908,55 @@
     "id": "m-mvh4o5aa8hv9l6",
     "masterId": "m-mvh4o5aaskqizp",
     "location": "Sandbar"
+  },
+  {
+    "id": "m-mvh4tfw63j4uqr",
+    "masterId": "m-mvh4tfw63j4uqr",
+    "name": "Coconut Rice",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "21.4lbs",
+    "portions": "6 oz-wt",
+    "portionSize": "57",
+    "shelfLife": "1 day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "5",
+        "unit": "lbs",
+        "name": "Jasmine Rice"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "quarts",
+        "name": "Coconut Milk"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "quarts",
+        "name": "Water"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Sugar"
+      },
+      {
+        "qty": "1.5",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Kosher Salt"
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
