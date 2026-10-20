@@ -60783,7 +60783,7 @@
   {
     "id": "bm-cbg-36",
     "masterId": "bm-cbg-36-m",
-    "name": "Steak and Eggs",
+    "name": "Steak and Eggs (NY Strip)",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -60797,7 +60797,7 @@
         "unit": "Each"
       },
       {
-        "name": "Steak Seasoning",
+        "name": "All Purpose Seasoning",
         "qty": "",
         "unit": "Dust steak"
       },
@@ -60818,7 +60818,7 @@
       }
     ],
     "steps": [
-      "Generously season both sides with requested seasoning.",
+      "Generously season both sides with all-purpose seasoning.",
       "Place on the hot zone of the char grill.",
       "Rotate 10 → 2 to set the diamond marks.",
       "Flip and repeat 10 → 2 so there are full diamonds on both sides.",
