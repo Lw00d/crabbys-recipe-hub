@@ -105924,7 +105924,7 @@
         "qty2": ""
       },
       {
-        "name": "Blue Cheese Butter",
+        "name": "Blue Cheese Basil Butter",
         "qty": "1",
         "unit": "OZ-wt",
         "qty2": ""
@@ -117319,6 +117319,96 @@
       "Bring to a light simmer - don't boil",
       "Cool Completely.",
       "Wrap / label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvh0erbio7kvdh",
+    "masterId": "m-mvh0erbio7kvdh",
+    "name": "Blue Cheese Basil Butter",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "?????",
+    "portions": "???",
+    "portionSize": "???",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "2",
+        "unit": "lbs",
+        "name": "Butter, softened"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Blue cheese, crumbles "
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Garlic Oil"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Basil, finely chopped"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Parsley, finely chopped"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Lemon Zest"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Lemon Juice"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Worcestershire Sauce"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Honey"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Black pepper"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Kosher Salt"
+      }
+    ],
+    "steps": [
+      "Whip softened butter until light and aerated.",
+      "Add blue cheese and whip until incorporated, leaving some small pieces intact. ",
+      "Add garlic confit oil, basil, parsley, lemon zest, lemon juice, Worcestershire, honey, salt and pepper",
+      "Whip until evenly incorporated.",
+      "Wrap / label / date"
     ],
     "notes": "",
     "images": [],
