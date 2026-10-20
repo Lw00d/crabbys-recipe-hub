@@ -117974,5 +117974,129 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "id": "m-mvh5o1nonjx7po",
+    "masterId": "m-mvh5o1nonjx7po",
+    "name": "Rum Runner BBQ Base",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "2 quarts",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "4",
+        "unit": "cups",
+        "name": "BBQ Sauce - Sweet Baby Ray's Original"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "cups",
+        "name": "Pineapple Juice"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Orange Juice"
+      },
+      {
+        "qty": "1 ",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Myers Dark Rum"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Brown sugar"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Apple Cider Vinegar"
+      },
+      {
+        "qty": ".25",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Soy Sauce"
+      },
+      {
+        "qty": ".25",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Dijon Mustard"
+      }
+    ],
+    "steps": [
+      "Combine all ingredients in a saucepan and bring to a simmer.",
+      "Simmer on low for 15 minutes, stirring occasionally. ",
+      "Cool quickly.",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvh5im2qmndtph",
+    "masterId": "m-mvh5im2qmndtph",
+    "name": "Rum Runner Glaze",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "oz-wt",
+        "name": "Butter"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "Myers Dark Rum"
+      },
+      {
+        "qty": ".25",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Honey"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Green Jerk Sauce"
+      },
+      {
+        "qty": "3",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Rum Runner BBQ Base"
+      }
+    ],
+    "steps": [
+      "Combine rum runner BBQ base, green jerk sauce, honey and rum in a saucepan.",
+      "Bring to a gentle simmer for 2-3 minutes.",
+      "Whisk in butter.",
+      "Hold warm for service."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
