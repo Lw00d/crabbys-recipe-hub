@@ -84604,7 +84604,7 @@
         "qty2": ""
       },
       {
-        "name": "Focaccia Bread (1/6 of Sheet)",
+        "name": "Focaccia Bread 1/6 of Sheet",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -84678,7 +84678,7 @@
         "qty2": ""
       },
       {
-        "name": "Focaccia Bread (1/6 of Sheet)",
+        "name": "Focaccia Bread 1/6 of Sheet",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -84752,7 +84752,7 @@
         "qty2": ""
       },
       {
-        "name": "Focaccia Bread (1/6 of Sheet)",
+        "name": "Focaccia Bread 1/6 of Sheet",
         "qty": "1",
         "unit": "Each",
         "qty2": ""
@@ -117012,10 +117012,22 @@
         "qty2": ""
       },
       {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Combo Adds:"
+      },
+      {
         "qty": "8",
         "qty2": "",
         "unit": "each",
         "name": "Royal Red Shrimp"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
       },
       {
         "qty": "6",
@@ -117024,10 +117036,22 @@
         "name": "Coconut Shrimp "
       },
       {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
+      },
+      {
         "qty": "6",
         "qty2": "",
         "unit": "each",
         "name": "EZ Peel Shrimp"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
       },
       {
         "qty": "5",
