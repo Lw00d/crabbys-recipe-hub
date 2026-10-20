@@ -117772,5 +117772,71 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Oysters Crabbyfellars Half Dozen",
+    "category": "Dinner Menu",
+    "yield": "",
+    "shelfLife": "1 Day",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shucked Oyster / Oyster half shell",
+        "qty": "6",
+        "unit": "each"
+      },
+      {
+        "qty": "as needed",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Garlic Butter melted"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Crab & Spin Dip (1 on each oyster)"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "teaspoons",
+        "name": "Cheddar Jack Cheese Mix (1 on each oyster)"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "teaspoons",
+        "name": "Cooked Bacon Bits (1 on each oyster)"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Beurre Blanc - topped on top after baked "
+      }
+    ],
+    "steps": [
+      "Oyster Prep:",
+      "Make sure there isn't any shells in the oyster.",
+      "Cut the muscle off the bottom of the shell and place on sheet tray.",
+      "Crabbyfellars Prep:",
+      "Top Oysters in this order......",
+      "Garlic Butter / Crab and Spin Dip / Cheese Mix / Bacon Bits",
+      "Bake in oven for 6-7 minutes until cheese is melted and lightly colored.",
+      "Plate oysters and drizzle beurre blanc sauce over top to sell. "
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4lh7dxab2w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e3ww37k6dza.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4hc6r1pw31.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e4yxb0y77jn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8e539nxx4dn3.png"
+    ],
+    "id": "m-mvh44gi2tn5w1y",
+    "masterId": "m-mvh44gi2tbfww9",
+    "location": "Sandbar",
+    "submenu": "Appetizers"
   }
 ]
