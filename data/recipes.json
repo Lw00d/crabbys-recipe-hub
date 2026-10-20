@@ -105984,7 +105984,7 @@
         "qty2": ""
       },
       {
-        "name": "Buffalo Hot Honey",
+        "name": "Hot Honey Sauce",
         "qty": "1.5",
         "unit": "fl-oz",
         "qty2": ""
@@ -106338,10 +106338,22 @@
         "qty2": ""
       },
       {
-        "name": "Regular / Premium Side",
+        "name": "Regular Side",
         "qty": "1",
         "unit": "each",
         "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Premium Side"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Combo Add ons:"
       },
       {
         "name": "16/20 Shrimp, Tail on — blackened, grilled or fried (One Choice of the following)",
@@ -106350,10 +106362,22 @@
         "qty2": ""
       },
       {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
+      },
+      {
         "name": "Coconut Shrimp — fried (One Choice of the following)",
         "qty": "6",
         "unit": "each",
         "qty2": ""
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
       },
       {
         "name": "Peel n Eat Shrimp — old bay steamed (One Choice of the following)",
@@ -116724,82 +116748,6 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Ultimate Shrimp Platter",
-    "category": "Dinner Menu",
-    "submenu": "Entree",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "16/20 Shrimp Skewer",
-        "qty": "4",
-        "unit": "each",
-        "qty2": ""
-      },
-      {
-        "qty": "4",
-        "qty2": "",
-        "unit": "each",
-        "name": "EZ Peel Shrimp"
-      },
-      {
-        "qty": "4",
-        "qty2": "",
-        "unit": "each",
-        "name": "Coconut Crusted SHrimp"
-      },
-      {
-        "name": "Lemon Wedge",
-        "qty": "1",
-        "unit": "Each",
-        "qty2": ""
-      },
-      {
-        "name": "Cocktail Sauce",
-        "qty": "2",
-        "unit": "OZ-fl",
-        "qty2": ""
-      },
-      {
-        "name": "Chopped Parsley",
-        "qty": "as",
-        "unit": "garnish",
-        "qty2": ""
-      },
-      {
-        "name": "Regular Side",
-        "qty": "1",
-        "unit": "each",
-        "qty2": ""
-      },
-      {
-        "qty": "1",
-        "qty2": "",
-        "unit": "each ",
-        "name": "Premium Side"
-      }
-    ],
-    "steps": [
-      "Pull out shrimp skewer, season and cook on the grill. - Brush with lemon butter",
-      "Pull coconut shrimp and fry, set aside in save a day",
-      "Pull ez peel shrimp out and cook in seasoned old bay water. ",
-      "Prepare the ordered sides and build plate accordingly. ",
-      "Expo:",
-      "Cocktail Sauce - 2 oz ramekin",
-      "Thai Chili sauce - 2 oz ramekin",
-      "Lemon Wedge - Garnish",
-      "Sides:",
-      "Served with (1) regular and (1)premium side"
-    ],
-    "notes": "",
-    "images": [],
-    "active": true,
-    "id": "m-mvgsbg0xe1no1q",
-    "masterId": "m-mvgsbg0x0dvjyu",
-    "location": "Sandbar"
-  },
-  {
     "name": "Rum Runner Ribs Combo",
     "category": "Dinner Menu",
     "submenu": "Combo",
@@ -117149,95 +117097,6 @@
     "active": true
   },
   {
-    "name": "Surf n Turf",
-    "category": "Dinner Menu",
-    "submenu": "Entree",
-    "yield": "",
-    "portions": "",
-    "portionSize": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "16oz Bone In Ribeye",
-        "qty": "1",
-        "unit": "Each",
-        "qty2": ""
-      },
-      {
-        "name": "Blue Cheese Butter",
-        "qty": "1",
-        "unit": "OZ-wt",
-        "qty2": ""
-      },
-      {
-        "name": "Salt and Pepper",
-        "qty": "to",
-        "unit": "taste",
-        "qty2": ""
-      },
-      {
-        "qty": "1",
-        "qty2": "",
-        "unit": "each",
-        "name": "regular side"
-      },
-      {
-        "qty": "1",
-        "qty2": "",
-        "unit": "each",
-        "name": "premium side"
-      },
-      {
-        "qty": "",
-        "qty2": "",
-        "unit": "",
-        "name": "Surf n Turf Add Ons"
-      },
-      {
-        "qty": "8",
-        "qty2": "",
-        "unit": "each",
-        "name": "16/20 Shrimp Skewer"
-      },
-      {
-        "qty": "",
-        "qty2": "",
-        "unit": "",
-        "name": "or"
-      },
-      {
-        "qty": "6",
-        "qty2": "",
-        "unit": "each",
-        "name": "Coconut Shrimp"
-      },
-      {
-        "qty": "",
-        "qty2": "",
-        "unit": "",
-        "name": "or"
-      },
-      {
-        "qty": "6",
-        "qty2": "",
-        "unit": "each",
-        "name": "EZ Peel Shrimp"
-      }
-    ],
-    "steps": [
-      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
-      "Pull Steak and let rest",
-      "Cut a ring of butter and place on top of the steak before going out."
-    ],
-    "notes": "",
-    "images": [],
-    "active": true,
-    "id": "m-mvgsspwpad85h7",
-    "masterId": "m-mvgsspwpr4f4hv",
-    "location": "Sandbar"
-  },
-  {
     "name": "Bairdi Crab Steamer Combo Platter",
     "category": "Dinner Menu",
     "submenu": "Combo",
@@ -117395,6 +117254,71 @@
       "Fry plantains for about 2-3 minutes until hot with a little color.",
       "Toss in a bowl with the island jerk glaze and salt",
       "Plate in the side bowl plate and sell. "
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvh07fey64cbq6",
+    "masterId": "m-mvh07fey64cbq6",
+    "name": "Hot Honey Sauce",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Hot Prep",
+    "yield": "6.5 cups",
+    "portions": "34",
+    "portionSize": "1.5 fl-oz",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "4",
+        "unit": "cups",
+        "name": "Honey"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Buffalo Sauce"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Apple Cider Vinegar"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "Crushed Red Pepper Flakes"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Teaspoon",
+        "name": "Cayenne Pepper"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Teaspoon",
+        "name": "Kosher Salt"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Butter"
+      }
+    ],
+    "steps": [
+      "Combine honey, buffalo sauce, vinegar, pepper flakes, cayenne pepper and salt.",
+      "Bring to a light simmer - don't boil",
+      "Cool Completely.",
+      "Wrap / label / Date"
     ],
     "notes": "",
     "images": [],
