@@ -117523,5 +117523,48 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "id": "m-mvh23dizgz2eqy",
+    "masterId": "m-mvh23dizgz2eqy",
+    "name": "Pickled Pineapple Slaw",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "???",
+    "portions": "??/",
+    "portionSize": "???",
+    "shelfLife": "6 hours ",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "lbs",
+        "name": "Red Cabbage, shredded"
+      },
+      {
+        "qty": "12",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Tropical Giardiniera"
+      },
+      {
+        "qty": "4",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "Pickling liquid from Tropical Giardiniera"
+      }
+    ],
+    "steps": [
+      "Add shredded red cabbage and pickling liquid to a bowl and set aside.",
+      "Chop up the pineapple, red onion, jalapeno and ginger (Tropical Giardiniera) into small pieces",
+      "Add chopped vegetables to shredded red cabbage and pickling liquid",
+      "Toss well and let sit for 10 minutes to marinate. ",
+      "Toss again and transfer to 1/6 pan",
+      "Wrap / Label / Date "
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
