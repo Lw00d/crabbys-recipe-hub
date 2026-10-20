@@ -88651,7 +88651,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Side French Fries",
+    "name": "Side Garlic - Parm Fries",
     "category": "Dinner Menu",
     "submenu": "Sides",
     "yield": "",
@@ -88671,15 +88671,33 @@
         "qty": "as",
         "unit": "needed",
         "qty2": ""
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Shaved Parm"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Chopped Chives"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "chopped Parsley"
       }
     ],
     "steps": [
-      "Cook the French Fries to order at the fry station."
+      "Cook the French Fries to order at the fry station.",
+      "In a bowl, toss the fries, garlic, herbs, seasoning and parmesan.",
+      "Plate in the side bowl."
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv5iouj5wun4vv.jpg"
-    ],
+    "images": [],
     "active": true,
     "id": "dm-sb-55",
     "masterId": "dm-sb-55-m",
@@ -117131,5 +117149,274 @@
     "id": "m-mvgw8pu13kklqa",
     "masterId": "m-mvgw8pu17fdz6y",
     "location": "CBG"
+  },
+  {
+    "name": "Side French Fries",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "French Fries",
+        "qty": "5",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Greek Seasoning",
+        "qty": "as",
+        "unit": "needed",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Cook the French Fries to order at the fry station."
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvgxksxqpt8cw7.jpg"
+    ],
+    "active": true,
+    "id": "m-mvgxhtmhywxley",
+    "masterId": "m-mvgxhtmhvyeog9",
+    "location": "Sandbar"
+  },
+  {
+    "id": "m-mvgu4cxos5ookg",
+    "masterId": "m-mvgu4cxos5ookg",
+    "name": "Side Southern Mac n Cheese",
+    "location": "Sandbar",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "6??",
+        "unit": "oz",
+        "name": "Cavatappi pasta portion"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Cheddar Jack Cheese Mix"
+      },
+      {
+        "qty": "1?",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Mac and Cheese Sauce"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "fl-oz",
+        "name": "heavy cream"
+      }
+    ],
+    "steps": [
+      "Heat up cream in sauté pan and add cheese sauce to melt and heat up.",
+      "Drop pasta in water to heat up, drain well.",
+      "Add pasta to the cheese to mix.",
+      "Add hot mac to cast iron skillet, top with cheddar/jack cheese.",
+      "Bake in oven for 7 minutes until cheese is melted and gets a little color",
+      "Garnish with chopped parsley. "
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvgt22q1crs8s8",
+    "masterId": "m-mvgt22q1crs8s8",
+    "name": "Side Coconut rice",
+    "location": "Sandbar",
+    "category": "Dinner Menu",
+    "submenu": "Sides",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "8",
+        "unit": "oz-wt",
+        "name": "Coconut Rice"
+      }
+    ],
+    "steps": [
+      "Expo:",
+      "Portion coconut rice as needed with disher / spoodle"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "name": "Surf n Turf",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "16oz Bone In Ribeye",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Blue Cheese Butter",
+        "qty": "1",
+        "unit": "OZ-wt",
+        "qty2": ""
+      },
+      {
+        "name": "Salt and Pepper",
+        "qty": "to",
+        "unit": "taste",
+        "qty2": ""
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "regular side"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each",
+        "name": "premium side"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Surf n Turf Add Ons"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "each",
+        "name": "16/20 Shrimp Skewer"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "Coconut Shrimp"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "or"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "EZ Peel Shrimp"
+      }
+    ],
+    "steps": [
+      "Season steak with salt and pepper. Place on grill and cook to ordered temperature.",
+      "Pull Steak and let rest",
+      "Cut a ring of butter and place on top of the steak before going out."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mvgsspwpad85h7",
+    "masterId": "m-mvgsspwpr4f4hv",
+    "location": "Sandbar"
+  },
+  {
+    "name": "Bairdi Crab Steamer Platter",
+    "category": "Dinner Menu",
+    "submenu": "Entree",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Bairdi Crab Cluster",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "EZ Peel SHrimp"
+      },
+      {
+        "qty": "6",
+        "qty2": "",
+        "unit": "each",
+        "name": "Middleneck Clams"
+      },
+      {
+        "name": "Clarified Butter",
+        "qty": "2",
+        "unit": "fl. Oz",
+        "qty2": ""
+      },
+      {
+        "name": "Lemon Wedge",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "as",
+        "unit": "garnish",
+        "qty2": ""
+      },
+      {
+        "qty": "as",
+        "qty2": "",
+        "unit": "garnish",
+        "name": "lemon butter"
+      }
+    ],
+    "steps": [
+      "Place crab in \"seasoned crab Pot\" to steam for about 5-6 minutes or until hot.",
+      "Cook EZ Peel Shrimp in seasoned crab pot to steam",
+      "Steam clams in seasoned crab pot until clams pop open. ",
+      "Remove and place on metal tray.",
+      "Brush with lemon butter and sell to expo",
+      "Expo:",
+      "Clarified Butter — warm, 2 oz ramekin.",
+      "Lemon Wedge — garnish.",
+      "Old Bay Seasoning — sprinkle as garnish for the crab."
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "m-mvgsjos3yljuaq",
+    "masterId": "m-mvgsjos3hdlfft",
+    "location": "Sandbar"
   }
 ]
