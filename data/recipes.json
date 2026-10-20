@@ -57082,7 +57082,7 @@
   {
     "id": "bm-cbg-1",
     "masterId": "bm-pancakes-m",
-    "name": "Pancakes",
+    "name": "Pancakes (Short Stack)",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -117071,6 +117071,65 @@
     "images": [],
     "id": "m-mvgva15c4oly8e",
     "masterId": "m-mvgva15cc5r0c0",
+    "location": "CBG"
+  },
+  {
+    "name": "Omelet Flagler",
+    "category": "Breakfast Menu",
+    "submenu": "Breakfast Entrees",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Pan"
+      },
+      {
+        "name": "Diced Ham",
+        "qty": "1",
+        "unit": "4oz Cup"
+      },
+      {
+        "name": "Diced Tomatoes",
+        "qty": "1",
+        "unit": "Orchid Scoop"
+      },
+      {
+        "name": "Red onion",
+        "qty": "1",
+        "unit": "Orchid Scoop"
+      },
+      {
+        "name": "Butter AA",
+        "qty": "Brush",
+        "unit": "Egg Pan"
+      },
+      {
+        "name": "Liquid eggs",
+        "qty": "1.5",
+        "unit": "4oz ladle"
+      },
+      {
+        "name": "Cheddar jack",
+        "qty": "1",
+        "unit": "4oz cup"
+      }
+    ],
+    "steps": [
+      "Add ham and onion to a buttered pan and cook until ham is browned, then add tomatoes",
+      "Heat another buttered pan and add eggs",
+      "Once eggs are cooked through on the bottom, flip and add cheese",
+      "Add all toppings on top of the cheese in the omelet",
+      "Fold the finished omelet onto a large plate",
+      "Plateware:",
+      "Expo:"
+    ],
+    "notes": "",
+    "images": [],
+    "id": "m-mvgw8pu13kklqa",
+    "masterId": "m-mvgw8pu17fdz6y",
     "location": "CBG"
   }
 ]
