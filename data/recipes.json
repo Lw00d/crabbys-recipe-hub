@@ -117413,5 +117413,115 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "id": "m-mvh1r1s4ste8hm",
+    "masterId": "m-mvh1r1s4ste8hm",
+    "name": "Tropical Giardiniera",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2 quarts",
+    "portions": "??",
+    "portionSize": "??",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "2",
+        "unit": "lbs",
+        "name": "PInapple 1/4\" x 1/4\" x 2\" batons "
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "lb",
+        "name": "Red Onion, Shaved"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Jalapeno pepper, sliced thin"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Ginger, thin sliced ??"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Pickling liquid"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "cups",
+        "name": "Rice Wine Vinegar"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Pineapple Juice"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Water"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Sugar"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "Kosher Salt"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Mustard Seed"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Coriander seed"
+      },
+      {
+        "qty": "1/2",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Allspice"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "each",
+        "name": "Bay leaves"
+      }
+    ],
+    "steps": [
+      "Cut and place pineapple, red onion, jalapeno and ginger to clean cambro.",
+      "Combine pickling liquid ingredients in a pot.",
+      "Bring to a simmer until sugar and salt dissolve. ",
+      "Pour hot pickling liquid over pineapple, red onion, jalapeno and ginger.",
+      "Press produce down so it completely submerges in the pickling liquid",
+      "Cool completely before covering. ",
+      "Wrap / Label / Date"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
