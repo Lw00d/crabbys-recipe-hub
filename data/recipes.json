@@ -117566,5 +117566,211 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "id": "m-mvh2yo8uqvcvv0",
+    "masterId": "m-mvh2yo8uqvcvv0",
+    "name": "Green Jerk Sauce",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "1 quart",
+    "portions": "??",
+    "portionSize": "??",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "2",
+        "unit": "bunches ????",
+        "name": "Scallions"
+      },
+      {
+        "qty": "2 ",
+        "qty2": "",
+        "unit": "cups ",
+        "name": "Cilantro leaves packed"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Parsley leaves packed"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "fresh thyme picked"
+      },
+      {
+        "qty": "8",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Garlic clove"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "oz-wt",
+        "name": "Fresh ginger"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Habanero pepper (seeds or no seeds?)"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Jalapeno (seeds or no seeds?)"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Lime juice"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Orange Juice"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "cup ",
+        "name": "Apple Cider Vinegar"
+      },
+      {
+        "qty": "1.25",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Blended Oil"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoons",
+        "name": "Brown sugar"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Allspice, ground"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "teaspoons",
+        "name": "Coriander, ground"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "teaspoons",
+        "name": "Black Pepper"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Cumin, ground"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Cinnamon, ground"
+      },
+      {
+        "qty": ".25",
+        "qty2": "",
+        "unit": "teaspoon",
+        "name": "Nutmeg, ground"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "tablespoon ",
+        "name": "Kosher Salt"
+      }
+    ],
+    "steps": [
+      ""
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
+  },
+  {
+    "id": "m-mvh2poy842l84w",
+    "masterId": "m-mvh2poy842l84w",
+    "name": "Island Jerk Glaze",
+    "location": "Sandbar",
+    "category": "Dinner Prep",
+    "submenu": "Cold Prep",
+    "yield": "2 cups",
+    "portions": "??",
+    "portionSize": "???",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "qty": "1.5",
+        "unit": "cup",
+        "name": "Pineapple Juice"
+      },
+      {
+        "qty": ".5",
+        "qty2": "",
+        "unit": "Cup",
+        "name": "Brown sugar"
+      },
+      {
+        "qty": ".25",
+        "qty2": "",
+        "unit": "cup",
+        "name": "honey"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "cup",
+        "name": "Green Jerk Sauce"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "tablespoon",
+        "name": "Fresh Ginger, grated"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "each ",
+        "name": "Lime, juice only"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "pinch",
+        "name": "Kosher Salt to taste"
+      }
+    ],
+    "steps": [
+      "Combine pineapple juice, brown sugar, honey, ginger, and salt in a saucepan",
+      "Bring to a gentle simmer, stir to dissolve sugar.",
+      "Reduce by approximately 1/3, until lightly syrupy",
+      "Remove from heat and whisk in green jerk sauce and lime juice",
+      "Finished glaze should be glossy and sticky"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true
   }
 ]
