@@ -117934,7 +117934,7 @@
         "name": "Coconut Milk"
       },
       {
-        "qty": "8",
+        "qty": "3.5 - 4",
         "qty2": "",
         "unit": "quarts",
         "name": "Water"
@@ -117953,7 +117953,11 @@
       }
     ],
     "steps": [
-      ""
+      "rinse rice underwater until water is mostly clear.",
+      "Add rice, coconut milk, water, salt and sugar to rice cooker.",
+      "Cook on standard whtie rice settings",
+      "After cooked, let rice rest for 15 minutes.",
+      "Fluff rice and transfer to hot holding."
     ],
     "notes": "",
     "images": [],
