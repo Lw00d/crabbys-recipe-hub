@@ -2667,7 +2667,7 @@
       }
     ],
     "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
       "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
@@ -2678,8 +2678,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
     ],
@@ -2701,7 +2699,7 @@
       }
     ],
     "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
       "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
@@ -2712,8 +2710,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
     ],
@@ -2735,7 +2731,7 @@
       }
     ],
     "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
       "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
@@ -2746,8 +2742,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
     ],
@@ -3330,7 +3324,8 @@
     "images": [],
     "id": "m-msoy3zclgcg72k",
     "masterId": "dp-onion-rings-m",
-    "location": "Salty's Island"
+    "location": "Salty's Island",
+    "active": false
   },
   {
     "name": "New Orleans Oysters",
@@ -4204,7 +4199,10 @@
       "Portion 2 pieces each"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvibyrjlyts5aa.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvibz3brrxsc0g.jpg"
+    ],
     "id": "m-msosdejciax2kg",
     "masterId": "m-msorwzlfvu1w5o",
     "location": "Palm"
@@ -4297,10 +4295,10 @@
       "Cover with Plastic wrap, label, and date",
       "Thaw in the walk-in cooler overnight",
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
+      "Portion Sizes:  ",
+      "Fish & Chips Dinner portion is 1 filets = 2 pieces",
       "Sandwich portion is 1 Piece",
-      "Taco Cut is 1 Piece cut in half"
+      "Taco Cut is 1 Piece cut in half lengthwise"
     ],
     "notes": "",
     "images": [
@@ -4338,7 +4336,10 @@
       "Portion 2 pieces each"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvibyrjlyts5aa.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvibz3brrxsc0g.jpg"
+    ],
     "id": "m-msorwzlfs6598c",
     "masterId": "m-msorwzlfvu1w5o",
     "location": "Salty's Island"
@@ -5134,7 +5135,7 @@
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
       "If the piece is thin, match it up to another thin piece. If the piece is thick, match it up to another thick piece.",
       "Put all portions into a labeled & dated pan, place in the cooler",
-      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use them up.",
+      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use up.",
       "Portions range in weight from 6.0 oz to 6.5 oz. Don’t cut anything if you don’t have to."
     ],
     "notes": "",
@@ -5168,7 +5169,7 @@
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
       "If the piece is thin, match it up to another thin piece. If the piece is thick, match it up to another thick piece.",
       "Put all portions into a labeled & dated pan, place in the cooler",
-      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use them up.",
+      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use up.",
       "Portions range in weight from 6.0 oz to 6.5 oz. Don’t cut anything if you don’t have to."
     ],
     "notes": "",
@@ -6205,7 +6206,9 @@
       "Medium Well - mostly brown with a gray center, very little, if any pink, 150–160°F",
       "Well done - Brown throughout with no sign of pink >160°F",
       "Expo:",
-      "Steak knife, requested sides"
+      "Steak knife, requested sides",
+      "Plateware:",
+      "Dinner Plate "
     ],
     "notes": "",
     "images": [
@@ -6339,7 +6342,7 @@
     "location": "Palm"
   },
   {
-    "name": "Filet Mignon (SI)",
+    "name": "Filet Mignon",
     "category": "Dinner Menu",
     "submenu": "Mainland",
     "yield": "",
@@ -6357,9 +6360,9 @@
         "unit": "Season"
       },
       {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter ( Finished)",
+        "qty": "Baste",
+        "unit": "Protein"
       }
     ],
     "steps": [
@@ -6377,11 +6380,16 @@
       "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
       "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered med-well and well will be butterflied unless the guest does not want it.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Steak knife, requested sides"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r1i9m8gpgp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png"
+    ],
     "id": "m-ms8rzeodg36hbj",
     "masterId": "dm-si-45-m",
     "location": "Palm"
@@ -6693,15 +6701,19 @@
     "steps": [
       "Place 7 chicken strips into the milk wash and drain the excess.",
       "Transfer the strips to the chicken breading and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Place breaded chicken in a 350°F fryer for approximately 5-6 minutes, or until the chicken floats and is golden brown, reaching an internal temperature of 165°F.",
       "Transfer to a save-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Expo:",
       "Plateware:",
-      "Plated 7 count- Nashville"
+      "Rectangle plate",
+      "Expo:",
+      "Dipping sauce if requested"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8sx09yuktii.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8t20m484qzq.png"
+    ],
     "id": "m-ms67kk6zo4uauu",
     "masterId": "dm-cbg-25-m",
     "location": "Palm"
@@ -6733,15 +6745,19 @@
     "steps": [
       "Place 7 chicken strips into the milk wash and drain the excess.",
       "Transfer the strips to the chicken breading and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Place breaded chicken in a 350°F fryer for approximately 5-6 minutes, or until the chicken floats and is golden brown, reaching an internal temperature of 165°F.",
       "Transfer to a save-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Expo:",
       "Plateware:",
-      "Plated 7 count- Nashville"
+      "Rectangle plate",
+      "Expo:",
+      "Dipping sauce if requested"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8sx09yuktii.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8t20m484qzq.png"
+    ],
     "id": "m-ms67kdgdwp5l2q",
     "masterId": "dm-cbg-25-m",
     "location": "Salty's Island"
@@ -6773,15 +6789,19 @@
     "steps": [
       "Place 7 chicken strips into the milk wash and drain the excess.",
       "Transfer the strips to the chicken breading and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Place breaded chicken in a 350°F fryer for approximately 5-6 minutes, or until the chicken floats and is golden brown, reaching an internal temperature of 165°F.",
       "Transfer to a save-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Expo:",
       "Plateware:",
-      "Plated 7 count- Nashville"
+      "Rectangle plate",
+      "Expo:",
+      "Dipping sauce if requested"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8sx09yuktii.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8t20m484qzq.png"
+    ],
     "id": "m-ms67k7w11ke3ud",
     "masterId": "dm-cbg-25-m",
     "location": "Salty Crab North Beach"
@@ -6817,7 +6837,11 @@
       "Use an ivory scoop and place the crab cake directly into the flour and lightly dust it.",
       "Put into the fryer and cook for about 2 minutes or until cakes have a rich, golden brown color",
       "Place in a save-a-day to drain off excess oil",
-      "Put it on a small plate and give it to the expo."
+      "Put it on a small plate and give it to the expo.",
+      "Plateware:",
+      "App / Dessert Plate ",
+      "Expo:",
+      "lemon wedge"
     ],
     "notes": "",
     "images": [],
@@ -7023,11 +7047,29 @@
         "name": "Sausage Gravy",
         "qty": "1",
         "unit": "4oz ladle"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "each",
+        "name": "Eggs"
+      },
+      {
+        "qty": "Pan ",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter AA"
       }
     ],
     "steps": [
+      "Start cooking the eggs as requested",
       "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
-      "Poor sausage gravy on top of the biscuit, cover evenly"
+      "Pour 1- 4 oz ladle of sausage gravy on top of the biscuit, cover evenly",
+      "Place the eggs alongside the biscuit and gravy",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "Potatoes, if on the expo line"
     ],
     "notes": "",
     "images": [
@@ -7052,7 +7094,7 @@
         "unit": "Each"
       },
       {
-        "name": "Eggs",
+        "name": "Eggs ",
         "qty": "2",
         "unit": "Each"
       },
@@ -7079,8 +7121,9 @@
       "Poached eggs to requested temp. placed on ham",
       "Top with hot Bruere Blanc sauce",
       "Expo:",
-      "Bruere Blanc if it's on the expo,",
-      "Plateware:"
+      "Bruere Blanc, Potatoes, if it's on the expo line",
+      "Plateware:",
+      "Dinner Plate"
     ],
     "notes": "",
     "images": [
@@ -7307,6 +7350,8 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
@@ -7356,6 +7401,8 @@
       "Cook 2 eggs as requested",
       "Place the choice of meat alongside the eggs",
       "Place the toast to the side of the eggs",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Meat option, toast, side"
     ],
@@ -10624,7 +10671,7 @@
       }
     ],
     "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
       "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
@@ -10635,8 +10682,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
     ]
@@ -13626,10 +13671,10 @@
       "Cover with Plastic wrap, label, and date",
       "Thaw in the walk-in cooler overnight",
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
+      "Portion Sizes:  ",
+      "Fish & Chips Dinner portion is 1 filets = 2 pieces",
       "Sandwich portion is 1 Piece",
-      "Taco Cut is 1 Piece cut in half"
+      "Taco Cut is 1 Piece cut in half lengthwise"
     ],
     "notes": "",
     "images": [
@@ -16928,7 +16973,7 @@
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
     "shelfLife": "1 day - to be tossed at the end of the night",
-    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "smallware": "large mixing bowl, storage container, lid, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
         "name": "Water (Cold)",
@@ -17822,7 +17867,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "mixing bowl, rubber spatula, 2oz scoop, storage container, lid,  ",
     "ingredients": [
       {
         "name": "Chipotle topper",
@@ -17968,7 +18013,7 @@
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
     "shelfLife": "1 day - to be tossed at the end of the night",
-    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "smallware": "large mixing bowl, storage container, lid, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
         "name": "Water (Cold)",
@@ -18005,7 +18050,7 @@
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
     "shelfLife": "1 day - to be tossed at the end of the night",
-    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "smallware": "large mixing bowl, storage container, lid, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
         "name": "Water (Cold)",
@@ -18344,7 +18389,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "mixing bowl, rubber spatula, 2oz scoop, storage container, lid,  ",
     "ingredients": [
       {
         "name": "Chipotle topper",
@@ -18494,7 +18539,7 @@
     "category": "Dinner Prep",
     "yield": "3 - 32-oz Squeeze bottles",
     "shelfLife": "5 days",
-    "smallware": "Small mixing bowl, rubber spatula, and whisk",
+    "smallware": "Small mixing bowl, rubber spatula, whisk and squeeze btls.",
     "ingredients": [
       {
         "name": "Sour Cream",
@@ -18849,9 +18894,9 @@
     "name": "Dill Aioli",
     "location": "Salty's Island",
     "category": "Dinner Prep",
-    "yield": "",
+    "yield": "1- 32oz or 2- 16oz squeeze bottles",
     "shelfLife": "10 days",
-    "smallware": "Small mixing bowl, rubber spatula, and whisk",
+    "smallware": "Small mixing bowl, rubber spatula, whisk and squeeze btl. day dot",
     "ingredients": [
       {
         "name": "Double egg Mayo",
@@ -18878,8 +18923,7 @@
       "Chop the dill as small as possible",
       "Use a juicer for the lemon, and squeeze into a mixing bowl",
       "Add all ingredients to a mixing bowl and mix",
-      "Pour into a 32-oz squeeze bottle and label and date",
-      "Yields: 1- 32oz squeeze bottle or 2- 16oz squeeze bottles"
+      "Pour into a squeeze bottle and label, date, and rotate"
     ],
     "notes": "",
     "images": [
@@ -19010,7 +19054,7 @@
       "If they weigh under 6 oz, cut another piece with a similar thickness into 3 pieces. Place one cut piece with the whole piece and portion into a date bag",
       "If the piece is thin, match it up to another thin piece. If the piece is thick, match it up to another thick piece.",
       "Put all portions into a labeled & dated pan, place in the cooler",
-      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use them up.",
+      "Notes: Place extra cut pieces (if any) into the smallest portion bags to use up.",
       "Portions range in weight from 6.0 oz to 6.5 oz. Don’t cut anything if you don’t have to."
     ],
     "notes": "",
@@ -19471,16 +19515,11 @@
     ],
     "steps": [
       "In a 4\"- 1/3 pan or stainless steel bowl.",
-      "Whisk together, mix thoroughly",
+      "Whisk all ingredients together, mix thoroughly",
       "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet",
-      "In a medium-sized stainless steel bowl.",
-      "Add eggs and whisk,",
-      "Add all ingredients and whisk again, mix thoroughly",
-      "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet"
+      "**Stir batter before each use**",
+      "Whisk again, to mix thoroughly",
+      "**Toss at the end of the breakfast, write on the waste sheet**"
     ],
     "notes": "",
     "images": [
@@ -19987,16 +20026,11 @@
     ],
     "steps": [
       "In a 4\"- 1/3 pan or stainless steel bowl.",
-      "Whisk together, mix thoroughly",
+      "Whisk all ingredients together, mix thoroughly",
       "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet",
-      "In a medium-sized stainless steel bowl.",
-      "Add eggs and whisk,",
-      "Add all ingredients and whisk again, mix thoroughly",
-      "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet"
+      "**Stir batter before each use**",
+      "Whisk again, to mix thoroughly",
+      "**Toss at the end of the breakfast, write on the waste sheet**"
     ],
     "notes": "",
     "images": [
@@ -20045,16 +20079,11 @@
     ],
     "steps": [
       "In a 4\"- 1/3 pan or stainless steel bowl.",
-      "Whisk together, mix thoroughly",
+      "Whisk all ingredients together, mix thoroughly",
       "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet",
-      "In a medium-sized stainless steel bowl.",
-      "Add eggs and whisk,",
-      "Add all ingredients and whisk again, mix thoroughly",
-      "Place in Reach-In cooler till needed",
-      "Stir before each use",
-      "Toss at the end of the breakfast, write on the waste sheet"
+      "**Stir batter before each use**",
+      "Whisk again, to mix thoroughly",
+      "**Toss at the end of the breakfast, write on the waste sheet**"
     ],
     "notes": "",
     "images": [
@@ -21083,7 +21112,11 @@
       "Use an ivory scoop and place the crab cake directly into the flour and lightly dust it.",
       "Put into the fryer and cook for about 2 minutes or until cakes have a rich, golden brown color",
       "Place in a save-a-day to drain off excess oil",
-      "Put it on a small plate and give it to the expo."
+      "Put it on a small plate and give it to the expo.",
+      "Plateware:",
+      "App / Dessert Plate ",
+      "Expo:",
+      "lemon wedge"
     ],
     "notes": "",
     "images": []
@@ -23468,7 +23501,10 @@
       "6 oz Au Gratin dish, Dinner Plate, black napkin"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviffu8x2v6saj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvifg2r3yb1yyd.png"
+    ]
   },
   {
     "id": "dm-si-2",
@@ -23509,7 +23545,10 @@
       "6 oz Au Gratin dish, Dinner Plate, black napkin"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviffu8x2v6saj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvifg2r3yb1yyd.png"
+    ]
   },
   {
     "id": "dm-nb-51",
@@ -23902,14 +23941,14 @@
         "unit": "Ivory Scoop"
       },
       {
-        "name": "Old Bay Seasoning",
-        "qty": "",
-        "unit": "Seasoning"
-      },
-      {
         "name": "Garlic Spread",
         "qty": "",
         "unit": "Basting"
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "",
+        "unit": "Seasoning"
       }
     ],
     "steps": [
@@ -23917,23 +23956,18 @@
       "Take 2 portioned crab cakes and sprinkle Old Bay on both",
       "Place a little garlic spread on the flat top",
       "Sear each crab cake for 30 seconds to 1 minute",
-      "Flip the crab cakes with the seared side up and place them on a pizza tray",
-      "Bake for 4-5 minutes at 450-500°F",
-      "FRIED: Upon Request Only",
-      "Use 2 crab cakes",
+      "Flip the crab cake to the seared side up and place it on a pizza tray",
+      "Bake for 6 minutes at 450°F",
+      "FRIED: ",
+      "Upon Request Only - take 2 portioned crab cakes",
       "Place crab cakes directly into the flour and lightly dust.",
-      "Transfer to fryer. Cook for approx. 2- 3 minutes or until cakes have a rich golden brown color",
+      "Transfer to fryer. Cook for approx. 2- 3 minutes or until cakes have a rich, golden brown color",
       "Transfer to a Save A Day to drain off excess oil",
       "Expo:",
-      "Lemon, Lemon Aioli (SI), requested sides",
-      "Plateware:",
-      "Square Dinner Plate"
+      "Lemon, Dill Aioli (SI), requested sides"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Cakes_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Crab_Cakes_1.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-nb-57",
@@ -25514,7 +25548,9 @@
       "Move the shrimp from Sav-A-Day to the mixing bowl, add a sprinkle of blackening seasoning to the bowl, and toss",
       "Add lettuce in the hoagie, then shrimp, top with remoulade, lettuce, and diced red onion",
       "Expo:",
-      "Lemon wedge, side"
+      "Lemon wedge, side",
+      "Plateware:",
+      "Rectangle Plate"
     ],
     "notes": "",
     "images": [
@@ -25578,7 +25614,9 @@
       "Move the shrimp from Sav-A-Day to the mixing bowl, add a sprinkle of blackening seasoning to the bowl, and toss",
       "Add lettuce in the hoagie, then shrimp, top with remoulade, lettuce, and diced red onion",
       "Expo:",
-      "Lemon wedge, side"
+      "Lemon wedge, side",
+      "Plateware:",
+      "Rectangle Plate"
     ],
     "notes": "",
     "images": [
@@ -26616,11 +26654,16 @@
       "Using a rectangular plate, lightly drizzle chimichurri across the plate",
       "Place the octopus neatly on the plate",
       "Top with blistered tomatoes and feta cheese",
-      "Garnish:",
+      "Plateware:",
+      "Rectangle Plate ",
+      "Expo:",
       "Grilled lemon, steak knife"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvieapwbds4p3s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvieauawgamxzk.png"
+    ]
   },
   {
     "id": "dm-si-7",
@@ -26701,11 +26744,16 @@
       "Drop in 350°F fryer for approx. 4-5 minutes or until cooked completely.",
       "Transfer to a Sav-A-Day to drain excess oil.",
       "Place on a bed of French fries, with nuggets on top.",
+      "Plateware:",
+      "Pasta Bowl ",
       "Expo:",
-      "Plateware:"
+      "add French fries if on expo line, Lemon wedge, "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviaznxqcj8ejg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png"
+    ]
   },
   {
     "id": "dm-pl-9",
@@ -26745,11 +26793,16 @@
       "Drop in 350°F fryer for approx. 4-5 minutes or until cooked completely.",
       "Transfer to a Sav-A-Day to drain excess oil.",
       "Place on a bed of French fries, with nuggets on top.",
+      "Plateware:",
+      "Pasta Bowl ",
       "Expo:",
-      "Plateware:"
+      "add French fries if on expo line, Lemon wedge, "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviaznxqcj8ejg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png"
+    ]
   },
   {
     "id": "dm-si-9",
@@ -26808,7 +26861,9 @@
       "HALF ORDER - HOT - Is Oil & Garlic Style"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvieo5dl7jftej.png"
+    ]
   },
   {
     "id": "dm-si-10",
@@ -26843,13 +26898,16 @@
       "Keep the shrimp moving to cook evenly, when about halfway done",
       "Add the chopped garlic and sauté until the shrimp are fully cooked.",
       "Sprinkle Old Bay spice over the top",
-      "Garnish:",
-      "Sprinkle of green onion, lemon wedge,",
       "Plateware:",
-      "Medium Square bowl"
+      "Medium Square bowl",
+      "Expo:",
+      "Sprinkle of green onion, lemon wedge,"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviehqtxrzgopv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviehvkxsv7ca3.png"
+    ]
   },
   {
     "id": "dm-si-11",
@@ -27000,15 +27058,20 @@
       }
     ],
     "steps": [
-      "Place 6 prepped oysters on the chargrill",
+      "Place 6 prepped N.O. oysters on the chargrill",
       "Cook for approx. 6 minutes",
       "The oyster should be boiling, and the cheese melted",
       "Carefully place on a rectangular plate",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "Lemon wedge, cocktail fork"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7u5jtj8tkwp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7ud8ltkqgzy.png"
+    ]
   },
   {
     "id": "dm-pl-11",
@@ -27043,15 +27106,20 @@
       }
     ],
     "steps": [
-      "Place 6 prepped oysters on the chargrill",
+      "Place 6 prepped N.O. oysters on the chargrill",
       "Cook for approx. 6 minutes",
       "The oyster should be boiling, and the cheese melted",
       "Carefully place on a rectangular plate",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "Lemon wedge, cocktail fork"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7u5jtj8tkwp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7ud8ltkqgzy.png"
+    ]
   },
   {
     "id": "dm-si-14",
@@ -27101,11 +27169,15 @@
       }
     ],
     "steps": [
-      "Bread grouper in Italian seasoning",
+      "Place the grouper nuggets in the milk wash, lift and drain, then place in the Italian breader; shake off excess. Place it into the fryer",
       "Take the Cuban bread and place it in the oven for 1 minute",
-      "Once the grouper is fried golden brown, remove and place in a Sav-A-Day",
+      "Once the grouper is fried golden brown 5-6 minutes, remove and place in a Sav-A-Day",
       "Move the grouper from Sav-A-Day to the mixing bowl, add a sprinkle of blackening seasoning to the bowl, and toss",
-      "Stuff the grouper in the Cuban bread, top with remoulade, lettuce, and onion"
+      "Stuff the grouper in the Cuban bread, top with remoulade, lettuce, and onion",
+      "Plateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "lemon wedge, side"
     ],
     "notes": "",
     "images": [
@@ -27116,7 +27188,7 @@
   {
     "id": "dm-si-15",
     "masterId": "dm-grouper-m",
-    "name": "Grouper Bowl",
+    "name": "Grouper Sandwich ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -27135,47 +27207,14 @@
         "unit": "Season"
       },
       {
-        "name": "Coconut Rice",
-        "qty": "2",
-        "unit": "Ivory scoop"
-      },
-      {
-        "name": "Wonton Chips",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Pineapple Salsa",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Avocado Mix (salsa)",
-        "qty": "2",
-        "unit": "2oz scoop"
-      },
-      {
-        "name": "Cabbage",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Soygave",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lime crema",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter (Finished)",
+        "qty": "Brush ",
+        "unit": "Protein "
       }
     ],
     "steps": [
+      "Grilled / Blacken:",
+      "Place the bun on the flat top to toast ",
       "Pat the Grouper dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the fish seasoned side down.",
@@ -27183,26 +27222,25 @@
       "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
-      "Place 2 scoop coconut rice in bottom of a serving bowl, flatten with back of scoop",
-      "Place fully cooked grouper on rice",
-      "Fill 1st corner of the bowl with cabbage.",
-      "Fill another corner with shredded pineapple salsa.",
-      "Fill a third corner with avocado salsa.",
-      "In the last corner add 3 wonton chips.",
-      "Expo:",
-      "Pour Soygave on meat only",
-      "Drizzle lime crema over all ingredients",
-      "Top with green onion & Lime wedge- No sides",
+      "Fried:",
+      "Place Grouper into the milk wash, lift, drain, place into Italian Breader, shake off excess.",
+      "Place in a 350°F fryer for approx. 4-5 minutes or until cooked completely.",
+      "Transfer to a Sav- A- Day to drain excess oil",
       "Plateware:",
-      "Medium Square Bowl"
+      "Rectangle Plate ",
+      "Expo:",
+      "requested side, lemon wedge, LTO if requested "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib3theca8joh.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib43t13xterp.jpg"
+    ]
   },
   {
     "id": "dm-si-16",
     "masterId": "dm-grouper-m",
-    "name": "Grouper Bowl",
+    "name": "Grouper Sandwich ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -27221,47 +27259,14 @@
         "unit": "Season"
       },
       {
-        "name": "Coconut Rice",
-        "qty": "2",
-        "unit": "Ivory scoop"
-      },
-      {
-        "name": "Wonton Chips",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Pineapple Salsa",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Avocado Mix (salsa)",
-        "qty": "2",
-        "unit": "2oz scoop"
-      },
-      {
-        "name": "Cabbage",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Soygave",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lime crema",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter (Finished)",
+        "qty": "Brush ",
+        "unit": "Protein "
       }
     ],
     "steps": [
+      "Grilled / Blacken:",
+      "Place the bun on the flat top to toast ",
       "Pat the Grouper dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the fish seasoned side down.",
@@ -27269,26 +27274,25 @@
       "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
-      "Place 2 scoop coconut rice in bottom of a serving bowl, flatten with back of scoop",
-      "Place fully cooked grouper on rice",
-      "Fill 1st corner of the bowl with cabbage.",
-      "Fill another corner with shredded pineapple salsa.",
-      "Fill a third corner with avocado salsa.",
-      "In the last corner add 3 wonton chips.",
-      "Expo:",
-      "Pour Soygave on meat only",
-      "Drizzle lime crema over all ingredients",
-      "Top with green onion & Lime wedge- No sides",
+      "Fried:",
+      "Place Grouper into the milk wash, lift, drain, place into Italian Breader, shake off excess.",
+      "Place in a 350°F fryer for approx. 4-5 minutes or until cooked completely.",
+      "Transfer to a Sav- A- Day to drain excess oil",
       "Plateware:",
-      "Medium Square Bowl"
+      "Rectangle Plate ",
+      "Expo:",
+      "requested side, lemon wedge, LTO if requested "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib3theca8joh.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib43t13xterp.jpg"
+    ]
   },
   {
     "id": "dm-si-17",
     "masterId": "dm-grouper-m",
-    "name": "Grouper Dinner",
+    "name": "Grouper Sandwich ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -27307,47 +27311,14 @@
         "unit": "Season"
       },
       {
-        "name": "Coconut Rice",
-        "qty": "2",
-        "unit": "Ivory scoop"
-      },
-      {
-        "name": "Wonton Chips",
-        "qty": "3",
-        "unit": "Each"
-      },
-      {
-        "name": "Pineapple Salsa",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Avocado Mix (salsa)",
-        "qty": "2",
-        "unit": "2oz scoop"
-      },
-      {
-        "name": "Cabbage",
-        "qty": "1",
-        "unit": "2oz cup"
-      },
-      {
-        "name": "Soygave",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lime crema",
-        "qty": "1",
-        "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter (Finished)",
+        "qty": "Brush ",
+        "unit": "Protein "
       }
     ],
     "steps": [
+      "Grilled / Blacken:",
+      "Place the bun on the flat top to toast ",
       "Pat the Grouper dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the fish seasoned side down.",
@@ -27355,21 +27326,20 @@
       "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
-      "Place 2 scoop coconut rice in bottom of a serving bowl, flatten with back of scoop",
-      "Place fully cooked grouper on rice",
-      "Fill 1st corner of the bowl with cabbage.",
-      "Fill another corner with shredded pineapple salsa.",
-      "Fill a third corner with avocado salsa.",
-      "In the last corner add 3 wonton chips.",
-      "Expo:",
-      "Pour Soygave on meat only",
-      "Drizzle lime crema over all ingredients",
-      "Top with green onion & Lime wedge- No sides",
+      "Fried:",
+      "Place Grouper into the milk wash, lift, drain, place into Italian Breader, shake off excess.",
+      "Place in a 350°F fryer for approx. 4-5 minutes or until cooked completely.",
+      "Transfer to a Sav- A- Day to drain excess oil",
       "Plateware:",
-      "Medium Square Bowl"
+      "Rectangle Plate ",
+      "Expo:",
+      "requested side, lemon wedge, LTO if requested "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib3theca8joh.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvib43t13xterp.jpg"
+    ]
   },
   {
     "id": "dm-si-18",
@@ -27398,7 +27368,7 @@
         "unit": "Vol oz"
       },
       {
-        "name": "Onion for LTO",
+        "name": "Red Onion for LTO",
         "qty": "2",
         "unit": "Rings"
       },
@@ -27418,12 +27388,18 @@
       "Flip, and cook another 2 -3 minutes",
       "Place the chicken on a toasted bun, then the grilled pineapple on top of the chicken",
       "Give to the expo to finish",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
-      "Place Slaw on pineapple, 2 Red Onion rings,",
-      "place the bun top on, and Stab with a Sandwich Skewer"
+      "Place Slaw on pineapple, 2 Red Onion rings, requested side",
+      "Place the bun top on, and Stab with a Sandwich Skewer"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvicw5czuwyge9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvicwsw5yius4k.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvicwzwxycl9gx.png"
+    ]
   },
   {
     "id": "dm-si-19",
@@ -27484,7 +27460,7 @@
     ],
     "steps": [
       "FRIED:",
-      "Place Haddock into flour and then milk wash and drain the excess.",
+      "Place the Haddock into flour, then milk wash, lift, and drain the excess.",
       "Transfer to the Panko breader and shake off the excess, making sure to cover the Haddock thoroughly.",
       "Transfer Haddock to a 350°F fryer for approx. 5 minutes or until golden brown and cooked thoroughly.",
       "Toast bread on flat top for 1 minute each side",
@@ -27492,15 +27468,19 @@
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Carefully toss in Nashville sauce, cover completely",
       "Place fish on the cabbage",
-      "Drizzle tartar sauce over top of fish",
+      "Drizzle Dill Aioli over top of fish",
       "Add 3-4 pickle chips",
       "Place top bread on and cut corner to corner",
-      "Serve on a rectangle plate",
-      "Garnish:",
+      "Plateware:",
+      "Rectangle plate",
+      "Expo:",
       "Lemon, requested side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvie4vomaudgfb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvie523gowm880.png"
+    ]
   },
   {
     "id": "dm-si-20",
@@ -27675,14 +27655,19 @@
         "unit": "Season"
       },
       {
-        "name": "Coconut rice",
-        "qty": "2",
-        "unit": "Ivory scoop"
+        "name": "Lemon Butter (Finished Protein)",
+        "qty": "Brush ",
+        "unit": ""
       },
       {
         "name": "Wonton Chips",
         "qty": "3",
         "unit": "Each"
+      },
+      {
+        "name": "Coconut rice",
+        "qty": "2",
+        "unit": "Ivory scoop"
       },
       {
         "name": "Pineapple Salsa",
@@ -27708,11 +27693,6 @@
         "name": "Lime Crema",
         "qty": "1",
         "unit": "Vol oz(Drizzle)"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
@@ -27726,12 +27706,13 @@
       "Fill another corner with shredded pineapple salsa.",
       "Fill a third corner with avocado salsa.",
       "In the last corner add 3 wonton Chips.",
+      "Plateware:",
+      "Medium Square Bowl",
       "Expo:",
       "Pour Soygave on meat only,",
-      "Drizzle lime crema over all ingredients",
+      "Drizzle lime crema over all ingredients in a zigzag motion ",
       "Top with green onion & Lime wedge",
-      "Plateware:",
-      "Medium Square Bowl"
+      "NO Sides offered "
     ],
     "notes": "",
     "images": []
@@ -27907,7 +27888,7 @@
   {
     "id": "dm-si-24",
     "masterId": "dm-si-24-m",
-    "name": "Chicken",
+    "name": "Chicken Bowl",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -27929,6 +27910,11 @@
         "name": "Coconut Rice",
         "qty": "2",
         "unit": "Ivory Scoops"
+      },
+      {
+        "name": "Lemon Butter",
+        "qty": "Brush ",
+        "unit": "Finished "
       },
       {
         "name": "Wonton Chips",
@@ -27959,11 +27945,6 @@
         "name": "Lime Crema",
         "qty": "2",
         "unit": "Vol oz (Drizzle)"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
@@ -27989,7 +27970,10 @@
       "Medium Square Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi83foiltun2h.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi83lr1h3at9z.png"
+    ]
   },
   {
     "id": "dm-si-26",
@@ -28003,8 +27987,8 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Chicken Tenders",
-        "qty": "3",
+        "name": "Chicken Breast (cut in half)",
+        "qty": "1",
         "unit": "Each"
       },
       {
@@ -28014,8 +27998,13 @@
       },
       {
         "name": "Bread Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
+      },
+      {
+        "name": "Lemon Butter (Finished)",
+        "qty": "Baste ",
+        "unit": "Protein "
       },
       {
         "name": "Cabbage Shredded",
@@ -28026,16 +28015,11 @@
         "name": "Red Onions",
         "qty": "1",
         "unit": "2oz cup"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
       "GRILLED / BLACKENED:",
-      "Take 3 chicken strips",
+      "Take 1 chicken breast and cut it in half lengthwise",
       "Season the skin side only of the chicken strips with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the chicken skin (smooth) side down.",
       "A light weight may be used — never press, smash, or dome.",
@@ -28049,7 +28033,8 @@
       "Give to the expo to finish",
       "Expo:",
       "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side",
-      "Served Grill / Blackened"
+      "Plateware:",
+      "Rectangle plate, Taco stand "
     ],
     "notes": "",
     "images": []
@@ -28069,6 +28054,12 @@
         "name": "Soy Brussels Sprouts",
         "qty": "1",
         "unit": "Portion"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "each",
+        "name": "Flour Tortilla Shells "
       },
       {
         "name": "Cabbage",
@@ -28097,13 +28088,13 @@
       "Once they have grill marks, place tortillas in taco slots",
       "Taco Build: Add Cabbage, then Brussels,",
       "Add Feta cheese, top with Red Onion,",
+      "Plateware:",
+      "Rectangle Plate, Taco stand",
       "Expo:",
-      "2 Lime wedges, cilantro"
+      "2 Lime wedges, cilantro, side"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi198qii3uxr7.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muu7e83f9n4s3v.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfhya0x0lklk1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfhy5ojuji5b5.jpg"
     ]
@@ -28121,7 +28112,7 @@
     "ingredients": [
       {
         "name": "Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -28162,14 +28153,17 @@
     ],
     "steps": [
       "Assembling:",
-      "Start by placing 3 tortillas on the char grill for 15-30 seconds on each side",
+      "Start by placing 2 tortillas on the char grill for 10-15 seconds on each side",
       "Place shells in taco plate holders",
       "Fill each shell halfway with cabbage",
       "Sprinkle red onion on each taco and give to the expo",
       "Add a drizzle of lime crema",
       "Add cilantro leaves and radish to each taco",
       "Crumble queso fresco over each taco",
-      "Add 2 lime wedges to the side"
+      "Expo:",
+      "2 lime wedges to the side",
+      "Plateware:",
+      "Rectangle plate, Taco stand"
     ],
     "notes": "",
     "images": []
@@ -28224,7 +28218,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grouper Sandwich (3 slices)",
+        "name": "Grouper Sandwich (2 slices)",
         "qty": "1",
         "unit": "Each"
       },
@@ -28240,7 +28234,7 @@
       },
       {
         "name": "Bread Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -28255,8 +28249,8 @@
       }
     ],
     "steps": [
-      "Cut the grouper sandwich into 3 even pieces",
-      "Then place in milk wash, then Italian breader.",
+      "Cut the grouper sandwich into 2 even pieces",
+      "Then into the milk wash, lift and drain, then into the Italian breader, shake off excess.",
       "Place in 350°F fryer for 4 to 5 minutes, until done.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Place Tortillas on the flattop for 5-8 seconds, both sides. Remove Immediately.",
@@ -28264,6 +28258,8 @@
       "Add cabbage to the bottom of each taco shell.",
       "Place the protein on top of the cabbage",
       "Give to the expo to finish",
+      "Plateware:",
+      "Rectangle Plate, taco stand",
       "Expo:",
       "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
     ],
@@ -28293,7 +28289,7 @@
       },
       {
         "name": "Bread Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -28307,14 +28303,14 @@
         "unit": "2oz cup"
       },
       {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter (finished)",
+        "qty": "Brush ",
+        "unit": "Protein"
       }
     ],
     "steps": [
       "GRILLED / BLACKENED:",
-      "Cut the Grouper into 3 equal strips",
+      "Cut the Grouper into 2 equal pieces",
       "Pat the Grouper dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the fish seasoned side down.",
@@ -28327,6 +28323,8 @@
       "Add cabbage to the bottom of each taco shell.",
       "Place the protein on top of the cabbage",
       "Give to the expo to finish",
+      "Plateware:",
+      "Rectangle Plate, Taco stand ",
       "Expo:",
       "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
     ],
@@ -28356,7 +28354,7 @@
       },
       {
         "name": "Bread Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -28387,7 +28385,9 @@
       "Place the protein on top of the cabbage",
       "Give to the expo to finish",
       "Expo:",
-      "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
+      "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side",
+      "Plateware:",
+      "Rectangle Plate, Taco stand "
     ],
     "notes": "",
     "images": [
@@ -28418,7 +28418,7 @@
       },
       {
         "name": "Bread Tortilla Flour 6\"",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -28440,15 +28440,17 @@
     "steps": [
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the tuna seasoned side down.",
-      "Place on the flattop cook for 2 minutes on both sides. Cook thoroughly",
+      "Place on the flat-top cook for 1.5 minutes on both sides. Cook thoroughly",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the center stays rare.",
       "Heat tortilla shells on the flattop for 5-8 seconds on either side",
-      "Cut the tuna into 6 equal pieces and place 2 pieces in each taco shell",
+      "Cut the tuna into 6 equal pieces and place 3 pieces in each taco shell",
       "Roll the sides of the tortillas up in the classic taco form on the required plate.",
       "Add cabbage to the bottom of each taco shell.",
-      "Place 2 slices of Tuna in each taco shell on top of the cabbage",
+      "Place 3 slices of Tuna in each taco shell on top of the cabbage",
+      "Plateware:",
+      "Rectangle Plate, Taco stand ",
       "Expo:",
-      "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side",
-      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
+      "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
     ],
     "notes": "",
     "images": [
@@ -28648,8 +28650,8 @@
       "Sear each crab cake for 30 seconds to 1 minute",
       "Flip the crab cake to the seared side up and place it on a pizza tray",
       "Bake for 6 minutes at 450°F",
-      "FRIED: Upon Request Only",
-      "Use 2 crab cakes",
+      "FRIED: ",
+      "Upon Request Only - take 2 portioned crab cakes",
       "Place crab cakes directly into the flour and lightly dust.",
       "Transfer to fryer. Cook for approx. 2- 3 minutes or until cakes have a rich, golden brown color",
       "Transfer to a Save A Day to drain off excess oil",
@@ -28701,7 +28703,7 @@
   {
     "id": "dm-si-39",
     "masterId": "dm-si-39-m",
-    "name": "Grilled Shrimp",
+    "name": "Grilled Shrimp Dinner",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -28720,9 +28722,9 @@
         "unit": "Seasoning"
       },
       {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter (Finished)",
+        "qty": "Brush",
+        "unit": "Shrimp"
       }
     ],
     "steps": [
@@ -28732,7 +28734,9 @@
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
       "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
       "Place skewers on the plate.",
-      "Garnish:",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
       "Lemon Wedge, requested sides"
     ],
     "notes": "",
@@ -28766,16 +28770,18 @@
       }
     ],
     "steps": [
-      "Bread 10 P&D shrimp by dipping in milk wash and coating in Italian breader.",
+      "Bread 1 6oz portion of P&D shrimp by dipping it into milk wash and coating in Italian breader.",
       "Place breaded shrimp in a 350°F fryer and cook for approx. 4 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Garnish:",
-      "Lemon wedge, requested sides",
+      "Requested sides",
       "Plateware:",
-      "Lined 1/4 Tray"
+      "Rectangle Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png"
+    ]
   },
   {
     "id": "dm-pl-14",
@@ -28805,16 +28811,18 @@
       }
     ],
     "steps": [
-      "Bread 10 P&D shrimp by dipping in milk wash and coating in Italian breader.",
+      "Bread 1 6oz portion of P&D shrimp by dipping it into milk wash and coating in Italian breader.",
       "Place breaded shrimp in a 350°F fryer and cook for approx. 4 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Garnish:",
-      "Lemon wedge, requested sides",
+      "Requested sides",
       "Plateware:",
-      "Lined 1/4 Tray"
+      "Rectangle Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png"
+    ]
   },
   {
     "id": "dm-si-42",
@@ -28902,7 +28910,9 @@
       "Medium Well - mostly brown with a gray center, very little, if any pink, 150–160°F",
       "Well done - Brown throughout with no sign of pink >160°F",
       "Expo:",
-      "Steak knife, requested sides"
+      "Steak knife, requested sides",
+      "Plateware:",
+      "Dinner Plate "
     ],
     "notes": "",
     "images": [
@@ -28951,11 +28961,18 @@
       "As the chicken is finishing, place a pineapple on the flat top for 1 minute to heat it up",
       "Place the pineapple wheel on top. Then onto a bed of rice",
       "Then place the chicken on the pineapple",
-      "Baste the chicken with the pineapple sauce and serve"
+      "Baste the chicken with the pineapple sauce and serve",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "pineapple sauce, requested side, "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muu79ldvhqn6fd.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvici4o1n1ko2l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvicialwk4pdxu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muu79ldvhqn6fd.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvicijarqn8udp.png"
     ]
   },
   {
@@ -28980,9 +28997,9 @@
         "unit": "Season"
       },
       {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "name": "Lemon Butter ( Finished)",
+        "qty": "Baste",
+        "unit": "Protein"
       }
     ],
     "steps": [
@@ -29000,11 +29017,16 @@
       "Medium Well - 8 minutes on flat top - mostly brown with a gray center, very little, if any pink, 150–160°F",
       "Well done - 10 minutes on flat top - Brown throughout with no sign of pink >160°F",
       "Note: Times may vary on the cut of the steak. Steaks ordered med-well and well will be butterflied unless the guest does not want it.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Steak knife, requested sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r1i9m8gpgp.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png"
+    ]
   },
   {
     "id": "dm-si-46",
@@ -29179,8 +29201,8 @@
     ],
     "steps": [
       "If adding protein:",
-      "Shrimp pieces should be sautéed with Scampi butter before adding the Alfredo sauce pan",
-      "Chicken breast, cook the chicken breast on the grill, and start the pasta process after the chicken has been flipped.",
+      "**Shrimp pieces should be sautéed with Scampi butter before adding the Alfredo sauce pan**",
+      "**Chicken breast, cook the chicken breast on the grill, and start the pasta process after the chicken has been flipped.**",
       "Add a portion of broccoli to boiling water",
       "Add scoops of Alfredo and scampi butter to a pan and turn to medium heat",
       "Add pasta to boiling water",
@@ -29188,13 +29210,16 @@
       "Add pasta and broccoli to the pan and toss in the sauce until the sauce is hot and ready",
       "Pour pasta into a large bowl",
       "Sprinkle parmesan cheese over top",
-      "Garnish:",
+      "Expo:",
       "Green onion, Garlic bread, spoon",
       "Plateware:",
       "Large Bowl, Soup Spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvif0nw9kwa696.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvif0sqmrozx4k.png"
+    ]
   },
   {
     "id": "dm-si-49",
@@ -29244,10 +29269,10 @@
       "Add pasta and broccoli to the pan and toss in the sauce until the sauce is hot and ready",
       "Pour pasta into a large bowl",
       "Sprinkle parmesan cheese over top",
-      "Expo:",
-      "Green onion, Garlic bread, spoon",
       "Plateware:",
-      "Large Bowl, Soup Spoon"
+      "Large Bowl, Soup Spoon",
+      "Expo:",
+      "Green onion, Garlic bread, spoon"
     ],
     "notes": "",
     "images": []
@@ -29295,7 +29320,7 @@
     "submenu": "Soup / Salad / Dessert",
     "yield": "",
     "shelfLife": "",
-    "smallware": "",
+    "smallware": "mixing bowl, tongs, correct plateware",
     "ingredients": [
       {
         "name": "Lettuce Romaine",
@@ -29327,14 +29352,17 @@
       "Lightly toss 6 w/oz of romaine lettuce with cheese, croutons, and Caesar dressing.",
       "Served in a large chilled bowl.",
       "Top with parmesan cheese. Place garlic bread on top of the salad.",
+      "If protein is added, place it on top of the salad ",
       "Garnish:",
       "Garlic bread, Parmesan cheese, 7-9 Croutons",
       "Plateware:",
-      "Large Salad Bowl",
-      "Served - Plain Ceasar LG"
+      "Large Salad Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7ccs7gu78ou.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi7ec88bsec4a.jpg"
+    ]
   },
   {
     "id": "dm-si-52",
@@ -29384,12 +29412,10 @@
       "Add 2 handfuls of spinach,",
       "Add strawberries and blueberries",
       "Top w/ candied walnuts",
-      "Serve with 4oz Berry Vinaigrette onside",
       "Expo:",
-      "Dressing, feta and candied walnuts",
+      "Dressing,  4oz Berry Vinaigrette on side feta and candied walnuts",
       "Plateware:",
-      "Large Salad Bowl",
-      "Spinach & Strawberry Salad"
+      "Large Salad Bowl"
     ],
     "notes": "",
     "images": [
@@ -29443,10 +29469,13 @@
       "Place 1.5 cups of Salad mix in a salad bowl,",
       "Add quartered tomatoes, sliced radishes, and sliced red onions across the top",
       "Sprinkle the top with shredded cheese",
-      "Expo/ Salad: 4oz cup of dressing"
+      "Expo/Salad:",
+      "4oz cup of dressing. If protein is ordered, place it on top of the salad"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvic77v1vgtqkh.png"
+    ]
   },
   {
     "id": "dm-si-54",
@@ -29639,7 +29668,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Haddock Portions",
+        "name": "Haddock Sandwich Portion",
         "qty": "1",
         "unit": "Each (cut into 3 or 4 slices)"
       },
@@ -29660,10 +29689,15 @@
       "Transfer the strips to the Italian breading and shake off excess.",
       "Place into a 350°F fryer for approx. 5 minutes or until cooked thoroughly",
       "Transfer to save a day to drain the excess oil",
-      "Expo:"
+      "PLateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "Requested Side "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvide89214tw7z.png"
+    ]
   },
   {
     "id": "dm-si-57",
@@ -29701,10 +29735,15 @@
       "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
-      "Expo:"
+      "Plateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "Requested Side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid9h22njc09w.png"
+    ]
   },
   {
     "id": "dm-si-58",
@@ -29741,12 +29780,15 @@
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cook for 4 minutes",
-      "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F ."
+      "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F",
+      "PLateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "requested side "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__0.jpg"
     ]
   },
   {
@@ -29770,7 +29812,7 @@
       "Take 1 pre-portioned Mac & Cheese",
       "Place in the Microwave for 30 seconds, stir,",
       "Expo:",
-      "requested side, soup spoon",
+      "soup spoon",
       "Plateware:",
       "7oz Rarebit, napkin-lined Rectangular Plate"
     ],
@@ -29802,10 +29844,17 @@
     "steps": [
       "Place the burger on the grill.",
       "Turn the burger over halfway through the cooking process to complete cooking.",
-      "Placed cooked burger on toasted burger bun."
+      "Placed cooked burger on toasted burger bun.",
+      "Plateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "requested side "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvidaxgakmgtci.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvidb2p7264qub.png"
+    ]
   },
   {
     "id": "dm-si-61",
@@ -29838,10 +29887,17 @@
       "Place the burger on the grill.",
       "Turn the burger over halfway through the cooking process.",
       "Add 1 slice of American cheese to melt while completing the cooking",
-      "Placed cooked cheeseburger on toasted burger bun."
+      "Placed cooked cheeseburger on toasted burger bun.",
+      "Plateware:",
+      "Rectangle Plate ",
+      "Expo:",
+      "Requested side "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvidc8a06umzzt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvidcedhrkqslh.png"
+    ]
   },
   {
     "id": "dm-si-62",
@@ -29905,7 +29961,9 @@
       "Take 1 hand full of cooked fries place on rectangular plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9v2u5k1fi3h.png"
+    ]
   },
   {
     "id": "dm-si-64",
@@ -29928,7 +29986,9 @@
       "Take 1 Ivory scoop and dish into Monkey Dish"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid3di71nw69o.png"
+    ]
   },
   {
     "id": "dm-si-66",
@@ -30061,7 +30121,7 @@
     ],
     "steps": [
       "Take 1 portion and place it in the Microwave for 2 minutes",
-      "Be careful (HOT)taking and opening the bag from the Microwave,",
+      "Be careful (HOT) taking and opening the bag from the Microwave,",
       "Be careful opening the bag, the steam inside is hot.",
       "Place in Monkey Dish"
     ],
@@ -30114,7 +30174,9 @@
       "Take a beige scoop and dish into a monkey dish"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi80w7qg7ketd.jpg"
+    ]
   },
   {
     "id": "dm-si-71",
@@ -30178,8 +30240,9 @@
       "Expo:",
       "Butter (2oz cup)",
       "Plateware:",
-      "App Plate / Rectangular Plate",
+      "Rectangular Plate",
       "1 - 4oz ladle of Scampi Sauce",
+      "HOT:",
       "Add 4oz of Scampi sauce to a sauté pan",
       "Sauté shrimp in scampi saucer until completely cooked",
       "Pour the entire contents into a Small bowl",
@@ -30194,7 +30257,9 @@
       "Small Bowl / Rectangular Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvifdgmfnlvbr0.png"
+    ]
   },
   {
     "id": "dm-cbg-3",
@@ -30227,8 +30292,9 @@
       "Expo:",
       "Butter (2oz cup)",
       "Plateware:",
-      "App Plate / Rectangular Plate",
+      "Rectangular Plate",
       "1 - 4oz ladle of Scampi Sauce",
+      "HOT:",
       "Add 4oz of Scampi sauce to a sauté pan",
       "Sauté shrimp in scampi saucer until completely cooked",
       "Pour the entire contents into a Small bowl",
@@ -30243,7 +30309,9 @@
       "Small Bowl / Rectangular Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvifdgmfnlvbr0.png"
+    ]
   },
   {
     "id": "dm-cds-2",
@@ -35844,15 +35912,19 @@
     "steps": [
       "Place 7 chicken strips into the milk wash and drain the excess.",
       "Transfer the strips to the chicken breading and shake off excess.",
-      "Place breaded chicken into a 350°F fryer for approximately 5 minutes, or until the chicken begins to float and is golden brown to an internal temperature of 165°F.",
+      "Place breaded chicken in a 350°F fryer for approximately 5-6 minutes, or until the chicken floats and is golden brown, reaching an internal temperature of 165°F.",
       "Transfer to a save-a-day to drain excess oil.",
       "Toss in desired sauce if applicable.",
-      "Expo:",
       "Plateware:",
-      "Plated 7 count- Nashville"
+      "Rectangle plate",
+      "Expo:",
+      "Dipping sauce if requested"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8sx09yuktii.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi8t20m484qzq.png"
+    ]
   },
   {
     "id": "dm-cbg-26",
@@ -36088,18 +36160,20 @@
       }
     ],
     "steps": [
-      "Preparation:",
       "Place 3 par-cooked eggrolls into a 350°F fryer until golden brown, being careful not to overcook the edges.",
       "Transfer to a save-a-day to drain off excess oil",
       "Using a cutting board, cut each eggroll diagonally in half.",
       "Place eggrolls in 3 crisscrossed stacks and serve.",
-      "Expo:",
-      "sprinkle green onion on top,",
       "Plateware:",
-      "Lined Oval Basket"
+      "Rectangle Plate",
+      "Expo:",
+      "sprinkle green onion on top,"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi5qw79f01pc9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi5r1a6dmi7m6.png"
+    ]
   },
   {
     "id": "dm-cbg-32",
@@ -56618,6 +56692,8 @@
       "Cook 2 eggs as requested",
       "Place the choice of meat alongside the eggs",
       "Place the toast to the side of the eggs",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Meat option, toast, side"
     ],
@@ -56666,6 +56742,8 @@
       "Cook 2 eggs as requested",
       "Place the choice of meat alongside the eggs",
       "Place the toast to the side of the eggs",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Meat option, toast, side"
     ],
@@ -56714,6 +56792,8 @@
       "Cook 2 eggs as requested",
       "Place the choice of meat alongside the eggs",
       "Place the toast to the side of the eggs",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Meat option, toast, side"
     ],
@@ -56763,6 +56843,8 @@
       "When cooking, you want a golden brown appearance. Flip",
       "Cook the same way on the other side",
       "Stack slightly overlapping, with the points facing the same way",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Powder Sugar, fruit cup or requested side, 2 butter packs"
     ],
@@ -56812,6 +56894,8 @@
       "When cooking, you want a golden brown appearance. Flip",
       "Cook the same way on the other side",
       "Stack slightly overlapping, with the points facing the same way",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Powder Sugar, fruit cup or requested side, 2 butter packs"
     ],
@@ -56861,6 +56945,8 @@
       "When cooking, you want a golden brown appearance. Flip",
       "Cook the same way on the other side",
       "Stack slightly overlapping, with the points facing the same way",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Powder Sugar, fruit cup or requested side, 2 butter packs"
     ],
@@ -56910,6 +56996,8 @@
       "When cooking, you want a golden brown appearance. Flip",
       "Cook the same way on the other side",
       "Stack slightly overlapping, with the points facing the same way",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Powder Sugar, fruit cup or requested side, 2 butter packs"
     ],
@@ -56952,6 +57040,8 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
@@ -56995,6 +57085,8 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
@@ -57038,6 +57130,8 @@
       "Place the choice of meat on the grill till hot",
       "Layer the waffles in an overlapping fashion",
       "Place the meat next to the Waffle on the plate.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "Fruit cup, if No fruit cup, a substituted side",
       "Server: Syrup, Butter chip,"
@@ -57546,6 +57640,8 @@
       "Add a full piece of lettuce, and 2 slices of tomato on top of the bacon",
       "This is served closed w/ a sandwich pick",
       "Add the requested side",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "mayo pack, sandwich pick, requested side"
     ],
@@ -57608,6 +57704,8 @@
       "Add a full piece of lettuce, and 2 slices of tomato on top of the bacon",
       "This is served closed w/ a sandwich pick",
       "Add the requested side",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "mayo pack, sandwich pick, requested side"
     ],
@@ -58637,12 +58735,12 @@
       },
       {
         "name": "Flour Tortillas",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "2",
         "unit": "Strips"
       },
       {
@@ -58665,6 +58763,7 @@
     "steps": [
       "Toast tortillas on a flat top for 30 seconds on each side",
       "Butter an 8\" pan and scramble eggs till cooked as asked",
+      "Place the tortilla shells on the flat-top for 5-10 seconds on both sides ",
       "Place tortillas in the taco slots of the plate",
       "Add a strip of bacon to each shell",
       "Add cheese evenly to each shell",
@@ -58672,12 +58771,15 @@
       "Top with avocado salsa",
       "Garnish:",
       "Cilantro, requested side",
-      "Plateware:"
+      "Plateware:",
+      "Rectangle Plate, Taco stand "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhiwfudkcar.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhmu953io5u.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigpwm65yn92u.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigq1z7wc6e0d.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigrhqsuvoe5v.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigqpsw3510v3.jpg"
     ]
   },
   {
@@ -58703,12 +58805,12 @@
       },
       {
         "name": "Flour Tortillas",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "2",
         "unit": "Strips"
       },
       {
@@ -58731,6 +58833,7 @@
     "steps": [
       "Toast tortillas on a flat top for 30 seconds on each side",
       "Butter an 8\" pan and scramble eggs till cooked as asked",
+      "Place the tortilla shells on the flat-top for 5-10 seconds on both sides ",
       "Place tortillas in the taco slots of the plate",
       "Add a strip of bacon to each shell",
       "Add cheese evenly to each shell",
@@ -58738,12 +58841,15 @@
       "Top with avocado salsa",
       "Garnish:",
       "Cilantro, requested side",
-      "Plateware:"
+      "Plateware:",
+      "Rectangle Plate, Taco stand "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhiwfudkcar.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhmu953io5u.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigpwm65yn92u.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigq1z7wc6e0d.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigrhqsuvoe5v.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigqpsw3510v3.jpg"
     ]
   },
   {
@@ -58769,12 +58875,12 @@
       },
       {
         "name": "Flour Tortillas",
-        "qty": "3",
+        "qty": "2",
         "unit": "Each"
       },
       {
         "name": "Bacon",
-        "qty": "3",
+        "qty": "2",
         "unit": "Strips"
       },
       {
@@ -58797,6 +58903,7 @@
     "steps": [
       "Toast tortillas on a flat top for 30 seconds on each side",
       "Butter an 8\" pan and scramble eggs till cooked as asked",
+      "Place the tortilla shells on the flat-top for 5-10 seconds on both sides ",
       "Place tortillas in the taco slots of the plate",
       "Add a strip of bacon to each shell",
       "Add cheese evenly to each shell",
@@ -58804,12 +58911,15 @@
       "Top with avocado salsa",
       "Garnish:",
       "Cilantro, requested side",
-      "Plateware:"
+      "Plateware:",
+      "Rectangle Plate, Taco stand "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhiwfudkcar.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkhmu953io5u.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigpwm65yn92u.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigq1z7wc6e0d.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigrhqsuvoe5v.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvigqpsw3510v3.jpg"
     ]
   },
   {
@@ -59498,7 +59608,7 @@
         "unit": "Each"
       },
       {
-        "name": "Eggs",
+        "name": "Eggs ",
         "qty": "2",
         "unit": "Each"
       },
@@ -59525,8 +59635,9 @@
       "Poached eggs to requested temp. placed on ham",
       "Top with hot Bruere Blanc sauce",
       "Expo:",
-      "Bruere Blanc if it's on the expo,",
-      "Plateware:"
+      "Bruere Blanc, Potatoes, if it's on the expo line",
+      "Plateware:",
+      "Dinner Plate"
     ],
     "notes": "",
     "images": [
@@ -59551,7 +59662,7 @@
         "unit": "Each"
       },
       {
-        "name": "Eggs",
+        "name": "Eggs ",
         "qty": "2",
         "unit": "Each"
       },
@@ -59578,8 +59689,9 @@
       "Poached eggs to requested temp. placed on ham",
       "Top with hot Bruere Blanc sauce",
       "Expo:",
-      "Bruere Blanc if it's on the expo,",
-      "Plateware:"
+      "Bruere Blanc, Potatoes, if it's on the expo line",
+      "Plateware:",
+      "Dinner Plate"
     ],
     "notes": "",
     "images": [
@@ -59644,7 +59756,11 @@
       "Place a toasted biscuit down (open-faced)",
       "Cut the chicken breast in half and place a piece on each biscuit",
       "Place medium poached eggs on the chicken piece",
-      "Cover with sausage gravy"
+      "Cover with sausage gravy",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "Sausage Gravy, Potatoes, if on expo line "
     ],
     "notes": "",
     "images": [
@@ -59709,7 +59825,11 @@
       "Place a toasted biscuit down (open-faced)",
       "Cut the chicken breast in half and place a piece on each biscuit",
       "Place medium poached eggs on the chicken piece",
-      "Cover with sausage gravy"
+      "Cover with sausage gravy",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "Sausage Gravy, Potatoes, if on expo line "
     ],
     "notes": "",
     "images": [
@@ -61793,11 +61913,29 @@
         "name": "Sausage Gravy",
         "qty": "1",
         "unit": "4oz ladle"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "each",
+        "name": "Eggs"
+      },
+      {
+        "qty": "Pan ",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter AA"
       }
     ],
     "steps": [
+      "Start cooking the eggs as requested",
       "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
-      "Poor sausage gravy on top of the biscuit, cover evenly"
+      "Pour 1- 4 oz ladle of sausage gravy on top of the biscuit, cover evenly",
+      "Place the eggs alongside the biscuit and gravy",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "Potatoes, if on the expo line"
     ],
     "notes": "",
     "images": [
@@ -61825,11 +61963,29 @@
         "name": "Sausage Gravy",
         "qty": "1",
         "unit": "4oz ladle"
+      },
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "each",
+        "name": "Eggs"
+      },
+      {
+        "qty": "Pan ",
+        "qty2": "",
+        "unit": "Brushed",
+        "name": "Butter AA"
       }
     ],
     "steps": [
+      "Start cooking the eggs as requested",
       "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
-      "Poor sausage gravy on top of the biscuit, cover evenly"
+      "Pour 1- 4 oz ladle of sausage gravy on top of the biscuit, cover evenly",
+      "Place the eggs alongside the biscuit and gravy",
+      "Plateware:",
+      "Dinner Plate",
+      "Expo:",
+      "Potatoes, if on the expo line"
     ],
     "notes": "",
     "images": [
@@ -62966,7 +63122,11 @@
       "Place Spinach on top of toasted muffins",
       "Place the Crab Cake on top of the spinach",
       "Place the Egg on top",
-      "Top with hot beurre-blanc sauce"
+      "Top with hot Beurre Blanc sauce",
+      "Plateware:",
+      "Dinner Plate ",
+      "Expo:",
+      " Beurre Blanc, Sprinkle of Old Bay on top, Potatoes, if on expo line"
     ],
     "notes": "",
     "images": [
@@ -63024,8 +63184,10 @@
       "Heat biscuits in the toaster",
       "Place the Biscuit on the plate, center side face up, and the other side down",
       "Place the chicken on the face-up section",
-      "The other 1/2 of the biscuit overlaps a part of the chicken (see photo)",
       "Drizzle the Spicy Honey across the top of the Chicken",
+      "The other 1/2 of the biscuit overlaps (shingles) a part of the chicken (see photo)",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "2 slices of bacon and a requested side."
     ],
@@ -63162,12 +63324,15 @@
     ],
     "steps": [
       "Place the bread in the toaster",
+      "Start cooking the eggs as requested",
       "Place the toast on the plate.",
       "Place cooked eggs on 1 piece of toast",
       "Add a piece of American cheese",
       "Expo place Bacon on top of the cheese",
+      "Plateware:",
+      "Rectangle plate",
       "Expo:",
-      "Requested side"
+      "Bacon, if on the expo line, and requested side"
     ],
     "notes": "",
     "images": [
@@ -63230,6 +63395,9 @@
       "Place the American Cheese on top of the egg",
       "Top with the other slice of French toast.",
       "Cut the sandwich diagonally, and plate",
+      "**Note: if requested a cooked egg with runny yolk, serve it with the top piece of bread shingled and not cut in half.**",
+      "Plateware:",
+      "Rectangle plate",
       "Expo:",
       "Powdered Sugar, requested side"
     ],
@@ -63611,13 +63779,16 @@
       }
     ],
     "steps": [
-      "Take 4 chicken strips, place them in the Milk wash, drain then into the Chicken Bread, and then into the Fryer",
+      "Take 4 chicken strips, place them in the Milk wash, drain then into the Chicken Bread, and shake off excess breading  ",
+      "Then place into the 350°F Fryer and cook for 5- 6 minutes till golden brown /cooked through",
       "Cut 2 Waffles in half before cooking, and place the half-waffles back into the freezer for another use.",
       "Cook the 3 half-waffles by placing them in a 450°F oven for 3-5 minutes or until hot.",
       "When waffles are done, Layer waffles overlapping each other on the plate",
-      "Place chicken strips across the top of waffles.",
+      "Place the chicken strips over the top of the waffles.",
       "Take the chopped bacon and mix it with the Spicy syrup",
-      "Pour across the top of chicken & waffles."
+      "Pour across the top of chicken & waffles.",
+      "Plateware:",
+      "Dinner Plate "
     ],
     "notes": "",
     "images": [
@@ -63646,7 +63817,7 @@
         "unit": "Bread & Egg Pan"
       },
       {
-        "name": "Eggs",
+        "name": "Egg",
         "qty": "1",
         "unit": "Each"
       },
@@ -63674,12 +63845,12 @@
       "Flip when the edges begin turning white.",
       "Finish with pre-melted lemon butter on the cooler zone.",
       "In a clean buttered 8\" pan",
-      "Cook 2 eggs as requested",
+      "Cook the egg as requested",
       "Place the burger on a toasted bun.",
       "Place cooked eggs on top",
       "Expo add Bacon on top",
       "Expo:",
-      "Bacon, requested side"
+      "Bacon, if on expo line requested side"
     ],
     "notes": "",
     "images": [
@@ -63742,6 +63913,8 @@
       "Ladle 1 pancake onto a cleaned, greased flat top",
       "Cook on one side until bubbles appear in the middle,",
       "Flip until finished cooking",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Butter packet, one piece of bacon or sausage, and a small fruit"
     ],
@@ -63771,6 +63944,8 @@
     "steps": [
       "Place 1 waffle on a pizza pan, into the oven at 400-500°F for 3-5 minutes or until hot.",
       "Place on the plate",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "Powder Sugar, Butter pack, one piece of bacon, or sausage, and a small fruit"
     ],
@@ -71303,12 +71478,15 @@
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Cook for 4 minutes",
-      "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F ."
+      "Flip for 3 more minutes or until the chicken internal temperature reaches 165°F",
+      "PLateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "requested side "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Chicken_Grilled_All_stores__0.jpg"
     ]
   },
   {
@@ -103157,7 +103335,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "10 days",
-    "smallware": "Small mixing bowl, rubber spatula, and whisk",
+    "smallware": "Small mixing bowl, rubber spatula, whisk, squeeze btls.",
     "ingredients": [
       {
         "name": "Double Egg Mayo",
@@ -103179,7 +103357,7 @@
       "Put all ingredients in a mixing bowl",
       "Pull peppers apart with your hands",
       "Stir until blended and a consistent color with pepper pieces throughout",
-      "Pour into a 32-oz squeeze bottle"
+      "Pour into a 32-oz squeeze bottle, label, dated, and refrigerate"
     ],
     "notes": "",
     "images": [
@@ -103740,10 +103918,10 @@
       "Cover with Plastic wrap, label, and date",
       "Thaw in the walk-in cooler overnight",
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
+      "Portion Sizes:  ",
+      "Fish & Chips Dinner portion is 1 filets = 2 pieces",
       "Sandwich portion is 1 Piece",
-      "Taco Cut is 1 Piece cut in half"
+      "Taco Cut is 1 Piece cut in half lengthwise"
     ],
     "notes": "",
     "images": [
@@ -103778,10 +103956,10 @@
       "Cover with Plastic wrap, label, and date",
       "Thaw in the walk-in cooler overnight",
       "Cut each filet along the bone line, leaving more of the tail on the skinnier side",
-      "Portion 3 pieces each",
-      "Fish & Chips Dinner portion is 1.5 filets = 3 pieces",
+      "Portion Sizes:  ",
+      "Fish & Chips Dinner portion is 1 filets = 2 pieces",
       "Sandwich portion is 1 Piece",
-      "Taco Cut is 1 Piece cut in half"
+      "Taco Cut is 1 Piece cut in half lengthwise"
     ],
     "notes": "",
     "images": [
@@ -104851,7 +105029,7 @@
       }
     ],
     "steps": [
-      "Begin with purchased amount of scallops(i.e. 5# bag, 8# tub, 10# case)",
+      "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
       "**For optimal results, count all the scallops in the bag.**",
       "Portion into 7.9 - 8.1oz portions",
@@ -104862,8 +105040,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di2v7viladk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8di8cim91fxe.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dic3mfh52mq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dih94xptiv0.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8dikwso3weze.png"
     ],
@@ -105313,7 +105489,8 @@
     ],
     "id": "m-mv8c3o8pwg39ok",
     "masterId": "dp-pizza-dough-balls-bar-grill-m",
-    "location": "Salty's Island"
+    "location": "Salty's Island",
+    "active": false
   },
   {
     "name": "Pizza Dough Balls",
@@ -105483,7 +105660,7 @@
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
     "shelfLife": "1 day - to be tossed at the end of the night",
-    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "smallware": "large mixing bowl, storage container, lid, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
         "name": "Water (Cold)",
@@ -105520,7 +105697,7 @@
     "category": "Dinner Prep",
     "yield": "3 quarts (roughly)",
     "shelfLife": "1 day - to be tossed at the end of the night",
-    "smallware": "large mixing bowl, whisk, gallon pitcher, rubber spatula",
+    "smallware": "large mixing bowl, storage container, lid, whisk, gallon pitcher, rubber spatula",
     "ingredients": [
       {
         "name": "Water (Cold)",
