@@ -118142,5 +118142,198 @@
     "notes": "",
     "images": [],
     "active": true
+  },
+  {
+    "name": "Pumpkin Spice Martini",
+    "category": "Seasonal",
+    "submenu": "",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pinnacle Vanilla",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Baileys",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Monin pumpkin spice syrup",
+        "qty": "4",
+        "unit": "pumps",
+        "qty2": ""
+      },
+      {
+        "name": "Cinnamon and sugar",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Pour Pinnacle vanilla, Baileys and Monin pumpkin spice over ice in a shaker and shake vigorously.",
+      "Rim martini glass with cinnamon and sugar, then strain mixture into the martini glass.",
+      "Glassware:",
+      "Martini Glass",
+      "Garnish:",
+      "Sprinkle of cinnamon and sugar"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "se-nb-1",
+    "masterId": "se-nb-1-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Salty Mistletoe",
+    "category": "Seasonal",
+    "submenu": "",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Tres Gen Reposado",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grenadine",
+        "qty": "1.5",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Limes",
+        "qty": "2",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Basil Leaves",
+        "qty": "4",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Sugar",
+        "qty": "",
+        "unit": "Rim",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Muddle Tres Gen Reposado with the limes and basil leaves, add ice and grenadine and shake vigorously.",
+      "Rim rocks glass with sugar.",
+      "Strain mixture over ice in the rocks glass.",
+      "Glassware:",
+      "Rocks Glass",
+      "Garnish:",
+      "1 basil leaf"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "se-nb-2",
+    "masterId": "se-nb-2-m",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Steakhouse Pizza",
+    "category": "Seasonal",
+    "submenu": "",
+    "yield": "",
+    "portions": "",
+    "portionSize": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Pizza Dough Balls",
+        "qty": "1",
+        "unit": "Each",
+        "qty2": ""
+      },
+      {
+        "name": "Alfredo",
+        "qty": "4",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "A1 Sauce",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Steak Tip Portion (seared)",
+        "qty": "1",
+        "unit": "each",
+        "qty2": ""
+      },
+      {
+        "name": "Mozzarella, Shredded",
+        "qty": "7",
+        "unit": "oz cup",
+        "qty2": ""
+      },
+      {
+        "name": "Red Onion",
+        "qty": "2",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Mushrooms, Sliced",
+        "qty": "4",
+        "unit": "oz",
+        "qty2": ""
+      },
+      {
+        "name": "Grape Tomatoes, halved",
+        "qty": "4",
+        "unit": "oz",
+        "qty2": ""
+      }
+    ],
+    "steps": [
+      "Forming the crust:",
+      "Take the dough ball out of the dough bag",
+      "Place the dough ball in a bowl of flour and lightly dust both sides, shaking off any excess flour, then lay it flat on the table",
+      "Form an outer crust by pressing down with your fingers about an inch away from the edge of the dough ball, all around, until the outer crust is formed",
+      "Once the outer crust is formed, push down on the inside area of the crust with the bottom of your fingers (not the tips), working towards the outside until evenly flat",
+      "Pick up the dough and make a fist with both hands under the flattened dough while stretching and turning the dough until the crust has an even thickness and is the size of the pizza screen",
+      "Place on the screen (stretch if needed) until the dough is at the edge of the screen.",
+      "Only push down on the outer edge, not the mesh part of the screen",
+      "Topping the pizza:",
+      "Spread alfredo and A1 mixture evenly over the inner crust, starting from the middle and working towards the outer crust (do not sauce the outer crust)",
+      "Add mozzarella cheese starting at the edge of the inner crust and working towards the middle, spreading evenly",
+      "Spread 1 portion of steak tips (seared), then tomatoes, mushrooms, and onions",
+      "Cooking instructions:",
+      "Place in oven (at 500-515°F degrees) on the screen for approx. 6 minutes, depending on the oven",
+      "Take the pizza off the screen when possible and continue to cook for another 2-3 minutes or until the crust is golden brown, spinning occasionally for even cooking",
+      "Cutting the pizza:",
+      "Once golden brown, take the pizza out of the oven and put it on a deli paper-lined 14\" metal tray",
+      "Make 4 equal cuts, again, cut to make 8 triangular slices"
+    ],
+    "notes": "",
+    "images": [],
+    "active": true,
+    "id": "se-nb-3",
+    "masterId": "se-nb-3-m",
+    "location": "Salty Crab North Beach"
   }
 ]
