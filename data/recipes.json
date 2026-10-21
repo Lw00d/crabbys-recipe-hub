@@ -118252,8 +118252,8 @@
   },
   {
     "name": "Steakhouse Pizza",
-    "category": "Seasonal",
-    "submenu": "",
+    "category": "Dinner Menu",
+    "submenu": "Pasta / Pizza",
     "yield": "",
     "portions": "",
     "portionSize": "",
