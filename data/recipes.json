@@ -493,7 +493,9 @@
       "The Dawn Patrol- fried egg, 2 slices bacon, 2 slices yellow American",
       "The Cut Back- grilled jalapenos, onion straws, 2 slices pepper jack, boom boom sauce",
       "The Offshore- grilled mushrooms, 2 slices Swiss cheese",
-      "The Wipeout- 2 slice bacon, onion straws, 2 slices American cheese, bbq sauce "
+      "The Wipeout- 2 slice bacon, onion straws, 2 slices American cheese, bbq sauce ",
+      "Expo:",
+      "Plateware:"
     ],
     "notes": "",
     "images": [],
@@ -1302,7 +1304,7 @@
       "Pour the ceviche portion into a small bowl",
       "Add 1 scoop of avocado salsa and mix",
       "Pour mixture into 8oz rarebit and top with cilantro",
-      "Put a dish on 1 side of the lined round basket and fill with tortilla chips",
+      "Put the rarebit to one side of the correct plateware and fill with tortilla chips",
       "*If going with other food, keep away from the heat lamp*",
       "Expo:",
       "Plateware:",
@@ -35523,7 +35525,8 @@
       "Put in a lined round basket, sell to the expo",
       "Expo:",
       "4-oz cup of chorizo cheese",
-      "Plateware:"
+      "Plateware:",
+      "Lined round basket"
     ],
     "notes": "",
     "images": []
@@ -35854,7 +35857,8 @@
       "Put in a lined round basket",
       "Expo:",
       "4-oz cup of Queso cheese",
-      "Plateware:"
+      "Plateware:",
+      "Lined round basket"
     ],
     "notes": "",
     "images": []
@@ -35892,9 +35896,10 @@
       "Toss rings in flour until coated and all rings are separated",
       "Transfer to a 350°F fryer and cook for approximately 2-3 minutes or until golden brown",
       "Transfer to a save-a-day to drain excess oil.",
-      "Garnish:",
+      "Expo:",
       "2 - 2oz cups of Petal sauce",
-      "Plateware:"
+      "Plateware:",
+      "Lined round basket"
     ],
     "notes": "",
     "images": []
@@ -36760,7 +36765,7 @@
       "On medium heat, add chipotle topper and water",
       "Heat pasta in boiling water for approximately 1 minute.",
       "Add pasta, tomatoes, and green onions to the existing pan with sauce.",
-      "Flip the pasta a couple of times to make sure all the pasta is coated with the sauce.",
+      "Flip the pasta a couple of times to make sure all the pasta is coated with the sauce. Try to place the shrimp on top of the pasta.",
       "Pour finished pasta into a large bowl.",
       "Add a sprinkle of Parmesan cheese evenly across the top",
       "Expo:",
@@ -72250,7 +72255,7 @@
   {
     "id": "dm-cbg-64",
     "masterId": "dm-cbg-64-m",
-    "name": "Tuna (Bar & Grill)",
+    "name": "Tuna Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -73432,8 +73437,8 @@
       },
       {
         "name": "Flour H&R Self-Rising",
-        "qty": "0.1",
-        "unit": "Weight oz"
+        "qty": "Dusting",
+        "unit": ""
       },
       {
         "name": "Beer Batter Mix",
@@ -73465,7 +73470,7 @@
   {
     "id": "dm-cbg-84",
     "masterId": "dm-cbg-84-m",
-    "name": "Cod & Shrimp (St Augustine)",
+    "name": "Cod & Shrimp (SA)",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73504,7 +73509,6 @@
       "Fry until golden brown, place in a save-a-day, and drain excess oil",
       "When fish and shrimp are cooked, spray malt vinegar on the fish and shrimp, then season with kosher salt",
       "Plate fish and shrimp in a basket stacked at an angle",
-      "When done, put in Sav-a-Day to drain off excess oil",
       "Place in a lined round basket",
       "Expo:",
       "Lemon wedge, 2 sides",
@@ -77418,7 +77422,6 @@
       "Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating them evenly in Italian breading.",
       "Place breaded shrimp in a 350°F fryer and cook for approximately 4 minutes, or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-A-Day to drain excess oil.",
-      "Transfer to the plaid boat",
       "Plateware:",
       "App Plate"
     ],
@@ -77459,6 +77462,7 @@
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the tuna seasoned side down.",
       "Place on a flat top for 2 minutes on each side",
+      "When done, baste with Garlic spread before plating.",
       "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare.",
       "When done, plate and give to the expo",
       "Expo:",
@@ -80192,7 +80196,7 @@
       "Expo:",
       "Lemon wedge",
       "Plateware:",
-      "Soup bowl"
+      "Soup bowl, cocktail fork"
     ],
     "notes": "",
     "images": [
@@ -80451,7 +80455,7 @@
       "Expo:",
       "Lemon",
       "Plateware:",
-      "Plaid food tray"
+      "App plate"
     ],
     "notes": "",
     "images": [
