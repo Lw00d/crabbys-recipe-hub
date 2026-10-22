@@ -7047,7 +7047,8 @@
     "images": [],
     "id": "m-ms4sy9eur0xqac",
     "masterId": "bm-nb-34-m",
-    "location": "Salty's Island"
+    "location": "Salty's Island",
+    "active": false
   },
   {
     "name": "Biscuit & Gravy",
@@ -27034,7 +27035,7 @@
   {
     "id": "dm-si-12",
     "masterId": "dm-raw-oyster-m",
-    "name": "Oysters Raw",
+    "name": "Oysters Raw 12",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -28032,7 +28033,7 @@
   {
     "id": "dm-si-26",
     "masterId": "dm-si-26-m",
-    "name": "Chicken Tacos",
+    "name": "Chicken Tacos 3",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -28494,7 +28495,7 @@
     "steps": [
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the tuna seasoned side down.",
-      "Place on the flat-top cook for 1.5 minutes on both sides. Cook thoroughly",
+      "Place on the flat-top cook for 1.5 minutes on both sides.",
       "Finish with a light brush of pre-melted lemon butter — do not overcook; the center stays rare.",
       "Heat tortilla shells on the flattop for 5-8 seconds on either side",
       "Cut the tuna into 6 equal pieces and place 3 pieces in each taco shell",
@@ -28913,12 +28914,14 @@
     "steps": [
       "Bread Grouper with Flour, shake off excess",
       "Place into Milk wash, drain,",
-      "Then, into the Macadamia crust, cover and press down gently. Be sure the fish is completely covered with the breading.",
+      "Then, into the Macadamia breading, cover and press down gently. Be sure the fish is completely covered with the breading.",
       "Place in a 325°F fryer until cooked all the way through, nice golden brown",
       "Transfer to a save-a-day to drain excess oil",
       "Plate filet facing upwards, not curled over on top",
       "Expo:",
-      "Vanilla Rum Sauce - on side, Lemon wedge, requested 2 sides"
+      "Vanilla Rum Sauce - on side, Lemon wedge, requested 2 sides",
+      "Plateware:",
+      "Dinner Plate"
     ],
     "notes": "",
     "images": []
@@ -29019,7 +29022,7 @@
       "Plateware:",
       "Dinner Plate",
       "Expo:",
-      "pineapple sauce, requested side, "
+      "pineapple sauce, requested side, Green Onions"
     ],
     "notes": "",
     "images": [
@@ -29635,7 +29638,7 @@
       "Place each cutlet in flour, shake off excess, then into the milk wash, drain.",
       "Then, into the Italian breader, gently press to ensure the cutlet is fully coated, and shake off excess",
       "Place in a 350°F fryer for 5 to 6 minutes until cooked to 165°F",
-      "Let rest in sav a day on the plating",
+      "Let rest in a sav a day till plating.",
       "Expo add a scoop of mashed potatoes, place the cutlets on top, fanned out",
       "Expo to add the lemon sauce",
       "Expo:",
@@ -29743,7 +29746,7 @@
       "Transfer the strips to the Italian breading and shake off excess.",
       "Place into a 350°F fryer for approx. 5 minutes or until cooked thoroughly",
       "Transfer to save a day to drain the excess oil",
-      "PLateware:",
+      "Plateware:",
       "Rectangle Plate",
       "Expo:",
       "Requested Side "
@@ -29866,7 +29869,7 @@
       "Take 1 pre-portioned Mac & Cheese",
       "Place in the Microwave for 30 seconds, stir,",
       "Expo:",
-      "soup spoon",
+      "soup spoon, on the plate",
       "Plateware:",
       "7oz Rarebit, napkin-lined Rectangular Plate"
     ],
@@ -31989,7 +31992,7 @@
   {
     "id": "dm-pl-20",
     "masterId": "dm-raw-oyster-m",
-    "name": "Oysters Raw",
+    "name": "Oysters Raw 12",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
