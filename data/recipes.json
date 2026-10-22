@@ -950,7 +950,9 @@
       "Cut in Half = 2 pieces"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlta5kwe1bti.png"
+    ],
     "id": "m-mtctnfneqnkgs0",
     "masterId": "dm-cds-16-m",
     "location": "CBG"
@@ -1018,7 +1020,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe0vtzk53f1z.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe0vtzk53f1z.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjn7afs2pdsa6.png"
     ],
     "id": "m-mtctmyed4wiuey",
     "masterId": "dm-cds-11-m",
@@ -1566,7 +1569,8 @@
     "steps": [
       "Place onion straws in Cajun flour",
       "Shake of excess flour",
-      "Place in fryer until golden brown"
+      "Place in fryer until golden brown",
+      "Transfer to Sav-A-Day to drain excess oil "
     ],
     "notes": "",
     "images": [],
@@ -1601,7 +1605,8 @@
     "steps": [
       "Place onion straws in Cajun flour",
       "Shake of excess flour",
-      "Place in fryer until golden brown"
+      "Place in fryer until golden brown",
+      "Transfer to Sav-A-Day to drain excess oil "
     ],
     "notes": "",
     "images": [],
@@ -21449,7 +21454,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Oysters - half shell Frozen",
+        "name": "Prepped Oysters, or half shell Frozen",
         "qty": "6",
         "unit": "Each"
       },
@@ -21502,7 +21507,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Oysters - half shell Frozen",
+        "name": "Prepped Oysters, or half shell Frozen",
         "qty": "6",
         "unit": "Each"
       },
@@ -22883,7 +22888,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkp0uz63wd1r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkpi0uvifz53.png"
     ]
   },
   {
@@ -22938,8 +22945,8 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfca7gm5jh4g2.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfcay40pppzht.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkp0uz63wd1r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkpi0uvifz53.png"
     ]
   },
   {
@@ -22977,10 +22984,14 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a small salad bowl."
+      "Place in a small salad bowl.",
+      "Plateware:",
+      " Small Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkum1ewslnuv.png"
+    ]
   },
   {
     "id": "dm-pl-3",
@@ -23017,10 +23028,14 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a small salad bowl."
+      "Place in a small salad bowl.",
+      "Plateware:",
+      " Small Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkum1ewslnuv.png"
+    ]
   },
   {
     "id": "dm-nb-41",
@@ -25321,8 +25336,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
   {
@@ -25382,8 +25397,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
   {
@@ -26284,11 +26299,11 @@
       "Place in a 350°F fry basket above a trash can and shake off excess breading",
       "Put in fryer and let cook 3 to 4 minutes",
       "When done, put in a Sav-A-Day to drain off excess oil",
-      "Put in a lined oval basket and give to expo when called for",
+      "Put on the correct plateware",
       "Expo:",
-      "Put the side in the basket",
+      "Side on the plate",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
@@ -26458,13 +26473,12 @@
       "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
       "Top with parmesan cheese",
       "Expo:",
-      "Garlic bread, Soup Spoon",
+      "Side, Soup Spoon",
       "Plateware:",
-      "Medium Pasta Bowl, Medium plate, black napkin"
+      "Medium Bowl, rectangle plate, napkin"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
@@ -26482,37 +26496,38 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "4oz Hamburger Pattie",
+        "name": "Hamburger 4oz",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "Hamburger Bun",
+        "name": "Bread Bun Hamburger",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "**American cheeses",
+        "name": "Cheese American White",
         "qty": "1",
-        "unit": "Slice"
+        "unit": "Slice (if cheeseburger)"
       }
     ],
     "steps": [
       "Place the burger on the grill.",
+      "Place the bun on the flat top to toast",
       "Turn the burger over halfway through the cooking process.",
-      "For a cheeseburger, top the burger with cheese to melt (if necessary) before it has finished cooking.",
+      "For a cheeseburger, top the burger with cheese to melt (if necessary) before it finishes cooking.",
       "Placed cooked burger on toasted burger bun.",
-      "*Add 1 slice of American cheese for cheeseburgers*",
+      "Add 1 slice of American cheese for cheeseburgers",
+      "Expo:",
+      "Put the side in the basket",
       "Plateware:",
-      "Lined Oval Basket"
+      "Rectangular Plate"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger___Cheese_All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger___Cheese_All_stores__1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg"
     ]
   },
   {
@@ -29967,13 +29982,12 @@
       "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
       "Top with parmesan cheese",
       "Expo:",
-      "Garlic bread, Soup Spoon",
+      "Side, Soup Spoon",
       "Plateware:",
-      "Medium Pasta Bowl, Medium plate, black napkin"
+      "Medium Bowl, rectangle plate, napkin"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
@@ -31190,13 +31204,14 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe0vtzk53f1z.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe0vtzk53f1z.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjn7afs2pdsa6.png"
     ]
   },
   {
     "id": "dm-cds-12",
     "masterId": "dm-cds-12-m",
-    "name": "Caribbean Style Taco 2",
+    "name": "Caribbean Style 2",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -31259,7 +31274,12 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjl8c51y355cn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlnw8x7rt02n.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjl8nip32dcyn.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlwmsie4ugez.png"
+    ]
   },
   {
     "id": "dm-cds-13",
@@ -31549,7 +31569,10 @@
       "Cut in Half = 2 pieces"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlta5kwe1bti.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlxlip6zimzh.png"
+    ]
   },
   {
     "id": "dm-cds-17",
@@ -31628,7 +31651,9 @@
       "3 Taco Set Up"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlemkitdu4o4.png"
+    ]
   },
   {
     "id": "dm-cds-18",
@@ -31791,6 +31816,11 @@
         "unit": "Strips"
       },
       {
+        "name": "Lemon Butter",
+        "qty": "",
+        "unit": ""
+      },
+      {
         "name": "Onion sautéed",
         "qty": "5 to 7",
         "unit": "rings"
@@ -31804,11 +31834,6 @@
         "name": "Sauce BBQ",
         "qty": "1",
         "unit": "2oz cup"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
@@ -36393,6 +36418,7 @@
       }
     ],
     "steps": [
+      "**If using Prepped Oysters, skip to line 8**",
       "Brush 4 oysters with melted garlic butter",
       "Top with Crab and Spinach Dip.",
       "Cover each oyster with cheddar jack cheese and sprinkle with bacon.",
@@ -36403,7 +36429,7 @@
       "Baked in a 450°F oven for about 6 to 8 minutes or until all are cooked thoroughly.",
       "Place onto a lined 1/4 tray",
       "Expo:",
-      "Lemon wedges, chopped parsley, Cocktail fork, Drizzle Beurre Blanc on top of the Crabbyfellars only",
+      "Drizzle Beurre Blanc on top of the Crabbyfellars only, Lemon wedges, Cocktail fork, chopped parsley,",
       "Plateware:",
       "1/4 sheet tray lined"
     ],
@@ -68681,10 +68707,10 @@
       "Flash fry a portion of Brussels for 1 minute",
       "Transfer to Sav A Day, and allow excess oil to drain",
       "Place Brussels in a mixing bowl",
-      "Squeeze 1oz of sauce over Brussels and toss together",
+      "Squeeze 1oz of Ginger Soy sauce over Brussels and toss together",
       "Pour from the bowl onto the correct plateware",
       "Expo:",
-      "Chipotle mayo drizzle in a zig-zag motion, top w/ onion straws, chopped parsley",
+      "Onion straws on top,  then Chipotle mayo drizzle in a zig-zag motion, chopped parsley",
       "Plateware:",
       "App Plate"
     ],
@@ -68739,6 +68765,7 @@
       "Place in a 350°F fryer for approx. 2.5 minutes or until golden brown",
       "Transfer to a save-a-day to drain excess oil.",
       "Sprinkle with house spice",
+      "Place on top of a bed of Onion Straws ",
       "Expo:",
       "add lemon, lemon aioli and parsley",
       "Plateware:",
@@ -69181,21 +69208,18 @@
     ],
     "steps": [
       "COLD: Serve 1 lb portion for appetizer.",
-      "Expo (Cold): 2 lemons, 4oz cup Stone Mustard Sauce",
-      "Plateware:",
-      "Lined 1/4 Tray",
-      "Smallware: Dinner knife, Mallet",
+      "Expo (Cold):  lemon wedge, 2oz cup Stone Mustard Sauce",
       "HOT: Place crab portions into a pot of water or a steamer.",
       "Cook for approximately 3-4 minutes.",
       "Add 4oz of Scampi Sauce to a sauté pan to heat",
       "Lift and drain the claws before adding to the Scampi Sauce, and continue to cook for 2-3 minutes more.",
       "While tossing so the claws absorb the sauce.",
       "Place on correct plateware",
-      "Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.",
-      "Expo (Hot): lemons, chopped parsley, mustard sauce",
+      "**Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.**",
+      "Expo: Dinner knife, Mallet ",
+      "(Hot): lemons, chopped parsley; (Cold): mustard sauce",
       "Plateware:",
-      "Rectangular plate",
-      "Smallware: Dinner knife, Mallet"
+      "Pasta Bowl / Lined 1/4 Tray"
     ],
     "notes": "",
     "images": [
@@ -69232,6 +69256,7 @@
       }
     ],
     "steps": [
+      "**If using Prepped Oysters, skip to line 8**",
       "Brush 4 oysters with melted garlic butter",
       "Top with Crab and Spinach Dip.",
       "Cover each oyster with cheddar jack cheese and sprinkle with bacon.",
@@ -69242,7 +69267,7 @@
       "Baked in a 450°F oven for about 6 to 8 minutes or until all are cooked thoroughly.",
       "Place onto a lined 1/4 tray",
       "Expo:",
-      "Lemon wedges, chopped parsley, Cocktail fork, Drizzle Beurre Blanc on top of the Crabbyfellars only",
+      "Drizzle Beurre Blanc on top of the Crabbyfellars only, Lemon wedges, Cocktail fork, chopped parsley,",
       "Plateware:",
       "1/4 sheet tray lined"
     ],
@@ -69264,9 +69289,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Oysters - half shell frozen",
+        "name": "Prepped Oysters or half shell frozen",
         "qty": "6",
-        "unit": "Each Thawed"
+        "unit": "Each "
       },
       {
         "name": "Garlic Spread",
@@ -69290,10 +69315,11 @@
       }
     ],
     "steps": [
-      "Top the prepped oysters with bacon and bake in a 450°F oven for about 8 minutes or until oysters are cooked.",
-      "Transfer to a lined 1/4 tray",
+      "Top the prepped oysters with bacon ",
+      "Then bake in a 450°F oven for about 8 minutes, or until the oysters are cooked.",
+      "Transfer to a lined 1/8 tray",
       "Expo:",
-      "Lemon wedges, Cocktail fork, Drizzle Beurre Blanc sauce over the finished oysters, topped w/ chopped parsley",
+      "Drizzle Beurre Blanc sauce over the finished oysters, topped w/ chopped parsley, Lemon wedges, Cocktail fork, ",
       "Plateware:",
       "lined 1/8 sheet tray"
     ],
@@ -69318,7 +69344,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Oysters - half shell Frozen",
+        "name": "Prepped Oysters, or half shell Frozen",
         "qty": "6",
         "unit": "Each"
       },
@@ -69418,8 +69444,8 @@
         "unit": "Each"
       },
       {
-        "name": "Lemon Wedges (Prep)",
-        "qty": "4",
+        "name": "Lemon Wedges",
+        "qty": "2",
         "unit": "Each"
       },
       {
@@ -69434,14 +69460,16 @@
       }
     ],
     "steps": [
-      "When shucking the oyster, be careful not to pierce the meat, and cut the mussel from the bottom part of the shell.",
+      "**When shucking the oyster, be careful not to pierce the meat, and cut the mussel from the bottom part of the shell.**",
       "Serve shucked oysters on an iced oyster tray.",
-      "Salad/Expo: 2 Lemon wedges, Horseradish, Cracker bowl, Cocktail fork",
+      "Salad/Expo:",
+      "2 Lemon wedges, Horseradish, Cocktail fork, Cracker bowl",
       "Plateware:",
       "Blue tray"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjp5qinjiy0hu.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Oysters_Raw_12_0.jpg"
     ]
   },
@@ -69971,7 +69999,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9sdzvppidzk.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjiqvf446jswe.png"
     ]
   },
   {
@@ -70875,8 +70903,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
   {
@@ -71004,7 +71032,7 @@
       "Top with bacon then cheese and drizzle with BBQ sauce",
       "Once cheese is melted place on bottom bun and top with onion straws",
       "Expo:",
-      "chopped parsley, LTO upon request, requested side, steak knife",
+      "requested side, LTO upon request, chopped parsley, steak knife",
       "Plateware:",
       "Rectangular Plate, steak knife"
     ],
@@ -71338,13 +71366,12 @@
       "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
       "Top with parmesan cheese",
       "Expo:",
-      "Garlic bread, Soup Spoon",
+      "Side, Soup Spoon",
       "Plateware:",
-      "Medium Pasta Bowl, Medium plate, black napkin"
+      "Medium Bowl, rectangle plate, napkin"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
@@ -71385,11 +71412,11 @@
       "Place in a 350°F fry basket above a trash can and shake off excess breading",
       "Put in fryer and let cook 3 to 4 minutes",
       "When done, put in a Sav-A-Day to drain off excess oil",
-      "Put in a lined oval basket and give to expo when called for",
+      "Put on the correct plateware",
       "Expo:",
-      "Put the side in the basket",
+      "Side on the plate",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
@@ -71411,19 +71438,19 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Hamburger 4oz (Pull Thaw)",
+        "name": "Hamburger 4oz",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "Bread Bun Hamburger Egg Butter",
+        "name": "Bread Bun Hamburger",
         "qty": "1",
         "unit": "Each"
       },
       {
-        "name": "Cheese American White (Requested)",
-        "qty": "",
-        "unit": ""
+        "name": "Cheese American White",
+        "qty": "1",
+        "unit": "Slice (if cheeseburger)"
       }
     ],
     "steps": [
@@ -71436,15 +71463,13 @@
       "Expo:",
       "Put the side in the basket",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangular Plate"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger___Cheese_All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger___Cheese_All_stores__1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg"
     ]
   },
   {
@@ -71684,8 +71709,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
   {
@@ -72877,7 +72902,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9sdzvppidzk.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjiqvf446jswe.png"
     ]
   },
   {
@@ -74572,9 +74597,9 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Burger_w__Cheese_1.jpg"
     ]
   },
   {
@@ -74612,11 +74637,11 @@
       "Place in a 350°F fry basket above a trash can and shake off excess breading",
       "Put in fryer and let cook 3 to 4 minutes",
       "When done, put in a Sav-A-Day to drain off excess oil",
-      "Put in a lined oval basket and give to expo when called for",
+      "Put on the correct plateware",
       "Expo:",
-      "Put the side in the basket",
+      "Side on the plate",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
@@ -74655,13 +74680,12 @@
       "Toss the pasta so it is covered in the sauce, and put it in a medium bowl",
       "Top with parmesan cheese",
       "Expo:",
-      "Garlic bread, Soup Spoon",
+      "Side, Soup Spoon",
       "Plateware:",
-      "Medium Pasta Bowl, Medium plate, black napkin"
+      "Medium Bowl, rectangle plate, napkin"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Kids_Pasta__All_stores__v2_0.jpg"
@@ -74687,9 +74711,8 @@
     "steps": [
       "Place 1 pack of mac and cheese into a pot of hot water.",
       "Carefully open the pouch, and pour into the correct bowl",
-      "Place the bowl in a lined oval basket",
       "Expo:",
-      "Put the side on the plate, soup spoon",
+      "Side on the plate, soup spoon",
       "Plateware:",
       "Small bowl on a lined rectangular plate"
     ],
@@ -74726,7 +74749,6 @@
       }
     ],
     "steps": [
-      "Cut Mahi into three",
       "GRILLED / BLACKENED:",
       "Pat the Mahi dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
@@ -74737,9 +74759,9 @@
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Cook until the Mahi is cooked thoroughly.",
       "Expo:",
-      "Put the side in the basket",
+      "Side on the plate",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangle Plate"
     ],
     "notes": "",
     "images": [
@@ -74775,15 +74797,15 @@
       }
     ],
     "steps": [
-      "Take 6 oz mahi and cut into three",
-      "place into milk wash, and drain the excess.",
+      "Cut the 6 oz mahi into three equal pieces",
+      "Place them in the milk wash, and drain the excess.",
       "Transfer Mahi fingers to Italian breading and shake off the excess, making sure to cover the fish thoroughly",
       "Transfer Mahi fingers to a 350°F fryer for about 5 minutes or until golden brown",
-      "Transfer Mahi fingers from the fryer to save a day to drain excess oil",
+      "Transfer Mahi fingers from the fryer to a save a day to drain excess oil",
       "Expo:",
-      "Put the side in the basket",
+      "Side on the plate",
       "Plateware:",
-      "Lined oval basket"
+      "Rectangle Plate"
     ],
     "notes": "",
     "images": [
@@ -75593,10 +75615,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nezhxegzmt.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_1.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Bairdi_1_5_2.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nezhxegzmt.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9nraxpkojv4.jpg"
     ]
   },
@@ -75881,10 +75902,9 @@
       "Crab is fully cooked and will be ideally served cold",
       "Arrange neatly on the correct plateware",
       "Expo:",
-      "2 lemons, 4oz cup Stone (Mustard) Sauce",
+      "2 lemons, 4oz cup Stone (Mustard) Sauce, Dinner knife, Mallet",
       "Plateware:",
-      "Lined 1/4 Tray",
-      "Smallware: Dinner knife, Mallet",
+      "Lined 1/4 Tray / Combo plate",
       "HOT:",
       "Place crab portions into a pot of water or a steamer.",
       "Cook for approximately 3-4 minutes.",
@@ -75892,11 +75912,11 @@
       "Lift and drain the claws before adding to the Scampi Sauce, and continue to cook for 2-3 minutes more.",
       "While tossing so the claws absorb the sauce.",
       "Place on correct plateware",
-      "Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.",
+      "**Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.**",
       "Expo:",
-      "chopped parsley, 2 lemons",
+      "chopped parsley, 2 lemons, Dinner knife, Mallet",
       "Plateware:",
-      "Pasta Bowl, Dinner knife, Mallet"
+      "Pasta Bowl / Combo plate, Dinner knife, Mallet"
     ],
     "notes": "",
     "images": [
@@ -75933,18 +75953,17 @@
         "unit": "On Mahi"
       },
       {
-        "name": "Mango Salsa (Prep) on top",
-        "qty": "2",
-        "unit": "1oz spoodle"
-      },
-      {
         "name": "Lemon Butter",
         "qty": "",
         "unit": ""
+      },
+      {
+        "name": "Mango Salsa (Prep) on top",
+        "qty": "2",
+        "unit": "1oz spoodle"
       }
     ],
     "steps": [
-      "BLACKENED:",
       "GRILLED / BLACKENED:",
       "Pat the Mahi dry.",
       "Season the non-skin side only with the requested seasoning, before it touches the grill.",
@@ -75956,7 +75975,7 @@
       "When mahi is finished cooking, top with Pineapple Habanero Glaze or Salsa Verde after plating.",
       "Topped off with Mango Salsa",
       "Expo:",
-      "requested side, chopped parsley, Lemon wedge",
+      "requested side, chopped parsley, lemon wedge",
       "Plateware:",
       "Dinner plate"
     ],
@@ -76016,7 +76035,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkp0uz63wd1r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkpi0uvifz53.png"
     ]
   },
   {
@@ -76054,10 +76075,14 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a small salad bowl."
+      "Place in a small salad bowl.",
+      "Plateware:",
+      " Small Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkum1ewslnuv.png"
+    ]
   },
   {
     "id": "dm-cds-109",
@@ -76120,11 +76145,11 @@
       "Once calamari is covered, shake off excess.",
       "Place in a 350°F fryer for approx. 3 minutes or until golden brown",
       "Transfer to a save-a-day to drain excess oil.",
-      "Sprinkle with house spice",
+      "Sprinkle with house spice, sell to expo",
       "Expo:",
       "Garlic bread",
       "Plateware:",
-      "Pasta bowl"
+      "Large Pasta bowl"
     ],
     "notes": "",
     "images": [
@@ -76220,6 +76245,7 @@
       }
     ],
     "steps": [
+      "**Note: Not tossed, the 4oz dressing is served on the side**",
       "Place the prepped salad mix in a mixing bowl",
       "Add Cucumbers 8-10 each",
       "Cherry Tomatoes 5-6 each",
@@ -76230,7 +76256,7 @@
       "Plateware:",
       "Large Pasta Bowl"
     ],
-    "notes": "Note: Not tossed, the dressing is served on the side",
+    "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Large_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Large_1.jpg"
@@ -76289,6 +76315,7 @@
       }
     ],
     "steps": [
+      "**Note: Not tossed, the dressing is served on the side**",
       "In a mixing bowl add the prepped Salad mix,",
       "Add 4 to 5 each Cucumbers slices,",
       "Tomatoes 2 each,",
@@ -76298,7 +76325,7 @@
       "Plateware:",
       "Small Bowl"
     ],
-    "notes": "Note: Not tossed, the dressing is served on the side",
+    "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Small_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/House_Salad_Small_1.jpg"
@@ -76340,7 +76367,8 @@
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Slice the chicken into 5 strips before plating.",
-      "Fried: Place 1 chicken breast in milk wash and drain the excess.",
+      "Fried:",
+      "Place the chicken breast in the milk wash, lift and drain the excess.",
       "Transfer to chicken breader, and coat evenly, and shake off excess.",
       "After breading, place in a 350°F fryer for approx. 4-5 minutes or until lightly golden brown in color and an internal temperature of 165°F.",
       "Remove from fryer and transfer to a Save-A-Day to drain off excess oil.",
@@ -76368,9 +76396,9 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Grouper Sandwich 5.5oz (Prep)",
+        "name": "Grouper Sandwich (Prep)",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each 5.5oz"
       },
       {
         "name": "Cook as Requested",
@@ -76911,7 +76939,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_1.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Caesar_Salad_Large_CBG_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkp0uz63wd1r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkpi0uvifz53.png"
     ]
   },
   {
@@ -76949,10 +76979,14 @@
     "steps": [
       "Take 1 - 12/14oz logo cup of romaine lettuce with 1oz Caesar dressing.",
       "Lightly toss with Caesar dressing, croutons, and Cheese to coat lettuce evenly.",
-      "Place in a small salad bowl."
+      "Place in a small salad bowl.",
+      "Plateware:",
+      " Small Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjkum1ewslnuv.png"
+    ]
   },
   {
     "id": "dm-cbg-107",
