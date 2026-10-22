@@ -21265,7 +21265,7 @@
   {
     "id": "dm-nb-15",
     "masterId": "dm-nb-15-m",
-    "name": "Cajun Grouper Bites",
+    "name": "Grouper Bites Cajun",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -25360,7 +25360,7 @@
   {
     "id": "dm-nb-78",
     "masterId": "dm-nb-78-m",
-    "name": "Cali Chicken Sandwich",
+    "name": "Chicken Cali Sandwich",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -29794,7 +29794,7 @@
   {
     "id": "dm-si-59",
     "masterId": "dm-si-59-m",
-    "name": "Mac & Cheese",
+    "name": "Kids Mac n Cheese",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -30803,7 +30803,7 @@
   {
     "id": "dm-cds-7",
     "masterId": "dm-cds-7-m",
-    "name": "Shrimp Alfredo",
+    "name": "Pasta Shrimp Alfredo",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -33235,7 +33235,7 @@
   {
     "id": "dm-pl-44",
     "masterId": "dm-pl-44-m",
-    "name": "House Bowl",
+    "name": "Bowl House",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -71748,7 +71748,7 @@
   {
     "id": "dm-cbg-56",
     "masterId": "dm-cbg-56-m",
-    "name": "Cali Chicken Sandwich",
+    "name": "Chicken Cali Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -77414,7 +77414,7 @@
   {
     "id": "dm-cbg-117",
     "masterId": "dm-cbg-117-m",
-    "name": "Tuna for Salad",
+    "name": "Tuna Add-On",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -79654,7 +79654,7 @@
   {
     "id": "dm-cbg-163",
     "masterId": "dm-cbg-163-m",
-    "name": "Seafood Feast",
+    "name": "Boil Seafood Feast",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Offshore",
