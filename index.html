@@ -890,8 +890,8 @@ function procCell(recipe, text){
 // Renders an ingredient name, as a link when a matching prep recipe exists.
 function ingCell(recipe, name){
   const id = prepLinkFor(recipe, name);
-  if(!id) return hl(name);
-  return `<span class="ing-link" onclick="openPrepLayer('${esc(String(id))}')" title="Open the prep recipe">${hl(name)}<span class="ing-arrow">\u2197</span></span>`;
+  if(!id) return hl(fmt(name));
+  return `<span class="ing-link" onclick="openPrepLayer('${esc(String(id))}')" title="Open the prep recipe">${hl(fmt(name))}<span class="ing-arrow">\u2197</span></span>`;
 }
 
 // Which recipes this login could ever see: its own book, or for the all-stores
@@ -1311,6 +1311,19 @@ function getFiltered(){
     return true;
   }).sort((a,b)=> (a.name||'').localeCompare(b.name||'', undefined, {sensitivity:'base'}));
 }
+// Step and ingredient text is TEXT, not markup. It used to go into innerHTML
+// unescaped, so six recipes had steps that simply vanished on the card: the
+// browser read '<----- Place in serving bowl' and '<<zucc cut in half.jpg>>'
+// as broken tags and swallowed them.
+//
+// Inline emphasis uses __double underscores__. NOT **, which already marks a
+// whole line as highlighted — 408 steps rely on that, and reusing it would
+// silently restyle every one of them. The underscore appears nowhere in the
+// recipe data, so nothing existing changes meaning.
+function fmt(str){
+  return esc(String(str == null ? '' : str))
+    .replace(/__([^_]+)__/g, '<strong>$1</strong>');
+}
 function hl(str){
   const q = searchQuery.trim().toLowerCase();
   if(!q) return str;
@@ -1496,8 +1509,8 @@ function renderModalView(){
       if(isSection(s)) return `<div class="step-section-label">${s.slice(0,-1)}</div>`;
       const pl = procCell(recipe, s);
       if(pl) return pl;                       // a step that IS a procedure name
-      if(isHighlight(s)) return `<div class="step-item highlight"><div class="step-text">${hl(s)}</div></div>`;
-      n2++; return `<div class="step-item"><div class="step-num">${n2}</div><div class="step-text">${hl(s)}</div></div>`;
+      if(isHighlight(s)) return `<div class="step-item highlight"><div class="step-text">${hl(fmt(s))}</div></div>`;
+      n2++; return `<div class="step-item"><div class="step-num">${n2}</div><div class="step-text">${hl(fmt(s))}</div></div>`;
     }).join('');
     stepsHTML=`<div class="detail-section"><div class="detail-heading">Preparation</div><div class="steps-list">${items}</div></div>`;
   }
@@ -1629,8 +1642,8 @@ function openPrepLayer(id){
       if(isSection(x)) return `<div class="step-section-label">${esc(x.slice(0,-1))}</div>`;
       const pl2 = procCell(r, x);
       if(pl2) return pl2;
-      if(isHighlight(x)) return `<div class="step-item highlight"><div class="step-text">${esc(x)}</div></div>`;
-      n++; return `<div class="step-item"><div class="step-num">${n}</div><div class="step-text">${esc(x)}</div></div>`;
+      if(isHighlight(x)) return `<div class="step-item highlight"><div class="step-text">${fmt(x)}</div></div>`;
+      n++; return `<div class="step-item"><div class="step-num">${n}</div><div class="step-text">${fmt(x)}</div></div>`;
     }).join('');
     stepsHTML=`<div class="detail-section"><div class="detail-heading">Preparation</div><div class="steps-list">${items}</div></div>`;
   }
