@@ -3747,74 +3747,6 @@
     "location": "Palm"
   },
   {
-    "name": "Lettuce Romaine",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-cut)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "**Upon delivery, open each case and look at each bag for discolored or wilted pieces. RETURN TO THE COMPANY BEFORE THE DRIVER LEAVES. Let a manager see it before returning it**",
-      "Pre-Cut Romaine:",
-      "Before opening the bag of lettuce, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
-      "Each bag is a 2 Lbs.",
-      "**Romaine Hearts:**",
-      "Take 4 romaine hearts and rinse thoroughly.",
-      "Cut the Core from each, and remove the outer leaves and discard.",
-      "Cut remaining leaves in 1\" cuts.",
-      "Spin lettuce in a salad spinner.",
-      "Place into the Lemon bag, remove all the air",
-      "Label, date, refrigerate, and rotate. Place above any raw items "
-    ],
-    "notes": "",
-    "images": [],
-    "id": "m-msou5qfcqfi1pm",
-    "masterId": "dp-lettuce-romaine-m",
-    "location": "Salty's Island"
-  },
-  {
-    "name": "Lettuce Romaine",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-cut)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "**Upon delivery, open each case and look at each bag for discolored or wilted pieces. RETURN TO THE COMPANY BEFORE THE DRIVER LEAVES. Let a manager see it before returning it**",
-      "Pre-Cut Romaine:",
-      "Before opening the bag of lettuce, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
-      "Each bag is a 2 Lbs.",
-      "**Romaine Hearts:**",
-      "Take 4 romaine hearts and rinse thoroughly.",
-      "Cut the Core from each, and remove the outer leaves and discard.",
-      "Cut remaining leaves in 1\" cuts.",
-      "Spin lettuce in a salad spinner.",
-      "Place into the Lemon bag, remove all the air",
-      "Label, date, refrigerate, and rotate. Place above any raw items "
-    ],
-    "notes": "",
-    "images": [],
-    "id": "m-msou5q162cwpyd",
-    "masterId": "dp-lettuce-romaine-m",
-    "location": "Salty Crab North Beach"
-  },
-  {
     "name": "Lemon Zest (Garnish)",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
@@ -5316,7 +5248,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Caesar Salad Bulk",
+    "name": "Lettuce Romaine",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -5362,7 +5294,7 @@
     "location": "CBG"
   },
   {
-    "name": "Caesar Salad Bulk",
+    "name": "Lettuce Romaine",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -5408,7 +5340,7 @@
     "location": "Palm"
   },
   {
-    "name": "Caesar Salad Bulk",
+    "name": "Lettuce Romaine",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -7572,7 +7504,7 @@
   {
     "id": "dp-nb-5",
     "masterId": "dp-caesar-salad-bulk-m",
-    "name": "Caesar Salad Bulk",
+    "name": "Lettuce Romaine",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
@@ -7618,7 +7550,7 @@
   {
     "id": "dp-si-2",
     "masterId": "dp-caesar-salad-bulk-m",
-    "name": "Caesar Salad Bulk",
+    "name": "Lettuce Romaine",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
@@ -16635,108 +16567,6 @@
     "notes": "",
     "images": [],
     "active": false
-  },
-  {
-    "id": "dp-pl-104",
-    "masterId": "dp-lettuce-romaine-m",
-    "name": "Lettuce Romaine",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-cut)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "**Upon delivery, open each case and look at each bag for discolored or wilted pieces. RETURN TO THE COMPANY BEFORE THE DRIVER LEAVES. Let a manager see it before returning it**",
-      "Pre-Cut Romaine:",
-      "Before opening the bag of lettuce, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
-      "Each bag is a 2 Lbs.",
-      "**Romaine Hearts:**",
-      "Take 4 romaine hearts and rinse thoroughly.",
-      "Cut the Core from each, and remove the outer leaves and discard.",
-      "Cut remaining leaves in 1\" cuts.",
-      "Spin lettuce in a salad spinner.",
-      "Place into the Lemon bag, remove all the air",
-      "Label, date, refrigerate, and rotate. Place above any raw items "
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cds-69",
-    "masterId": "dp-lettuce-romaine-m",
-    "name": "Lettuce Romaine",
-    "location": "CDS",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-cut)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "**Upon delivery, open each case and look at each bag for discolored or wilted pieces. RETURN TO THE COMPANY BEFORE THE DRIVER LEAVES. Let a manager see it before returning it**",
-      "Pre-Cut Romaine:",
-      "Before opening the bag of lettuce, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
-      "Each bag is a 2 Lbs.",
-      "**Romaine Hearts:**",
-      "Take 4 romaine hearts and rinse thoroughly.",
-      "Cut the Core from each, and remove the outer leaves and discard.",
-      "Cut remaining leaves in 1\" cuts.",
-      "Spin lettuce in a salad spinner.",
-      "Place into the Lemon bag, remove all the air",
-      "Label, date, refrigerate, and rotate. Place above any raw items "
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "dp-cbg-66",
-    "masterId": "dp-lettuce-romaine-m",
-    "name": "Lettuce Romaine",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Lettuce Romaine (Pre-cut)",
-        "qty": "1",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "**Upon delivery, open each case and look at each bag for discolored or wilted pieces. RETURN TO THE COMPANY BEFORE THE DRIVER LEAVES. Let a manager see it before returning it**",
-      "Pre-Cut Romaine:",
-      "Before opening the bag of lettuce, look for discolored or wilted pieces",
-      "If questionable, ask a manager to look at it before",
-      "Do not toss out without the manager's okay, then write it on the Waste Sheet",
-      "Each bag is a 2 Lbs.",
-      "**Romaine Hearts:**",
-      "Take 4 romaine hearts and rinse thoroughly.",
-      "Cut the Core from each, and remove the outer leaves and discard.",
-      "Cut remaining leaves in 1\" cuts.",
-      "Spin lettuce in a salad spinner.",
-      "Place into the Lemon bag, remove all the air",
-      "Label, date, refrigerate, and rotate. Place above any raw items "
-    ],
-    "notes": "",
-    "images": []
   },
   {
     "id": "dp-pl-107",
