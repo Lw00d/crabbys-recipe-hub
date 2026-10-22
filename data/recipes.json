@@ -17878,55 +17878,6 @@
     "active": false
   },
   {
-    "id": "dp-cbg-72",
-    "masterId": "dp-avocado-egg-rolls-m",
-    "name": "Avocado Egg Rolls Prep",
-    "location": "CBG",
-    "category": "Dinner Prep",
-    "yield": "",
-    "shelfLife": "3 days",
-    "smallware": "mixing bowl, rubber spatula, 2oz scoop, storage container, lid,  ",
-    "ingredients": [
-      {
-        "name": "Chipotle topper",
-        "qty": "1",
-        "unit": "bag"
-      },
-      {
-        "name": "Avocado Halves Frozen",
-        "qty": "25",
-        "unit": "Each"
-      },
-      {
-        "name": "Wrappers (Eggroll)",
-        "qty": "50",
-        "unit": "Each"
-      }
-    ],
-    "steps": [
-      "Cut each avocado half into 4 slices (do not mix in bowl)",
-      "Lay out eggroll wrap in a diamond shape, point facing you",
-      "Use a 2-oz scoop, and place 1.5oz of mix in the center of the wrap",
-      "Place 2 slices of avocado onto the mix",
-      "Dip fingers into clean water and gently damp all sides of the wrap",
-      "Roll gently and tuck in sides to form an eggroll shape",
-      "Place in fryer for 1 minute to par-cook"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl6hu46ljn99.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl6nlykol1yi.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl6tbk8d3vmc.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl6xaqsqqx7i.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl712zztr6wy.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl747yrid8uj.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl790v1zqz8m.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl7cz2aiths0.jpeg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfl7hcm1igene.jpeg"
-    ],
-    "active": false
-  },
-  {
     "id": "dp-cds-103",
     "masterId": "dp-cds-103-m",
     "name": "Crab Bairdi (1lb.+) prep BW",
