@@ -30365,8 +30365,8 @@
       },
       {
         "name": "Sauce Alfredo",
-        "qty": "2",
-        "unit": "4oz ladle"
+        "qty": "1",
+        "unit": "6oz ladle"
       },
       {
         "name": "Pasta Linguine (Prep)",
@@ -30392,7 +30392,7 @@
     "steps": [
       "Baste and season the 2 skewers and place on the grill to cook",
       "In a medium sauté pan on high heat with scampi sauce for approximately 3 minutes, or until shrimp are cooked and scampi is reduced.",
-      "Add 2 4-oz ladles of Alfredo sauce into the sauté pan and heat.",
+      "Add 1 6-oz ladle of Alfredo sauce into the sauté pan and heat.",
       "Heat pasta in boiling water for approximately 1 minute.",
       "Add Pasta to the existing pan of shrimp and sauce.",
       "*If the sauce is still a little too thick to toss, adding a little heavy cream to thin it is ok*",
@@ -30520,8 +30520,6 @@
       "chopped parsley, Garlic bread, soup spoon",
       "Plateware:",
       "Pasta bowl, Soup spoon",
-      "Plate Pasta 1st w/ Shrimp around top",
-      "Add Shrimp then Wine",
       "Add Pasta & toss"
     ],
     "notes": "",
@@ -31088,7 +31086,7 @@
       "Add 1/2 of the cheddar cheese to each taco",
       "Add 1/2 of the cabbage to the top of each taco.",
       "Cabbage should fill shells about halfway",
-      "Add protein on top of cabbage",
+      "Add protein on top of cabbage; give to expo to finish",
       "Caribbean Style - Mango salsa, Cilantro cream sauce,",
       "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
       "Expo:",
@@ -31173,7 +31171,7 @@
   {
     "id": "dm-cds-12",
     "masterId": "dm-cds-12-m",
-    "name": "Caribbean Style 2",
+    "name": "Caribbean Style Taco 2",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -31291,8 +31289,8 @@
       "Add 1/2 of the cabbage to the top of each taco",
       "Cabbage should fill shells about halfway",
       "Place protein on top of cabbage",
-      "Caribbean Style - Mango salsa, Cilantro cream sauce,",
-      "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
+      "*Caribbean Style - Mango salsa, Cilantro cream sauce,",
+      "*Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
       "Expo:",
       "2 Lime wedges, requested side,",
       "Plateware:",
@@ -68805,7 +68803,7 @@
       "Place the Lobster in a 300 - 325°F fryer for about 4-5 minutes,",
       "Cook until lightly golden brown and at an internal temperature of 165°F.",
       "Place in Sav-A-Day to absorb the excess oil",
-      "Place on a lined oval basket",
+      "Place on an app plate",
       "Expo:",
       "chopped parsley, Lemon, Pina Colada sauce",
       "Plateware:",
@@ -69171,7 +69169,7 @@
       "Server Note: Claws are scored and can be easily opened by inserting a butter knife parallel with the score and twisting the shell off.",
       "Expo (Hot): lemons, chopped parsley, mustard sauce",
       "Plateware:",
-      "Pasta Bowl",
+      "Rectangular plate",
       "Smallware: Dinner knife, Mallet"
     ],
     "notes": "",
@@ -69550,7 +69548,7 @@
       "Cook until lightly golden brown and at an internal temperature of 165°F.",
       "Transfer to Sav-a-day to drain excess oil.",
       "Once the Ribs are done, place them on a lined 1/4 tray, and place the Shrimp alongside the Ribs",
-      "Garnish:",
+      "Expo:",
       "2oz BBQ sauce, requested sides, chopped parsley, Pina Colada sauce, Steak knife",
       "Plateware:",
       "White Combo Plate"
@@ -71145,7 +71143,7 @@
       "Then coat in chicken breader, shaking off excess.",
       "Transfer chicken to a 350°F fryer for approx. 4 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Sav-A-Day to drain the excess oil.",
-      "Toss the chicken in request sauce, lift, and then let the excess drip off.",
+      "Toss the chicken in the requested sauce, completely coating the chicken, lift, and then let the excess drip off.",
       "Place the chicken breast on the toasted bun.",
       "Choice of Sauces: Buffalo, or Datil Pepper BBQ",
       "Expo:",
@@ -73200,7 +73198,7 @@
       "Cook until lightly golden brown and at an internal temperature of 165°F.",
       "Transfer to Sav-a-day to drain excess oil.",
       "Once the Ribs are done, place them on a lined 1/4 tray, and place the Shrimp alongside the Ribs",
-      "Garnish:",
+      "Expo:",
       "2oz BBQ sauce, requested sides, see Expo chart for correct dipping sauce - Pina Colada sauce, or Pepper Jam",
       "Plateware:",
       "Lined 1/4 tray, Steak knife"
@@ -79460,7 +79458,7 @@
   {
     "id": "dm-cbg-159",
     "masterId": "dm-cbg-159-m",
-    "name": "Rib Eye Steak Cajun",
+    "name": "Ribeye Steak Cajun",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Mainland",
