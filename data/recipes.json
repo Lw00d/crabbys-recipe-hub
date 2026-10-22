@@ -20808,7 +20808,10 @@
       "Place 3 heated meatballs on top of the ricotta",
       "Cover with red sauce",
       "Put 1 basil leaf on top in the middle, sticking straight up",
-      "Garnish/ Expo: Leaf of Basil"
+      "Expo:",
+      "Leaf of Basil",
+      "Plateware:",
+      "App plate"
     ],
     "notes": "",
     "images": []
@@ -21027,10 +21030,12 @@
       "Place 4oz cup of banana peppers in flour, then the fryer",
       "Place breaded gator in 350°F fryer until golden brown, approximately 4-5 minutes.",
       "Transfer to a Sav-a-Day to drain excess oil.",
-      "Place in an oval basket lined with deli paper",
+      "Place on the correct plateware",
       "Sprinkle with house spice.",
       "Expo:",
-      "Remoulade sauce, lemon wedge"
+      "Remoulade sauce, lemon wedge",
+      "Plateware:",
+      "Oval basket lined with deli paper"
     ],
     "notes": "",
     "images": []
@@ -22304,7 +22309,7 @@
         "unit": "Top of pasta"
       },
       {
-        "name": "Cuban Bread",
+        "name": "Garlic Bread",
         "qty": "1",
         "unit": "slice"
       }
@@ -22319,7 +22324,7 @@
       "Pour finished pasta into a large bowl.",
       "Sprinkle with parmesan cheese evenly across the top",
       "Expo:",
-      "Cuban Bread, soup spoon",
+      "Garlic Bread, soup spoon",
       "Plateware:",
       "Pasta bowl, Soup spoon"
     ],
@@ -22373,7 +22378,7 @@
         "unit": "Top of pasta"
       },
       {
-        "name": "Cuban Bread",
+        "name": "Garlic Bread",
         "qty": "1",
         "unit": "Slice"
       }
@@ -22390,7 +22395,7 @@
       "Pour finished pasta into a large bowl over the mussels",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo:",
-      "1 fresh Basil leaf, Cuban Bread, Soup Spoon",
+      "1 fresh Basil leaf, Garlic Bread, Soup Spoon",
       "Plateware:",
       "Pasta bowl, Soup Spoon"
     ],
@@ -22444,7 +22449,7 @@
         "unit": "Top of pasta"
       },
       {
-        "name": "Cuban Bread",
+        "name": "Garlic Bread",
         "qty": "1",
         "unit": "slice"
       },
@@ -22469,7 +22474,7 @@
       "Slice the chicken into 5 strips and place on top of the pasta.",
       "Sprinkle with grated Parmesan cheese evenly across the top",
       "Expo:",
-      "Cuban Bread & Soup Spoon",
+      "Garlic Bread & Soup Spoon",
       "Plateware:",
       "Pasta Bowl, Soup spoon"
     ],
@@ -22511,7 +22516,7 @@
         "qty": "1",
         "qty2": "",
         "unit": "slice",
-        "name": "Cuban Bread"
+        "name": "Garlic Bread"
       },
       {
         "name": "Lemon Butter",
@@ -22536,7 +22541,7 @@
       "Placing the sliced chicken breast on top of pasta.",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo:",
-      "chopped parsley, Cuban Bread, soup spoon",
+      "Garlic Bread, soup spoon",
       "Plateware:",
       "Pasta bowl, Soup spoon"
     ],
@@ -22590,7 +22595,7 @@
         "unit": "Top of pasta"
       },
       {
-        "name": "Cuban Bread",
+        "name": "Garlic Bread",
         "qty": "1",
         "unit": "Slice"
       }
@@ -22608,7 +22613,7 @@
       "Place chicken over sauced pasta and garnish with Parmesan cheese evenly across the top",
       "Place the Garlic bread to the side of the Chicken",
       "Expo:",
-      "Cuban Bread, Soup spoon, Steak knife, placed under the chicken, and pasta",
+      "Garlic Bread, Soup spoon, Steak knife, placed under the chicken, and pasta",
       "Plateware:",
       "Pasta Bowl, Soup spoon"
     ],
@@ -22771,7 +22776,9 @@
       "Top with shredded cheese and croutons",
       "Dressing off to the side, place it so it doesn't tip over",
       "Garnish:",
-      "4oz dressing of choice"
+      "4oz dressing of choice",
+      "Plateware:",
+      "Pasta Bowl"
     ],
     "notes": "",
     "images": []
@@ -22818,7 +22825,9 @@
       "Place cherry tomatoes and onion rings on top of the salad mix.",
       "Top with shredded cheddar cheese and croutons.",
       "Garnish:",
-      "2oz cup of dressing requested"
+      "2oz cup of dressing requested",
+      "Plateware:",
+      "Appetizer plate"
     ],
     "notes": "",
     "images": []
@@ -23227,7 +23236,9 @@
       "Place Mahi on the plate, with the Shrimp alongside.",
       "Be sure the Mahi and Shrimp are not overlapped, laid side by side.",
       "Expo:",
-      "Lemon wedge, 2 sides,"
+      "Lemon wedge, 2 sides,",
+      "Plateware:",
+      "Dinner plate"
     ],
     "notes": "",
     "images": [
@@ -23372,7 +23383,9 @@
       "Baste Hogfish with garlic spread. Place the basted side down in the breading mix. Pat the fish so it coats evenly, and place the non-breaded side on the sprayed pan with a little bit of water",
       "Place in oven for 4-6 minutes until fully cooked.",
       "Expo:",
-      "2 sides, Lemon wedge, Beurre blanc"
+      "2 sides, Lemon wedge, Beurre blanc",
+      "Plateware:",
+      "Dinner plate"
     ],
     "notes": "",
     "images": []
@@ -23420,8 +23433,10 @@
       "Drizzle and brush with pre-melted lemon butter several times until glossy — never let it scorch.",
       "Place Salsa Fresca on top of Mahi after plating.",
       "Topped with sliced Avocado",
-      "Garnish:",
-      "Lemon Wedge, 2 sides"
+      "Expo:",
+      "Lemon Wedge, 2 sides",
+      "Plateware:",
+      "Dinner plate"
     ],
     "notes": "",
     "images": [
@@ -25947,7 +25962,9 @@
       "Then cut diagonally across the center.",
       "Place on a lined round basket.",
       "Plateware:",
-      "Lined round basket"
+      "Lined round basket",
+      "Expo:",
+      "Requested side, lemon wedge"
     ],
     "notes": "",
     "images": []
@@ -26181,7 +26198,9 @@
       "After breading, place in a 350°F fryer for about 4-5 minutes or until lightly golden brown and an internal temperature of 165°F.",
       "Remove from fryer and transfer to a Sav a Day to drain off excess oil.",
       "Plateware:",
-      "Lined Oval Basket"
+      "Lined Oval Basket",
+      "Expo:",
+      "Requested side on the plate"
     ],
     "notes": "",
     "images": [
@@ -26223,7 +26242,9 @@
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy.",
       "Plateware:",
-      "Lined Oval Basket"
+      "Lined Oval Basket",
+      "Expo:",
+      "Requested side on the plate"
     ],
     "notes": "",
     "images": []
@@ -26311,7 +26332,9 @@
       "Place into 350°F fryer for approx. 5 minutes or until cooked thoroughly",
       "Transfer to Save-a-Day to drain the excess oil",
       "Plateware:",
-      "Lined Oval Basket"
+      "Lined Oval Basket",
+      "Expo:",
+      "Requested side on the plate"
     ],
     "notes": "",
     "images": [
@@ -26354,7 +26377,9 @@
       "Cook for 4 minutes, flip, and cook for another 3 minutes.",
       "Brush with garlic spread to moisten before plating.",
       "Plateware:",
-      "Lined Oval Basket"
+      "Lined Oval Basket",
+      "Expo:",
+      "Requested side on the plate"
     ],
     "notes": "",
     "images": [
