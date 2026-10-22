@@ -1,0 +1,34 @@
+# GitHub Pages serves ONE file from this repo: index.html. Everything else
+# here is either fetched from somewhere other than Pages, or is not web
+# content at all — but the Pages build was packaging all of it into an
+# artifact on every single commit.
+#
+# That artifact was 119 MB, 117 MB of which is images/. Every recipe save and
+# every photo upload triggered a build, so the Actions storage quota (500 MB
+# free) was exhausted within hours. On 2026-10-22 it filled up and GitHub
+# silently stopped running workflows: pushes created no build at all, and the
+# site froze on a five-hour-old copy of index.html while the recipe data kept
+# updating from elsewhere. That gap is confusing to diagnose, because the app
+# looks current while the code behind it is stale.
+#
+# Nothing below is reachable through Pages, so excluding it costs nothing:
+#
+#   images/    referenced by ABSOLUTE raw.githubusercontent.com URLs — all
+#              2,579 of them. Never by a relative path.
+#   data/      fetched from raw.githubusercontent.com (CFG.rawUrl) and from
+#              the GitHub contents API. Never from this origin.
+#   tests/     Node test suite, not web content.
+#   worker.js  runs on Cloudflare, pasted in by hand. It is the thing that
+#              PROXIES this page; it is never served by it.
+#
+# Before changing this, check how the app actually requests the thing you want
+# to re-include. The only relative fetch anywhere in index.html is
+# /prep/embed/mint, which the Worker answers itself and never forwards here.
+exclude:
+  - images
+  - data
+  - tests
+  - worker.js
+  - HANDOFF.md
+  - README.md
+  - .gitignore
