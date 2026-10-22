@@ -200,7 +200,11 @@
       "Place the lemon slices on top of butter",
       "Place in oven for 8 to 10 minutes or until cooked to temp",
       "When done remove lemon slices and place fish on dinner plate",
-      "If there is left over lemon butter from cooking pour over fish on plate"
+      "If there is left over lemon butter from cooking pour over fish on plate",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      "Requested side, lemon"
     ],
     "notes": "Vendor-\nSale Price- 33.99",
     "images": [],
@@ -5723,7 +5727,11 @@
       "Place the lemon slices on top of butter",
       "Place in oven for 8 to 10 minutes or until cooked to temp",
       "When done remove lemon slices and place fish on dinner plate",
-      "If there is left over lemon butter from cooking pour over fish on plate"
+      "If there is left over lemon butter from cooking pour over fish on plate",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      "Requested side, lemon"
     ],
     "notes": "Vendor-\nSale Price- 33.99",
     "images": [],
@@ -5780,7 +5788,11 @@
       "Place the lemon slices on top of butter",
       "Place in oven for 8 to 10 minutes or until cooked to temp",
       "When done remove lemon slices and place fish on dinner plate",
-      "If there is left over lemon butter from cooking pour over fish on plate"
+      "If there is left over lemon butter from cooking pour over fish on plate",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      "Requested side, lemon"
     ],
     "notes": "Vendor-\nSale Price- 33.99",
     "images": [],
@@ -32643,7 +32655,9 @@
       "Place cherry tomatoes, , and red onion strips on top of the salad mix",
       "Top with shredded carrots, sliced radishes, and croutons",
       "Garnish:",
-      "4oz dressing of choice on side"
+      "4oz dressing of choice on side",
+      "Plateware:",
+      "Pasta Bowl"
     ],
     "notes": "",
     "images": [
@@ -32900,8 +32914,7 @@
       "Toss the chicken in Nashville sauce, be sure to coat the chicken completely, lift, and then let the excess drip off.",
       "Place the chicken breast on the toasted bread.",
       "Expo:",
-      "Pickles, LTO upon request, Side",
-      "<---- over to Expo"
+      "Pickles, LTO upon request, Side"
     ],
     "notes": "",
     "images": [
@@ -33077,10 +33090,11 @@
       "Transfer fish to a 350°F fryer for approx. 3-4 minutes or until golden brown and cooked thoroughly.",
       "Toast the bun on flat top for 1 minute",
       "Transfer fish to a Sav-a-Day to drain excess oil.",
-      "Add fish on bun",
+      "Place the fish on the bun",
+      "Plateware:",
       "Serve on rectangle plate",
-      "Garnish:",
-      "Lemon, leaf lettuce"
+      "Expo:",
+      "Lemon, leaf lettuce, 2oz Tartar Sauce"
     ],
     "notes": "",
     "images": []
@@ -33155,8 +33169,9 @@
       "Drizzle tartar sauce over top of fish",
       "Add 3-4 pickle chips",
       "Place top bread on and cut corner to corner",
+      "Plateware:",
       "Serve on a rectangle plate",
-      "Garnish:",
+      "Expo:",
       "Lemon, requested side"
     ],
     "notes": "",
@@ -34844,9 +34859,9 @@
         "unit": "Each"
       },
       {
-        "name": "Slider (Cut in 1/2)",
-        "qty": "1",
-        "unit": "2oz Each"
+        "name": "Sliders",
+        "qty": "2",
+        "unit": "2 oz each"
       },
       {
         "name": "Cheese Sliders Top w/",
@@ -35130,7 +35145,9 @@
       "Flip the pasta a couple of times to make sure all the pasta is coated with the sauce.",
       "Pour finished pasta onto correct plateware.",
       "Plateware:",
-      "7\" Round Plate"
+      "7\" Round Plate",
+      "Expo:",
+      "Requested side on the plate"
     ],
     "notes": "",
     "images": []
