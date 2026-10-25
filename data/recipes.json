@@ -1530,8 +1530,8 @@
       "*Portion enough for daily usage*",
       "Peel onions, leaving the root on the end.",
       "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
-      "Fill container with Starry, separating onions and completely covering.",
-      "Cover with Starry soda, label, date, and refrigerate."
+      "Fill the container with Starry, separating the onions and completely covering the onions.",
+      "Label, date, and refrigerate."
     ],
     "notes": "",
     "images": [
@@ -2674,7 +2674,7 @@
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "scale, day portion bags",
     "ingredients": [
       {
         "name": "Scallops 10/20",
@@ -2685,11 +2685,12 @@
     "steps": [
       "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "**For optimal results, count all the scallops in the bag.**",
+      "**For optimal results, count all the scallops in the bag before portioning.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz"
+      "Acceptable weights 7.9 - 8.1oz",
+      "Label, date, and refrigerate"
     ],
     "notes": "",
     "images": [
@@ -2706,7 +2707,7 @@
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "scale, day portion bags",
     "ingredients": [
       {
         "name": "Scallops 10/20",
@@ -2717,11 +2718,12 @@
     "steps": [
       "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "**For optimal results, count all the scallops in the bag.**",
+      "**For optimal results, count all the scallops in the bag before portioning.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz"
+      "Acceptable weights 7.9 - 8.1oz",
+      "Label, date, and refrigerate"
     ],
     "notes": "",
     "images": [
@@ -2738,7 +2740,7 @@
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "scale, day portion bags",
     "ingredients": [
       {
         "name": "Scallops 10/20",
@@ -2749,11 +2751,12 @@
     "steps": [
       "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "**For optimal results, count all the scallops in the bag.**",
+      "**For optimal results, count all the scallops in the bag before portioning.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz"
+      "Acceptable weights 7.9 - 8.1oz",
+      "Label, date, and refrigerate"
     ],
     "notes": "",
     "images": [
@@ -2780,9 +2783,13 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
+      "**_Oven cooking:_ cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
       "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+      "Picture 1: Cooked Whole then cut ",
+      "Picture 2: Cut then cooked on a flat-top ",
+      "Picture 3: Cut and cooked in the oven ",
+      "No portioning needed, store in a proper container, labeled and dated "
     ],
     "notes": "",
     "images": [
@@ -2809,9 +2816,13 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
+      "**_Oven cooking:_ cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
       "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+      "Picture 1: Cooked Whole then cut ",
+      "Picture 2: Cut then cooked on a flat-top ",
+      "Picture 3: Cut and cooked in the oven ",
+      "No portioning needed, store in a proper container, labeled and dated "
     ],
     "notes": "",
     "images": [
@@ -3113,7 +3124,18 @@
       "Label, date rotate and refrigerate."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9ip1817if4d.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9pwenh0hde5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9it0b1waww6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9izb4g4t4mt.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9j3ksqgd66w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9ja1f1kcnvp.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jfysw592ia.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jmerks3zuj.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jqoq35kywg.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jz0k2r6x2p.jpg"
+    ],
     "id": "m-msp4zc0c3ke0n5",
     "masterId": "dp-cbg-75-m",
     "location": "CDS"
@@ -3183,7 +3205,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
+    "smallware": "knife, cutting board, mandolin, day bags, ",
     "ingredients": [
       {
         "name": "Onions",
@@ -3216,7 +3238,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
+    "smallware": "knife, cutting board, mandolin, day bags, ",
     "ingredients": [
       {
         "name": "Onions",
@@ -3249,7 +3271,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
+    "smallware": "knife, cutting board, mandolin, day bags, ",
     "ingredients": [
       {
         "name": "Onions",
@@ -3282,7 +3304,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
+    "smallware": "knife, cutting board, mandolin, day bags, ",
     "ingredients": [
       {
         "name": "Onions",
@@ -3344,7 +3366,7 @@
     "active": false
   },
   {
-    "name": "New Orleans Oysters",
+    "name": "Oysters New Orleans",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
@@ -3377,12 +3399,13 @@
       "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
       "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
-      "Bad Oyster (Dry looking)",
+      "A Bad Oyster is dry-looking; do not use them, toss out write on the waste sheet ",
       "New Orleans Oyster prep:",
       "Melt Cajun butter slightly so that it can be brushed onto oysters.",
       "**monitor total oyster amount to not melt too much Cajun butter**",
       "Brush Oyster with Cajun Butter and ensure fully covered",
-      "Lightly coat with parmesan cheese."
+      "Lightly coat with parmesan cheese.",
+      "label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": [
@@ -3394,7 +3417,7 @@
     "location": "CBG"
   },
   {
-    "name": "New Orleans Oysters",
+    "name": "Oysters New Orleans",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
@@ -3427,12 +3450,13 @@
       "Very important **** keep the tag with the oysters and ensure you mark the last date sold on the tag.",
       "Once all oysters are sold, bring the tag to the office and put it in the oyster tag box.",
       "**Do not stack prepped more than 3 high in a storage container with a logo deli in between each layer.**",
-      "Bad Oyster (Dry looking)",
+      "A Bad Oyster is dry-looking; do not use them, toss out write on the waste sheet ",
       "New Orleans Oyster prep:",
       "Melt Cajun butter slightly so that it can be brushed onto oysters.",
       "**monitor total oyster amount to not melt too much Cajun butter**",
       "Brush Oyster with Cajun Butter and ensure fully covered",
-      "Lightly coat with parmesan cheese."
+      "Lightly coat with parmesan cheese.",
+      "label, date, refrigerate, and rotate"
     ],
     "notes": "",
     "images": [
@@ -10624,7 +10648,7 @@
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "scale, day portion bags",
     "ingredients": [
       {
         "name": "Scallops 10/20",
@@ -10635,11 +10659,12 @@
     "steps": [
       "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "**For optimal results, count all the scallops in the bag.**",
+      "**For optimal results, count all the scallops in the bag before portioning.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz"
+      "Acceptable weights 7.9 - 8.1oz",
+      "Label, date, and refrigerate"
     ],
     "notes": "",
     "images": [
@@ -11890,12 +11915,30 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
-    "smallware": "",
+    "smallware": "full 2\" pan, deli paper, shucking knife, ",
     "ingredients": [
       {
         "name": "Oysters on the Half Shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "Baste ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Garlic Spread"
+      },
+      {
+        "qty": "Fill ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Parmesan Cheese "
+      },
+      {
+        "qty": "Dust ",
+        "qty2": "",
+        "unit": "the Top ",
+        "name": "Old Bay Seasoning "
       }
     ],
     "steps": [
@@ -11926,12 +11969,30 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
-    "smallware": "",
+    "smallware": "full 2\" pan, deli paper, shucking knife, ",
     "ingredients": [
       {
         "name": "Oysters on the Half Shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "Baste ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Garlic Spread"
+      },
+      {
+        "qty": "Fill ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Parmesan Cheese "
+      },
+      {
+        "qty": "Dust ",
+        "qty2": "",
+        "unit": "the Top ",
+        "name": "Old Bay Seasoning "
       }
     ],
     "steps": [
@@ -11962,12 +12023,30 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
-    "smallware": "",
+    "smallware": "full 2\" pan, deli paper, shucking knife, ",
     "ingredients": [
       {
         "name": "Oysters on the Half Shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "Baste ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Garlic Spread"
+      },
+      {
+        "qty": "Fill ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Parmesan Cheese "
+      },
+      {
+        "qty": "Dust ",
+        "qty2": "",
+        "unit": "the Top ",
+        "name": "Old Bay Seasoning "
       }
     ],
     "steps": [
@@ -11998,12 +12077,30 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "1 Day",
-    "smallware": "",
+    "smallware": "full 2\" pan, deli paper, shucking knife, ",
     "ingredients": [
       {
         "name": "Oysters on the Half Shell",
         "qty": "144",
         "unit": "Oysters"
+      },
+      {
+        "qty": "Baste ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Garlic Spread"
+      },
+      {
+        "qty": "Fill ",
+        "qty2": "",
+        "unit": "Oyster",
+        "name": "Parmesan Cheese "
+      },
+      {
+        "qty": "Dust ",
+        "qty2": "",
+        "unit": "the Top ",
+        "name": "Old Bay Seasoning "
       }
     ],
     "steps": [
@@ -12805,7 +12902,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "2 to 3 days",
-    "smallware": "cutting board, mandolin,",
+    "smallware": "knife, cutting board, mandolin, day bags, ",
     "ingredients": [
       {
         "name": "Onions",
@@ -15844,7 +15941,17 @@
       "**this recipe will make 10 orders of shrimp n grits**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa3w4ofpyjjv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa423881f8px.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa47a65eszpb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa51g2lygkjc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa57pnpznt9v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa6rk996hv8v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa6xriyscwgb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa71x1ycs8in.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa74u4q8dgj7.png"
+    ]
   },
   {
     "id": "dp-cds-61",
@@ -15894,7 +16001,17 @@
       "**this recipe will make 10 orders of shrimp n grits**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa3w4ofpyjjv.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa423881f8px.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa47a65eszpb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa51g2lygkjc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa57pnpznt9v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa6rk996hv8v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa6xriyscwgb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa71x1ycs8in.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvoa74u4q8dgj7.png"
+    ]
   },
   {
     "id": "dp-cbg-57",
@@ -16255,9 +16372,13 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
+      "**_Oven cooking:_ cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
       "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+      "Picture 1: Cooked Whole then cut ",
+      "Picture 2: Cut then cooked on a flat-top ",
+      "Picture 3: Cut and cooked in the oven ",
+      "No portioning needed, store in a proper container, labeled and dated "
     ],
     "notes": "",
     "images": [
@@ -17092,8 +17213,8 @@
       "*Portion enough for daily usage*",
       "Peel onions, leaving the root on the end.",
       "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
-      "Fill container with Starry, separating onions and completely covering.",
-      "Cover with Starry soda, label, date, and refrigerate."
+      "Fill the container with Starry, separating the onions and completely covering the onions.",
+      "Label, date, and refrigerate."
     ],
     "notes": "",
     "images": [
@@ -17362,8 +17483,8 @@
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
-    "shelfLife": "",
-    "smallware": "",
+    "shelfLife": "Frozen 7 days / Thawed 1.5 days ",
+    "smallware": "scale, red mesh bag, cylinder, keep original box ",
     "ingredients": [
       {
         "name": "Shrimp EZ Peel (Frozen)",
@@ -17856,7 +17977,18 @@
       "Label, date rotate and refrigerate."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9ip1817if4d.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9pwenh0hde5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9it0b1waww6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9izb4g4t4mt.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9j3ksqgd66w.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9ja1f1kcnvp.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jfysw592ia.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jmerks3zuj.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jqoq35kywg.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvo9jz0k2r6x2p.jpg"
+    ]
   },
   {
     "id": "dp-cbg-76",
@@ -104639,8 +104771,8 @@
       "*Portion enough for daily usage*",
       "Peel onions, leaving the root on the end.",
       "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
-      "Fill container with Starry, separating onions and completely covering.",
-      "Cover with Starry soda, label, date, and refrigerate."
+      "Fill the container with Starry, separating the onions and completely covering the onions.",
+      "Label, date, and refrigerate."
     ],
     "notes": "",
     "images": [
@@ -104678,8 +104810,8 @@
       "*Portion enough for daily usage*",
       "Peel onions, leaving the root on the end.",
       "Slice it on the mandoline at 1/16 inches pieces into a storage container.",
-      "Fill container with Starry, separating onions and completely covering.",
-      "Cover with Starry soda, label, date, and refrigerate."
+      "Fill the container with Starry, separating the onions and completely covering the onions.",
+      "Label, date, and refrigerate."
     ],
     "notes": "",
     "images": [
@@ -104878,9 +105010,13 @@
     ],
     "steps": [
       "Cut the string between each of the links",
-      "**Oven cooking: cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
+      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)",
+      "**_Oven cooking:_ cut each piece of sausage into 4 pieces on the bias (a 45-degree angle cut), before or after you put them in the oven. At 450°F, they will need to cook for 10 to 12 minutes or until the skin is crispy. If roasting whole links, let them rest in a cooler for 20 minutes before cutting.**",
       "**Char-grilling: you will cook the links whole on a char-grill until the skin is crispy and starting to break open. Let rest in a cooler for 20 minutes before cutting.**",
-      "Each link will be cut into 4 pieces on a bias (like a 45 degree angle cut)"
+      "Picture 1: Cooked Whole then cut ",
+      "Picture 2: Cut then cooked on a flat-top ",
+      "Picture 3: Cut and cooked in the oven ",
+      "No portioning needed, store in a proper container, labeled and dated "
     ],
     "notes": "",
     "images": [
@@ -104897,7 +105033,7 @@
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
-    "smallware": "",
+    "smallware": "scale, day portion bags",
     "ingredients": [
       {
         "name": "Scallops 10/20",
@@ -104908,11 +105044,12 @@
     "steps": [
       "Begin with purchased amount of scallops (i.e. 5# bag, 8# tub, 10# case)",
       "Let thaw under refrigeration",
-      "**For optimal results, count all the scallops in the bag.**",
+      "**For optimal results, count all the scallops in the bag before portioning.**",
       "Portion into 7.9 - 8.1oz portions",
       "Enter the amount of pounds used and portions made into the prep production",
       "**Never vary from the amount of pounds paid for**",
-      "Acceptable weights 7.9 - 8.1oz"
+      "Acceptable weights 7.9 - 8.1oz",
+      "Label, date, and refrigerate"
     ],
     "notes": "",
     "images": [
