@@ -5246,13 +5246,17 @@
       "Label, date, and place in dry storage area for future use."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsu3inyowpyc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsu7etn5g6cl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsub3yddagdr.png"
+    ],
     "id": "m-msjctzfp0jyovg",
     "masterId": "dp-cds-73-m",
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Lettuce Romaine",
+    "name": "Lettuce Romaine Pre Cut & Bulk",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -5298,7 +5302,7 @@
     "location": "CBG"
   },
   {
-    "name": "Lettuce Romaine",
+    "name": "Lettuce Romaine Pre Cut & Bulk",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -5344,7 +5348,7 @@
     "location": "Palm"
   },
   {
-    "name": "Lettuce Romaine",
+    "name": "Lettuce Romaine Pre Cut & Bulk",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
     "shelfLife": "2 days",
@@ -5977,9 +5981,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerfdm4lslws.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuere6e7of0w4.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuercyna756fg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu0w46kvb0nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu1j07uqhjxw.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuera5cf2bk4a.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerbgdpxsg2w.png"
     ],
@@ -6022,9 +6025,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerfdm4lslws.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuere6e7of0w4.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuercyna756fg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu0w46kvb0nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu1j07uqhjxw.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuera5cf2bk4a.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerbgdpxsg2w.png"
     ],
@@ -6067,9 +6069,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerfdm4lslws.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuere6e7of0w4.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuercyna756fg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu0w46kvb0nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu1j07uqhjxw.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuera5cf2bk4a.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerbgdpxsg2w.png"
     ],
@@ -7511,7 +7512,7 @@
   {
     "id": "dp-nb-5",
     "masterId": "dp-caesar-salad-bulk-m",
-    "name": "Lettuce Romaine",
+    "name": "Lettuce Romaine Pre Cut & Bulk",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
@@ -7557,7 +7558,7 @@
   {
     "id": "dp-si-2",
     "masterId": "dp-caesar-salad-bulk-m",
-    "name": "Lettuce Romaine",
+    "name": "Lettuce Romaine Pre Cut & Bulk",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "1/2 cs. = 2 lemon bags",
@@ -8417,7 +8418,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "4oz ladle, 1/2 sheet pan,  ",
+    "smallware": "4oz ladle, 1/2 sheet pan, spatula, tongs  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8438,7 +8439,7 @@
       "Toss in melted garlic butter,",
       "Place in a shallow (2\") half pan,",
       "Place them in a 450°F oven for 8-10 minutes",
-      "Remove, place in a storage container",
+      "Remove, place in a dated storage container",
       "Place on the cook's line for use"
     ],
     "notes": "",
@@ -8452,7 +8453,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "4oz ladle, 1/2 sheet pan,  ",
+    "smallware": "4oz ladle, 1/2 sheet pan, spatula, tongs  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8473,7 +8474,7 @@
       "Toss in melted garlic butter,",
       "Place in a shallow (2\") half pan,",
       "Place them in a 450°F oven for 8-10 minutes",
-      "Remove, place in a storage container",
+      "Remove, place in a dated storage container",
       "Place on the cook's line for use"
     ],
     "notes": "",
@@ -8487,7 +8488,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "4oz ladle, 1/2 sheet pan,  ",
+    "smallware": "4oz ladle, 1/2 sheet pan, spatula, tongs  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8508,7 +8509,7 @@
       "Toss in melted garlic butter,",
       "Place in a shallow (2\") half pan,",
       "Place them in a 450°F oven for 8-10 minutes",
-      "Remove, place in a storage container",
+      "Remove, place in a dated storage container",
       "Place on the cook's line for use"
     ],
     "notes": "",
@@ -8522,7 +8523,7 @@
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
-    "smallware": "4oz ladle, 1/2 sheet pan,  ",
+    "smallware": "4oz ladle, 1/2 sheet pan, spatula, tongs  ",
     "ingredients": [
       {
         "name": "Cherry, Grape or Heirloom Tomatoes",
@@ -8543,7 +8544,7 @@
       "Toss in melted garlic butter,",
       "Place in a shallow (2\") half pan,",
       "Place them in a 450°F oven for 8-10 minutes",
-      "Remove, place in a storage container",
+      "Remove, place in a dated storage container",
       "Place on the cook's line for use"
     ],
     "notes": "",
@@ -11684,7 +11685,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Begin with a 10# case of hog fish(if you do not use a whole case at a time, please ensure that the total weight of the case doesn’t vary from the 10# standard unless received that way)",
-      "Portion into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
+      "Portion the filets into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
       "Enter into production the number of portions the 10# yielded"
     ],
     "notes": "",
@@ -11715,7 +11716,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Begin with a 10# case of hog fish(if you do not use a whole case at a time, please ensure that the total weight of the case doesn’t vary from the 10# standard unless received that way)",
-      "Portion into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
+      "Portion the filets into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
       "Enter into production the number of portions the 10# yielded"
     ],
     "notes": "",
@@ -11746,7 +11747,7 @@
       "Place them in/on a perforated tray to thaw and drain",
       "Cover with Plastic wrap, label, and date",
       "Begin with a 10# case of hog fish(if you do not use a whole case at a time, please ensure that the total weight of the case doesn’t vary from the 10# standard unless received that way)",
-      "Portion into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
+      "Portion the filets into 8.8 - 9.1-oz portions using 2 to 4 pieces of fish",
       "Enter into production the number of portions the 10# yielded"
     ],
     "notes": "",
@@ -12412,17 +12413,23 @@
       }
     ],
     "steps": [
+      "Frozen:",
+      "Empty the case out, sort drums and flaps ",
+      "See Line #9 for the portion count, line 10 for storage",
+      "Raw:",
       "Place chicken wings in a mixing bowl, add oil, and S&P",
       "Mix thoroughly so all wings are coated in oil",
       "Par bake at 400 for 20 minutes.",
       "Let wings cool in the walk-in",
-      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, drums & flaps, or 5 and 3",
+      "*Try to keep the number of wings and drumettes the same as many as possible: 4 of each- drums & flaps, or 5 and 3.*",
       "Place in a portion bag, tie shut.",
       "Place in a pan and store in the walk-in",
       "40#/cs fresh - 25 portions"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnswqgeh3xun5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnswxgeovhwme.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6reilu5zj8ef.jpg"
     ]
   },
@@ -14720,7 +14727,7 @@
     "category": "Dinner Prep",
     "yield": "9 lbs.",
     "shelfLife": "3 days",
-    "smallware": "Cambro, or rarebits, white scoop, date portion bags, sheet tray",
+    "smallware": "Cambro, or rarebits, white scoop, rubber spatula, date portion bags, lemon bags, or sheet tray",
     "ingredients": [
       {
         "name": "Spinach Dip (Bag)",
@@ -14737,12 +14744,17 @@
       "Thaw crab and dip under refrigeration",
       "In a large mixing bowl, combine the crab and the dip",
       "Portion into rarebits or store in the Cambro/ Lemon bags",
-      "If portioning, place rarebit inside a date portion bag, and refrigerate.",
-      "Day Portion Bag/ Storing",
-      "Storing if Not portioning"
+      "Pre-portioning, place in a rarebit inside a date portion bag, and refrigerate.",
+      "Bulk - Storing, lemon bag with day dot, refrigerate, rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntgwruktabm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth1bmtfv1ia.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth5c61qhoxj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthamnoft9v1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthes8kkn6x9.png"
+    ]
   },
   {
     "id": "dp-cds-50",
@@ -14752,7 +14764,7 @@
     "category": "Dinner Prep",
     "yield": "9 lbs.",
     "shelfLife": "3 days",
-    "smallware": "Cambro, or rarebits, white scoop, date portion bags, sheet tray",
+    "smallware": "Cambro, or rarebits, white scoop, rubber spatula, date portion bags, lemon bags, or sheet tray",
     "ingredients": [
       {
         "name": "Spinach Dip (Bag)",
@@ -14769,12 +14781,17 @@
       "Thaw crab and dip under refrigeration",
       "In a large mixing bowl, combine the crab and the dip",
       "Portion into rarebits or store in the Cambro/ Lemon bags",
-      "If portioning, place rarebit inside a date portion bag, and refrigerate.",
-      "Day Portion Bag/ Storing",
-      "Storing if Not portioning"
+      "Pre-portioning, place in a rarebit inside a date portion bag, and refrigerate.",
+      "Bulk - Storing, lemon bag with day dot, refrigerate, rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntgwruktabm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth1bmtfv1ia.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth5c61qhoxj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthamnoft9v1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthes8kkn6x9.png"
+    ]
   },
   {
     "id": "dp-cbg-45",
@@ -14784,7 +14801,7 @@
     "category": "Dinner Prep",
     "yield": "9 lbs.",
     "shelfLife": "3 days",
-    "smallware": "Cambro, or rarebits, white scoop, date portion bags, sheet tray",
+    "smallware": "Cambro, or rarebits, white scoop, rubber spatula, date portion bags, lemon bags, or sheet tray",
     "ingredients": [
       {
         "name": "Spinach Dip (Bag)",
@@ -14801,12 +14818,17 @@
       "Thaw crab and dip under refrigeration",
       "In a large mixing bowl, combine the crab and the dip",
       "Portion into rarebits or store in the Cambro/ Lemon bags",
-      "If portioning, place rarebit inside a date portion bag, and refrigerate.",
-      "Day Portion Bag/ Storing",
-      "Storing if Not portioning"
+      "Pre-portioning, place in a rarebit inside a date portion bag, and refrigerate.",
+      "Bulk - Storing, lemon bag with day dot, refrigerate, rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntgwruktabm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth1bmtfv1ia.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnth5c61qhoxj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthamnoft9v1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnthes8kkn6x9.png"
+    ]
   },
   {
     "id": "dp-pl-78",
@@ -16009,6 +16031,8 @@
       }
     ],
     "steps": [
+      "Pull the store's daily needs and thaw overnight in the refrigerator.",
+      "* Thaw quickly - place the tails in a lemon bag, remove all the air, and tie the bag shut. Place it into a container with cold running water over it.* ",
       "Thaw under refrigeration and keep individually bagged",
       "Label, date, refrigerate, and rotate"
     ],
@@ -16627,8 +16651,8 @@
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
-    "shelfLife": "",
-    "smallware": "",
+    "shelfLife": "1 day",
+    "smallware": "cutting board, knife, container, ",
     "ingredients": [
       {
         "name": "Cilantro (Fresh Bunch)",
@@ -16647,7 +16671,12 @@
       ") Cilantro for Use"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntbfkxplr6t0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntbj6g9fph8y.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntbni2ssxkgd.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvntbrj300khvd.jpg"
+    ]
   },
   {
     "id": "dp-cds-71",
@@ -16692,7 +16721,13 @@
       "Label, date refrigerate, and rotate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsiu1yx7lfxu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsiytvowr3x6.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsj2pqadr5a1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsjclo5qpiu1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsjlrsm3efm6.png"
+    ]
   },
   {
     "id": "dp-cds-73",
@@ -16723,7 +16758,11 @@
       "Label, date, and place in dry storage area for future use."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsu3inyowpyc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsu7etn5g6cl.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsub3yddagdr.png"
+    ]
   },
   {
     "id": "dp-cds-74",
@@ -16749,7 +16788,11 @@
       "Cut in half on bias long wise for other applications"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsqpitsvbrlw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsqtw2epejbu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnsqzgqkdoj3z.png"
+    ]
   },
   {
     "id": "dp-cds-75",
@@ -17085,6 +17128,8 @@
       }
     ],
     "steps": [
+      "Pull the store's daily needs and thaw overnight in the refrigerator.",
+      "* Thaw quickly - place the tails in a lemon bag, remove all the air, and tie the bag shut. Place it into a container with cold running water over it.* ",
       "Thaw under refrigeration and keep individually bagged",
       "Label, date, refrigerate, and rotate"
     ],
@@ -17115,6 +17160,8 @@
       }
     ],
     "steps": [
+      "Pull the store's daily needs and thaw overnight in the refrigerator.",
+      "* Thaw quickly - place the tails in a lemon bag, remove all the air, and tie the bag shut. Place it into a container with cold running water over it.* ",
       "Thaw under refrigeration and keep individually bagged",
       "Label, date, refrigerate, and rotate"
     ],
@@ -17923,9 +17970,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerfdm4lslws.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuere6e7of0w4.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuercyna756fg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu0w46kvb0nb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnu1j07uqhjxw.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuera5cf2bk4a.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mtuerbgdpxsg2w.png"
     ]
@@ -103602,17 +103648,23 @@
       }
     ],
     "steps": [
+      "Frozen:",
+      "Empty the case out, sort drums and flaps ",
+      "See Line #9 for the portion count, line 10 for storage",
+      "Raw:",
       "Place chicken wings in a mixing bowl, add oil, and S&P",
       "Mix thoroughly so all wings are coated in oil",
       "Par bake at 400 for 20 minutes.",
       "Let wings cool in the walk-in",
-      "Try to keep the number of wings and drumettes the same. As many as possible, 4 of each, drums & flaps, or 5 and 3",
+      "*Try to keep the number of wings and drumettes the same as many as possible: 4 of each- drums & flaps, or 5 and 3.*",
       "Place in a portion bag, tie shut.",
       "Place in a pan and store in the walk-in",
       "40#/cs fresh - 25 portions"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnswqgeh3xun5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvnswxgeovhwme.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6reilu5zj8ef.jpg"
     ],
     "id": "m-mv6rf94ow62lgf",
@@ -104488,6 +104540,8 @@
       }
     ],
     "steps": [
+      "Pull the store's daily needs and thaw overnight in the refrigerator.",
+      "* Thaw quickly - place the tails in a lemon bag, remove all the air, and tie the bag shut. Place it into a container with cold running water over it.* ",
       "Thaw under refrigeration and keep individually bagged",
       "Label, date, refrigerate, and rotate"
     ],
