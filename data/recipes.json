@@ -4580,10 +4580,14 @@
       "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
       "The fish must be totally removed from the packaging Before Thawing",
       "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
-      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic. Check witha Manager. "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw3iay891wg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw8qujogeqw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjwfg29kmjpt.png"
+    ],
     "id": "m-msngpvtpk94jpu",
     "masterId": "dp-aafish-thawing-vacuumed-packed-procedure-m",
     "location": "Salty's Island"
@@ -4606,10 +4610,14 @@
       "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
       "The fish must be totally removed from the packaging Before Thawing",
       "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
-      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic. Check witha Manager. "
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw3iay891wg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw8qujogeqw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjwfg29kmjpt.png"
+    ],
     "id": "m-msngpvek9mtc2s",
     "masterId": "dp-aafish-thawing-vacuumed-packed-procedure-m",
     "location": "Salty Crab North Beach"
@@ -4633,7 +4641,9 @@
       "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjv0ucg78baw.png"
+    ],
     "id": "m-msngp2flhqrrkt",
     "masterId": "dp-aafish-thawing-normal-procedure-m",
     "location": "CBG"
@@ -10062,7 +10072,13 @@
       "Label, date, and store in the cooler."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjmewqq74h2m.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjmmzuj2knvd.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjmr1i7gl1x6.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjnan0416qqr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjnen8jbpj9c.png"
+    ]
   },
   {
     "id": "dp-nb-36",
@@ -10647,7 +10663,9 @@
       "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjv0ucg78baw.png"
+    ]
   },
   {
     "id": "dp-pl-20",
@@ -10671,7 +10689,9 @@
       "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjv0ucg78baw.png"
+    ]
   },
   {
     "id": "dp-cds-17",
@@ -10695,7 +10715,9 @@
       "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjv0ucg78baw.png"
+    ]
   },
   {
     "id": "dp-si-12",
@@ -10719,7 +10741,9 @@
       "Slice/cut a hole in the bag before thawing on a sheet tray or Lexan."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjv0ucg78baw.png"
+    ]
   },
   {
     "id": "dp-nb-47",
@@ -12015,10 +12039,14 @@
       "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
       "The fish must be totally removed from the packaging Before Thawing",
       "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
-      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic. Check witha Manager. "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw3iay891wg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw8qujogeqw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjwfg29kmjpt.png"
+    ]
   },
   {
     "id": "dp-cds-26",
@@ -12041,10 +12069,14 @@
       "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
       "The fish must be totally removed from the packaging Before Thawing",
       "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
-      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic. Check witha Manager. "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw3iay891wg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw8qujogeqw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjwfg29kmjpt.png"
+    ]
   },
   {
     "id": "dp-cbg-25",
@@ -12067,10 +12099,14 @@
       "Air-Tight packaging / Vacuum-packed / Items Without Air in the bag",
       "The fish must be totally removed from the packaging Before Thawing",
       "If you are placing the items in a cooler with other prepped items, you will need to cover the item with plastic wrap.",
-      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic"
+      "If items are in a cooler with just thawing items, you may not need to cover the items with plastic. Check witha Manager. "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw3iay891wg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjw8qujogeqw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpjwfg29kmjpt.png"
+    ]
   },
   {
     "id": "dp-pl-30",
