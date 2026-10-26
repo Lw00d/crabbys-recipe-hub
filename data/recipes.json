@@ -21410,7 +21410,7 @@
   {
     "id": "dm-nb-18",
     "masterId": "dm-oysters-baked-m",
-    "name": "Oysters Baked",
+    "name": "Oysters Baked 6",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -21452,7 +21452,7 @@
       "Expo:",
       "Lemon wedges, chopped parsley, Cocktail fork",
       "Plateware:",
-      "lined1/8 sheet tray"
+      "1/8 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -21463,7 +21463,7 @@
   {
     "id": "dm-cbg-1",
     "masterId": "dm-oysters-baked-m",
-    "name": "Oysters Baked",
+    "name": "Oysters Baked 6",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -21505,7 +21505,7 @@
       "Expo:",
       "Lemon wedges, chopped parsley, Cocktail fork",
       "Plateware:",
-      "lined1/8 sheet tray"
+      "1/8 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -69290,7 +69290,7 @@
       "Expo:",
       "Drizzle Beurre Blanc sauce over the finished oysters, topped w/ chopped parsley, Lemon wedges, Cocktail fork, ",
       "Plateware:",
-      "Rectangle Plate"
+      "1/8 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -69304,7 +69304,7 @@
   {
     "id": "dm-cds-38",
     "masterId": "dm-oysters-baked-m",
-    "name": "Oysters Baked",
+    "name": "Oysters Baked 6",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Shell Bar",
@@ -69346,7 +69346,7 @@
       "Expo:",
       "Lemon wedges, chopped parsley, Cocktail fork",
       "Plateware:",
-      "lined1/8 sheet tray"
+      "1/8 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -69387,7 +69387,7 @@
       "Expo:",
       "Lemon wedges, chopped parsley, Cocktail fork",
       "Plateware:",
-      "Rectangle plate "
+      "1/8 sheet tray lined"
     ],
     "notes": "",
     "images": [
@@ -75117,6 +75117,12 @@
         "name": "Old bay",
         "qty": "sprinkle",
         "unit": "salmon"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "Lemon Butter"
       },
       {
         "name": "Honey fig glaze",
