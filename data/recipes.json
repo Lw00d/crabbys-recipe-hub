@@ -2858,7 +2858,9 @@
       "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr113v2no0uov.jpg"
+    ],
     "id": "m-msq9abkpkwy7i5",
     "masterId": "dp-nb-9-m",
     "location": "CBG"
@@ -2883,7 +2885,9 @@
       "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr113v2no0uov.jpg"
+    ],
     "id": "m-msq9a9iy7o49rq",
     "masterId": "dp-nb-9-m",
     "location": "Salty's Island"
@@ -2908,7 +2912,9 @@
       "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr113v2no0uov.jpg"
+    ],
     "id": "m-msq9a6aiuf6o0i",
     "masterId": "dp-nb-9-m",
     "location": "CDS"
@@ -7870,7 +7876,9 @@
       "Place in the RI cooler and rotate older product to the front"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr113v2no0uov.jpg"
+    ]
   },
   {
     "id": "dp-pl-3",
@@ -23844,7 +23852,10 @@
       "Lemon, Dill Aioli (SI), requested sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzgk6pd8tgyy.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzgr1dvwl3p7.png"
+    ]
   },
   {
     "id": "dm-nb-57",
@@ -26280,7 +26291,7 @@
   {
     "id": "dm-nb-94",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo pasta",
+    "name": "Kid Alfredo Pasta",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -27445,7 +27456,10 @@
       "Chipotle Aioli, Wooden sandwich pick"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz05kzp08jt1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz09b8jpj24j.png"
+    ]
   },
   {
     "id": "dm-si-21",
@@ -27602,7 +27616,10 @@
       "NO Sides offered "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqy7gdu932tto.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqy7l0dq5xxep.png"
+    ]
   },
   {
     "id": "dm-si-23",
@@ -27924,7 +27941,9 @@
       "Rectangle plate, Taco stand "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz2qanxgk833.png"
+    ]
   },
   {
     "id": "dm-si-27",
@@ -28216,7 +28235,10 @@
       "Finish off with Lime Crema, Queso cheese, Radishes, Cilantro, 2 Lime wedges, 1 side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzxo1ph39s2y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzxx7vld9jnm.png"
+    ]
   },
   {
     "id": "dm-si-32",
@@ -28370,7 +28392,9 @@
       "Square Dessert Plate, Forks"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz6rt1tvzwk1.jpg"
+    ]
   },
   {
     "id": "dm-si-35",
@@ -28546,7 +28570,10 @@
       "Lemon, Dill Aioli (SI), requested sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzgk6pd8tgyy.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzgr1dvwl3p7.png"
+    ]
   },
   {
     "id": "dm-si-38",
@@ -28627,7 +28654,10 @@
       "Lemon Wedge, requested sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzmxvp8sg7fb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqzn2b9m586nw.png"
+    ]
   },
   {
     "id": "dm-si-40",
@@ -28738,7 +28768,7 @@
         "unit": "Coating"
       },
       {
-        "name": "Macadamia Breading",
+        "name": "Macadamia Nut Breading",
         "qty": "",
         "unit": "Covering"
       }
@@ -29048,6 +29078,10 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr1i06fdhjt44.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr1iat3j0te2y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr1iilq8cml4g.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr1jk75ucidh3.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/muu6e3hb6ugyyt.jpg"
     ]
   },
@@ -29198,7 +29232,10 @@
       "Soup cup or Soup Bowl , Lined desert plate, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz7ix1lpz875.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqz7pwt7h5orv.png"
+    ]
   },
   {
     "id": "dm-si-51",
@@ -29791,7 +29828,7 @@
   {
     "id": "dm-si-62",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo pasta",
+    "name": "Kid Alfredo Pasta",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -29956,7 +29993,9 @@
       "Premium side- Blue Fruit Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png"
+    ]
   },
   {
     "id": "dm-pl-15",
@@ -29988,7 +30027,9 @@
       "Premium side- Blue Fruit Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png"
+    ]
   },
   {
     "id": "dm-si-68",
@@ -30011,10 +30052,14 @@
       "Take 1 portion and place it in the Microwave for 2 minutes",
       "Be careful (HOT) taking and opening the bag from the Microwave,",
       "Be careful opening the bag, the steam inside is hot.",
-      "Place in Monkey Dish"
+      "Plateware:",
+      "Entree - On the plate",
+      "Side - small bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqy8ippcxrx5c.png"
+    ]
   },
   {
     "id": "dm-si-69",
@@ -30069,7 +30114,7 @@
   {
     "id": "dm-si-71",
     "masterId": "dm-si-71-m",
-    "name": "TO-GO Condiments",
+    "name": "AA TO-GO Condiments",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -71280,7 +71325,7 @@
   {
     "id": "dm-cbg-45",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo pasta",
+    "name": "Kid Alfredo Pasta",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
@@ -74595,7 +74640,7 @@
   {
     "id": "dm-cds-75",
     "masterId": "dm-nb-94-m",
-    "name": "Kid Alfredo pasta",
+    "name": "Kid Alfredo Pasta",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Kid's Meals",
