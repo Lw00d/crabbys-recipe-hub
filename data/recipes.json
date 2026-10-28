@@ -2972,10 +2972,22 @@
   {
     "name": "Ranchero Sauce",
     "category": "Breakfast Prep",
-    "yield": "",
+    "yield": "4 / 32oz Squeeze Btls. ",
     "shelfLife": "7 days",
     "smallware": "",
     "ingredients": [
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Bag",
+        "name": "RTU Bag "
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "MADE IN HOUSE RECIPE BELOW "
+      },
       {
         "name": "Tomato vine ripe",
         "qty": "4",
@@ -3028,12 +3040,20 @@
       }
     ],
     "steps": [
+      "*RTU BAG*",
+      "Cut the corner of the bag open and fill the squeeze bottles",
+      "Place a date bag over the opening and secure the lid on, ",
+      "Label, date, rotate, and refrigerate",
+      "*Made In House*",
       "Cut the onion, jalapeno, and tomatoes into chunks",
       "Add all ingredients (except lime juice and salt) to a large pot and cook on medium-high heat for 15-20 minutes",
       "Add lime juice and blend all ingredients until smooth."
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs5b2684dyep5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs5b87i2e9s97.jpg"
+    ],
     "id": "m-msq7s0h3dww8jj",
     "masterId": "bp-si-7-m",
     "location": "CBG"
@@ -7304,7 +7324,10 @@
       "In High Temp Microwave for 1 minute"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3rq6qriejva.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3ruf21nhqk7.jpg"
+    ],
     "id": "m-ms4piuyez4oa9a",
     "masterId": "bp-sausage-gravy-m",
     "location": "CBG"
@@ -9438,6 +9461,24 @@
     "smallware": "",
     "ingredients": [
       {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "*RTU BAG*"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": ""
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "*MADE IN HOUSE RECIPE *"
+      },
+      {
         "name": "Herb Basil (roughly leaves)",
         "qty": "1.5",
         "unit": "oz"
@@ -9474,6 +9515,10 @@
       }
     ],
     "steps": [
+      "*RTU BAG*",
+      "Cut the bag open and pour into a pot, heat up on the stove",
+      "Heat up 165°F and store accordingly ",
+      "*OLD MADE IN-HOUSE RECIPE*",
       "Open 3 cans of tomatoes, peeled",
       "Take the tomatoes out of the can and put them in the Robo-coupe (save the tomato juice left in the cans)",
       "Blend lightly, just until there are no big chunks but still somewhat thick, and pour into a large Cambro.",
@@ -19152,7 +19197,10 @@
       "In High Temp Microwave for 1 minute"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3rq6qriejva.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3ruf21nhqk7.jpg"
+    ]
   },
   {
     "id": "bp-nb-2",
@@ -19179,7 +19227,10 @@
       "In High Temp Microwave for 1 minute"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3rq6qriejva.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs3ruf21nhqk7.jpg"
+    ]
   },
   {
     "id": "bp-si-5",
@@ -19265,10 +19316,22 @@
     "name": "Ranchero Sauce",
     "location": "Salty's Island",
     "category": "Breakfast Prep",
-    "yield": "",
+    "yield": "4 / 32oz Squeeze Btls. ",
     "shelfLife": "7 days",
     "smallware": "",
     "ingredients": [
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Bag",
+        "name": "RTU Bag "
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": "MADE IN HOUSE RECIPE BELOW "
+      },
       {
         "name": "Tomato vine ripe",
         "qty": "4",
@@ -19321,12 +19384,20 @@
       }
     ],
     "steps": [
+      "*RTU BAG*",
+      "Cut the corner of the bag open and fill the squeeze bottles",
+      "Place a date bag over the opening and secure the lid on, ",
+      "Label, date, rotate, and refrigerate",
+      "*Made In House*",
       "Cut the onion, jalapeno, and tomatoes into chunks",
       "Add all ingredients (except lime juice and salt) to a large pot and cook on medium-high heat for 15-20 minutes",
       "Add lime juice and blend all ingredients until smooth."
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs5b2684dyep5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs5b87i2e9s97.jpg"
+    ]
   },
   {
     "id": "bp-si-8",
