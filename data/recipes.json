@@ -892,7 +892,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Haddock Sandwich",
+        "name": "Haddock Sandwich Piece",
         "qty": "1 portion",
         "unit": "Cut in half, on the bias"
       },
@@ -927,13 +927,13 @@
         "unit": ""
       },
       {
-        "name": "Mango salsa",
+        "name": "Mango Salsa",
         "qty": "4oz",
         "unit": "ramekin"
       }
     ],
     "steps": [
-      "Cut the Haddock on the bias, long ways",
+      "Cut the Haddock sandwich piece on the bias, long ways",
       "Place in flour, shake off excess",
       "Place it into the beer batter, coating completely",
       "With the fry basket submerged or removed, slowly dip the beer-battered fish into a 350°F fryer. While holding the fish by one end so it doesn't drop (stick) to the bottom of the submerged basket",
@@ -953,6 +953,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs94ljr5vh8xp.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlta5kwe1bti.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlxlip6zimzh.png"
     ],
@@ -1078,7 +1079,7 @@
       "Add 1/2 of the cheddar cheese to each taco",
       "Add 1/2 of the cabbage to the top of each taco.",
       "Cabbage should fill shells about halfway",
-      "Add protein on top of cabbage",
+      "Add protein on top of cabbage; give to expo to finish",
       "Caribbean Style - Mango salsa, Cilantro cream sauce,",
       "Street Style - Salsa Verde, Red Onions, Baja Sauce, Cilantro",
       "Expo:",
@@ -1087,9 +1088,7 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfghenmloskqk.jpg"
-    ],
+    "images": [],
     "id": "m-mtctmjtlu14w8m",
     "masterId": "dm-cds-10-m",
     "location": "CBG"
@@ -1834,13 +1833,13 @@
     ],
     "steps": [
       "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
-      "Fry wings for 6 to 12 minutes until hot to the bone",
+      "Fry wings in a 350°F fryer for approx.  for 6 to 12 minutes, until hot to the bone",
       "Place in Sav-A-Day to soak up excess oil",
       "Toss in the requested sauce",
       "Place on the correct plate",
       "Plateware:",
       "Rectangle Plate",
-      "Garnish:",
+      "Expo:",
       "Dipping sauce if requested"
     ],
     "notes": "",
@@ -1874,6 +1873,8 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84l6n0gbk1s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84vyb9jakty.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
     ],
     "id": "m-msrujf5wgdh9ob",
@@ -5252,6 +5253,8 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84l6n0gbk1s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84vyb9jakty.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
     ],
     "id": "m-msjdjoftwg9kjl",
@@ -12408,6 +12411,8 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84l6n0gbk1s.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs84vyb9jakty.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rfunyvidbgb.jpg"
     ]
   },
@@ -22801,6 +22806,7 @@
       "Combine well.",
       "Place in pasta bowl.",
       "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Protein served on top of the salad ",
       "Expo:",
       "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
@@ -22854,6 +22860,7 @@
       "Combine well.",
       "Place in pasta bowl.",
       "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Protein served on top of the salad ",
       "Expo:",
       "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
@@ -26430,9 +26437,8 @@
       "Place the burger on the grill.",
       "Place the bun on the flat top to toast",
       "Turn the burger over halfway through the cooking process.",
-      "For a cheeseburger, top the burger with cheese to melt (if necessary) before it finishes cooking.",
+      "*For a cheeseburger, top the burger with a slice of  American cheese now to melt (if necessary) before it finishes cooking.*",
       "Placed cooked burger on toasted burger bun.",
-      "Add 1 slice of American cheese for cheeseburgers",
       "Expo:",
       "Side requested on the plate ",
       "Plateware:",
@@ -30455,6 +30461,10 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvsan33ji78rit.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvsan6zqtpuji4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvsamu5hy5ffn6.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvsanbrszth7ht.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvlgrchu96h2g1.png"
     ]
   },
@@ -31093,9 +31103,7 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfghenmloskqk.jpg"
-    ]
+    "images": []
   },
   {
     "id": "dm-cds-11",
@@ -31468,7 +31476,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Haddock Sandwich",
+        "name": "Haddock Sandwich Piece",
         "qty": "1 portion",
         "unit": "Cut in half, on the bias"
       },
@@ -31503,13 +31511,13 @@
         "unit": ""
       },
       {
-        "name": "Mango salsa",
+        "name": "Mango Salsa",
         "qty": "4oz",
         "unit": "ramekin"
       }
     ],
     "steps": [
-      "Cut the Haddock on the bias, long ways",
+      "Cut the Haddock sandwich piece on the bias, long ways",
       "Place in flour, shake off excess",
       "Place it into the beer batter, coating completely",
       "With the fry basket submerged or removed, slowly dip the beer-battered fish into a 350°F fryer. While holding the fish by one end so it doesn't drop (stick) to the bottom of the submerged basket",
@@ -31529,6 +31537,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvs94ljr5vh8xp.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlta5kwe1bti.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjlxlip6zimzh.png"
     ]
@@ -35984,13 +35993,13 @@
     ],
     "steps": [
       "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
-      "Fry wings for 6 to 12 minutes until hot to the bone",
+      "Fry wings in a 350°F fryer for approx.  for 6 to 12 minutes, until hot to the bone",
       "Place in Sav-A-Day to soak up excess oil",
       "Toss in the requested sauce",
       "Place on the correct plate",
       "Plateware:",
       "Rectangle Plate",
-      "Garnish:",
+      "Expo:",
       "Dipping sauce if requested"
     ],
     "notes": "",
@@ -68603,7 +68612,7 @@
   },
   {
     "id": "dm-cds-22",
-    "masterId": "dm-alligator-bites-all-stores-m",
+    "masterId": "m-mvsb1il5b8nugu",
     "name": "Alligator Bites",
     "location": "CDS",
     "category": "Dinner Menu",
@@ -68849,13 +68858,13 @@
     ],
     "steps": [
       "**Wings are fully cooked in the bag, so cooking from frozen is fine.**",
-      "Fry wings for 6 to 12 minutes until hot to the bone",
+      "Fry wings in a 350°F fryer for approx.  for 6 to 12 minutes, until hot to the bone",
       "Place in Sav-A-Day to soak up excess oil",
       "Toss in the requested sauce",
       "Place on the correct plate",
       "Plateware:",
       "Rectangle Plate",
-      "Garnish:",
+      "Expo:",
       "Dipping sauce if requested"
     ],
     "notes": "",
@@ -71513,9 +71522,8 @@
       "Place the burger on the grill.",
       "Place the bun on the flat top to toast",
       "Turn the burger over halfway through the cooking process.",
-      "For a cheeseburger, top the burger with cheese to melt (if necessary) before it finishes cooking.",
+      "*For a cheeseburger, top the burger with a slice of  American cheese now to melt (if necessary) before it finishes cooking.*",
       "Placed cooked burger on toasted burger bun.",
-      "Add 1 slice of American cheese for cheeseburgers",
       "Expo:",
       "Side requested on the plate ",
       "Plateware:",
@@ -74644,9 +74652,8 @@
       "Place the burger on the grill.",
       "Place the bun on the flat top to toast",
       "Turn the burger over halfway through the cooking process.",
-      "For a cheeseburger, top the burger with cheese to melt (if necessary) before it finishes cooking.",
+      "*For a cheeseburger, top the burger with a slice of  American cheese now to melt (if necessary) before it finishes cooking.*",
       "Placed cooked burger on toasted burger bun.",
-      "Add 1 slice of American cheese for cheeseburgers",
       "Expo:",
       "Side requested on the plate ",
       "Plateware:",
@@ -76094,6 +76101,7 @@
       "Combine well.",
       "Place in pasta bowl.",
       "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Protein served on top of the salad ",
       "Expo:",
       "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
@@ -76994,6 +77002,7 @@
       "Combine well.",
       "Place in pasta bowl.",
       "**Served plain or w/ requested protein (location options of protein will vary)**",
+      "Protein served on top of the salad ",
       "Expo:",
       "Garlic Bread (& Protein of choice if requested) ",
       "Plateware:",
