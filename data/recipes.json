@@ -24020,19 +24020,19 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Steak NY Strip",
+        "name": "Steak NY Strip (Pull Thaw)",
         "qty": "1",
         "unit": "Each"
-      },
-      {
-        "name": "Butter Garlic Spread",
-        "qty": "Brush on",
-        "unit": "room temp"
       },
       {
         "name": "Steak Seasoning",
         "qty": "",
         "unit": "Seasoning"
+      },
+      {
+        "name": "Butter Garlic Spread",
+        "qty": "Brush on",
+        "unit": "room temp"
       },
       {
         "name": "Bairdi 3/4 (prep)",
@@ -24054,24 +24054,26 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
-      "Rare - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - a warm red center, otherwise pink 130–140°F",
-      "Medium - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
+      "Place the steak on the correct plateware",
+      "*Cooking Temperatures*",
+      "Rare - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - a warm red center, otherwise pink 130-140°F",
+      "Medium - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
-      "Crab Preparation:",
-      "STEAMED:",
-      "Place crab portions into a boiling pot of water or the steamer.",
+      "*Crab Preparation - STEAMED:*",
+      "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
-      "Pull and drain water off the crab before plating",
-      "GRILLED/ FIRE ROASTED:",
-      "Place the drained boiled crab on a large sizzler pan.",
-      "Coat generously with garlic spread and Old Bay,",
-      "Place in oven for 2 to 3 minutes or until seasoning is golden brown",
-      "Expo:",
-      "2 sides, Lemon wedge, 4oz. Butter, Steak knife, crab cracker, cocktail fork",
+      "Lift from the pot and drain excess water",
+      "Place on a lined 1/4 tray",
+      "*FIRE ROASTED/GRILLED:*",
+      "Place boiled crab on a large sizzler pan.",
+      "Coat generously with garlic spread and Old Bay, then place in the salamander or 450°F oven for 2 to 3 minutes or until seasoning is golden brown",
+      "Place on a lined 1/4 tray",
+      "Garnish:",
+      "Lemon wedge, 2 sides, 2oz Butter",
       "Plateware:",
-      "Lined 1/4 sheet tray,"
+      " 1/4 Lined sheet tray, Steak knife"
     ],
     "notes": "",
     "images": [
@@ -25764,36 +25766,37 @@
         "unit": "Each"
       },
       {
+        "name": "Steak Seasoning",
+        "qty": "Evenly dust",
+        "unit": "top"
+      },
+      {
         "name": "Hamburger Bun",
         "qty": "1",
         "unit": "Each"
-      },
-      {
-        "name": "Seasoning Montreal",
-        "qty": "Evenly dust",
-        "unit": "top"
       }
     ],
     "steps": [
-      "Lightly dust the burger with Montreal seasoning",
-      "Place a Hamburger on the chargrill and cook to the desired temperature.",
-      "If requested, melt the desired cheese on the burger",
+      "Lightly dust the burger with Montreal seasoning. Place the Hamburger on the chargrill",
+      "Cook to the desired temperature.",
+      "If requested- Melt desired cheese on the burger",
       "Serve on a toasted bun.",
-      "Cooking Methods:",
-      "Rare - a cool red center; pink otherwise 125–130°F",
-      "Medium Rare - a warm red center, otherwise pink 130–140°F",
-      "Medium - warm pink center, otherwise brown 140–150°F",
-      "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
-      "Well Done - Brown, throughout with no sign of pink >160°F",
+      "Rare - a cool red center; pink otherwise 125-130°F",
+      "Medium Rare - a warm red center, otherwise pink 130-140°F",
+      "Medium - warm pink center, otherwise brown 140-150°F",
+      "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
+      "Well Done - Brown throughout with no sign of pink >160°F",
       "Expo:",
-      "French Fries, LTO upon request",
+      "LTO, side requested",
       "Plateware:",
-      "Lined round basket"
+      "Lined round basket/ Rectangle Plate "
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwrlr2yr455gm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwrlwawo213xj.png"
     ]
   },
   {
@@ -35427,27 +35430,34 @@
       }
     ],
     "steps": [
+      "*Steamed Hot*",
       "3/4# Portions use Yellow Mesh Bags",
       "Place a Yellow mesh bag portion of uncooked shrimp into the boiling Old Bay water.",
       "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that the shrimp are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.",
-      "Remove cooked shrimp from the mesh bag and place in a lined round basket.",
+      "Remove the cooked shrimp from the mesh bag and place them on the appropriate plate.",
       "Sprinkle shrimp with Old Bay seasoning",
-      "Butter (2oz cup)",
+      "Expo -Hot -Butter (2oz cup), lemon wedge / Cold - lemon wedge ",
+      "*Scampi /Hot*",
       "1 - 4oz ladle of Scampi Sauce",
       "Add 4oz of Scampi sauce to a sauté pan",
       "Sauté shrimp in scampi butter until cooked",
       "Pour the entire contents into a Small bowl",
+      "Expo: lemon wedge ",
+      "*Cold*",
       "Place the Yellow mesh bags portion of uncooked shrimp into boiling Old Bay water",
       "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that the shrimp are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.",
       "IMMEDIATELY Remove shrimp from boiling water and place in a bath of ICE WATER. Let the shrimp stand in ice water until they are completely chilled.",
-      "Remove cooked shrimp from the mesh bag and place them into the correct plateware.",
+      "Remove the cooked shrimp from the mesh bag and place them on the appropriate plate.",
       "Sprinkle shrimp with Old Bay seasoning",
       "Expo:",
       "COLD - Lemon wedge",
-      "Plateware:"
+      "Plateware: Small bowl,"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwsibfubfau5f.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwsif0gpk8vfo.jpg"
+    ]
   },
   {
     "id": "dm-cbg-11",
@@ -61309,6 +61319,7 @@
       "When the steak is just about done",
       "Butter the egg pan, cook eggs as requested",
       "Place eggs next to the steak on the plate",
+      "*Steak Temperature*",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -61316,7 +61327,8 @@
       "Well Done - Brown, throughout with no sign of pink >160°F",
       "Expo:",
       "Requested side, steak knife",
-      "Plateware:"
+      "Plateware:",
+      "1/4 Lined sheet tray, steak knife "
     ],
     "notes": "",
     "images": [
@@ -72667,12 +72679,14 @@
       "Expo:",
       "LTO, side requested",
       "Plateware:",
-      "Lined round basket"
+      "Lined round basket/ Rectangle Plate "
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Sirloin_Burger__All_stores__1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwrlr2yr455gm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwrlwawo213xj.png"
     ]
   },
   {
@@ -74361,7 +74375,7 @@
       }
     ],
     "steps": [
-      "Steak Preparation:",
+      "*Steak Preparation:*",
       "Generously season both sides with requested seasoning.",
       "Place on the hot zone of the char grill.",
       "Rotate 10 → 2 to set the diamond marks.",
@@ -74369,12 +74383,13 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "*Cooking Temperatures*",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
       "Medium - warm pink center, otherwise brown 140-150°F",
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
       "Well-done - Brown throughout with no sign of pink >160°F",
-      "Scallop Preparation:",
+      "*Scallop Preparation:*",
       "Take 1 portion of scallops and brush both flat sides with melted garlic butter, and evenly season with blackened spice",
       "Place scallops on a hot flat top, flat side down, and let cook uncovered for 2 to 3 minutes",
       "Drizzle with garlic butter and flip the scallops",
@@ -74383,7 +74398,7 @@
       "Place the steak and rarebit on the 1/4 lined tray/correct plate together",
       "Expo:",
       "Steak knife, Lemon wedge, 2 sides",
-      "Small wares: 12oz Rarebit, App plate, Lined 1/4 Tray, Steak knife"
+      "Plateware: 12oz Rarebit, App plate, Lined 1/4 Tray, Steak knife"
     ],
     "notes": "",
     "images": [
@@ -74438,24 +74453,25 @@
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
       "Place the steak on the correct plateware",
+      "*Cooking Temperatures*",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
       "Medium - warm pink center, otherwise brown 140-150°F",
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150-160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
-      "Crab Preparation - STEAMED:",
+      "*Crab Preparation - STEAMED:*",
       "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
       "Lift from the pot and drain excess water",
       "Place on a lined 1/4 tray",
-      "FIRE ROASTED/GRILLED:",
+      "*FIRE ROASTED/GRILLED:*",
       "Place boiled crab on a large sizzler pan.",
       "Coat generously with garlic spread and Old Bay, then place in the salamander or 450°F oven for 2 to 3 minutes or until seasoning is golden brown",
       "Place on a lined 1/4 tray",
       "Garnish:",
       "Lemon wedge, 2 sides, 2oz Butter",
       "Plateware:",
-      "Crab 1/4 sheet tray, Steak knife"
+      " 1/4 Lined sheet tray, Steak knife"
     ],
     "notes": "",
     "images": [
