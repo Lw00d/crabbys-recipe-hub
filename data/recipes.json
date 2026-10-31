@@ -814,7 +814,9 @@
       "Dinner plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo71tahudkq5.jpg"
+    ],
     "id": "m-mtcttvkotl5mqa",
     "masterId": "m-mtgrlfffzz59og",
     "location": "CBG"
@@ -21468,9 +21470,9 @@
       "Be sure the mussel is cut away from the Oyster shell",
       "Drizzle the prepared oysters with melted garlic butter, cover with Parmesan cheese, then sprinkle with Old Bay Seasoning.",
       "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
-      "Transfer to a lined 1/4 tray",
+      "Transfer to a lined 1/8 tray",
       "Expo:",
-      "Lemon wedges, chopped parsley, Cocktail fork",
+      "Lemon wedges, chopped parsley, cocktail fork",
       "Plateware:",
       "1/8 sheet tray lined"
     ],
@@ -21521,9 +21523,9 @@
       "Be sure the mussel is cut away from the Oyster shell",
       "Drizzle the prepared oysters with melted garlic butter, cover with Parmesan cheese, then sprinkle with Old Bay Seasoning.",
       "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
-      "Transfer to a lined 1/4 tray",
+      "Transfer to a lined 1/8 tray",
       "Expo:",
-      "Lemon wedges, chopped parsley, Cocktail fork",
+      "Lemon wedges, chopped parsley, cocktail fork",
       "Plateware:",
       "1/8 sheet tray lined"
     ],
@@ -31751,12 +31753,15 @@
       "Once done, place on a lined 1/4 tray",
       "**Add-on Nashville tender app, place next to ribs in combo",
       "**Add-on 8 fried shrimp, place next to ribs if combo",
+      "Expo:",
+      "2oz BBQ sauce, Sides, Steak knife",
       "Plateware:",
       "White Combo Plate, Steak knife"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnjgnn7xz5jg.png"
     ]
   },
   {
@@ -31787,12 +31792,15 @@
       "Once done, place on a lined 1/4 tray",
       "**Add-on Nashville tender app, place next to ribs in combo",
       "**Add-on 8 fried shrimp, place next to ribs if combo",
+      "Expo:",
+      "2oz BBQ sauce, Sides, Steak knife",
       "Plateware:",
       "White Combo Plate, Steak knife"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnjgnn7xz5jg.png"
     ]
   },
   {
@@ -34037,8 +34045,8 @@
       },
       {
         "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "qty": "Brush",
+        "unit": "Finished Shrimp"
       }
     ],
     "steps": [
@@ -34055,10 +34063,12 @@
       "Expo:",
       "Chopped parsley, lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware:",
-      "White Combo Plate, Steak knife "
+      "White Combo Plate, or 1/4 Lined Tray, Steak knife "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
+    ]
   },
   {
     "id": "dm-pl-57",
@@ -35351,15 +35361,17 @@
       }
     ],
     "steps": [
-      "Place 12 prepped oysters on a silver pan and bake in a 450°F oven for approximately 6 to 8 minutes or until lightly browned.",
+      "Place 6 or 12 prepped oysters on a silver pan and bake in a 450°F oven for approximately 6 to 8 minutes or until lightly browned.",
       "Transfer to a lined 1/4 tray",
       "Expo:",
-      "6ea is 1, 12 ea. is 2 Lemon wedges,",
+      "6ea is 1, and 12 ea. is 2 Lemon wedges,",
       "Plateware:",
-      "Lined 1/4 sheet tray"
+      "Lined 1/8 or 1/4  lined sheet tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwn30lptalxfm.png"
+    ]
   },
   {
     "id": "dm-cbg-9",
@@ -35382,13 +35394,15 @@
       "Top oysters with bacon and bake in a 450°F oven for about 8 minutes or until oysters are cooked.",
       "Transfer to a lined 1/4 tray",
       "Expo:",
-      "6ea. 1 or 12 ea. - 2 Lemon wedges",
-      "1 to 2oz ladle of Beurre Blanc",
+      "6 ea. 1 lemon or 12 ea. - 2 Lemon wedges",
+      "1oz (6ct) or 2oz ladle of Beurre Blanc",
       "Plateware:",
-      "1/4 sheet tray lined"
+      "1/8 or 1/4 (12) lined sheet tray "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwn0z3eh4ssyz.png"
+    ]
   },
   {
     "id": "dm-cbg-10",
@@ -35648,7 +35662,9 @@
       "Lined round basket"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwndw22sp10xk.png"
+    ]
   },
   {
     "id": "dm-cbg-16",
@@ -35983,7 +35999,9 @@
       "Lined round basket"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwng93hxg95l0.png"
+    ]
   },
   {
     "id": "dm-cbg-24",
@@ -36024,7 +36042,9 @@
       "Lined round basket"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwlet2rsjt5ni.png"
+    ]
   },
   {
     "id": "dm-cbg-25",
@@ -36613,11 +36633,14 @@
       "Sprinkle with Parmesan cheese and Old Bay",
       "Garnish with garlic bread.",
       "Expo:",
+      "Garlic Bread, Soup Spoon ",
       "Plateware:",
       "Pasta bowl, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwqlk720ox752.png"
+    ]
   },
   {
     "id": "dm-cbg-39",
@@ -36673,11 +36696,16 @@
       "Pour the sauté pan contents over the 2 Ivory scoops of grits in a bowl.",
       "Top with green onions and serve with garlic bread.",
       "Expo:",
-      "2 Ivory scoops of grits",
-      "Plateware:"
+      "2 Ivory scoops of grits, Garlic Bread, Green Onions, Soup Spoon",
+      "Plateware:",
+      "Pasta Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwoik7icc0t2l.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwom5w5eky2qz.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwom8w6fsaqs2.png"
+    ]
   },
   {
     "id": "dm-cbg-40",
@@ -60588,10 +60616,14 @@
       "Fold the finished omelet onto a large plate",
       "Add Avo Mix to the top of the omelet",
       "Expo:",
-      "Plateware:"
+      "side, toast",
+      "Plateware:",
+      "Large plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwkg4s59hjp66.jpg"
+    ]
   },
   {
     "id": "bm-cbg-28",
@@ -60657,9 +60689,9 @@
       "Add all toppings to one side of the omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Dinner plate",
+      "Large plate",
       "Expo:",
-      "toast, requested side"
+      "Toast, requested side"
     ],
     "notes": "",
     "images": [
@@ -60730,9 +60762,9 @@
       "Add all toppings to one side of the omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Dinner plate",
+      "Large plate",
       "Expo:",
-      "toast, requested side"
+      "Toast, requested side"
     ],
     "notes": "",
     "images": [
@@ -60784,7 +60816,9 @@
       "Add Avocado Mix to half of the omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Expo:"
+      "Large plate",
+      "Expo:",
+      "requested side, toast"
     ],
     "notes": "",
     "images": [
@@ -60857,10 +60891,15 @@
       "Add chicken(from expo line) and beans to one side of omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Expo:"
+      "Large plate",
+      "Expo:",
+      "Potatoes, toast, 2oz of Queso Chorizo if on expo line"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwkxx8qrn9oxu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwky195vhyccg.png"
+    ]
   },
   {
     "id": "bm-cbg-31",
@@ -60929,10 +60968,15 @@
       "Add the cheese, and fold the finished Cheese Omelet onto a large plate",
       "Now top the omelet with all ingredients from the other sauté pan.",
       "Expo:",
-      "Plateware:"
+      "Potatoes, toast ",
+      "Plateware:",
+      "Large plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwl8hn1pymba6.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwl8jujvy14z1.png"
+    ]
   },
   {
     "id": "bm-cbg-32",
@@ -61104,6 +61148,8 @@
       "Add any toppings to one side of the omelet",
       "Fold the finished omelet onto a large plate",
       "Add potatoes to the plate",
+      "Plateware:",
+      "Large plate",
       "Expo:",
       "requested side, toast"
     ],
@@ -61210,7 +61256,10 @@
       "Lined Pizza Tray, pie server"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwn7rgb9thqbx.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwn7ue5d9ialg.jpg"
+    ]
   },
   {
     "id": "bm-cbg-36",
@@ -61376,10 +61425,14 @@
       "Once eggs are cooked, toss them in with the rest of the items on the flattop",
       "Give a quick mix and place in a square bowl",
       "Garnish:",
-      "Plateware:"
+      "Toast ",
+      "Plateware:",
+      "Medium Bowl "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo9bt030045j.jpg"
+    ]
   },
   {
     "id": "bm-cbg-39",
@@ -62022,10 +62075,14 @@
       "Top with eggs, then beef.",
       "Finish with cheese, beurre blanc, then onions",
       "Plateware:",
-      "Garnish:"
+      "Bowl",
+      "Garnish:",
+      "Beurre Blanc, Green Onions, Toast  "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwog3m8f14tuj.png"
+    ]
   },
   {
     "id": "bm-cbg-45",
@@ -62090,12 +62147,17 @@
       "Butter an egg pan and cook the egg as requested",
       "Pour the sauté pan contents over 2 Ivory scoops of grits in a bowl.",
       "Top with the egg and with toast.",
-      "Sprinkle green onions on top of the egg",
-      "2 ivory scoops grits",
-      "Plateware:"
+      "Expo:",
+      "2 ivory scoops of grits - give to cooks, ",
+      "Sprinkle green onions on top of the egg, toast ",
+      "Plateware:",
+      "Pasta Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwp7fvpb527jb.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwp7t0gk27qcn.png"
+    ]
   },
   {
     "id": "bm-cbg-46",
@@ -62142,11 +62204,15 @@
       "Carefully pull the pizza out and place it on a pizza tray with deli paper",
       "Add the avocado mix on top",
       "Cut into 8 equal slices",
+      "Expo:",
+      "Pie server ",
       "Plateware:",
       "Lined Pizza tray, pie server"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnb7rso10yzt.jpg"
+    ]
   },
   {
     "id": "bm-cbg-47",
@@ -62321,7 +62387,10 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo1mcrx9r1wc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo1pqkssu9ot.png"
+    ]
   },
   {
     "id": "bm-cbg-50",
@@ -62399,7 +62468,9 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo3i0ngp0toc.png"
+    ]
   },
   {
     "id": "bm-nb-23",
@@ -62423,7 +62494,9 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwo3i0ngp0toc.png"
+    ]
   },
   {
     "id": "bm-cbg-52",
@@ -69665,9 +69738,9 @@
       "Be sure the mussel is cut away from the Oyster shell",
       "Drizzle the prepared oysters with melted garlic butter, cover with Parmesan cheese, then sprinkle with Old Bay Seasoning.",
       "Place in a 450°F oven for approx. 6 to 8 minutes or until oysters are cooked thoroughly and the tops are golden brown in color.",
-      "Transfer to a lined 1/4 tray",
+      "Transfer to a lined 1/8 tray",
       "Expo:",
-      "Lemon wedges, chopped parsley, Cocktail fork",
+      "Lemon wedges, chopped parsley, cocktail fork",
       "Plateware:",
       "1/8 sheet tray lined"
     ],
@@ -69833,8 +69906,8 @@
       },
       {
         "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "qty": "Brush",
+        "unit": "Finished Shrimp"
       }
     ],
     "steps": [
@@ -69851,10 +69924,12 @@
       "Expo:",
       "Chopped parsley, lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware:",
-      "White Combo Plate, Steak knife "
+      "White Combo Plate, or 1/4 Lined Tray, Steak knife "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
+    ]
   },
   {
     "id": "dm-cds-43",
@@ -72440,7 +72515,7 @@
   {
     "id": "dm-cbg-61",
     "masterId": "dm-cbg-61-m",
-    "name": "Portabella Mushroom",
+    "name": "Portabella Mushroom Sandwich",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -73902,8 +73977,8 @@
       },
       {
         "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "qty": "Brush",
+        "unit": "Finished Shrimp"
       }
     ],
     "steps": [
@@ -73920,10 +73995,12 @@
       "Expo:",
       "Chopped parsley, lemon wedge, requested sides, 2oz BBQ sauce, steak knife",
       "Plateware:",
-      "White Combo Plate, Steak knife "
+      "White Combo Plate, or 1/4 Lined Tray, Steak knife "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
+    ]
   },
   {
     "id": "dm-cbg-86",
@@ -77792,7 +77869,9 @@
       "App Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwqi34jzyt3n8.png"
+    ]
   },
   {
     "id": "dm-cbg-117",
@@ -79665,12 +79744,15 @@
       "Once done, place on a lined 1/4 tray",
       "**Add-on Nashville tender app, place next to ribs in combo",
       "**Add-on 8 fried shrimp, place next to ribs if combo",
+      "Expo:",
+      "2oz BBQ sauce, Sides, Steak knife",
       "Plateware:",
       "White Combo Plate, Steak knife"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfe24mqcqyoqx.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnjgnn7xz5jg.png"
     ]
   },
   {
@@ -79706,7 +79788,10 @@
       "2oz BBQ sauce, Steak knife"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpoe6qztivc9.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpojatxz7mvf.jpg"
+    ]
   },
   {
     "id": "dm-cbg-157",
@@ -79848,18 +79933,22 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, brushed with warm Cajun Butter.",
+      "*Cooking Temperatures*",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
       "Expo:",
-      "Steak knife, and 2 sides",
+      "Onion Thins on top, requested sides, Steak knife, ",
       "Plateware:",
       "Dinner plate, steak knife"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnmvgkuw12ya.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwnn45slnukp7.png"
+    ]
   },
   {
     "id": "dm-cbg-160",
@@ -116025,10 +116114,15 @@
       "Add the cheese, and fold the finished Cheese Omelet onto a large plate",
       "Now top the omelet with all ingredients from the other sauté pan.",
       "Expo:",
-      "Plateware:"
+      "Potatoes, toast",
+      "Plateware:",
+      "Large plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwktkxa1n2g62.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwktps3y3aul7.png"
+    ],
     "id": "m-mvbe2whaofkvkd",
     "masterId": "m-mvbe2wha35ooyx",
     "location": "CBG"
@@ -116086,7 +116180,11 @@
       "Once eggs are cooked through on the bottom, flip the omelet",
       "Add all toppings to one side of the omelet, including cheese",
       "Fold the finished omelet onto a large plate",
-      "Add toast to the plate"
+      "Add toast to the plate",
+      "Plateware:",
+      "Large Plate ",
+      "Expo:",
+      "Requested side, toast "
     ],
     "notes": "",
     "images": [],
@@ -116188,7 +116286,9 @@
       "Top potatoes with the scrambled eggs",
       "Top the eggs with the Meat, Onions and Cheese",
       "Garnish:",
-      "Plateware:"
+      "Toast",
+      "Plateware:",
+      "Medium Bowl"
     ],
     "notes": "",
     "images": [
@@ -117494,7 +117594,9 @@
       "Add all toppings on top of the cheese in the omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Expo:"
+      "Large plate",
+      "Expo:",
+      "Requested side, toast "
     ],
     "notes": "",
     "images": [],
