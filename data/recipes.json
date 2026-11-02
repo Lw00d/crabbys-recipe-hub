@@ -282,7 +282,9 @@
       "Taco stand, rectangular plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzi3fjpvt0aay.png"
+    ],
     "id": "m-mth9otr14kajvt",
     "masterId": "m-mth9otr1r0xfr9",
     "location": "CBG"
@@ -33378,7 +33380,10 @@
       "Grouper - Grill or Blacken"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzibh4k6r4bzo.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzibk6xmoeacq.png"
+    ]
   },
   {
     "id": "dm-pl-44",
@@ -35552,34 +35557,44 @@
       }
     ],
     "steps": [
+      "*NOTE: A warped shell means that they are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.*",
+      "*HOT*",
       "1/2# Portions use RED Mesh Bags",
-      "HOT is Scampi Style",
       "Place mesh bags portion of uncooked shrimp into boiling Old Bay water",
-      "Let it boil for 3 minutes or until the shrimp are just about done. Lift and drain",
+      "Let it boil for 4-5 minutes or until the shrimp are done. Lift and drain",
+      "Arrange the shrimp on the correct plateware.",
+      "Sprinkle shrimp with Old Bay seasoning. Sell to expo",
+      "Expo:",
+      "Butter (2oz cup), Lemon ",
+      "Plateware:",
+      "Small Bowl / Rectangle Plate -  Check Plating Chart",
+      "*Scampi Hot*",
+      "Place the mesh bag into the boiling water. Boil for 3 minutes, or until the shrimp are just about done. Lift and drain",
       "While the shrimp are in the water, add 4oz of Scampi sauce to a sauté pan on medium heat",
       "Remove cooked shrimp from the mesh bag and place in the sauté pan, and continue to cook.",
       "Sauté shrimp in scampi sauce until cooked",
       "Pour the entire contents into a Medium bowl",
-      "Sprinkle shrimp with Old Bay seasoning",
-      "Butter (2oz cup)",
+      "Sprinkle the shrimp with Old Bay seasoning. Sell to expo",
+      "Expo:",
+      "Butter (2oz cup), Lemon ",
       "Plateware:",
-      "Small Bowl / Rectangular Plate",
-      "NOTE: A warped shell means that they are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.",
-      "1 - 4oz ladle of Scampi Sauce",
-      "Add 4oz of Scampi sauce to a sauté pan",
-      "Sauté shrimp in scampi butter until cooked",
-      "Pour the entire contents into a Medium bowl",
+      "Small Bowl / Rectangle Plate - Check Plating Chart",
+      "*Cold*",
       "Place mesh bags portion of uncooked shrimp into boiling Old Bay water",
-      "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that they are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.",
+      "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that they are overcooked. The shell should be bright orange, and the shrimp meat should be white.",
       "IMMEDIATELY Remove shrimp from boiling water and place in a bath of ICE WATER. Let shrimp stand in ice water until completely chilled.",
       "Remove cooked shrimp from the mesh bag and place them into the correct plateware.",
-      "Sprinkle shrimp with Old Bay seasoning",
+      "Sprinkle shrimp with Old Bay seasoning. Sell to expo",
       "Expo:",
       "COLD - Lemon wedge",
-      "Plateware:"
+      "Plateware:",
+      "Small Bowl / Rectangle Plate - Check Plating Chart "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzgowm419b3y5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzgp7t500m32h.jpg"
+    ]
   },
   {
     "id": "dm-cbg-13",
