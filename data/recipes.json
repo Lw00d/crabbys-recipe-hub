@@ -1629,14 +1629,14 @@
   {
     "name": "Lobster Bites (Head & Meat)",
     "category": "Dinner Prep",
-    "yield": "6 portions per 2# bag",
+    "yield": "4 portions per 1# bag",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Lobster Head Meat",
         "qty": "1",
-        "unit": "2# Bag"
+        "unit": "1# Bag"
       }
     ],
     "steps": [
@@ -3791,14 +3791,14 @@
   {
     "name": "Lobster Bites (Head & Meat)",
     "category": "Dinner Prep",
-    "yield": "6 portions per 2# bag",
+    "yield": "4 portions per 1# bag",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Lobster Head Meat",
         "qty": "1",
-        "unit": "2# Bag"
+        "unit": "1# Bag"
       }
     ],
     "steps": [
@@ -17276,14 +17276,14 @@
     "name": "Lobster Bites (Head & Meat)",
     "location": "CDS",
     "category": "Dinner Prep",
-    "yield": "6 portions per 2# bag",
+    "yield": "4 portions per 1# bag",
     "shelfLife": "3 days",
     "smallware": "",
     "ingredients": [
       {
         "name": "Lobster Head Meat",
         "qty": "1",
-        "unit": "2# Bag"
+        "unit": "1# Bag"
       }
     ],
     "steps": [
