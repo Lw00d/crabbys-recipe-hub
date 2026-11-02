@@ -214,7 +214,7 @@
     "location": "Palm"
   },
   {
-    "name": "Street Style 2 (Slaw Base)",
+    "name": "Street Style 2 Tacos (Slaw Base)",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
     "yield": "",
@@ -59499,10 +59499,13 @@
       "Plateware:",
       "Lined Oval Basket",
       "Garnish:",
-      "Cinnamon Sugar, Honey butter, 1 cup of drip coffee"
+      "Cinnamon Sugar, Honey butter, ",
+      "*Zeppole's and Coffee, add 1 cup of drip coffee*"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzkjs160lrv5n.png"
+    ]
   },
   {
     "id": "bm-cbg-12",
@@ -72753,12 +72756,12 @@
       {
         "name": "Dressing Cusabi",
         "qty": "Drizzle on",
-        "unit": "tuna"
+        "unit": "Tuna"
       },
       {
         "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
+        "qty": "Final ",
+        "unit": "Basting "
       }
     ],
     "steps": [
@@ -72774,8 +72777,8 @@
       "Expo:",
       "1 oz drizzle of cucumber wasabi, Lemon wedge, LTO if requested, side requested",
       "Plateware:",
-      "Lined Round basket",
-      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
+      "Dinner Plate / Rectangular Plate ",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the center stays rare."
     ],
     "notes": "",
     "images": [
@@ -77944,7 +77947,9 @@
       "App Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzk8eygjnfqc4.png"
+    ]
   },
   {
     "id": "dm-cbg-118",
@@ -78512,7 +78517,7 @@
       "Expo:",
       "Cilantro, 2 Lime wedges — See Expo Chart, Side",
       "Plateware:",
-      "Taco Plate"
+      "Taco Plate / Taco stand, Rectangle plate"
     ],
     "notes": "",
     "images": [
@@ -78584,7 +78589,7 @@
       "Expo:",
       "2 Lime wedges, Cilantro cream, Salsa verde, Carrots, Side",
       "Plateware:",
-      "Taco Plate"
+      "Taco Plate / Taco Stand Rectangle plate "
     ],
     "notes": "",
     "images": [
@@ -79038,13 +79043,13 @@
       "Add: 1/3 of the cabbage to the top of each taco.",
       "Cabbage should fill the taco shell about halfway",
       "Add protein on top of cabbage",
-      "Drizzle each taco with Baja sauce and salsa Verde",
+      "Drizzle each taco with Baja Sauce and Salsa Verde",
       "Top with diced red onion",
       "Finish with cilantro",
       "Expo:",
       "2 Lime wedges, Baja sauce, Salsa verde, Cilantro, Red onion — See Expo Chart",
       "Plateware:",
-      "Taco Plate"
+      "Taco Plate/ Taco stand, Rectangle Plate"
     ],
     "notes": "",
     "images": [
@@ -79184,7 +79189,7 @@
       "Expo:",
       "2 Lime wedges, Baja sauce, Salsa verde, Cilantro, Red onion — See Expo Chart",
       "Plateware:",
-      "Taco Plate"
+      "Taco Plate/ Taco Stand, Rectangle Plate "
     ],
     "notes": "",
     "images": [
@@ -80969,12 +80974,12 @@
       "Place on a flat top",
       "Cook 2 minutes, baste and flip",
       "Cook another 1.5-2 minutes",
+      "Finish with a light brush of pre-melted lemon butter — do not overcook; the center stays rare.",
       "Place on the correct plateware",
       "Expo:",
       "lemon wedge",
       "Plateware:",
-      "App Plate",
-      "Finish with a light brush of pre-melted lemon butter — do not overcook; the centre stays rare."
+      "App Plate"
     ],
     "notes": "",
     "images": [
