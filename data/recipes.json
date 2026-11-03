@@ -5680,7 +5680,9 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18segcss9tqz.png"
+    ],
     "id": "m-msdbhejg67n9mq",
     "masterId": "bm-nb-40-m",
     "location": "Palm"
@@ -5741,12 +5743,16 @@
       "Place the cooked egg on top",
       "This is served open-faced",
       "Add the requested side",
-      "."
+      "Plateware:",
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpeliv2pdeumy.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw187vzp1j5vmw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1887fqituf99.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw188f02hf8zpn.png"
     ],
     "id": "m-msdb7gk36n9fm1",
     "masterId": "bm-pl-7-m",
@@ -5808,12 +5814,16 @@
       "Place the cooked egg on top",
       "This is served open-faced",
       "Add the requested side",
-      "."
+      "Plateware:",
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpeliv2pdeumy.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw187vzp1j5vmw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1887fqituf99.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw188f02hf8zpn.png"
     ],
     "id": "m-msdb6ggnalhhcj",
     "masterId": "bm-pl-7-m",
@@ -7312,6 +7322,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19kaljilb4rh.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjtaxhrg90w.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjxyut7ushr.png"
     ],
@@ -21785,7 +21796,7 @@
       "Finishing spices/sauces after cutting:",
       "Sprinkle Romano cheese evenly over the cheese",
       "Plateware:",
-      "14\" Pizza Tray",
+      "14\" Lined Pizza Tray",
       "Expo:",
       "Serve with a pie scoop under a slice of pizza."
     ],
@@ -21931,12 +21942,11 @@
       "Take 4 slices of fresh mozzarella and place them long ways between the edge of the sauce and the center (1 slice long ways in each quarter of the pizza sauce)",
       "Cooking instructions:",
       "Place in oven (at 500-515°F degrees) on the screen for approx. 6 minutes, depending on the oven",
-      "Take the pizza off the screen when possible and continue to cook for another 2-3 minutes or until the crust is",
-      "golden brown, spinning occasionally for even cooking",
+      "Take the pizza off the screen when possible and continue to cook for another 2-3 minutes or until the crust is golden brown. Spinning occasionally for even cooking",
       "Cutting the pizza:",
       "Once golden brown, take the pizza out of the oven and put it on a deli paper-lined 14\" metal tray",
       "When cutting the Margherita Pizza, start your cut on the crust, where you will into the center of a piece of fresh mozzarella. Once all cuts are made, each piece of pizza should have half a Mozzarella slice on it.",
-      "Make 4 equal cuts, again to make 8 triangles",
+      "Make 4 equal cuts, then cut again to make 8 triangles",
       "Finishing: spices/sauces after cutting:",
       "Sprinkle Romano cheese evenly over the cheese",
       "Take 4 large basil leaves and lay them flat on top of each other, starting from the stem, roll them upwards.",
@@ -22263,6 +22273,12 @@
         "name": "Cuban Bread",
         "qty": "1",
         "unit": "slice"
+      },
+      {
+        "qty": "",
+        "qty2": "",
+        "unit": "",
+        "name": " "
       }
     ],
     "steps": [
@@ -22273,10 +22289,11 @@
       "Add Pasta to the existing pan of shrimp and sauce.",
       "*If the sauce is still a little too thick to toss, adding a little heavy cream to thin it is ok*",
       "Flip the pasta a couple of times to make sure everything is coated with the sauce.",
-      "Pour finished pasta into a large bowl.",
+      "Place the finished pasta into a large bowl.",
+      "Arranging the Shrimp and Sausage on top of the pasta ",
       "Sprinkle with parmesan cheese evenly across the top",
       "Expo:",
-      "Cuban Bread, soup spoon",
+      "Cuban Garlic Bread, Soup spoon",
       "Plateware:",
       "Pasta bowl, Soup spoon"
     ],
@@ -22337,12 +22354,12 @@
       "Heat pasta in boiling water for approximately 1 minute.",
       "Add tomatoes to the existing pan of shrimp",
       "Add the drained pasta.",
-      "*If the sauce is still a little too thick to toss, adding a little heavy cream to thin it is ok*",
       "Flip the pasta a couple of times to makes sure all the pasta is coated with the sauce.",
-      "Pour finished pasta into a large bowl.",
+      "*If the sauce is still a little too thick to toss, adding a little heavy cream to thin it is ok*",
+      "Place the finished pasta into a large bowl. Arrange the Shrimp on top",
       "Sprinkle with parmesan cheese evenly across the top",
       "Expo:",
-      "Garlic Bread, soup spoon",
+      "Garlic Bread, Soup spoon",
       "Plateware:",
       "Pasta bowl, Soup spoon"
     ],
@@ -22412,7 +22429,7 @@
       "Heat pasta in boiling water for approximately 1 minute.",
       "Add Pasta to the existing pan of shrimp and sauce.",
       "Flip the pasta a couple of times to make sure all the pasta is coated with the sauce.",
-      "Pour finished pasta into a large bowl over the mussels",
+      "Pouring the finished pasta into a large bowl over the mussels",
       "Sprinkle with Parmesan cheese evenly across the top",
       "Expo:",
       "1 fresh Basil leaf, Garlic Bread, Soup Spoon",
@@ -22446,6 +22463,12 @@
         "unit": "Seasoning"
       },
       {
+        "qty": "Finished ",
+        "qty2": "",
+        "unit": "Chicken",
+        "name": "Lemon Butter"
+      },
+      {
         "name": "Cajun Butter",
         "qty": "1",
         "unit": "Sunflower Scoop"
@@ -22474,11 +22497,6 @@
         "name": "Garlic Bread",
         "qty": "1",
         "unit": "slice"
-      },
-      {
-        "name": "Lemon Butter",
-        "qty": "",
-        "unit": ""
       }
     ],
     "steps": [
@@ -22492,7 +22510,7 @@
       "Place 1 portion of pasta in the pasta water for approximately 1 minute, and drain",
       "Add drained pasta to the Cajun butter pan. Toss",
       "Flip the pan a couple of times to make sure everything is coated with the sauce",
-      "Pour finished pasta into a large bowl.",
+      "Pouring the finished pasta into a large bowl.",
       "Slice the chicken into 5 strips and place on top of the pasta.",
       "Sprinkle with grated Parmesan cheese evenly across the top",
       "Expo:",
@@ -22570,9 +22588,7 @@
       "Pasta bowl, Soup spoon"
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzol9f2bbtrcr.png"
-    ]
+    "images": []
   },
   {
     "id": "dm-nb-34",
@@ -23125,7 +23141,9 @@
       "6 oz round au gratin dish, dinner plate, black napkin"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15g9gwbgcxrt.png"
+    ]
   },
   {
     "id": "dm-nb-43",
@@ -23534,7 +23552,9 @@
       "6oz Au Gratin Dish, Dinner Plate, black napkin"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw0vpdva8vc2b6.png"
+    ]
   },
   {
     "id": "dm-nb-50",
@@ -23820,6 +23840,8 @@
       "Then cover thoroughly in Italian breading.",
       "Place breaded shrimp in 350°F fryer and cook for approximately. 4-5 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a save-a-day to drain the excess oil.",
+      "Plateware:",
+      "Dinner Plate ",
       "Expo:",
       "Lemon wedge, 2 sides"
     ],
@@ -23861,7 +23883,9 @@
       "Cook quickly — flip when the edges begin turning white.",
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
       "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
-      "Place skewers on the dinner plate.",
+      "Place skewers on the correct plate.",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
       "2 sides, Lemon Wedge"
     ],
@@ -24167,6 +24191,7 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Cooking Temperature:",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -24179,9 +24204,9 @@
       "Place in a 450-500°F degree oven for about 8 minutes or until done",
       "Drain the excess butter out of the dish",
       "Garnish:",
-      "2 sides, Lemon wedge, Beurre blanc, Steak Knife",
+      "2 sides, Lemon wedge, Beurre Blanc on the stuffed shrimp, Steak Knife",
       "Plateware:",
-      "Au Gratin dish, 1/4 Lined Tray"
+      "Au Gratin dish, 1/4 Lined Tray, steak knife"
     ],
     "notes": "",
     "images": [
@@ -24535,7 +24560,9 @@
       "**Top with cilantro leaves from the main stem, not chopped**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15u11asnpjiw.png"
+    ]
   },
   {
     "id": "dm-nb-65",
@@ -24596,7 +24623,10 @@
       "**Top with cilantro leaves from the main stem, not chopped**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15uhbsud782h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15umy1dobgac.png"
+    ]
   },
   {
     "id": "dm-nb-66",
@@ -24656,11 +24686,16 @@
       "Cabbage should fill the taco shell about halfway",
       "In a mixing bowl, toss shrimp & Boom-boom sauce together, coat all shrimp completely.",
       "Add protein on top of the cabbage",
+      "Plateware:",
+      "Taco Plate / Taco Stand, Rectangle plate ",
       "Expo:",
       "2 Lime wedges, Baja sauce, Green Onions, and 1 side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15kqz6t7rdlw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15kw6gzzadbi.jpg"
+    ]
   },
   {
     "id": "dm-nb-67",
@@ -24724,7 +24759,9 @@
       "**Top with cilantro leaves from the main stem, do not chop**"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw15v4i109z8m4.png"
+    ]
   },
   {
     "id": "dm-nb-68",
@@ -25569,7 +25606,7 @@
         "unit": "Oz"
       },
       {
-        "name": "tomato",
+        "name": "Tomato chopped ",
         "qty": "1",
         "unit": "each"
       }
@@ -25581,7 +25618,9 @@
       "Take the Hoagie bread and place it in the oven for 1 minute",
       "Once the shrimp is cooked, remove and place in a Sav-A-Day",
       "Move the shrimp from Sav-A-Day to the mixing bowl, add a sprinkle of blackening seasoning to the bowl, and toss",
-      "Add lettuce in the hoagie, then shrimp, top with remoulade, lettuce, and tomato",
+      "Add lettuce in the hoagie, then shrimp, top with remoulade, and tomato",
+      "Plateware:",
+      "",
       "Expo:",
       "Lemon wedge, side"
     ],
@@ -25822,6 +25861,7 @@
       "Cook to the desired temperature.",
       "If requested- Melt desired cheese on the burger",
       "Serve on a toasted bun.",
+      "Cooking Temperatures:",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
       "Medium - warm pink center, otherwise brown 140-150°F",
@@ -26040,7 +26080,9 @@
       "Requested side, lemon wedge"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw0vowvct5i5dd.png"
+    ]
   },
   {
     "id": "dm-nb-85",
@@ -56952,6 +56994,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19kaljilb4rh.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjtaxhrg90w.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjxyut7ushr.png"
     ]
@@ -57002,6 +57045,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19kaljilb4rh.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjtaxhrg90w.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjxyut7ushr.png"
     ]
@@ -57052,6 +57096,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19kaljilb4rh.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjtaxhrg90w.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkjxyut7ushr.png"
     ]
@@ -57450,13 +57495,15 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgycxr6a1wpf.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyg7mod9bnq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyl5k5639mb.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c1mvy2ceww.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c9c3uqm6e4.png"
     ]
   },
   {
@@ -57506,13 +57553,15 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgycxr6a1wpf.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyg7mod9bnq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyl5k5639mb.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c1mvy2ceww.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c9c3uqm6e4.png"
     ]
   },
   {
@@ -57562,13 +57611,15 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgycxr6a1wpf.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyg7mod9bnq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyl5k5639mb.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c1mvy2ceww.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c9c3uqm6e4.png"
     ]
   },
   {
@@ -57618,13 +57669,15 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgycxr6a1wpf.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyg7mod9bnq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyl5k5639mb.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c1mvy2ceww.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c9c3uqm6e4.png"
     ]
   },
   {
@@ -57674,13 +57727,15 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgycxr6a1wpf.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyg7mod9bnq.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgyl5k5639mb.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk6573k46tjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfk68con4504r.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpgy9e3899oh4.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvphhdab0b8czm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c1mvy2ceww.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19c9c3uqm6e4.png"
     ]
   },
   {
@@ -57747,7 +57802,10 @@
       "Sprinkle queso evenly over top bread"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw17e7gujg4r7y.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw17ee16cjs0ox.png"
+    ]
   },
   {
     "id": "bm-cbg-2",
@@ -57897,32 +57955,38 @@
       {
         "name": "Texas Toast",
         "qty": "2",
-        "unit": "Slices"
+        "unit": "Slices",
+        "qty2": ""
       },
       {
         "name": "Butter AA",
         "qty": "Brush",
-        "unit": "Bread"
+        "unit": "Bread",
+        "qty2": ""
       },
       {
         "name": "Bacon",
         "qty": "4",
-        "unit": "slices"
+        "unit": "slices",
+        "qty2": ""
       },
       {
         "name": "EXPO",
         "qty": "",
-        "unit": ""
+        "unit": "",
+        "qty2": ""
       },
       {
         "name": "Leaf lettuce leaves",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": ""
       },
       {
         "name": "Tomato Slices",
         "qty": "2",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -57944,8 +58008,16 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkfzig8o7p8f.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkg4cfcdrsl7.png"
-    ]
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkg4cfcdrsl7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1852382a8rq7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw185bzlyswk3z.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw185j54gge38c.png"
+    ],
+    "dualBatch": {
+      "label1": "Size 1",
+      "label2": "Size 2",
+      "count": 2
+    }
   },
   {
     "id": "bm-si-6",
@@ -57961,32 +58033,38 @@
       {
         "name": "Texas Toast",
         "qty": "2",
-        "unit": "Slices"
+        "unit": "Slices",
+        "qty2": ""
       },
       {
         "name": "Butter AA",
         "qty": "Brush",
-        "unit": "Bread"
+        "unit": "Bread",
+        "qty2": ""
       },
       {
         "name": "Bacon",
         "qty": "4",
-        "unit": "slices"
+        "unit": "slices",
+        "qty2": ""
       },
       {
         "name": "EXPO",
         "qty": "",
-        "unit": ""
+        "unit": "",
+        "qty2": ""
       },
       {
         "name": "Leaf lettuce leaves",
         "qty": "1",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": ""
       },
       {
         "name": "Tomato Slices",
         "qty": "2",
-        "unit": "Each"
+        "unit": "Each",
+        "qty2": ""
       }
     ],
     "steps": [
@@ -58008,8 +58086,16 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkfzig8o7p8f.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkg4cfcdrsl7.png"
-    ]
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkg4cfcdrsl7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1852382a8rq7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw185bzlyswk3z.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw185j54gge38c.png"
+    ],
+    "dualBatch": {
+      "label1": "Size 1",
+      "label2": "Size 2",
+      "count": 2
+    }
   },
   {
     "id": "bm-pl-7",
@@ -58070,12 +58156,16 @@
       "Place the cooked egg on top",
       "This is served open-faced",
       "Add the requested side",
-      "."
+      "Plateware:",
+      "Rectangle Plate "
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpeliv2pdeumy.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtopbps9wbscq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw187vzp1j5vmw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1887fqituf99.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw188f02hf8zpn.png"
     ]
   },
   {
@@ -58137,7 +58227,12 @@
       "W/ Add an Egg serve toast shingled"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw186giggpzzdq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw186pt3susobg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw186xvnh5zacj.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw1878h29auap0.png"
+    ]
   },
   {
     "id": "bm-pl-9",
@@ -58177,7 +58272,7 @@
       }
     ],
     "steps": [
-      "NOTE: Eggs Choices are cooked over hard or scrambled",
+      "*NOTE: Eggs Choices are cooked over hard or scrambled*",
       "Brush an 8\" egg pan with butter",
       "Cook 2 eggs as requested",
       "Lightly butter the requested bread",
@@ -58187,12 +58282,19 @@
       "Now, place the Cheese on top, then",
       "Place the Meat on top",
       "Place the top section of the bread on top",
-      "The sandwich is served closed, or shingled on loose yolk cooked eggs."
+      "The sandwich is served closed, or shingled on loose yolk cooked eggs.",
+      "Plateware:",
+      "Check Plate Chart ",
+      "Expo:",
+      "Side requested "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqjl1ne2oxp.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqol7dgg87m.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18ct2uqv9siw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18d11kyuip6v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18d8vl1hs69w.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqol7dgg87m.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqjl1ne2oxp.png"
     ]
   },
   {
@@ -58233,7 +58335,7 @@
       }
     ],
     "steps": [
-      "NOTE: Eggs Choices are cooked over hard or scrambled",
+      "*NOTE: Eggs Choices are cooked over hard or scrambled*",
       "Brush an 8\" egg pan with butter",
       "Cook 2 eggs as requested",
       "Lightly butter the requested bread",
@@ -58243,12 +58345,19 @@
       "Now, place the Cheese on top, then",
       "Place the Meat on top",
       "Place the top section of the bread on top",
-      "The sandwich is served closed, or shingled on loose yolk cooked eggs."
+      "The sandwich is served closed, or shingled on loose yolk cooked eggs.",
+      "Plateware:",
+      "Check Plate Chart ",
+      "Expo:",
+      "Side requested "
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqjl1ne2oxp.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqol7dgg87m.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18ct2uqv9siw.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18d11kyuip6v.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18d8vl1hs69w.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqol7dgg87m.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtpqjl1ne2oxp.png"
     ]
   },
   {
@@ -58306,11 +58415,16 @@
       "Cook 2 eggs sunny side up and place over the top of step 3.",
       "Top with 1oz Pico",
       "Top dish with Huevos rancheros salsa.",
+      "Plateware:",
+      "Rectangle Plate / Round Dinner Plate ",
       "Expo:",
       "Add Pico, requested side"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18tdv7o81nah.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18tov2nwdqu5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18twju050lh6.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvttkc8mekxhk3.png"
     ]
   },
@@ -58369,11 +58483,16 @@
       "Cook 2 eggs sunny side up and place over the top of step 3.",
       "Top with 1oz Pico",
       "Top dish with Huevos rancheros salsa.",
+      "Plateware:",
+      "Rectangle Plate / Round Dinner Plate ",
       "Expo:",
       "Add Pico, requested side"
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18tdv7o81nah.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18tov2nwdqu5.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18twju050lh6.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvttkc8mekxhk3.png"
     ]
   },
@@ -58406,17 +58525,17 @@
     ],
     "steps": [
       "Cook proofed beignets in the (300°F) fryer for 6 minutes, with another fry basket placed on top to hold under the oil.",
-      "Remove from fryer, let drain for 1 minute",
-      "Then place a lined oval basket",
+      "Remove from fryer, let drain for 1 minute, in a sav-a-day",
+      "Then place them on the correct plate",
       "Expo:",
       "Powdered Sugar, and 2-oz cup Raspberry Sauce",
       "Server - Choice of 12oz Coffee, Cappuccino, or Latte",
       "Plateware:",
-      "9\" round plate, coffee mug"
+      "9\" round plate, rectangle plate, coffee mug"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpdv3tl4qgthd.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw17fbk4ixhscf.png"
     ]
   },
   {
@@ -58448,17 +58567,17 @@
     ],
     "steps": [
       "Cook proofed beignets in the (300°F) fryer for 6 minutes, with another fry basket placed on top to hold under the oil.",
-      "Remove from fryer, let drain for 1 minute",
-      "Then place a lined oval basket",
+      "Remove from fryer, let drain for 1 minute, in a sav-a-day",
+      "Then place them on the correct plate",
       "Expo:",
       "Powdered Sugar, and 2-oz cup Raspberry Sauce",
       "Server - Choice of 12oz Coffee, Cappuccino, or Latte",
       "Plateware:",
-      "9\" round plate, coffee mug"
+      "9\" round plate, rectangle plate, coffee mug"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpdv3tl4qgthd.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw17fbk4ixhscf.png"
     ]
   },
   {
@@ -58520,11 +58639,16 @@
       "Add cheese and spinach",
       "Fold the finished omelet onto a large plate",
       "Add Pico to the top",
+      "Plateware:",
+      "Dinner Plate",
       "Expo:",
-      "1 side, Toast, Pico on top"
+      "Pico on top, 1 side, and Toast, "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw199uh0xzqbew.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19a0864xi821.png"
+    ]
   },
   {
     "id": "bm-pl-13",
@@ -58571,10 +58695,15 @@
       "Add all meats to one side of the omelet",
       "Fold the finished omelet onto a large plate",
       "Plateware:",
-      "Expo:"
+      "Dinner Plate",
+      "Expo:",
+      "Side, Toast, requested"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw195f71a70r5o.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw196j5yluh4qb.png"
+    ]
   },
   {
     "id": "bm-pl-14",
@@ -58610,11 +58739,15 @@
       "Once you see several bubbles, flip over",
       "Cook for another 1 to 2 minutes",
       "Add the meat choice next to the pancake",
+      "Plateware:",
+      "Rectangle Plate ",
       "Expo:",
       "Powder Sugar, & choice of meat 1 slice, and Fruit, Butter pack"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw193sq4y6nwp6.png"
+    ]
   },
   {
     "id": "bm-pl-15",
@@ -58658,7 +58791,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18z8gtv39ma1.png"
     ]
   },
   {
@@ -58698,7 +58832,9 @@
       "Medium Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19031auqec9o.png"
+    ]
   },
   {
     "id": "bm-pl-17",
@@ -58741,11 +58877,15 @@
       "Place the meat choice on the grill to heat.",
       "Place French toast on a plate with meat alongside.",
       "Leaving room for the fruit",
+      "Plateware:",
+      "Rectangle Plate",
       "Expo:",
       "Powder Sugar, Fruit on plate, or 1 choice of meat, Syrup"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw192nv857a31x.png"
+    ]
   },
   {
     "id": "bm-pl-18",
@@ -58787,7 +58927,9 @@
       "Small Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18susfgyrngz.png"
+    ]
   },
   {
     "id": "bm-si-7",
@@ -58906,7 +59048,9 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19ddueznfe73.png"
+    ]
   },
   {
     "id": "bm-pl-20",
@@ -58934,7 +59078,9 @@
       "Solo Side - App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19hajapt4jur.png"
+    ]
   },
   {
     "id": "bm-pl-21",
@@ -58956,10 +59102,12 @@
     "steps": [
       "Kids - 1 piece on the plate",
       "With entrée - 2 pieces on the plate",
-      "A solo side - 2 pieces"
+      "A solo side - 2 pieces App Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19i73zrf6qt5.png"
+    ]
   },
   {
     "id": "bm-pl-22",
@@ -58983,7 +59131,9 @@
       "Solo side - 2 pieces on App Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19ei0i29o6fo.png"
+    ]
   },
   {
     "id": "bm-pl-23",
@@ -59007,7 +59157,9 @@
       "Solo side - in Small Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19hnt9ulnj7n.png"
+    ]
   },
   {
     "id": "bm-pl-24",
@@ -59026,9 +59178,14 @@
         "unit": "Slices"
       }
     ],
-    "steps": [],
+    "steps": [
+      "Plateware:",
+      "App Plate"
+    ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19itxqdo6jhf.png"
+    ]
   },
   {
     "id": "bm-cbg-6",
@@ -59716,7 +59873,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18z8gtv39ma1.png"
     ]
   },
   {
@@ -59756,7 +59914,9 @@
       "Medium Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19031auqec9o.png"
+    ]
   },
   {
     "id": "bm-cbg-17",
@@ -64978,7 +65138,7 @@
   {
     "id": "bm-nb-33",
     "masterId": "bm-nb-33-m",
-    "name": "Ribeye & Eggs",
+    "name": "Rib Eye & Eggs",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -65025,6 +65185,7 @@
       "Brush 8\" pan with butter",
       "Cook Eggs as requested",
       "Place eggs on the plate next to the steak, not overlapping.",
+      "*Steak Temperatures*",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -65033,7 +65194,7 @@
       "PLateware:",
       "Dinner plate",
       "Expo:",
-      "requested side, Steak knife,"
+      "Requested side, Steak knife,"
     ],
     "notes": "",
     "images": [
@@ -65314,7 +65475,9 @@
       "Medium Plate "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw19031auqec9o.png"
+    ]
   },
   {
     "id": "bm-nb-39",
@@ -65358,7 +65521,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpfvsv82b1s1i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18z8gtv39ma1.png"
     ]
   },
   {
@@ -65383,7 +65547,9 @@
       "Solo Side-on App plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw18segcss9tqz.png"
+    ]
   },
   {
     "id": "bm-nb-41",
@@ -72730,6 +72896,7 @@
       "Cook to the desired temperature.",
       "If requested- Melt desired cheese on the burger",
       "Serve on a toasted bun.",
+      "Cooking Temperatures:",
       "Rare - a cool red center; pink otherwise 125-130°F",
       "Medium Rare - a warm red center, otherwise pink 130-140°F",
       "Medium - warm pink center, otherwise brown 140-150°F",
@@ -74274,6 +74441,7 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Cooking Temperature:",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -74286,9 +74454,9 @@
       "Place in a 450-500°F degree oven for about 8 minutes or until done",
       "Drain the excess butter out of the dish",
       "Garnish:",
-      "2 sides, Lemon wedge, Beurre blanc, Steak Knife",
+      "2 sides, Lemon wedge, Beurre Blanc on the stuffed shrimp, Steak Knife",
       "Plateware:",
-      "Au Gratin dish, 1/4 Lined Tray"
+      "Au Gratin dish, 1/4 Lined Tray, steak knife"
     ],
     "notes": "",
     "images": [
@@ -75745,11 +75913,6 @@
         "unit": "Each"
       },
       {
-        "name": "Butter Garlic Spread",
-        "qty": "Brush on",
-        "unit": "melted"
-      },
-      {
         "name": "Old Bay or Blackening Season",
         "qty": "Dust",
         "unit": "evenly"
@@ -75766,13 +75929,11 @@
       "Cook quickly — flip when the edges begin turning white.",
       "Continue cooking until the shrimp are thoroughly cooked and no longer translucent.",
       "Move to the cooler zone and finish with a light brush of pre-melted lemon butter.",
-      "Continue cooking until shrimp are thoroughly cooked and no longer translucent.",
-      "Baste shrimp with garlic spread before plating.",
-      "Place skewers on a plate.",
-      "Expo:",
-      "chopped parsley, Lemon Wedge, requested side",
+      "Place skewers on the correct plate.",
       "Plateware:",
-      "Dinner plate"
+      "Dinner Plate",
+      "Expo:",
+      "2 sides, Lemon Wedge"
     ],
     "notes": "",
     "images": [
@@ -75793,7 +75954,7 @@
       {
         "name": "Shrimp P&D (Prep)",
         "qty": "8",
-        "unit": "Shrimp P&D"
+        "unit": "Each"
       },
       {
         "name": "Milk wash",
@@ -75807,13 +75968,14 @@
       }
     ],
     "steps": [
-      "Bread 8 P&D Shrimp by dipping in milk wash and coating evenly, draining them, and coating them evenly in Italian breading.",
-      "Place breaded shrimp in a 350°F fryer and cook for approximately 4 minutes, or until golden brown. Shrimp will float when cooked.",
-      "Transfer to a Sav-A-Day to drain excess oil.",
-      "Expo:",
-      "chopped parsley, Lemon wedge, requested side",
+      "Bread 8 P&D shrimp by dipping in milk wash and coating evenly",
+      "Then cover thoroughly in Italian breading.",
+      "Place breaded shrimp in 350°F fryer and cook for approximately. 4-5 minutes or until golden brown. Shrimp will float when cooked.",
+      "Transfer to a save-a-day to drain the excess oil.",
       "Plateware:",
-      "Dinner Plate"
+      "Dinner Plate ",
+      "Expo:",
+      "Lemon wedge, 2 sides"
     ],
     "notes": "",
     "images": [
@@ -118997,7 +119159,7 @@
       "Place on the screen (stretch if needed) until the dough is at the edge of the screen.",
       "Only push down on the outer edge, not the mesh part of the screen",
       "Topping the pizza:",
-      "Spread alfredo and A1 mixture evenly over the inner crust, starting from the middle and working towards the outer crust (do not sauce the outer crust)",
+      "Spread the Alfredo and A1 mixture evenly over the inner crust, starting from the middle and working towards the outer crust (do not sauce the outer crust)",
       "Add mozzarella cheese starting at the edge of the inner crust and working towards the middle, spreading evenly",
       "Spread 1 portion of steak tips (seared), then tomatoes, mushrooms, and onions",
       "Cooking instructions:",
@@ -119005,7 +119167,11 @@
       "Take the pizza off the screen when possible and continue to cook for another 2-3 minutes or until the crust is golden brown, spinning occasionally for even cooking",
       "Cutting the pizza:",
       "Once golden brown, take the pizza out of the oven and put it on a deli paper-lined 14\" metal tray",
-      "Make 4 equal cuts, again, cut to make 8 triangular slices"
+      "Make 4 equal cuts, again, cut to make 8 triangular slices",
+      "PLateware:",
+      "14\" Lined Pizza Tray",
+      "Expo:",
+      " Serve with a pie scoop under a slice of pizza"
     ],
     "notes": "",
     "images": [],
@@ -119013,5 +119179,39 @@
     "id": "se-nb-3",
     "masterId": "se-nb-3-m",
     "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Sausage Patties",
+    "category": "Breakfast Prep",
+    "yield": "",
+    "shelfLife": "1 day",
+    "smallware": "Flat Top, or Half Sheet Pans, tongs",
+    "ingredients": [
+      {
+        "name": "Sausage Patty",
+        "qty": "1",
+        "unit": "Each"
+      }
+    ],
+    "steps": [
+      "Pull the box from the freezer",
+      "Pull the quantity needed for the day's needs",
+      "Return the closed box to the freezer with a Use 1st sticker",
+      "Place in a 350°F oven for 12-15 minutes to par -cook ",
+      "Remove and place into the storage container ",
+      "Place on the flat top/char grill for 2-3 minutes on each side, to heat",
+      "**These should be cooked to order, unless falling behind**",
+      "Plateware:",
+      "Entree on the Plate/ Side on an App or Dessert plate "
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvazytor262al2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvazz5fio581l6.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvb00tdop7r0z3.jpg"
+    ],
+    "id": "m-mw1704aeg0nqbw",
+    "masterId": "bp-sausage-patties-m",
+    "location": "CDS"
   }
 ]
