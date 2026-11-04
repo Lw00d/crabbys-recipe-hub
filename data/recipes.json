@@ -36245,59 +36245,6 @@
     "active": false
   },
   {
-    "id": "dm-cbg-28",
-    "masterId": "dm-cbg-28-m",
-    "name": "Crab Cake App",
-    "location": "CBG",
-    "category": "Dinner Menu",
-    "submenu": "Appetizers",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "Small / App Plate",
-    "ingredients": [
-      {
-        "name": "Crab Cake (Prep)",
-        "qty": "1",
-        "unit": "Ivory scoop"
-      },
-      {
-        "name": "Butter AA",
-        "qty": "Baste",
-        "unit": ""
-      },
-      {
-        "name": "Old Bay",
-        "qty": "Lightly",
-        "unit": "Season"
-      }
-    ],
-    "steps": [
-      "Grill:",
-      "Use an ivory scoop to portion.",
-      "Baste one side with garlic spread, lightly and evenly season with Old Bay, and place on a flat top grill.",
-      "Now, baste and season the top side of the Cake",
-      "Grill for approx. 2 minutes, then turn over.",
-      "Grill the other side for approx. 2 minutes.",
-      "Moisten the top with garlic butter.",
-      "Place on app/ small plate,",
-      "Fry:",
-      "Use an ivory scoop to portion",
-      "Place the crab cake directly into the flour and lightly dust.",
-      "*Do not over-handle crab cake, it should not look like a perfect circle or ball*",
-      "Put into a 350°F fryer and cook for about 2 minutes or until cakes have a rich golden brown color",
-      "Put in a save-a-day to drain off excess oil",
-      "Put on a small plate",
-      "Expo:",
-      "Lemon wedge ",
-      "Plateware:",
-      "Small Plate "
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtrkyyl064ird.jpg"
-    ]
-  },
-  {
     "id": "dm-cbg-29",
     "masterId": "dm-cbg-29-m",
     "name": "Crab & Spinach Dip",
