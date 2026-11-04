@@ -305,6 +305,7 @@
   .toast.show { opacity: 1; transform: translateY(0); }
   .toast.ok  { background: var(--green); }
   .toast.err { background: var(--red); }
+  .toast.info { background: var(--teal); }
 
   /* LOCATION COLORS */
   .loc-nb   { --loc-color: #1A6B8A; }
@@ -473,6 +474,9 @@
 const STORAGE_KEY   = 'crabbys_source_url';
 const CACHE_KEY     = 'crabbys_recipe_cache';
 const CACHE_TS_KEY  = 'crabbys_cache_time';
+// Stale-copy corrections at or below this many changed recipes are applied
+// silently. Above it, the page was far enough behind to be worth announcing.
+const QUIET_CORRECTION_MAX = 5;
 
 // Public read source — no secrets here, safe to publish.
 const CFG = {
@@ -792,12 +796,23 @@ async function checkForStaleData(){
     rebaseline(authoritativeData);
     buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
     render();
-    toast(
-      summary
-        ? `⚠️ Showed a cached copy — auto-corrected to the live version (${summary.replace('Since you loaded this page: ','').replace(/\.$/,'')})`
-        : '⚠️ Showed a cached copy — auto-corrected to the live version',
-      'err'
-    );
+
+    // By the time anyone reads this, the correction has already happened — so
+    // it is news, not a fault. It used to be red with a warning triangle and
+    // read "Showed a cached copy", which sent people hunting for a problem
+    // that had already fixed itself.
+    //
+    // It is also routine. raw.githubusercontent.com caches for five minutes
+    // while this file changes all day, so loading the page seconds after
+    // somebody saves is enough to trigger it. A one-recipe difference is not
+    // worth interrupting a cook mid-service; a large one means the page was
+    // meaningfully out of date and is worth saying out loud.
+    //
+    // Either way the status line shows "Corrected HH:MM", so a quiet
+    // correction is still visible to anyone who looks.
+    if (summary && summary.total > QUIET_CORRECTION_MAX){
+      toast(`Updated to the latest version — ${summary.text.replace('Since you loaded this page: ','').replace(/\.$/,'')}`, 'info');
+    }
     setStatus('online', `Corrected ${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})}`);
   }catch(e){
     // Network hiccup, rate limit, etc. — the person still has the (possibly stale)
@@ -1269,7 +1284,7 @@ async function refreshAfterSave(changed, deleted){
   rebaseline(data);
   buildCategories(); buildSubmenus(); buildPrepIndex(); buildProcIndex();
   render();
-  if (others) toast(`Also picked up other changes \u2014 ${others.replace('Since you loaded this page: ','').replace(/\.$/,'')}`);
+  if (others) toast(`Also picked up other changes \u2014 ${others.text.replace('Since you loaded this page: ','').replace(/\.$/,'')}`);
 }
 
 function summarizeRecipeDiff(before, after){
@@ -1287,7 +1302,10 @@ function summarizeRecipeDiff(before, after){
     if(added.length) parts.push(`${added.length} recipe${added.length!==1?'s':''} added`);
     if(removed.length) parts.push(`${removed.length} recipe${removed.length!==1?'s':''} removed`);
     if(changed) parts.push(`${changed} recipe${changed!==1?'s':''} edited`);
-    return parts.length ? `Since you loaded this page: ${parts.join(', ')}.` : null;
+    return parts.length
+      ? { text: `Since you loaded this page: ${parts.join(', ')}.`,
+          total: added.length + removed.length + changed }
+      : null;
   }catch(e){ return null; }
 }
 function setUnsaved(v){ pending=v; const btn=document.getElementById('saveGhBtn'); btn.disabled = !v; }
