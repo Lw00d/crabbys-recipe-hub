@@ -6121,7 +6121,9 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn40wvwwsjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn91m3y3sq7.png"
     ],
     "id": "m-ms8s0dxarwhvqj",
     "masterId": "dm-cbg-152-m",
@@ -6182,7 +6184,9 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn40wvwwsjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn91m3y3sq7.png"
     ],
     "id": "m-ms8s09qgd6y773",
     "masterId": "dm-cbg-152-m",
@@ -6235,7 +6239,9 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r1i9m8gpgp.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2c97puetlwxh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2c9cjxpv386d.png"
     ],
     "id": "m-ms8rzeodg36hbj",
     "masterId": "dm-si-45-m",
@@ -21067,7 +21073,10 @@
       "7\" Round plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2b274pb7r0cc.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2b2bqsp6lq74.png"
+    ]
   },
   {
     "id": "dm-nb-11",
@@ -25393,8 +25402,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cmfsx6ftnm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
@@ -25454,8 +25464,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cmfsx6ftnm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
@@ -26879,7 +26890,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviaznxqcj8ejg.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cklxenok7jc.png"
     ]
   },
   {
@@ -26928,7 +26940,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviaznxqcj8ejg.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mviazv7qwv9yu9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cklxenok7jc.png"
     ]
   },
   {
@@ -28903,22 +28916,28 @@
     "ingredients": [
       {
         "name": "Shrimp P&D (Prep)",
-        "qty": "10",
+        "qty": "6",
         "unit": "Shrimp P&D"
       },
       {
-        "name": "Breader Italian Seafood",
-        "qty": "",
-        "unit": "Coating"
+        "qty": "1",
+        "qty2": "",
+        "unit": "Yellow scoop ",
+        "name": "Shrimp Pieces"
       },
       {
         "name": "Milk Wash",
         "qty": "",
         "unit": "Dipping"
+      },
+      {
+        "name": "Breader Italian Seafood",
+        "qty": "",
+        "unit": "Coating"
       }
     ],
     "steps": [
-      "Bread 1 6oz portion of P&D shrimp by dipping it into milk wash and coating in Italian breader.",
+      "Bread 1 6oz portion of P&D shrimp or 6ea.-Shrimp P&D shrimp by dipping it into milk wash and then coating them in Italian breader.",
       "Place breaded shrimp in a 350°F fryer and cook for approx. 4 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Garnish:",
@@ -28928,7 +28947,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cz43iv26uq0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cz89u1epvsd.png"
     ]
   },
   {
@@ -28944,22 +28965,28 @@
     "ingredients": [
       {
         "name": "Shrimp P&D (Prep)",
-        "qty": "10",
+        "qty": "6",
         "unit": "Shrimp P&D"
       },
       {
-        "name": "Breader Italian Seafood",
-        "qty": "",
-        "unit": "Coating"
+        "qty": "1",
+        "qty2": "",
+        "unit": "Yellow scoop ",
+        "name": "Shrimp Pieces"
       },
       {
         "name": "Milk Wash",
         "qty": "",
         "unit": "Dipping"
+      },
+      {
+        "name": "Breader Italian Seafood",
+        "qty": "",
+        "unit": "Coating"
       }
     ],
     "steps": [
-      "Bread 1 6oz portion of P&D shrimp by dipping it into milk wash and coating in Italian breader.",
+      "Bread 1 6oz portion of P&D shrimp or 6ea.-Shrimp P&D shrimp by dipping it into milk wash and then coating them in Italian breader.",
       "Place breaded shrimp in a 350°F fryer and cook for approx. 4 minutes or until golden brown. Shrimp will float when cooked.",
       "Transfer to a Sav-a-Day to drain excess oil.",
       "Garnish:",
@@ -28969,7 +28996,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvid4kl142p5tm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cz43iv26uq0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cz89u1epvsd.png"
     ]
   },
   {
@@ -29175,7 +29204,9 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r1i9m8gpgp.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvi9r6u9amcpxu.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2c97puetlwxh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2c9cjxpv386d.png"
     ]
   },
   {
@@ -30225,7 +30256,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28t754ry3zo6.png"
     ]
   },
   {
@@ -30259,7 +30291,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvr16h64y3vv1q.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28t754ry3zo6.png"
     ]
   },
   {
@@ -32026,6 +32059,7 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Cooking Temperatures:",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -32038,7 +32072,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdnygvg66kth.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdnygvg66kth.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cbalhg8y7du.png"
     ]
   },
   {
@@ -32076,6 +32111,7 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "Cooking Temperatures:",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -32088,7 +32124,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdnygvg66kth.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdnygvg66kth.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cbalhg8y7du.png"
     ]
   },
   {
@@ -32118,7 +32155,9 @@
       "Rectangular plate, Cocktail fork"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2a10qz0vj3kj.png"
+    ]
   },
   {
     "id": "dm-pl-20",
@@ -32559,7 +32598,10 @@
       "Add prepped Ceviche to Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e0h43spm00u.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e0li9qllkej.png"
+    ]
   },
   {
     "id": "dm-pl-27",
@@ -32646,6 +32688,7 @@
     ],
     "steps": [
       "Open a portion of shrimp and place in a sauté pan with 4oz scoop of scampi butter.",
+      "*Scampi/ Hot*",
       "Let cook for 3 minutes in the butter",
       "Flip them occasionally to prevent cooking on just 1 side.",
       "Toss a couple of times for the last minute to get the sauce in the shells",
@@ -32653,17 +32696,21 @@
       "Sprinkle the shrimp with Old Bay Seasoning.",
       "Expo:",
       "Sprinkle of Old Bay, lemon wedge,",
+      "*Cold*",
       "Place the mesh bag portion of uncooked shrimp into boiling Old Bay water",
       "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell indicates that the shrimp is overcooked. The shell color should be bright orange, and the meat should be white in color.",
       "IMMEDIATELY Remove shrimp from boiling water and place in a bath of ICE WATER.",
       "Let shrimp stand in ice water until completely chilled.",
-      "Remove cooked shrimp from the mesh bag and arrange evenly on a plate, retaining some liquid.",
+      "Remove the cooked shrimp from the mesh bag and arrange them evenly on a plate.",
       "Sprinkle shrimp with Old Bay seasoning",
       "Expo:",
       "Sprinkle of Old Bay, lemon wedge, 2oz cocktail sauce"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dtslajp7nse.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dtx8kue5uvm.png"
+    ]
   },
   {
     "id": "dm-pl-30",
@@ -32711,16 +32758,22 @@
       "Toss a portion of fries tossed in Old Bay, and place in a Sav-A-Day",
       "Give the plate to the Salad / Pantry person",
       "Take portioned crab and add it to a small side bowl with Garlic butter",
+      "Mix crab w/ garlic butter",
       "Microwave for 10 seconds",
       "Drizzle the plate with Lemon Aioli",
       "Spread out the crab evenly over the seasoned fries",
       "Drizzle lemon aioli over the crab fries",
+      "Sprinkle evenly over the fries",
       "Top with green onion and with a light sprinkle of Old Bay",
-      "Mix crab w/ garlic butter",
-      "Sprinkle evenly over the fries"
+      "Plateware:",
+      "Rectangle Plate",
+      "Expo:",
+      "Lemon wedge"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2c0xu1y6whw1.png"
+    ]
   },
   {
     "id": "dm-pl-31",
@@ -32885,7 +32938,10 @@
       "Soup Bowl, Lined dessert plate, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bp0zsy8gaai.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2by2sz7ddsia.png"
+    ]
   },
   {
     "id": "dm-pl-34",
@@ -32972,17 +33028,22 @@
       "Lightly dust the burger with Montreal seasoning. Place the Hamburger on the chargrill",
       "Cook to the desired temperature.",
       "If Cheese is requested- Add cheese, and melt it on the burger",
+      "If Bacon is requested, add hot bacon ",
       "Serve on a toasted bun.",
+      "*Cooking Temperature* ",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
       "Medium Well - mostly brown with a gray center, very little, if any, pink 150–160°F",
       "Well Done - Brown throughout with no sign of pink >160°F",
       "Expo:",
-      "Cheese & Bacon Burger"
+      "add LTO, requested side, sandwich pick, served closed "
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2djw2f5q4uw4.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dk054niq8ms.png"
+    ]
   },
   {
     "id": "dm-pl-36",
@@ -33047,7 +33108,10 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdabozt2u48r.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdafkdjhz514.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdami9grp8e0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdavf1km0dga.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdavf1km0dga.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cppg3asj8yz.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cpubmqdo1jk.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cpzea5suou0.png"
     ]
   },
   {
@@ -33221,7 +33285,11 @@
       "Lemon Aioli, sandwich pick, requested side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cibnqyy0om0.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cig9gq1sdlq.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cil9hniagfi.png"
+    ]
   },
   {
     "id": "dm-pl-41",
@@ -33284,7 +33352,11 @@
       "Lemon, leaf lettuce, 2oz Tartar Sauce"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2ebznjw7iglt.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2ec4pjyvyxxg.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2ec9j24t9ytb.png"
+    ]
   },
   {
     "id": "dm-pl-42",
@@ -33362,7 +33434,11 @@
       "Lemon, requested side"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dhiw05bmhh1.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dhn08pudhwa.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dhrh05j692f.png"
+    ]
   },
   {
     "id": "dm-pl-43",
@@ -33495,7 +33571,9 @@
       "Drizzle Sriracha Mayo over all ingredients"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2amdrbs59l5f.png"
+    ]
   },
   {
     "id": "dm-pl-45",
@@ -33677,7 +33755,11 @@
       "Top with green onion & Lime wedge"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2akmg53qq5ko.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2akr2xfhu3t8.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2akw978xzqf0.png"
+    ]
   },
   {
     "id": "dm-pl-48",
@@ -33733,7 +33815,9 @@
       "9\" Round Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cftlrvls0sn.png"
+    ]
   },
   {
     "id": "dm-pl-49",
@@ -33773,7 +33857,10 @@
       "9\" Round Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29xtahisiwo7.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29y05e6a143r.png"
+    ]
   },
   {
     "id": "dm-pl-50",
@@ -33859,6 +33946,7 @@
       "A light weight may be used — never press, smash, or dome.",
       "Cook to the requested temperature.",
       "Finish on the cooler zone of the flat top, drizzled and brushed with pre-melted lemon butter.",
+      "*Cooking Temperature*",
       "Rare - a cool red center; pink otherwise 125–130°F",
       "Medium Rare - a warm red center, otherwise pink 130–140°F",
       "Medium - warm pink center, otherwise brown 140–150°F",
@@ -33871,7 +33959,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfhmrb9d9agqh.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfhmrb9d9agqh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2dpabp9gv5hr.png"
     ]
   },
   {
@@ -33912,7 +34001,10 @@
       "9\" Round Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e9k4mi2wksh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e9p5llytqdv.png"
+    ]
   },
   {
     "id": "dm-pl-53",
@@ -33977,7 +34069,9 @@
       "Lined 1/4 tray, steak knife"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2edo0qmb7mzm.png"
+    ]
   },
   {
     "id": "dm-pl-54",
@@ -34127,6 +34221,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2a3fu3qvr09d.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
     ]
   },
@@ -34248,7 +34343,10 @@
       "Lined 1/4 tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29s8hjj3fa32.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29sdgxaebxu9.png"
+    ]
   },
   {
     "id": "dm-pl-59",
@@ -34338,8 +34436,8 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9fm6gsm0euq.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9jrapqyuu6g.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9ke7tsp4b9t.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9jrapqyuu6g.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9x1naiiwiga.jpg"
     ]
   },
@@ -34414,7 +34512,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mr0wf6c0ov.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mzx712edee.png"
     ]
   },
   {
@@ -34485,7 +34585,9 @@
       "Lined 1/4 tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29ka85v5cefg.png"
+    ]
   },
   {
     "id": "dm-pl-62",
@@ -34540,7 +34642,10 @@
       "Tartar & Cocktail Sauces, Lemon wedge, requested sides"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29us5buckf7i.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29vp7r30izyb.png"
+    ]
   },
   {
     "id": "dm-pl-63",
@@ -34612,7 +34717,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8fmi89kz3kx3.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8fmi89kz3kx3.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2a1zmcauvfqd.png"
     ]
   },
   {
@@ -34665,7 +34771,9 @@
       "Lined 1/4 tray"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29rqdsm5xbh3.png"
+    ]
   },
   {
     "id": "dm-pl-65",
@@ -34729,7 +34837,10 @@
       "Pasta bowl, Soup spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e2elkm1s2v9.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2e2idkuvw03y.png"
+    ]
   },
   {
     "id": "dm-pl-66",
@@ -34770,9 +34881,9 @@
     ],
     "steps": [
       "Protein adding:",
-      "Shrimp P&D 8 each - should be sautéed with Cajun butter before adding the alfredo sauce to a pan",
-      "Chicken breast: Cook the chicken breast on the grill, then start the pasta when the chicken is flipped.",
-      "Add scoops of Alfredo and scampi butter to a pan and turn to medium heat",
+      "*Shrimp P&D 8 each - should be sautéed with Cajun butter before adding the Alfredo sauce to a pan*",
+      "*Chicken breast: Cook the chicken breast on the grill, then start the pasta when the chicken is flipped.*",
+      "Add scoops of Alfredo and Scampi butter to a pan and turn to medium heat",
       "Add pasta to boiling water for 1 minute,",
       "Lift and drain pasta, before adding it to the pan",
       "Add drained pasta to the pan and toss in the sauce until the sauce is hot and ready",
@@ -34785,7 +34896,10 @@
       "Large Bowl, Soup Spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2av5e7612zpo.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2avbbhfpffph.png"
+    ]
   },
   {
     "id": "dm-pl-67",
@@ -34815,7 +34929,9 @@
       "Premium side - Small Blue bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28snt4wti7km.png"
+    ]
   },
   {
     "id": "dm-pl-68",
@@ -34839,7 +34955,9 @@
       "Premium Side - Small Blue Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28rxvr0zttb3.png"
+    ]
   },
   {
     "id": "dm-pl-69",
@@ -34879,7 +34997,9 @@
       "Premium Side - Small Blue bowl, Rice 1st, then Black Beans"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28u3cajs4gb6.png"
+    ]
   },
   {
     "id": "dm-pl-70",
@@ -34904,7 +35024,9 @@
       "Premium Side - Small Blue bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28tqklppoahs.png"
+    ]
   },
   {
     "id": "dm-pl-71",
@@ -34934,7 +35056,9 @@
       "Premium Side - Small Blue bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28v9ynd1nwf8.png"
+    ]
   },
   {
     "id": "dm-pl-72",
@@ -34991,7 +35115,9 @@
       "Solo side - Small Bowl"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28unv0rmlvl2.png"
+    ]
   },
   {
     "id": "dm-pl-74",
@@ -35166,23 +35292,26 @@
       }
     ],
     "steps": [
+      "*Fried*",
       "Place the chicken tenders into the milk wash and drain the excess.",
       "Place into the Chicken Breader and coat evenly",
       "Transfer to a 350°F fryer for approx. 3-4 minutes or until golden brown and cooked thoroughly.",
       "Transfer to a Sav-a-Day to drain excess oil",
+      "*Grilled*",
       "Season the skin side only with the requested seasoning, before it touches the grill.",
       "Spray the flat top, then lay the chicken skin (smooth) side down.",
+      "Place the seasoned side down on the flat top",
       "A light weight may be used — never press, smash, or dome.",
       "Let the sear set, longer than 60 to 90 seconds. Flip only when the edges begin turning white.",
       "Move to the cooler zone of the flat top.",
       "Drizzle and brush with pre-melted lemon butter several times until glossy.",
-      "Place seasoned side down on flat top",
       "Plateware:",
       "7\" Round Plate"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfgv6694rroff.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfgv6694rroff.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2crn8goihetg.png"
     ]
   },
   {
@@ -35293,7 +35422,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfgro10bvm2mw.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfgro10bvm2mw.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2d9rgmklbi69.png"
     ]
   },
   {
@@ -35341,7 +35471,10 @@
       "Requested side on the plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2d6rlxe26vvh.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2d6vo7lipv01.png"
+    ]
   },
   {
     "id": "dm-pl-81",
@@ -35367,7 +35500,9 @@
       "Square Dessert Plate, Forks"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2boammywh2er.jpg"
+    ]
   },
   {
     "id": "dm-cbg-7",
@@ -70081,6 +70216,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2a3fu3qvr09d.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
     ]
   },
@@ -70592,7 +70728,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mr0wf6c0ov.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mzx712edee.png"
     ]
   },
   {
@@ -71425,8 +71563,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cmfsx6ftnm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
@@ -72236,8 +72375,9 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfdzxpdn5wp9h.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2cmfsx6ftnm3.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Grouper_Sandwich__All_stores__1.jpg"
     ]
   },
@@ -73507,7 +73647,9 @@
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bi5ng71yy2.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvf9bqbbndwk3f.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvjv8y48imghv0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mr0wf6c0ov.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw29mzx712edee.png"
     ]
   },
   {
@@ -74155,6 +74297,7 @@
     ],
     "notes": "",
     "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2a3fu3qvr09d.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvwpccvospq8k0.jpg"
     ]
   },
@@ -79742,7 +79885,9 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Chicken_Strips_CBG_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn40wvwwsjm.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bn91m3y3sq7.png"
     ]
   },
   {
