@@ -8063,53 +8063,6 @@
     ]
   },
   {
-    "id": "dp-pl-4",
-    "masterId": "dp-pl-4-m",
-    "name": "Broccoli",
-    "location": "Palm",
-    "category": "Dinner Prep",
-    "yield": "30-35 / 4.5oz Portions",
-    "shelfLife": "3 days",
-    "smallware": "Garlic Butter use the Silver thump scoop, 4\" full Lexan, date portion bags, or large day dots, lemon bags",
-    "ingredients": [
-      {
-        "name": "Broccoli",
-        "qty": "10",
-        "qty2": "20",
-        "unit": "pounds"
-      },
-      {
-        "name": "Garlic Butter",
-        "qty": "20",
-        "qty2": "40",
-        "unit": "Vol oz"
-      }
-    ],
-    "steps": [
-      "Cut each bunch of broccoli long-ways down the middle",
-      "Lay the flat side down on the cutting board",
-      "Cut each piece of broccoli off through the stem at a 45° angle",
-      "Each piece should have a 2 to 3-inch stem and a full head",
-      "Portion broccoli to 4.5oz in a small bag",
-      "Put 0.5 vol oz garlic butter in each bag",
-      "Portion: 20 portions to a Lemon Bag",
-      "Label, date, and refrigerate",
-      "Bagging - 20 portions"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8aavvik5yfoe.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ab2cslnznqp.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ab66zob3gkc.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8abbaz58b84j.png"
-    ],
-    "dualBatch": {
-      "label1": "1/2 Case",
-      "label2": "Full Case"
-    },
-    "yield2": "60 / 4.5oz Portions"
-  },
-  {
     "id": "dp-pl-5",
     "masterId": "dp-roasted-potatoes-m",
     "name": "Roasted Potatoes",
