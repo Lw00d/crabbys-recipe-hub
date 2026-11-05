@@ -69410,9 +69410,11 @@
       }
     ],
     "steps": [
-      "COLD: Serve 1 lb portion for appetizer.",
+      "COLD:",
+      "Serve 1 lb portion for appetizer.",
       "Expo (Cold):  lemon wedge, 2oz cup Stone Mustard Sauce",
-      "HOT: Place crab portions into a pot of water or a steamer.",
+      "HOT:",
+      " Place crab portions into a pot of water or a steamer.",
       "Cook for approximately 3-4 minutes.",
       "Add 4oz of Scampi Sauce to a sauté pan to heat",
       "Lift and drain the claws before adding to the Scampi Sauce, and continue to cook for 2-3 minutes more.",
