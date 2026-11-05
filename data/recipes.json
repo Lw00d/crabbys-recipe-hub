@@ -606,7 +606,8 @@
     "images": [],
     "id": "m-mtcu0bohun446q",
     "masterId": "m-mtcu0boh41ry4a",
-    "location": "CBG"
+    "location": "CBG",
+    "active": false
   },
   {
     "name": "Crab and Shrimp Boil 1#/ea",
