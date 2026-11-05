@@ -214,7 +214,7 @@
     "location": "Palm"
   },
   {
-    "name": "Street Style 2 Tacos (Slaw Base)",
+    "name": "Street Style 2 Tacos Slaw Base",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
     "yield": "",
@@ -290,7 +290,7 @@
     "location": "CBG"
   },
   {
-    "name": "Caribbean Style 2 (Slaw Base)",
+    "name": "Caribbean Style 2 Slaw Base",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
     "yield": "",
@@ -1551,7 +1551,7 @@
     "active": true
   },
   {
-    "name": "Lobster Bites (Head & Meat)",
+    "name": "Lobster Bites Head & Meat",
     "category": "Dinner Prep",
     "yield": "4 portions per 1# bag",
     "shelfLife": "3 days",
@@ -2156,7 +2156,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Tuna Steak 4oz (Prep)",
+    "name": "Tuna Steak 4oz Prep",
     "category": "Dinner Prep",
     "yield": "Should yield 39-40 Per / 10# case count to double check",
     "shelfLife": "",
@@ -2609,7 +2609,7 @@
     "location": "CDS"
   },
   {
-    "name": "Scallop (prep)",
+    "name": "Scallop prep",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
@@ -2642,7 +2642,7 @@
     "location": "Palm"
   },
   {
-    "name": "Scallop (prep)",
+    "name": "Scallop prep",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
@@ -2675,7 +2675,7 @@
     "location": "CBG"
   },
   {
-    "name": "Scallop (prep)",
+    "name": "Scallop prep",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
@@ -3715,7 +3715,7 @@
     "active": false
   },
   {
-    "name": "Lobster Bites (Head & Meat)",
+    "name": "Lobster Bites Head & Meat",
     "category": "Dinner Prep",
     "yield": "4 portions per 1# bag",
     "shelfLife": "3 days",
@@ -3749,7 +3749,7 @@
     "location": "Palm"
   },
   {
-    "name": "Lemon Zest (Garnish)",
+    "name": "Lemon Zest Garnish",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
     "shelfLife": "",
@@ -3777,7 +3777,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Lemon Zest (Garnish)",
+    "name": "Lemon Zest Garnish",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
     "shelfLife": "",
@@ -3805,7 +3805,7 @@
     "location": "CBG"
   },
   {
-    "name": "Lemon Zest (Garnish)",
+    "name": "Lemon Zest Garnish",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
     "shelfLife": "",
@@ -4124,7 +4124,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Haddock Cut (Fish and Chips)",
+    "name": "Haddock Cut Fish and Chips",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -4155,7 +4155,7 @@
     "location": "Palm"
   },
   {
-    "name": "Haddock Cut (Sandwich)",
+    "name": "Haddock Cut Sandwich",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -4189,7 +4189,7 @@
     "location": "Palm"
   },
   {
-    "name": "Haddock Cut (Sandwich)",
+    "name": "Haddock Cut Sandwich",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -4261,7 +4261,7 @@
     "location": "CDS"
   },
   {
-    "name": "Haddock Cut (Fish and Chips)",
+    "name": "Haddock Cut Fish and Chips",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "3 days",
@@ -5981,7 +5981,7 @@
     "location": "CBG"
   },
   {
-    "name": "Ribeye Steak (SI)",
+    "name": "Ribeye Steak SI",
     "category": "Dinner Menu",
     "submenu": "Mainland",
     "yield": "",
@@ -6214,7 +6214,7 @@
     "location": "Palm"
   },
   {
-    "name": "Crab Roll (Cold) Alaskan",
+    "name": "Crab Roll Cold Alaskan",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
     "yield": "",
@@ -6326,7 +6326,7 @@
     "location": "CDS"
   },
   {
-    "name": "Ribs & Shrimp Steamed (3/4#)",
+    "name": "Ribs & Shrimp Steamed 3/4#",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -6440,7 +6440,7 @@
     "location": "CBG"
   },
   {
-    "name": "Grouper & Shrimp (key west)",
+    "name": "Grouper & Shrimp key west",
     "category": "Dinner Menu",
     "submenu": "Combos",
     "yield": "",
@@ -6626,7 +6626,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Crab Cake (New)",
+    "name": "Crab Cake New",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
     "yield": "",
@@ -7211,7 +7211,7 @@
     "location": "CBG"
   },
   {
-    "name": "Avocado (fresh)",
+    "name": "Avocado fresh",
     "category": "Breakfast Prep",
     "yield": "",
     "shelfLife": "",
@@ -8032,7 +8032,7 @@
   {
     "id": "dp-nb-12",
     "masterId": "dp-nb-12-m",
-    "name": "Crab Roll Meat Portions (Cold)",
+    "name": "Crab Roll Meat Portions Cold",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "2oz portions",
@@ -9375,7 +9375,7 @@
   {
     "id": "dp-nb-28",
     "masterId": "dp-island-pineapple-slaw-m",
-    "name": "Island (Pineapple) Slaw",
+    "name": "Island Pineapple Slaw",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
@@ -9416,7 +9416,7 @@
   {
     "id": "dp-pl-12",
     "masterId": "dp-island-pineapple-slaw-m",
-    "name": "Island (Pineapple) Slaw",
+    "name": "Island Pineapple Slaw",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
@@ -9457,7 +9457,7 @@
   {
     "id": "dp-cds-11",
     "masterId": "dp-island-pineapple-slaw-m",
-    "name": "Island (Pineapple) Slaw",
+    "name": "Island Pineapple Slaw",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "2 Lemon bags/ 7# per bag",
@@ -10391,7 +10391,7 @@
   {
     "id": "dp-cds-16",
     "masterId": "dp-scallop-prep-m",
-    "name": "Scallop (prep)",
+    "name": "Scallop prep",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
@@ -11017,7 +11017,7 @@
   {
     "id": "dp-nb-55",
     "masterId": "dp-mustard-stone-sauce-m",
-    "name": "Mustard (Stone) Sauce",
+    "name": "Mustard Stone Sauce",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
@@ -11068,7 +11068,7 @@
   {
     "id": "dp-pl-23",
     "masterId": "dp-mustard-stone-sauce-m",
-    "name": "Mustard (Stone) Sauce",
+    "name": "Mustard Stone Sauce",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -11119,7 +11119,7 @@
   {
     "id": "dp-cds-20",
     "masterId": "dp-mustard-stone-sauce-m",
-    "name": "Mustard (Stone) Sauce",
+    "name": "Mustard Stone Sauce",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -11170,7 +11170,7 @@
   {
     "id": "dp-cbg-19",
     "masterId": "dp-mustard-stone-sauce-m",
-    "name": "Mustard (Stone) Sauce",
+    "name": "Mustard Stone Sauce",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -11447,7 +11447,7 @@
   {
     "id": "dp-nb-60",
     "masterId": "dp-hogfish-prep-m",
-    "name": "Hogfish (prep)",
+    "name": "Hogfish prep",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
@@ -11478,7 +11478,7 @@
   {
     "id": "dp-cds-23",
     "masterId": "dp-hogfish-prep-m",
-    "name": "Hogfish (prep)",
+    "name": "Hogfish prep",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -11509,7 +11509,7 @@
   {
     "id": "dp-cbg-22",
     "masterId": "dp-hogfish-prep-m",
-    "name": "Hogfish (prep)",
+    "name": "Hogfish prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -11540,7 +11540,7 @@
   {
     "id": "dp-nb-61",
     "masterId": "dp-tuna-steak-4oz-prep-m",
-    "name": "Tuna Steak 4oz (Prep)",
+    "name": "Tuna Steak 4oz Prep",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "Should yield 39-40 Per / 10# case count to double check",
@@ -11571,7 +11571,7 @@
   {
     "id": "dp-pl-26",
     "masterId": "dp-tuna-steak-4oz-prep-m",
-    "name": "Tuna Steak 4oz (Prep)",
+    "name": "Tuna Steak 4oz Prep",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "Should yield 39-40 Per / 10# case count to double check",
@@ -11602,7 +11602,7 @@
   {
     "id": "dp-cbg-23",
     "masterId": "dp-tuna-steak-4oz-prep-m",
-    "name": "Tuna Steak 4oz (Prep)",
+    "name": "Tuna Steak 4oz Prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "Should yield 39-40 Per / 10# case count to double check",
@@ -12305,7 +12305,7 @@
   {
     "id": "dp-pl-36",
     "masterId": "dp-pl-36-m",
-    "name": "Crab Meat Portions (Cold)",
+    "name": "Crab Meat Portions Cold",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "20-24 /2oz portions",
@@ -12336,7 +12336,7 @@
   {
     "id": "dp-pl-37",
     "masterId": "dp-crab-roll-meat-cold-m",
-    "name": "Crab Roll Meat (Cold)",
+    "name": "Crab Roll Meat Cold",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "23 - 25 - 4.0oz portions",
@@ -12387,7 +12387,7 @@
   {
     "id": "dp-cbg-27",
     "masterId": "dp-crab-roll-meat-cold-m",
-    "name": "Crab Roll Meat (Cold)",
+    "name": "Crab Roll Meat Cold",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "23 - 25 - 4.0oz portions",
@@ -13056,7 +13056,7 @@
   {
     "id": "dp-pl-49",
     "masterId": "dp-lemon-zest-garnish-m",
-    "name": "Lemon Zest (Garnish)",
+    "name": "Lemon Zest Garnish",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
@@ -13084,7 +13084,7 @@
   {
     "id": "dp-cds-33",
     "masterId": "dp-lemon-zest-garnish-m",
-    "name": "Lemon Zest (Garnish)",
+    "name": "Lemon Zest Garnish",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "2.5 Tbsp. Per Lemon",
@@ -13487,7 +13487,7 @@
   {
     "id": "dp-pl-56",
     "masterId": "dp-pl-56-m",
-    "name": "Hogfish (prep & portion)",
+    "name": "Hogfish prep & portion",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -13523,7 +13523,7 @@
   {
     "id": "dp-pl-57",
     "masterId": "dp-pl-57-m",
-    "name": "Rice (Cooker)",
+    "name": "Rice Cooker",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "3- 3lb bag",
@@ -15549,7 +15549,7 @@
   {
     "id": "dp-cds-59",
     "masterId": "dp-jonah-claws-scored-prep-m",
-    "name": "Jonah Claws (Scored) Prep",
+    "name": "Jonah Claws Scored Prep",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "17-18 portions / 85 -90%",
@@ -15581,7 +15581,7 @@
   {
     "id": "dp-cbg-56",
     "masterId": "dp-jonah-claws-scored-prep-m",
-    "name": "Jonah Claws (Scored) Prep",
+    "name": "Jonah Claws Scored Prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "17-18 portions / 85 -90%",
@@ -15870,7 +15870,7 @@
   {
     "id": "dp-pl-94",
     "masterId": "dp-lobster-tail-8-16oz-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail 8 & 16oz",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -16058,7 +16058,7 @@
   {
     "id": "dp-cbg-59",
     "masterId": "dp-rice-yellow-rice-cooker-m",
-    "name": "Rice Yellow (rice cooker)",
+    "name": "Rice Yellow rice cooker",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -16470,7 +16470,7 @@
   {
     "id": "dp-pl-107",
     "masterId": "dp-pl-107-m",
-    "name": "Rice (Oven)",
+    "name": "Rice Oven",
     "location": "Palm",
     "category": "Dinner Prep",
     "yield": "",
@@ -16907,7 +16907,7 @@
   {
     "id": "dp-cds-83",
     "masterId": "dp-mashed-potatoes-boursin-m",
-    "name": "Mashed Potatoes (Boursin)",
+    "name": "Mashed Potatoes Boursin",
     "location": "CDS",
     "category": "Line Prep",
     "yield": "",
@@ -16977,7 +16977,7 @@
   {
     "id": "dp-cds-86",
     "masterId": "dp-lobster-tail-8-16oz-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail 8 & 16oz",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "",
@@ -17009,7 +17009,7 @@
   {
     "id": "dp-cbg-67",
     "masterId": "dp-lobster-tail-8-16oz-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail 8 & 16oz",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -17041,7 +17041,7 @@
   {
     "id": "dp-cds-88",
     "masterId": "dp-cds-88-m",
-    "name": "Lobster Bites (Head & Meat)",
+    "name": "Lobster Bites Head & Meat",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "4 portions per 1# bag",
@@ -17075,7 +17075,7 @@
   {
     "id": "dp-cds-89",
     "masterId": "dp-cds-89-m",
-    "name": "Lemon Cream Sauce (for fried chicken)",
+    "name": "Lemon Cream Sauce for fried chicken",
     "location": "CDS",
     "category": "Dinner Prep",
     "yield": "154 oz. or 4.25 qtrs.",
@@ -17636,7 +17636,7 @@
   {
     "id": "dp-cds-103",
     "masterId": "dp-cds-103-m",
-    "name": "Crab Bairdi (1lb.+) prep BW",
+    "name": "Crab Bairdi 1lb.+ prep BW",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -17862,7 +17862,7 @@
   {
     "id": "dp-cbg-81",
     "masterId": "dp-mashed-potatoes-boursin-m",
-    "name": "Mashed Potatoes (Boursin)",
+    "name": "Mashed Potatoes Boursin",
     "location": "CBG",
     "category": "Line Prep",
     "yield": "",
@@ -17893,7 +17893,7 @@
   {
     "id": "dp-si-28",
     "masterId": "dp-mashed-potatoes-boursin-m",
-    "name": "Mashed Potatoes (Boursin)",
+    "name": "Mashed Potatoes Boursin",
     "location": "Salty's Island",
     "category": "Line Prep",
     "yield": "",
@@ -18059,7 +18059,7 @@
   {
     "id": "dp-si-30",
     "masterId": "dp-si-30-m",
-    "name": "Avocado Mix (Salsa)",
+    "name": "Avocado Mix Salsa",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "1- SS 4\" 1/3 pan",
@@ -18545,7 +18545,7 @@
   {
     "id": "dp-si-43",
     "masterId": "dp-si-43-m",
-    "name": "Achiote Marinade (Octopus)",
+    "name": "Achiote Marinade Octopus",
     "location": "Salty's Island",
     "category": "Dinner Prep",
     "yield": "18 oz.",
@@ -18759,7 +18759,7 @@
   {
     "id": "bp-si-1",
     "masterId": "bp-pancake-batch-mix-waffle-m",
-    "name": "Pancake Batch Mix (Waffle)",
+    "name": "Pancake Batch Mix Waffle",
     "location": "Salty's Island",
     "category": "Breakfast Prep",
     "yield": "156oz= 1.22 gal",
@@ -19602,7 +19602,7 @@
   {
     "id": "bp-nb-7",
     "masterId": "bp-nb-7-m",
-    "name": "Avocado (Fresh)",
+    "name": "Avocado Fresh",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Prep",
     "yield": "",
@@ -19871,7 +19871,7 @@
   {
     "id": "bp-nb-13",
     "masterId": "bp-soygave-prep-m",
-    "name": "Soygave (Prep)",
+    "name": "Soygave Prep",
     "location": "Salty Crab North Beach",
     "category": "Dinner Prep",
     "yield": "",
@@ -19904,7 +19904,7 @@
   {
     "id": "bp-cbg-12",
     "masterId": "bp-soygave-prep-m",
-    "name": "Soygave (Prep)",
+    "name": "Soygave Prep",
     "location": "CBG",
     "category": "Dinner Prep",
     "yield": "",
@@ -19937,7 +19937,7 @@
   {
     "id": "bp-nb-14",
     "masterId": "bp-pancake-batch-mix-waffle-m",
-    "name": "Pancake Batch Mix (Waffle)",
+    "name": "Pancake Batch Mix Waffle",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Prep",
     "yield": "156oz= 1.22 gal",
@@ -19983,7 +19983,7 @@
   {
     "id": "bp-cbg-13",
     "masterId": "bp-pancake-batch-mix-waffle-m",
-    "name": "Pancake Batch Mix (Waffle)",
+    "name": "Pancake Batch Mix Waffle",
     "location": "CBG",
     "category": "Breakfast Prep",
     "yield": "156oz= 1.22 gal",
@@ -20209,7 +20209,7 @@
   {
     "id": "bp-cbg-17",
     "masterId": "bp-cbg-17-m",
-    "name": "Avocado (fresh)",
+    "name": "Avocado fresh",
     "location": "CBG",
     "category": "Breakfast Prep",
     "yield": "",
@@ -20761,7 +20761,7 @@
   {
     "id": "dm-nb-11",
     "masterId": "dm-nb-11-m",
-    "name": "Crab Cake (New)",
+    "name": "Crab Cake New",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -20997,7 +20997,7 @@
   {
     "id": "dm-nb-16",
     "masterId": "dm-nb-16-m",
-    "name": "EZ Steamed Shrimp (Both portions )",
+    "name": "EZ Steamed Shrimp Both portions",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -21053,7 +21053,7 @@
   {
     "id": "dm-nb-17",
     "masterId": "dm-nb-17-m",
-    "name": "EZ Oil & Garlic Shrimp (Both Portions)",
+    "name": "EZ Oil & Garlic Shrimp Both Portions",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -21313,7 +21313,7 @@
   {
     "id": "dm-nb-22",
     "masterId": "dm-nb-22-m",
-    "name": "Pizza White (Bianca)",
+    "name": "Pizza White Bianca",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -23030,7 +23030,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Hogfish (Prep)",
+        "name": "Hogfish prep",
         "qty": "1",
         "unit": "Portion"
       },
@@ -23081,7 +23081,7 @@
         "unit": "Cooking pan"
       },
       {
-        "name": "Hogfish (Prep)",
+        "name": "Hogfish prep",
         "qty": "1",
         "unit": "Portion"
       },
@@ -23555,7 +23555,7 @@
   {
     "id": "dm-nb-54",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab (1.5#)",
+    "name": "Bairdi Crab 1.5#",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -23595,7 +23595,7 @@
   {
     "id": "dm-pl-6",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab (1.5#)",
+    "name": "Bairdi Crab 1.5#",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -25620,7 +25620,7 @@
   {
     "id": "dm-nb-83",
     "masterId": "dm-nb-83-m",
-    "name": "Crab Roll (Cold)",
+    "name": "Crab Roll Cold",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -26627,7 +26627,7 @@
   {
     "id": "dm-si-9",
     "masterId": "dm-si-9-m",
-    "name": "Royal Red Shrimp (Steamed)",
+    "name": "Royal Red Shrimp Steamed",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -27224,7 +27224,7 @@
   {
     "id": "dm-si-19",
     "masterId": "dm-si-19-m",
-    "name": "Nashville Fish (Haddock)",
+    "name": "Nashville Fish Haddock",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -27753,7 +27753,7 @@
         "unit": "2oz cup"
       },
       {
-        "name": "Avocado Mix (salsa)",
+        "name": "Avocado Mix Salsa",
         "qty": "2",
         "unit": "2oz scoop"
       },
@@ -28731,7 +28731,7 @@
   {
     "id": "dm-si-43",
     "masterId": "dm-si-43-m",
-    "name": "Ribeye Steak (SI)",
+    "name": "Ribeye Steak SI",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Mainland",
@@ -28892,7 +28892,7 @@
   {
     "id": "dm-si-46",
     "masterId": "dm-si-46-m",
-    "name": "Grouper & Shrimp (key west)",
+    "name": "Grouper & Shrimp key west",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -29145,7 +29145,7 @@
   {
     "id": "dm-si-50",
     "masterId": "dm-si-50-m",
-    "name": "Clam Chowder (cup & bowl)",
+    "name": "Clam Chowder cup & bowl",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -30064,7 +30064,7 @@
   {
     "id": "dm-si-72",
     "masterId": "dm-steam-shrimp-half-all-stores-m",
-    "name": "Steam Shrimp (Half)",
+    "name": "Steam Shrimp Half",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -30116,7 +30116,7 @@
   {
     "id": "dm-cbg-3",
     "masterId": "dm-steam-shrimp-half-all-stores-m",
-    "name": "Steam Shrimp (Half)",
+    "name": "Steam Shrimp Half",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -30249,7 +30249,7 @@
   {
     "id": "dm-cds-3",
     "masterId": "dm-cds-3-m",
-    "name": "Shrimp & Grits (Polenta)",
+    "name": "Shrimp & Grits Polenta",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
@@ -32433,7 +32433,7 @@
   {
     "id": "dm-pl-31",
     "masterId": "dm-pl-31-m",
-    "name": "Palm Breeze Salad (Power Bowl)",
+    "name": "Palm Breeze Salad Power Bowl",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -32655,7 +32655,7 @@
   {
     "id": "dm-pl-35",
     "masterId": "dm-pl-35-m",
-    "name": "Palm (Sirloin) Burger",
+    "name": "Palm Sirloin Burger",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -32831,7 +32831,7 @@
   {
     "id": "dm-pl-38",
     "masterId": "dm-pl-38-m",
-    "name": "Crab Roll (Cold) Alaskan",
+    "name": "Crab Roll Cold Alaskan",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -33016,7 +33016,7 @@
   {
     "id": "dm-pl-42",
     "masterId": "dm-pl-42-m",
-    "name": "Nashville Fish (Hogfish)",
+    "name": "Nashville Fish Hogfish",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -33520,7 +33520,7 @@
   {
     "id": "dm-pl-50",
     "masterId": "dm-pl-50-m",
-    "name": "Fish n Chips (Cod)",
+    "name": "Fish n Chips Cod",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -33939,7 +33939,7 @@
   {
     "id": "dm-pl-58",
     "masterId": "dm-pl-58-m",
-    "name": "Bairdi (3/4#) & Ribs",
+    "name": "Bairdi 3/4# & Ribs",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34006,7 +34006,7 @@
   {
     "id": "dm-pl-59",
     "masterId": "dm-pl-59-m",
-    "name": "Bairdi (3/4#) & Shrimp",
+    "name": "Bairdi 3/4# & Shrimp",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34099,7 +34099,7 @@
   {
     "id": "dm-pl-60",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi (3/4#) & Filet Mignon",
+    "name": "Bairdi 3/4# & Filet Mignon",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34175,7 +34175,7 @@
   {
     "id": "dm-pl-61",
     "masterId": "dm-pl-61-m",
-    "name": "Bairdi (3/4#) & Ribeye",
+    "name": "Bairdi 3/4# & Ribeye",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34247,7 +34247,7 @@
   {
     "id": "dm-pl-62",
     "masterId": "dm-pl-62-m",
-    "name": "Oysters & Shrimp (Fried)",
+    "name": "Oysters & Shrimp Fried",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34379,7 +34379,7 @@
   {
     "id": "dm-pl-64",
     "masterId": "dm-pl-64-m",
-    "name": "Bairdi (3/4#) & Fresh Catch",
+    "name": "Bairdi 3/4# & Fresh Catch",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -35257,7 +35257,7 @@
   {
     "id": "dm-cbg-10",
     "masterId": "dm-cbg-10-m",
-    "name": "Steam Shrimp (3/4#)",
+    "name": "Steam Shrimp 3/4#",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -35379,7 +35379,7 @@
   {
     "id": "dm-cbg-12",
     "masterId": "dm-cbg-12-m",
-    "name": "Steam Shrimp (Full)",
+    "name": "Steam Shrimp Full",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -35536,7 +35536,7 @@
   {
     "id": "dm-cbg-16",
     "masterId": "dm-cbg-16-m",
-    "name": "Braised Beef Mac(New)",
+    "name": "Braised Beef Mac New",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -38522,7 +38522,7 @@
   {
     "id": "drm-pl-18",
     "masterId": "drm-pl-18-m",
-    "name": "Perfect Pina Colada (Freshy)",
+    "name": "Perfect Pina Colada Freshy",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -39221,7 +39221,7 @@
   {
     "id": "drm-pl-27",
     "masterId": "drm-pl-27-m",
-    "name": "Rum Runner (RX)",
+    "name": "Rum Runner RX",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -39748,7 +39748,7 @@
   {
     "id": "drm-pl-34",
     "masterId": "drm-pl-34-m",
-    "name": "Pavilion Punch (Batch)",
+    "name": "Pavilion Punch Batch",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -39796,7 +39796,7 @@
   {
     "id": "drm-pl-35",
     "masterId": "drm-rum-runner-batch-m",
-    "name": "Rum Runner (Batch)",
+    "name": "Rum Runner Batch",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -39856,7 +39856,7 @@
   {
     "id": "drm-cbg-6",
     "masterId": "drm-rum-runner-batch-m",
-    "name": "Rum Runner (Batch)",
+    "name": "Rum Runner Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -39916,7 +39916,7 @@
   {
     "id": "drm-pl-36",
     "masterId": "drm-pl-36-m",
-    "name": "Pina Colada Batch (CBP)",
+    "name": "Pina Colada Batch CBP",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -39958,7 +39958,7 @@
   {
     "id": "drm-pl-37",
     "masterId": "drm-florida-sunset-batch-m",
-    "name": "Florida Sunset (Batch)",
+    "name": "Florida Sunset Batch",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40006,7 +40006,7 @@
   {
     "id": "drm-cbg-7",
     "masterId": "drm-florida-sunset-batch-m",
-    "name": "Florida Sunset (Batch)",
+    "name": "Florida Sunset Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40054,7 +40054,7 @@
   {
     "id": "drm-pl-38",
     "masterId": "drm-pl-38-m",
-    "name": "Painkilla Mix (Batch)",
+    "name": "Painkilla Mix Batch",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40091,7 +40091,7 @@
   {
     "id": "drm-pl-39",
     "masterId": "drm-margarita-batch-m",
-    "name": "Margarita (Batch)",
+    "name": "Margarita Batch",
     "location": "Palm",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40141,7 +40141,7 @@
   {
     "id": "drm-cbg-8",
     "masterId": "drm-margarita-batch-m",
-    "name": "Margarita (Batch)",
+    "name": "Margarita Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -40191,7 +40191,7 @@
   {
     "id": "drm-cds-10",
     "masterId": "drm-margarita-batch-m",
-    "name": "Margarita (Batch)",
+    "name": "Margarita Batch",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -41342,7 +41342,7 @@
   {
     "id": "drm-cbg-12",
     "masterId": "drm-cbg-12-m",
-    "name": "Perfect Pina (Batch)",
+    "name": "Perfect Pina Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -41385,7 +41385,7 @@
   {
     "id": "drm-cbg-13",
     "masterId": "drm-deep-blue-batch-m",
-    "name": "Deep Blue (Batch)",
+    "name": "Deep Blue Batch",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -42239,7 +42239,7 @@
   {
     "id": "drm-cbg-20",
     "masterId": "drm-sweet-tart-bar-grill-m",
-    "name": "Sweet Tart (Bar & Grill)",
+    "name": "Sweet Tart Bar & Grill",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Frozen Cocktails",
@@ -43698,7 +43698,7 @@
   {
     "id": "drm-cbg-34",
     "masterId": "drm-pina-rita-chubby-mermaid-m",
-    "name": "Pina Rita(Chubby Mermaid) 14, 20",
+    "name": "Pina Rita Chubby Mermaid 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -43775,7 +43775,7 @@
   {
     "id": "drm-cds-35",
     "masterId": "drm-pina-rita-chubby-mermaid-m",
-    "name": "Pina Rita(Chubby Mermaid) 14, 20",
+    "name": "Pina Rita Chubby Mermaid 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44394,7 +44394,7 @@
   {
     "id": "drm-cbg-39",
     "masterId": "drm-papa-s-island-tiki-punch-m",
-    "name": "Papa's Island (Tiki) Punch 14, 20",
+    "name": "Papa's Island Tiki Punch 14, 20",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -44467,7 +44467,7 @@
   {
     "id": "drm-cds-40",
     "masterId": "drm-papa-s-island-tiki-punch-m",
-    "name": "Papa's Island (Tiki) Punch 14, 20",
+    "name": "Papa's Island Tiki Punch 14, 20",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -46552,7 +46552,7 @@
   {
     "id": "drm-cbg-58",
     "masterId": "drm-bloody-angry-sa-m",
-    "name": "Bloody Mary Angry (SA)",
+    "name": "Bloody Mary Angry SA",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -47510,7 +47510,7 @@
         "unit": "Each"
       },
       {
-        "name": "Margarita batch",
+        "name": "Margarita Batch",
         "qty": "6",
         "unit": "Oz pour"
       },
@@ -48580,7 +48580,7 @@
   {
     "id": "drm-cbg-76",
     "masterId": "drm-purple-coconut-bar-grill-m",
-    "name": "Purple Coconut (Bar & Grill)",
+    "name": "Purple Coconut Bar & Grill",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Signature Cocktails",
@@ -49285,7 +49285,7 @@
   {
     "id": "drm-cbg-83",
     "masterId": "drm-coco-nut-cappuccino-bar-grill-m",
-    "name": "Coco-Nut Cappuccino (B&G)",
+    "name": "Coco-Nut Cappuccino B&G",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -49729,7 +49729,7 @@
   {
     "id": "drm-cbg-90",
     "masterId": "drm-mimosa-flavored-m",
-    "name": "Mimosa (Flavored)",
+    "name": "Mimosa Flavored",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -49768,7 +49768,7 @@
   {
     "id": "drm-cds-87",
     "masterId": "drm-mimosa-flavored-m",
-    "name": "Mimosa (Flavored)",
+    "name": "Mimosa Flavored",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -49925,7 +49925,7 @@
   {
     "id": "drm-cbg-92",
     "masterId": "drm-cbg-92-m",
-    "name": "Bloody Mary (STC/FTP)",
+    "name": "Bloody Mary STC/FTP",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Breakfast Cocktails",
@@ -50325,7 +50325,7 @@
   {
     "id": "drm-cbg-97",
     "masterId": "drm-margarita-na-coco-straw-m",
-    "name": "NA Margarita (Coco/Straw)",
+    "name": "NA Margarita Coco/Straw",
     "location": "CBG",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -50370,7 +50370,7 @@
   {
     "id": "drm-cds-93",
     "masterId": "drm-margarita-na-coco-straw-m",
-    "name": "NA Margarita (Coco/Straw)",
+    "name": "NA Margarita Coco/Straw",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Mocktails",
@@ -51555,7 +51555,7 @@
   {
     "id": "drm-cds-105",
     "masterId": "drm-cds-105-m",
-    "name": "Perfect Pina (Batch)",
+    "name": "Perfect Pina Batch",
     "location": "CDS",
     "category": "Drink Menu",
     "submenu": "Batches / Bar Prep",
@@ -57458,7 +57458,7 @@
   {
     "id": "bm-pl-5",
     "masterId": "bm-avocado-toast-m",
-    "name": "Avocado Toast (Pavilion)",
+    "name": "Avocado Toast Pavilion",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -57560,7 +57560,7 @@
         "unit": "Each"
       },
       {
-        "name": "Avocado Fresh",
+        "name": "Avocado fresh",
         "qty": "1",
         "unit": "Each"
       },
@@ -57627,7 +57627,7 @@
         "unit": "Each"
       },
       {
-        "name": "Avocado Fresh",
+        "name": "Avocado fresh",
         "qty": "1",
         "unit": "Each"
       },
@@ -59431,7 +59431,7 @@
   {
     "id": "bm-cbg-12",
     "masterId": "bm-cbg-12-m",
-    "name": "French (Cuban) Toast",
+    "name": "French Cuban Toast",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61113,7 +61113,7 @@
   {
     "id": "bm-cbg-34",
     "masterId": "bm-cbg-34-m",
-    "name": "ATraditional (2Eggs)",
+    "name": "ATraditional 2Eggs",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61216,7 +61216,7 @@
   {
     "id": "bm-cbg-36",
     "masterId": "bm-cbg-36-m",
-    "name": "Steak and Eggs (NY Strip)",
+    "name": "Steak and Eggs NY Strip",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -61996,7 +61996,7 @@
   {
     "id": "bm-cbg-45",
     "masterId": "bm-cbg-45-m",
-    "name": "Shrimp Egg & Grits(Breakfast)",
+    "name": "Shrimp Egg & Grits Breakfast",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -64995,7 +64995,7 @@
   {
     "id": "bm-nb-37",
     "masterId": "bm-nb-37-m",
-    "name": "Omelet Create Your Own(Cheese)",
+    "name": "Omelet Create Your Own Cheese",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -65472,7 +65472,7 @@
   {
     "id": "cd-pl-3",
     "masterId": "cd-espresso-single-or-double-m",
-    "name": "Espresso (single or double)",
+    "name": "Espresso single or double",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65503,7 +65503,7 @@
   {
     "id": "cd-cbg-3",
     "masterId": "cd-espresso-single-or-double-m",
-    "name": "Espresso (single or double)",
+    "name": "Espresso single or double",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65534,7 +65534,7 @@
   {
     "id": "cd-nb-3",
     "masterId": "cd-espresso-single-or-double-m",
-    "name": "Espresso (single or double)",
+    "name": "Espresso single or double",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65565,7 +65565,7 @@
   {
     "id": "cd-pl-4",
     "masterId": "cd-cappuccino-hot-m",
-    "name": "Cappuccino (HOT)",
+    "name": "Cappuccino HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65619,7 +65619,7 @@
   {
     "id": "cd-cbg-4",
     "masterId": "cd-cappuccino-hot-m",
-    "name": "Cappuccino (HOT)",
+    "name": "Cappuccino HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65673,7 +65673,7 @@
   {
     "id": "cd-nb-4",
     "masterId": "cd-cappuccino-hot-m",
-    "name": "Cappuccino (HOT)",
+    "name": "Cappuccino HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65727,7 +65727,7 @@
   {
     "id": "cd-si-3",
     "masterId": "cd-cappuccino-hot-m",
-    "name": "Cappuccino (HOT)",
+    "name": "Cappuccino HOT",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65781,7 +65781,7 @@
   {
     "id": "cd-pl-5",
     "masterId": "cd-cappuccino-cold-m",
-    "name": "Cappuccino (COLD)",
+    "name": "Cappuccino COLD",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65826,7 +65826,7 @@
   {
     "id": "cd-cbg-5",
     "masterId": "cd-cappuccino-cold-m",
-    "name": "Cappuccino (COLD)",
+    "name": "Cappuccino COLD",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65871,7 +65871,7 @@
   {
     "id": "cd-nb-5",
     "masterId": "cd-cappuccino-cold-m",
-    "name": "Cappuccino (COLD)",
+    "name": "Cappuccino COLD",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65916,7 +65916,7 @@
   {
     "id": "cd-si-4",
     "masterId": "cd-cappuccino-cold-m",
-    "name": "Cappuccino (COLD)",
+    "name": "Cappuccino COLD",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -65961,7 +65961,7 @@
   {
     "id": "cd-pl-6",
     "masterId": "cd-latte-hot-m",
-    "name": "Latte (HOT)",
+    "name": "Latte HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66015,7 +66015,7 @@
   {
     "id": "cd-cbg-6",
     "masterId": "cd-latte-hot-m",
-    "name": "Latte (HOT)",
+    "name": "Latte HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66069,7 +66069,7 @@
   {
     "id": "cd-nb-6",
     "masterId": "cd-latte-hot-m",
-    "name": "Latte (HOT)",
+    "name": "Latte HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66123,7 +66123,7 @@
   {
     "id": "cd-pl-7",
     "masterId": "cd-latte-cold-m",
-    "name": "Latte (COLD)",
+    "name": "Latte COLD",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66167,7 +66167,7 @@
   {
     "id": "cd-cbg-7",
     "masterId": "cd-latte-cold-m",
-    "name": "Latte (COLD)",
+    "name": "Latte COLD",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66211,7 +66211,7 @@
   {
     "id": "cd-nb-7",
     "masterId": "cd-latte-cold-m",
-    "name": "Latte (COLD)",
+    "name": "Latte COLD",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66255,7 +66255,7 @@
   {
     "id": "cd-si-5",
     "masterId": "cd-latte-cold-m",
-    "name": "Latte (COLD)",
+    "name": "Latte COLD",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66299,7 +66299,7 @@
   {
     "id": "cd-pl-8",
     "masterId": "cd-americano-hot-m",
-    "name": "Americano (HOT)",
+    "name": "Americano HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66340,7 +66340,7 @@
   {
     "id": "cd-cbg-8",
     "masterId": "cd-americano-hot-m",
-    "name": "Americano (HOT)",
+    "name": "Americano HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66381,7 +66381,7 @@
   {
     "id": "cd-nb-8",
     "masterId": "cd-americano-hot-m",
-    "name": "Americano (HOT)",
+    "name": "Americano HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66422,7 +66422,7 @@
   {
     "id": "cd-si-6",
     "masterId": "cd-americano-hot-m",
-    "name": "Americano (HOT)",
+    "name": "Americano HOT",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66463,7 +66463,7 @@
   {
     "id": "cd-pl-9",
     "masterId": "cd-cortado-hot-m",
-    "name": "Cortado (HOT)",
+    "name": "Cortado HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66502,7 +66502,7 @@
   {
     "id": "cd-cbg-9",
     "masterId": "cd-cortado-hot-m",
-    "name": "Cortado (HOT)",
+    "name": "Cortado HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66541,7 +66541,7 @@
   {
     "id": "cd-nb-9",
     "masterId": "cd-cortado-hot-m",
-    "name": "Cortado (HOT)",
+    "name": "Cortado HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66580,7 +66580,7 @@
   {
     "id": "cd-si-7",
     "masterId": "cd-cortado-hot-m",
-    "name": "Cortado (HOT)",
+    "name": "Cortado HOT",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66619,7 +66619,7 @@
   {
     "id": "cd-pl-10",
     "masterId": "cd-latte-macchiato-hot-m",
-    "name": "Latte Macchiato (HOT)",
+    "name": "Latte Macchiato HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66665,7 +66665,7 @@
   {
     "id": "cd-cbg-10",
     "masterId": "cd-latte-macchiato-hot-m",
-    "name": "Latte Macchiato (HOT)",
+    "name": "Latte Macchiato HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66711,7 +66711,7 @@
   {
     "id": "cd-nb-10",
     "masterId": "cd-latte-macchiato-hot-m",
-    "name": "Latte Macchiato (HOT)",
+    "name": "Latte Macchiato HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66757,7 +66757,7 @@
   {
     "id": "cd-si-8",
     "masterId": "cd-latte-macchiato-hot-m",
-    "name": "Latte Macchiato (HOT)",
+    "name": "Latte Macchiato HOT",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66803,7 +66803,7 @@
   {
     "id": "cd-pl-11",
     "masterId": "cd-latte-macchiato-cold-m",
-    "name": "Latte Macchiato (COLD)",
+    "name": "Latte Macchiato COLD",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66847,7 +66847,7 @@
   {
     "id": "cd-cbg-11",
     "masterId": "cd-latte-macchiato-cold-m",
-    "name": "Latte Macchiato (COLD)",
+    "name": "Latte Macchiato COLD",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66891,7 +66891,7 @@
   {
     "id": "cd-nb-11",
     "masterId": "cd-latte-macchiato-cold-m",
-    "name": "Latte Macchiato (COLD)",
+    "name": "Latte Macchiato COLD",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66935,7 +66935,7 @@
   {
     "id": "cd-si-9",
     "masterId": "cd-latte-macchiato-cold-m",
-    "name": "Latte Macchiato (COLD)",
+    "name": "Latte Macchiato COLD",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -66979,7 +66979,7 @@
   {
     "id": "cd-pl-12",
     "masterId": "cd-macchiato-italiano-hot-m",
-    "name": "Macchiato Italiano (HOT)",
+    "name": "Macchiato Italiano HOT",
     "location": "Palm",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -67027,7 +67027,7 @@
   {
     "id": "cd-cbg-12",
     "masterId": "cd-macchiato-italiano-hot-m",
-    "name": "Macchiato Italiano (HOT)",
+    "name": "Macchiato Italiano HOT",
     "location": "CBG",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -67075,7 +67075,7 @@
   {
     "id": "cd-nb-12",
     "masterId": "cd-macchiato-italiano-hot-m",
-    "name": "Macchiato Italiano (HOT)",
+    "name": "Macchiato Italiano HOT",
     "location": "Salty Crab North Beach",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -67123,7 +67123,7 @@
   {
     "id": "cd-si-10",
     "masterId": "cd-macchiato-italiano-hot-m",
-    "name": "Macchiato Italiano (HOT)",
+    "name": "Macchiato Italiano HOT",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -67815,7 +67815,7 @@
   {
     "id": "cd-si-15",
     "masterId": "cd-si-15-m",
-    "name": "Espresso (Single, Double)",
+    "name": "Espresso Single, Double",
     "location": "Salty's Island",
     "category": "Coffee Drinks",
     "submenu": "",
@@ -69065,7 +69065,7 @@
   {
     "id": "dm-cds-28",
     "masterId": "dm-cds-28-m",
-    "name": "Crab Cake App (2 in oven)",
+    "name": "Crab Cake App 2 in oven",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -69154,7 +69154,7 @@
   {
     "id": "dm-cds-30",
     "masterId": "dm-nb-16-m",
-    "name": "EZ Steamed Shrimp (Both portions )",
+    "name": "EZ Steamed Shrimp Both portions",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -70088,7 +70088,7 @@
   {
     "id": "dm-cds-48",
     "masterId": "dm-cds-48-m",
-    "name": "Bairdi (3/4#) & Scallops",
+    "name": "Bairdi 3/4# & Scallops",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70145,7 +70145,7 @@
   {
     "id": "dm-cds-49",
     "masterId": "dm-cds-49-m",
-    "name": "Bairdi (3/4#) & Grouper (5.5oz)",
+    "name": "Bairdi 3/4# & Grouper 5.5oz",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70211,7 +70211,7 @@
   {
     "id": "dm-cds-50",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi (3/4#) & Filet Mignon",
+    "name": "Bairdi 3/4# & Filet Mignon",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70287,7 +70287,7 @@
   {
     "id": "dm-cds-51",
     "masterId": "dm-cds-51-m",
-    "name": "Bairdi (3/4#) & EZ Peel (3/4#)",
+    "name": "Bairdi 3/4# & EZ Peel 3/4#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70363,7 +70363,7 @@
   {
     "id": "dm-cds-52",
     "masterId": "dm-cds-52-m",
-    "name": "Bairdi (3/4#) & Crab Cake",
+    "name": "Bairdi 3/4# & Crab Cake",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70418,7 +70418,7 @@
   {
     "id": "dm-cds-53",
     "masterId": "dm-cds-53-m",
-    "name": "Ribs & Shrimp Steamed (3/4#)",
+    "name": "Ribs & Shrimp Steamed 3/4#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70540,7 +70540,7 @@
   {
     "id": "dm-cds-55",
     "masterId": "dm-cds-55-m",
-    "name": "Shrimp Trio (3-Way)",
+    "name": "Shrimp Trio 3-Way",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70604,7 +70604,7 @@
   {
     "id": "dm-cds-56",
     "masterId": "dm-cds-56-m",
-    "name": "Tail 8oz & Bairdi (3/4#)",
+    "name": "Tail 8oz & Bairdi 3/4#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70750,7 +70750,7 @@
   {
     "id": "dm-cds-58",
     "masterId": "dm-cds-58-m",
-    "name": "Tail 8oz & EZ Peel (3/4#)",
+    "name": "Tail 8oz & EZ Peel 3/4#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -71935,7 +71935,7 @@
   {
     "id": "dm-cbg-54",
     "masterId": "dm-pl-38-m",
-    "name": "Crab Roll (Cold) Alaskan",
+    "name": "Crab Roll Cold Alaskan",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Handhelds",
@@ -72958,7 +72958,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Hogfish (Prep)",
+        "name": "Hogfish prep",
         "qty": "1",
         "unit": "Hogfish Portion"
       },
@@ -73007,7 +73007,7 @@
   {
     "id": "dm-cbg-72",
     "masterId": "dm-cds-48-m",
-    "name": "Bairdi (3/4#) & Scallops",
+    "name": "Bairdi 3/4# & Scallops",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73064,7 +73064,7 @@
   {
     "id": "dm-cbg-73",
     "masterId": "dm-cds-49-m",
-    "name": "Bairdi (3/4#) & Grouper (5.5oz)",
+    "name": "Bairdi 3/4# & Grouper 5.5oz",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73130,7 +73130,7 @@
   {
     "id": "dm-cbg-74",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi (3/4#) & Filet Mignon",
+    "name": "Bairdi 3/4# & Filet Mignon",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73206,7 +73206,7 @@
   {
     "id": "dm-cbg-75",
     "masterId": "dm-cbg-75-m",
-    "name": "Bairdi (3/4#) & EZ Peel (1/2#)",
+    "name": "Bairdi 3/4# & EZ Peel 1/2#",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73261,7 +73261,7 @@
   {
     "id": "dm-cbg-76",
     "masterId": "dm-cbg-76-m",
-    "name": "Bairdi (3/4#) & Crab Cake",
+    "name": "Bairdi 3/4# & Crab Cake",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73690,7 +73690,7 @@
   {
     "id": "dm-cbg-83",
     "masterId": "dm-cbg-83-m",
-    "name": "Fish & Shrimp (Haddock)",
+    "name": "Fish & Shrimp Haddock",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73745,7 +73745,7 @@
   {
     "id": "dm-cbg-84",
     "masterId": "dm-cbg-84-m",
-    "name": "Cod & Shrimp (SA)",
+    "name": "Cod & Shrimp SA",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73933,7 +73933,7 @@
   {
     "id": "dm-cbg-87",
     "masterId": "m-ms4rh26fwrf23t",
-    "name": "Tail 8oz & Bairdi (3/4#)",
+    "name": "Tail 8oz & Bairdi 3/4#",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -74677,7 +74677,7 @@
   {
     "id": "dm-cbg-97",
     "masterId": "dm-cbg-97-m",
-    "name": "Tail 8oz & EZ Peel (1/2#)",
+    "name": "Tail 8oz & EZ Peel 1/2#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -75092,7 +75092,7 @@
   {
     "id": "dm-cds-80",
     "masterId": "dm-cds-80-m",
-    "name": "Brussels Roasted (side)",
+    "name": "Brussels Roasted side",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -75418,7 +75418,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Hogfish (Prep)",
+        "name": "Hogfish prep",
         "qty": "1",
         "unit": "Hogfish Portion"
       },
@@ -75595,7 +75595,7 @@
   {
     "id": "dm-cds-94",
     "masterId": "dm-cds-94-m",
-    "name": "Fish (Haddock) & Chips",
+    "name": "Fish Haddock & Chips",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -75820,7 +75820,7 @@
   {
     "id": "dm-cds-99",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab (1.5#)",
+    "name": "Bairdi Crab 1.5#",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -76061,7 +76061,7 @@
   {
     "id": "dm-cds-104",
     "masterId": "dm-cds-104-m",
-    "name": "Lobster Tail (16oz)",
+    "name": "Lobster Tail 16oz",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -77633,7 +77633,7 @@
   {
     "id": "dm-cbg-115",
     "masterId": "dm-cbg-115-m",
-    "name": "Shrimp Add-On SA for Salad Key West (St Augustine)",
+    "name": "Shrimp Add-On SA for Salad Key West St Augustine",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -77767,7 +77767,7 @@
   {
     "id": "dm-cbg-118",
     "masterId": "dm-cbg-118-m",
-    "name": "Filet Tip Add-On (Add $6.25)",
+    "name": "Filet Tip Add-On Add $6.25",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Soup / Salad / Dessert",
@@ -79146,7 +79146,7 @@
   {
     "id": "dm-cbg-148",
     "masterId": "dm-cbg-148-m",
-    "name": "Tacos Short Rib (Dockside Clwtr)",
+    "name": "Tacos Short Rib Dockside Clwtr",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -80646,7 +80646,7 @@
   {
     "id": "dm-cbg-178",
     "masterId": "dm-cbg-178-m",
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail 8 & 16oz",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -80847,7 +80847,7 @@
   {
     "id": "dp-cds-104",
     "masterId": "dp-cds-104-m",
-    "name": "Seabass Trimmings (Pieces)",
+    "name": "Seabass Trimmings Pieces",
     "location": "CDS",
     "category": "Dinner Prep",
     "submenu": "",
@@ -80994,7 +80994,7 @@
   {
     "id": "dm-si-73",
     "masterId": "dm-si-73-m",
-    "name": "Brussels Sprouts (Appetizer)",
+    "name": "Brussels Sprouts Appetizer",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Appetizers",
@@ -104012,7 +104012,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Jonah Claws (Scored) Prep",
+    "name": "Jonah Claws Scored Prep",
     "category": "Dinner Prep",
     "yield": "17-18 portions / 85 -90%",
     "shelfLife": "4 days after thawed",
@@ -104044,7 +104044,7 @@
     "location": "Palm"
   },
   {
-    "name": "Jonah Claws (Scored) Prep",
+    "name": "Jonah Claws Scored Prep",
     "category": "Dinner Prep",
     "yield": "17-18 portions / 85 -90%",
     "shelfLife": "4 days after thawed",
@@ -104125,7 +104125,7 @@
     "location": "CDS"
   },
   {
-    "name": "Crab Roll Meat (Cold)",
+    "name": "Crab Roll Meat Cold",
     "category": "Dinner Prep",
     "yield": "23 - 25 - 4.0oz portions",
     "shelfLife": "3 days",
@@ -104176,7 +104176,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Crab Roll Meat (Cold)",
+    "name": "Crab Roll Meat Cold",
     "category": "Dinner Prep",
     "yield": "23 - 25 - 4.0oz portions",
     "shelfLife": "3 days",
@@ -104344,7 +104344,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Crab Roll Meat Portions (Cold)",
+    "name": "Crab Roll Meat Portions Cold",
     "category": "Dinner Prep",
     "yield": "2oz portions",
     "shelfLife": "3 days",
@@ -104377,7 +104377,7 @@
     "location": "CBG"
   },
   {
-    "name": "Crab Roll Meat Portions (Cold)",
+    "name": "Crab Roll Meat Portions Cold",
     "category": "Dinner Prep",
     "yield": "2oz portions",
     "shelfLife": "3 days",
@@ -104410,7 +104410,7 @@
     "location": "CDS"
   },
   {
-    "name": "Crab Roll Meat (Cold)",
+    "name": "Crab Roll Meat Cold",
     "category": "Dinner Prep",
     "yield": "23 - 25 - 4.0oz portions",
     "shelfLife": "3 days",
@@ -104604,7 +104604,7 @@
     "location": "Salty's Island"
   },
   {
-    "name": "Lemon Cream Sauce (for fried chicken)",
+    "name": "Lemon Cream Sauce for fried chicken",
     "category": "Dinner Prep",
     "yield": "154 oz. or 4.25 qtrs.",
     "shelfLife": "3 days",
@@ -104667,7 +104667,7 @@
     "location": "CBG"
   },
   {
-    "name": "Lemon Cream Sauce (for fried chicken)",
+    "name": "Lemon Cream Sauce for fried chicken",
     "category": "Dinner Prep",
     "yield": "154 oz. or 4.25 qtrs.",
     "shelfLife": "3 days",
@@ -104730,7 +104730,7 @@
     "location": "Palm"
   },
   {
-    "name": "Lemon Cream Sauce (for fried chicken)",
+    "name": "Lemon Cream Sauce for fried chicken",
     "category": "Dinner Prep",
     "yield": "154 oz. or 4.25 qtrs.",
     "shelfLife": "3 days",
@@ -104793,7 +104793,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Lobster Tail (8 & 16oz)",
+    "name": "Lobster Tail 8 & 16oz",
     "category": "Dinner Prep",
     "yield": "",
     "shelfLife": "",
@@ -105169,7 +105169,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Scallop (prep)",
+    "name": "Scallop prep",
     "category": "Dinner Prep",
     "yield": "10# case = 19 / 8oz. Portions",
     "shelfLife": "3 days",
@@ -109882,7 +109882,7 @@
     "location": "Beach House"
   },
   {
-    "name": "Long Island (top shelf)",
+    "name": "Long Island top shelf",
     "category": "Drink Menu",
     "submenu": "Classic Cocktails",
     "yield": "",
@@ -109948,7 +109948,7 @@
     "location": "Mar Vista"
   },
   {
-    "name": "Long Island (top shelf)",
+    "name": "Long Island top shelf",
     "category": "Drink Menu",
     "submenu": "Classic Cocktails",
     "yield": "",
@@ -110014,7 +110014,7 @@
     "location": "Sandbar"
   },
   {
-    "name": "Long Island (top shelf)",
+    "name": "Long Island top shelf",
     "category": "Drink Menu",
     "submenu": "Classic Cocktails",
     "yield": "",
