@@ -18542,51 +18542,6 @@
     ]
   },
   {
-    "id": "dp-si-41",
-    "masterId": "dp-si-41-m",
-    "name": "Broccoli SI",
-    "location": "Salty's Island",
-    "category": "Dinner Prep",
-    "yield": "22-30 / 5oz Portions (calculated estimate, not from a source doc — please verify)",
-    "shelfLife": "3 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Broccoli",
-        "qty": "10",
-        "qty2": "20",
-        "unit": "pounds"
-      },
-      {
-        "name": "Garlic Butter",
-        "qty": "20",
-        "qty2": "40",
-        "unit": "Vol oz"
-      }
-    ],
-    "steps": [
-      "Cut each bunch of broccoli long-ways down the middle",
-      "Lay the flat side down on the cutting board",
-      "Cut each piece of broccoli off through the stem at a 45° angle",
-      "Each piece should have a 2 to 3-inch stem and a full head",
-      "Portion broccoli to 5 oz in a small bag",
-      "Put 0.5 vol oz garlic butter in each bag",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8a9hbss80ocg.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8a9nnsycj94u.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8a9r0d6uujxk.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8a9ujuttp7n1.png"
-    ],
-    "dualBatch": {
-      "label1": "1/2 Case",
-      "label2": "Full Case"
-    },
-    "yield2": "45-60 / 5oz Portions (depending on Crowns or Stalks)"
-  },
-  {
     "id": "dp-si-42",
     "masterId": "dp-crab-cakes-m",
     "name": "Crab Cakes Prep",
