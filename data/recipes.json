@@ -6064,7 +6064,8 @@
     ],
     "id": "m-ms8s18md5m4zzx",
     "masterId": "dm-si-43-m",
-    "location": "Palm"
+    "location": "Palm",
+    "active": false
   },
   {
     "name": "Chicken Strips",
@@ -12968,7 +12969,7 @@
     ],
     "notes": "",
     "images": [],
-    "active": true
+    "active": false
   },
   {
     "id": "dp-pl-44",
@@ -105525,7 +105526,8 @@
     ],
     "id": "m-mv8ec60976gpmc",
     "masterId": "m-mw27q3pe7lx7rv",
-    "location": "Palm"
+    "location": "Palm",
+    "active": false
   },
   {
     "name": "Onion Straws",
@@ -119126,7 +119128,7 @@
     "location": "Salty Crab North Beach"
   },
   {
-    "name": "Steakhouse Pizza",
+    "name": "Pizza Steakhouse",
     "category": "Dinner Menu",
     "submenu": "Pasta / Pizza",
     "yield": "",
