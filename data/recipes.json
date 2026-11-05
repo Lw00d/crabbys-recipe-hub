@@ -19385,66 +19385,6 @@
     ]
   },
   {
-    "id": "bp-si-10",
-    "masterId": "bp-grits-m",
-    "name": "Grits",
-    "location": "Salty's Island",
-    "category": "Breakfast Prep",
-    "yield": "9 Lbs.",
-    "shelfLife": "1.5 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cheddar/Jack Shredded",
-        "qty": "16",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Grits",
-        "qty": "8",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Heat grits up using an immersion circulator or microwave.",
-      "Once heated to 145°F",
-      "Add shredded cheese, mix thoroughly",
-      "Place in a lined pan on the expo station"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
-    "id": "bp-cbg-5",
-    "masterId": "bp-grits-m",
-    "name": "Grits",
-    "location": "CBG",
-    "category": "Breakfast Prep",
-    "yield": "9 Lbs.",
-    "shelfLife": "1.5 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Cheddar/Jack Shredded",
-        "qty": "16",
-        "unit": "Weight oz"
-      },
-      {
-        "name": "Grits",
-        "qty": "8",
-        "unit": "lb"
-      }
-    ],
-    "steps": [
-      "Heat grits up using an immersion circulator or microwave.",
-      "Once heated to 145°F",
-      "Add shredded cheese, mix thoroughly",
-      "Place in a lined pan on the expo station"
-    ],
-    "notes": "",
-    "images": []
-  },
-  {
     "id": "bp-si-11",
     "masterId": "bp-spicy-syrup-m",
     "name": "Spicy Honey Syrup",
