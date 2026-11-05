@@ -118882,5 +118882,54 @@
       "label2": "Full Case"
     },
     "yield2": "80 / 3.5oz Portions"
+  },
+  {
+    "name": "Ez Peel Shrimp Full Test",
+    "category": "Dinner Menu",
+    "submenu": "Appetizers",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Shrimp Steamed (Prep)",
+        "qty": "2",
+        "unit": "RED Mesh Bags"
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "",
+        "unit": "Dusting"
+      }
+    ],
+    "steps": [
+      "*NOTE: A warped shell means that they are overcooked. The shell color should be bright orange, and the shrimp meat should be white in color.*",
+      "Hot:",
+      "Place the mesh bag into the boiling water. Boil for 3 minutes, or until the shrimp are just about done. Lift and drain",
+      "While the shrimp are in the water, add 4oz of Scampi sauce to a sauté pan on medium heat",
+      "Remove cooked shrimp from the mesh bag and place in the sauté pan, and continue to cook.",
+      "Sauté shrimp in scampi sauce until cooked",
+      "Pour the entire contents into a Medium bowl",
+      "Sprinkle the shrimp with Old Bay seasoning. Sell to expo",
+      "Cold:",
+      "Place mesh bags portion of uncooked shrimp into boiling Old Bay water",
+      "Let it boil for 3 minutes or until the shrimp have curled, but the shell has not warped. A warped shell means that they are overcooked. The shell should be bright orange, and the shrimp meat should be white.",
+      "IMMEDIATELY Remove shrimp from boiling water and place in a bath of ICE WATER. Let shrimp stand in ice water until completely chilled.",
+      "Remove cooked shrimp from the mesh bag and place them into the correct plateware.",
+      "Sprinkle shrimp with Old Bay seasoning. Sell to expo",
+      "Expo:",
+      "COLD - 2 oz Butter, Lemon wedge",
+      "Hot - Lemon Wedge",
+      "Plateware:",
+      "Small Bowl / Rectangle Plate - Check Plating Chart "
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzgowm419b3y5.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvzgp7t500m32h.jpg"
+    ],
+    "id": "m-mw3yr38z59deio",
+    "masterId": "m-mw3yr38zlduadv",
+    "location": "CBG"
   }
 ]
