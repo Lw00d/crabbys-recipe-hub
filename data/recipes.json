@@ -30142,31 +30142,6 @@
     ]
   },
   {
-    "id": "dm-si-69",
-    "masterId": "dm-si-69-m",
-    "name": "Mashed Potatoes",
-    "location": "Salty's Island",
-    "category": "Dinner Menu",
-    "submenu": "Sides",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Mash Potato (line)",
-        "qty": "1",
-        "unit": "Beige scoop"
-      }
-    ],
-    "steps": [
-      "Take an Ivory scoop and dish into Monkey Dish"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfh91lnyfjfar.jpg"
-    ]
-  },
-  {
     "id": "dm-si-70",
     "masterId": "dm-si-70-m",
     "name": "Cheese Grits",
