@@ -105915,47 +105915,6 @@
     "location": "Palm"
   },
   {
-    "name": "Scampi Sauce Boils",
-    "category": "Dinner Prep",
-    "yield": "1 recipe = 1.4 gallons",
-    "shelfLife": "5 days",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Capri Chablis",
-        "qty": "8",
-        "unit": "oz"
-      },
-      {
-        "name": "Heavy Cream",
-        "qty": "3",
-        "unit": "Ea./ quarts"
-      },
-      {
-        "name": "Scampi Butter",
-        "qty": "1",
-        "unit": "4.5lb. tub"
-      }
-    ],
-    "steps": [
-      "Bring the Wine to a boil",
-      "Thoroughly mix all ingredients",
-      "Place the mix in a Cambro with a lid.",
-      "Label, date, and refrigerate"
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cg6wmyxxu02.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgn840r4a2g.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgrfw892zrh.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8cgx5bz1pk3s.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv8ch15c715r6v.png"
-    ],
-    "id": "m-mv8ch7bnifeb4q",
-    "masterId": "dp-nb-38-m",
-    "location": "CDS"
-  },
-  {
     "name": "Poke Sauce",
     "category": "Dinner Prep",
     "yield": "4 / 32 oz. squeeze bottles",
@@ -119167,6 +119126,206 @@
     ],
     "id": "m-mw1704aeg0nqbw",
     "masterId": "bp-sausage-patties-m",
+    "location": "CDS"
+  },
+  {
+    "name": "Stone Crab Claws Dinner",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab (Med or Lrg)",
+        "qty": "2",
+        "unit": "1 Lb. portions"
+      },
+      {
+        "name": "Scampi Sauce",
+        "qty": "1.5",
+        "unit": "4oz ladles"
+      }
+    ],
+    "steps": [
+      "COLD:",
+      "Crab is fully cooked and will be ideally served cold",
+      "Use back of oyster shucker to crack claws",
+      "Arrange neatly on the correct plate",
+      "Expo:",
+      "2 lemons, 4oz cup Stone (Mustard) Sauce, Dinner knife, Mallet",
+      "Plateware:",
+      "Lined 1/4 Tray ",
+      "HOT:",
+      "Place crab portions into a pot of water or a steamer.",
+      "Cook for approximately 3-4 minutes.",
+      "Lift and drain the claws before placing on a plate for expo",
+      "Expo use back of oyster shucker to crack claws",
+      "Place on correct plateware",
+      "Expo:",
+      "2 lemons, Dinner knife, Mallet",
+      "Plateware:",
+      "Pasta Bowl, Dinner knife, Mallet"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_3.jpg"
+    ],
+    "id": "m-mw3v33fvb6f5dn",
+    "masterId": "m-mw3uxl8sxf5mcu",
+    "location": "CBG"
+  },
+  {
+    "name": "Stone Crab Claws Dinner",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab (Med or Lrg)",
+        "qty": "2",
+        "unit": "1 Lb. portions"
+      },
+      {
+        "name": "Scampi Sauce",
+        "qty": "1.5",
+        "unit": "4oz ladles"
+      }
+    ],
+    "steps": [
+      "COLD:",
+      "Crab is fully cooked and will be ideally served cold",
+      "Use back of oyster shucker to crack claws",
+      "Arrange neatly on the correct plate",
+      "Expo:",
+      "2 lemons, 4oz cup Stone (Mustard) Sauce, Dinner knife, Mallet",
+      "Plateware:",
+      "Lined 1/4 Tray ",
+      "HOT:",
+      "Place crab portions into a pot of water or a steamer.",
+      "Cook for approximately 3-4 minutes.",
+      "Lift and drain the claws before placing on a plate for expo",
+      "Expo use back of oyster shucker to crack claws",
+      "Place on correct plateware",
+      "Expo:",
+      "2 lemons, Dinner knife, Mallet",
+      "Plateware:",
+      "Pasta Bowl, Dinner knife, Mallet"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_3.jpg"
+    ],
+    "id": "m-mw3v33ba19zenl",
+    "masterId": "m-mw3uxl8sxf5mcu",
+    "location": "Palm"
+  },
+  {
+    "name": "Stone Crab Claws Dinner",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab (Med or Lrg)",
+        "qty": "2",
+        "unit": "1 Lb. portions"
+      },
+      {
+        "name": "Scampi Sauce",
+        "qty": "1.5",
+        "unit": "4oz ladles"
+      }
+    ],
+    "steps": [
+      "COLD:",
+      "Crab is fully cooked and will be ideally served cold",
+      "Use back of oyster shucker to crack claws",
+      "Arrange neatly on the correct plate",
+      "Expo:",
+      "2 lemons, 4oz cup Stone (Mustard) Sauce, Dinner knife, Mallet",
+      "Plateware:",
+      "Lined 1/4 Tray ",
+      "HOT:",
+      "Place crab portions into a pot of water or a steamer.",
+      "Cook for approximately 3-4 minutes.",
+      "Lift and drain the claws before placing on a plate for expo",
+      "Expo use back of oyster shucker to crack claws",
+      "Place on correct plateware",
+      "Expo:",
+      "2 lemons, Dinner knife, Mallet",
+      "Plateware:",
+      "Pasta Bowl, Dinner knife, Mallet"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_3.jpg"
+    ],
+    "id": "m-mw3v32chfr5rz7",
+    "masterId": "m-mw3uxl8sxf5mcu",
+    "location": "Salty Crab North Beach"
+  },
+  {
+    "name": "Stone Crab Claws Dinner",
+    "category": "Dinner Menu",
+    "submenu": "Offshore",
+    "yield": "",
+    "shelfLife": "",
+    "smallware": "",
+    "ingredients": [
+      {
+        "name": "Stone Crab (Med or Lrg)",
+        "qty": "2",
+        "unit": "1 Lb. portions"
+      },
+      {
+        "name": "Scampi Sauce",
+        "qty": "1.5",
+        "unit": "4oz ladles"
+      }
+    ],
+    "steps": [
+      "COLD:",
+      "Crab is fully cooked and will be ideally served cold",
+      "Use back of oyster shucker to crack claws",
+      "Arrange neatly on the correct plate",
+      "Expo:",
+      "2 lemons, 4oz cup Stone (Mustard) Sauce, Dinner knife, Mallet",
+      "Plateware:",
+      "Lined 1/4 Tray ",
+      "HOT:",
+      "Place crab portions into a pot of water or a steamer.",
+      "Cook for approximately 3-4 minutes.",
+      "Lift and drain the claws before placing on a plate for expo",
+      "Expo use back of oyster shucker to crack claws",
+      "Place on correct plateware",
+      "Expo:",
+      "2 lemons, Dinner knife, Mallet",
+      "Plateware:",
+      "Pasta Bowl, Dinner knife, Mallet"
+    ],
+    "notes": "",
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_0.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_1.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_2.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/Jonah_Claws_Dinner_3.jpg"
+    ],
+    "id": "m-mw3uxl8s9wxwz1",
+    "masterId": "m-mw3uxl8sxf5mcu",
     "location": "CDS"
   }
 ]
