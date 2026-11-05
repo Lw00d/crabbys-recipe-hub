@@ -6854,59 +6854,9 @@
     "location": "CBG"
   },
   {
-    "name": "Biscuits & Gravy",
-    "category": "Breakfast Menu",
-    "submenu": "Breakfast Entrees",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Butter AA",
-        "qty": "",
-        "unit": "Brush Egg Pan"
-      },
-      {
-        "name": "Eggs (as requested)",
-        "qty": "2",
-        "unit": "each"
-      },
-      {
-        "name": "Buttermilk Biscuit",
-        "qty": "2",
-        "unit": "each (4 halves)"
-      },
-      {
-        "name": "Sausage Gravy",
-        "qty": "2",
-        "unit": "4oz ladle"
-      }
-    ],
-    "steps": [
-      "Reheat 2 precooked biscuits in the microwave for 10 seconds.",
-      "Cook two eggs as requested.",
-      "Pour sausage gravy on top of the biscuits, cover evenly",
-      "Plate the eggs next to the biscuits.",
-      "Plateware:",
-      " Dinner Plate",
-      "Expo:",
-      " "
-    ],
-    "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvto6108qemojg.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpef60vbvxnqj.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvto64bpgjtwxp.png"
-    ],
-    "id": "m-ms4sy9eur0xqac",
-    "masterId": "bm-nb-34-m",
-    "location": "Salty's Island",
-    "active": false
-  },
-  {
     "name": "Biscuit & Gravy",
     "category": "Breakfast Menu",
-    "submenu": "Sides",
+    "submenu": "Breakfast Entrees",
     "yield": "",
     "shelfLife": "",
     "smallware": "",
@@ -6946,12 +6896,11 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnu7m6k42m24.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw4bhmiykqo.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw9toxb7zah.png"
     ],
     "id": "m-ms4sxsmwg3vfoz",
-    "masterId": "bm-biscuit-gravy-m",
+    "masterId": "m-mw3vbrarsap9kh",
     "location": "Salty's Island"
   },
   {
@@ -61583,51 +61532,6 @@
     ]
   },
   {
-    "id": "bm-cbg-37",
-    "masterId": "bm-biscuits-gravy-m",
-    "name": "Biscuits and Gravy",
-    "location": "CBG",
-    "category": "Breakfast Menu",
-    "submenu": "Breakfast Entrees",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Butter AA",
-        "qty": "Brush",
-        "unit": "Egg Pan"
-      },
-      {
-        "name": "Eggs",
-        "qty": "2",
-        "unit": "Each"
-      },
-      {
-        "name": "Biscuit",
-        "qty": "2",
-        "unit": "Each"
-      },
-      {
-        "name": "Sausage Gravy",
-        "qty": "2",
-        "unit": "4oz ladles"
-      }
-    ],
-    "steps": [
-      "Use the toaster to heat biscuits if they are not hot",
-      "Place biscuits on the plate open-faced",
-      "Cover biscuits with hot sausage gravy",
-      "Place eggs next to biscuits",
-      "Plateware:",
-      "Expo:",
-      "Gravy - if on the expo side"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
-  },
-  {
     "id": "bm-cbg-38",
     "masterId": "bm-cbg-38-m",
     "name": "Scrambler",
@@ -62522,7 +62426,7 @@
   {
     "id": "bm-cbg-48",
     "masterId": "bm-biscuit-gravy-m",
-    "name": "Biscuit & Gravy",
+    "name": "Biscuit & Gravy Side",
     "location": "CBG",
     "category": "Breakfast Menu",
     "submenu": "Sides",
@@ -62539,41 +62443,24 @@
         "name": "Sausage Gravy",
         "qty": "1",
         "unit": "4oz ladle"
-      },
-      {
-        "qty": "2",
-        "qty2": "",
-        "unit": "each",
-        "name": "Eggs"
-      },
-      {
-        "qty": "Pan ",
-        "qty2": "",
-        "unit": "Brushed",
-        "name": "Butter AA"
       }
     ],
     "steps": [
-      "Start cooking the eggs as requested",
       "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
       "Pour 1- 4 oz ladle of sausage gravy on top of the biscuit, cover evenly",
-      "Place the eggs alongside the biscuit and gravy",
       "Plateware:",
       "Dinner Plate",
-      "Expo:",
-      "Potatoes, if on the expo line"
+      "Expo:"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnu7m6k42m24.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw4bhmiykqo.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw9toxb7zah.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnu7m6k42m24.png"
     ]
   },
   {
     "id": "bm-nb-20",
     "masterId": "bm-biscuit-gravy-m",
-    "name": "Biscuit & Gravy",
+    "name": "Biscuit & Gravy Side",
     "location": "Salty Crab North Beach",
     "category": "Breakfast Menu",
     "submenu": "Sides",
@@ -62590,35 +62477,18 @@
         "name": "Sausage Gravy",
         "qty": "1",
         "unit": "4oz ladle"
-      },
-      {
-        "qty": "2",
-        "qty2": "",
-        "unit": "each",
-        "name": "Eggs"
-      },
-      {
-        "qty": "Pan ",
-        "qty2": "",
-        "unit": "Brushed",
-        "name": "Butter AA"
       }
     ],
     "steps": [
-      "Start cooking the eggs as requested",
       "Toast 1 precooked biscuit, place it in the toaster, or the microwave for 10 seconds.",
       "Pour 1- 4 oz ladle of sausage gravy on top of the biscuit, cover evenly",
-      "Place the eggs alongside the biscuit and gravy",
       "Plateware:",
       "Dinner Plate",
-      "Expo:",
-      "Potatoes, if on the expo line"
+      "Expo:"
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnu7m6k42m24.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw4bhmiykqo.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnw9toxb7zah.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtnu7m6k42m24.png"
     ]
   },
   {
@@ -64046,50 +63916,6 @@
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkbcmmn8fq3f.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvfkbgrdg6xvea.png"
     ]
-  },
-  {
-    "id": "bm-si-19",
-    "masterId": "bm-biscuits-gravy-m",
-    "name": "Biscuit and Gravy",
-    "location": "Salty's Island",
-    "category": "Breakfast Menu",
-    "submenu": "Breakfast Entrees",
-    "yield": "",
-    "shelfLife": "",
-    "smallware": "",
-    "ingredients": [
-      {
-        "name": "Butter AA",
-        "qty": "Brush",
-        "unit": "Egg pan"
-      },
-      {
-        "name": "Eggs",
-        "qty": "2",
-        "unit": "Each"
-      },
-      {
-        "name": "Biscuit",
-        "qty": "1",
-        "unit": "Each"
-      },
-      {
-        "name": "Sausage Gravy",
-        "qty": "1",
-        "unit": "4oz ladle"
-      }
-    ],
-    "steps": [
-      "In a clean buttered 8\" pan",
-      "Cook 2 eggs as requested",
-      "Use the toaster to heat the biscuit",
-      "Place the biscuit on the plate, open centers faced up",
-      "Cover biscuits with hot sausage gravy, then",
-      "Place eggs next to biscuits, so they're on top of the gravy on the plate"
-    ],
-    "notes": "",
-    "images": [],
-    "active": false
   },
   {
     "id": "bm-si-20",
