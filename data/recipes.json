@@ -5607,7 +5607,7 @@
       "Just long enough to put some grill marks on them",
       "*Oven Cooking*",
       "These should be cooked to order",
-      "Place the amount needed in a 350-degree oven for 4-5 minutes ",
+      "Place the amount needed in a 350°F oven for 4-5 minutes ",
       "Place them on the plate along the main item ",
       "Plateware:",
       "Entrée -on the plate",
@@ -20588,7 +20588,9 @@
       "Large Dinner Plate"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw526jt6aoaf1c.jpg"
+    ]
   },
   {
     "id": "dm-nb-8",
@@ -58860,7 +58862,7 @@
     "steps": [
       "*Oven Cooking*",
       "These should be cooked to order",
-      "Place them in an oven at 350 degrees for 4-5 minutes ",
+      "Place them in an oven at 350°F for 4-5 minutes ",
       "Place them on the plate along the main item ",
       "*Microwave Cooking*",
       "Place the amount needed into the Turbo Microwave for 10 seconds",
@@ -61487,7 +61489,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpf5y1zzktckr.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpf5y1zzktckr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw528h6d13pkj0.jpeg"
     ]
   },
   {
@@ -61539,7 +61542,8 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpf5y1zzktckr.png"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvpf5y1zzktckr.png",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw528h6d13pkj0.jpeg"
     ]
   },
   {
@@ -65169,7 +65173,7 @@
       "Just long enough to put some grill marks on them",
       "*Oven Cooking*",
       "These should be cooked to order",
-      "Place the amount needed in a 350-degree oven for 4-5 minutes ",
+      "Place the amount needed in a 350°F oven for 4-5 minutes ",
       "Place them on the plate along the main item ",
       "Plateware:",
       "Entrée -on the plate",
