@@ -6991,7 +6991,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Cuban Bread (Sandwich)",
+        "name": "Bread Choice",
         "qty": "1",
         "unit": "Portion"
       },
@@ -7017,10 +7017,14 @@
       }
     ],
     "steps": [
-      "Butter the Cuban bread and place it on the flat top to get toasted on both sides",
+      "Butter the bread and place it on the flat top to get toasted on both sides",
       "Start cooking eggs as requested",
       "Once toasted, spread Avocado mix on the bread",
-      "Place eggs & meat on the plate next to the toast"
+      "Place eggs & meat on the plate next to the toast",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      ""
     ],
     "notes": "",
     "images": [
@@ -7040,7 +7044,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Cuban Bread (Sandwich)",
+        "name": "Bread Choice",
         "qty": "1",
         "unit": "Portion"
       },
@@ -7066,10 +7070,14 @@
       }
     ],
     "steps": [
-      "Butter the Cuban bread and place it on the flat top to get toasted on both sides",
+      "Butter the bread and place it on the flat top to get toasted on both sides",
       "Start cooking eggs as requested",
       "Once toasted, spread Avocado mix on the bread",
-      "Place eggs & meat on the plate next to the toast"
+      "Place eggs & meat on the plate next to the toast",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      ""
     ],
     "notes": "",
     "images": [
@@ -57987,7 +57995,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Bread (Cuban/ Texas)",
+        "name": "Bread of Choice",
         "qty": "1",
         "unit": "Portion"
       },
@@ -58019,7 +58027,7 @@
       "Lightly butter the requested bread",
       "Toast just the inside of the Cuban bread, or both side of Texas toast. Place it on the flat top for about 30 -40 seconds",
       "Heat the Meat on the flat top till hot",
-      "On the bottom section of the Cuban bread, place the Eggs",
+      "On the bottom section of the bread, place the Eggs",
       "Now, place the Cheese on top, then",
       "Place the Meat on top",
       "Place the top section of the bread on top",
@@ -58050,7 +58058,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Bread (Cuban/ Texas)",
+        "name": "Bread of Choice",
         "qty": "1",
         "unit": "Portion"
       },
@@ -58082,7 +58090,7 @@
       "Lightly butter the requested bread",
       "Toast just the inside of the Cuban bread, or both side of Texas toast. Place it on the flat top for about 30 -40 seconds",
       "Heat the Meat on the flat top till hot",
-      "On the bottom section of the Cuban bread, place the Eggs",
+      "On the bottom section of the bread, place the Eggs",
       "Now, place the Cheese on top, then",
       "Place the Meat on top",
       "Place the top section of the bread on top",
@@ -60387,32 +60395,37 @@
     "smallware": "",
     "ingredients": [],
     "steps": [
+      "*Sunny Side Up*",
       "Crack two eggs in a lightly buttered 8\" pan",
       "Do not break the yoke",
       "Cook till the whites (bottoms) are cooked firm, (very little, to no clear runny liquid)",
-      "Crack two eggs in a 8oz deli container, and whisk eggs till completely mixed",
-      "Add to a lightly buttered 8\" pan",
-      "Scrambled can be cooked to a Loose = runny, Medium = little liquid, Hard/ Dry = completely cooked dry",
+      "*Scrambled*",
+      "Take a ladle of liquid eggs",
+      "Add to a lightly buttered 8\" pan, stirring continuously",
+      "*Scrambled can be cooked to a Loose = runny, Medium = little liquid, Hard/ Dry = completely cooked dry*",
+      "*Over Easy*",
       "Crack the two eggs in a lightly buttered 8\" pan",
       "Do not break the yoke",
       "Once the bottoms are just about cooked (a loose base)",
       "Cover the eggs with a lid, add a splash of water to steam the tops",
       "Pull eggs off grill as the tops turn a white coloring",
+      "*Over Medium*",
       "Crack two eggs in a lightly buttered 8\" pan",
       "Do not break the yoke",
       "Once the bottoms are cooked (a firm base)",
       "Cover the eggs with a lid and add a splash of water to steam top",
       "Pull eggs off grill as the tops are white color",
+      "*Over Hard*",
       "Crack two eggs in a lightly buttered 8\" pan",
       "Do not break the yoke, yet!",
       "Once the bottoms are just about cooked (a firm base, crust forming long edge). Either flip the eggs over, or break the yoke then flip over",
       "Cook completely till yokes are firm",
+      "*Poached*",
       "In a hot Poaching Pan, spray cups with Pan spray,",
-      "Add eggs to cups",
-      "Cover till cook to desired doneness:",
-      "Soft Poach - will roughly take 3 to 4 minutes",
-      "Medium Poach - will roughly take 4 to 5 minutes",
-      "Hard Poach - will roughly take 6 to 7 minutes"
+      "Add eggs to cups, Cover till cook to desired doneness",
+      "*Soft Poach - will roughly take 2 to 3 minutes*",
+      "*Medium Poach - will roughly take 3 to 4 minutes*",
+      "*Hard Poach - will roughly take 5 to 6 minutes*"
     ],
     "notes": "",
     "images": []
@@ -64655,7 +64668,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Cuban Bread (Sandwich)",
+        "name": "Bread Choice",
         "qty": "1",
         "unit": "Portion"
       },
@@ -64681,10 +64694,14 @@
       }
     ],
     "steps": [
-      "Butter the Cuban bread and place it on the flat top to get toasted on both sides",
+      "Butter the bread and place it on the flat top to get toasted on both sides",
       "Start cooking eggs as requested",
       "Once toasted, spread Avocado mix on the bread",
-      "Place eggs & meat on the plate next to the toast"
+      "Place eggs & meat on the plate next to the toast",
+      "Plateware:",
+      "Dinner plate",
+      "Expo:",
+      ""
     ],
     "notes": "",
     "images": [
@@ -115953,6 +115970,12 @@
         "name": "Cheddar Cheese",
         "qty": "2",
         "unit": "Weight oz"
+      },
+      {
+        "qty": "1",
+        "qty2": "",
+        "unit": "Slice ",
+        "name": "Toast"
       }
     ],
     "steps": [
