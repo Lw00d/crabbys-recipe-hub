@@ -4784,7 +4784,7 @@
     "location": "CDS"
   },
   {
-    "name": "Coconut Rice",
+    "name": "Coconut Rice Side",
     "category": "Dinner Menu",
     "submenu": "Sides",
     "yield": "",
@@ -4803,7 +4803,8 @@
       "Expo:",
       "Toasted coconut",
       "Plateware:",
-      "Entrée - directly on plate, Solo - Small Bowl"
+      "Entrée - directly on plate",
+      " Solo - Small Bowl"
     ],
     "notes": "",
     "images": [
@@ -4814,7 +4815,7 @@
     "location": "CBG"
   },
   {
-    "name": "Coconut Rice",
+    "name": "Coconut Rice Side",
     "category": "Dinner Menu",
     "submenu": "Sides",
     "yield": "",
@@ -4833,7 +4834,8 @@
       "Expo:",
       "Toasted coconut",
       "Plateware:",
-      "Entrée - directly on plate, Solo - Small Bowl"
+      "Entrée - directly on plate",
+      " Solo - Small Bowl"
     ],
     "notes": "",
     "images": [
@@ -5630,7 +5632,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Texas Toast",
+        "name": "Bread Choice",
         "qty": "2",
         "unit": "Slices"
       },
@@ -5666,7 +5668,7 @@
       }
     ],
     "steps": [
-      "Butter the Texas Toast, place it on the flattop",
+      "Butter the choice of Bread, place it on the flattop",
       "Toast on both sides,",
       "Brush an 8\" egg pan with butter",
       "Cook eggs as requested",
@@ -5701,7 +5703,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Texas Toast",
+        "name": "Bread Choice",
         "qty": "2",
         "unit": "Slices"
       },
@@ -5737,7 +5739,7 @@
       }
     ],
     "steps": [
-      "Butter the Texas Toast, place it on the flattop",
+      "Butter the choice of Bread, place it on the flattop",
       "Toast on both sides,",
       "Brush an 8\" egg pan with butter",
       "Cook eggs as requested",
@@ -15021,20 +15023,22 @@
       }
     ],
     "steps": [
+      "**To keep avocado green, place half of the avocado with pit removed in boiling water for 10 seconds, then place in ice water bath for 1 minute until cooled. Once cooled, remove skin and dice like normal**",
       "Chop avocado into 1/4\"-1/2\" pieces",
       "Cut each cherry tomato into 4 pieces",
       "Dice the onion into small pieces",
       "Add olive oil, lime juice, and salt, and mix gently",
       "Try not to break avocados down to mush",
       "Date and label a 1/6 pan, and store it in a cooler",
-      "**To keep avocado green, place half of the avocado with pit removed in boiling water for 10 seconds, then place in ice water bath for 1 minute until cooled. Once cooled, remove skin and dice like normal**",
       "Yields: 1- 4\" lined 1/3 pan"
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rib8ogw60kg.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw54eu5kilc0tu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw54guejqs3mu0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rigxs5mnbqc.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqq53vy8fwxqc.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rix28ty3mtl.jpg"
     ]
@@ -15136,20 +15140,22 @@
       }
     ],
     "steps": [
+      "**To keep avocado green, place half of the avocado with pit removed in boiling water for 10 seconds, then place in ice water bath for 1 minute until cooled. Once cooled, remove skin and dice like normal**",
       "Chop avocado into 1/4\"-1/2\" pieces",
       "Cut each cherry tomato into 4 pieces",
       "Dice the onion into small pieces",
       "Add olive oil, lime juice, and salt, and mix gently",
       "Try not to break avocados down to mush",
       "Date and label a 1/6 pan, and store it in a cooler",
-      "**To keep avocado green, place half of the avocado with pit removed in boiling water for 10 seconds, then place in ice water bath for 1 minute until cooled. Once cooled, remove skin and dice like normal**",
       "Yields: 1- 4\" lined 1/3 pan"
     ],
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rib8ogw60kg.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw54eu5kilc0tu.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw54guejqs3mu0.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rigxs5mnbqc.jpg",
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rinlqj7fxff.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvqq53vy8fwxqc.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mv6rix28ty3mtl.jpg"
     ]
@@ -23567,7 +23573,7 @@
   {
     "id": "dm-nb-54",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab 1.5#",
+    "name": "Bairdi 1.5",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -23607,7 +23613,7 @@
   {
     "id": "dm-pl-6",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab 1.5#",
+    "name": "Bairdi 1.5",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -24436,7 +24442,7 @@
   {
     "id": "dm-nb-68",
     "masterId": "dm-nb-68-m",
-    "name": "Bowl Ahi Tuna Bowl",
+    "name": "Bowl Ahi Tuna",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24509,7 +24515,7 @@
   {
     "id": "dm-nb-69",
     "masterId": "dm-nb-69-m",
-    "name": "Bowl Chicken Bowl",
+    "name": "Bowl Chicken",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24575,7 +24581,7 @@
   {
     "id": "dm-nb-70",
     "masterId": "dm-nb-70-m",
-    "name": "Bowl Grouper Bowl",
+    "name": "Bowl Grouper ",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24648,7 +24654,7 @@
   {
     "id": "dm-nb-71",
     "masterId": "dm-nb-71-m",
-    "name": "Bowl Shrimp Bowl",
+    "name": "Bowl Shrimp",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24723,7 +24729,7 @@
   {
     "id": "dm-nb-72",
     "masterId": "dm-nb-72-m",
-    "name": "Bowl Steak Bowl",
+    "name": "Bowl Steak ",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24793,7 +24799,7 @@
   {
     "id": "dm-nb-73",
     "masterId": "dm-nb-73-m",
-    "name": "Boil Crab Boil",
+    "name": "Boil Crab",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24828,11 +24834,10 @@
       }
     ],
     "steps": [
-      "NOTE: Served with either Cajun Sauce or **Scampi Sauce is (GLUTEN FREE)",
-      "*CLASSIC = 1 portion bag of each item*",
-      "*JUMBO = 2 portion bags of each item*",
-      "Crab Preparation:",
-      "Steamed:",
+      "*NOTE: Served with either Cajun Sauce or **Scampi Sauce is (GLUTEN FREE)*",
+      "*CLASSIC = 1 portion bag*",
+      "*JUMBO = 2 portion bags*",
+      "Crab Preparation Steamed:",
       "Place 1- 3/4 # crab portions (one cluster for CLASSIC)/ ( JUMBO -2 crab portions) into the pot of water.",
       "Cook for approximately 5 minutes",
       "Check the knuckle of the crab to make sure it is hot",
@@ -24855,7 +24860,7 @@
   {
     "id": "dm-nb-74",
     "masterId": "dm-nb-74-m",
-    "name": "Boil Shrimp Boil",
+    "name": "Boil Shrimp",
     "location": "Salty Crab North Beach",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -24890,22 +24895,19 @@
       }
     ],
     "steps": [
-      "NOTE: Served with either Cajun Sauce or GLUTEN-FREE Scampi Sauce",
-      "CLASSIC = 1 portion bag of each item",
-      "JUMBO = 2 portions bag of each item",
+      "*NOTE: Served with either Cajun Sauce or GLUTEN-FREE Scampi Sauce*",
+      "CLASSIC = 1 portion bag of shrimp",
+      "JUMBO = 2 portions bag of shrimp",
       "Add 1 bag of shrimp for Classic / Jumbo 2 portions to the sauté pan with Scampi Sauce, or Cajun butter",
       "Add sausage and any add-on protein to the sauté pan at this time",
-      "Place a lemon bag in the beer tray and pour in the entire shrimp or crab",
+      "Place a lemon bag in the beer tray and pour the entire shrimp mix in",
       "Fold the bag over so the steam stays in the bag, and give it to the expo to finish.",
-      "Boil Sauces (EXPO):",
+      " (EXPO) Boil Sauces:",
       "SCAMPI STYLE = 4oz SCAMPI SAUCE (GLUTEN FREE)",
       "CAJUN STYLE = 4oz CAJUN SAUCE",
-      "Expo:",
       "2 Lemon, fingerling potatoes and corn",
       "Plateware:",
-      "Lined Round Blue tray",
-      "Classic 1 Shrimp Portion",
-      "Jumbo Shrimp 2 Portion"
+      "Lined Round Blue tray"
     ],
     "notes": "",
     "images": []
@@ -27471,7 +27473,7 @@
   {
     "id": "dm-si-22",
     "masterId": "dm-ahi-tuna-m",
-    "name": "Bowl Ahi Tuna",
+    "name": "Bowl Ahi Tuna ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -27726,7 +27728,7 @@
   {
     "id": "dm-si-24",
     "masterId": "dm-si-24-m",
-    "name": "Chicken Bowl",
+    "name": "Bowl Chicken ",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -27816,7 +27818,7 @@
   {
     "id": "dm-si-26",
     "masterId": "dm-si-26-m",
-    "name": "Chicken Tacos 3",
+    "name": "Chicken Tacos 2",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -28427,7 +28429,7 @@
   {
     "id": "dm-si-36",
     "masterId": "dm-si-36-m",
-    "name": "1.5# Bairdi Portion Grilled /Fire Roasted",
+    "name": "Bairdi 1.5",
     "location": "Salty's Island",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -28446,7 +28448,7 @@
       "Place crab portions into boil pot or steamer.",
       "Cook for approximately 5 minutes.",
       "Pull and drain water off crab before plating",
-      "FIREROASTED / GRILLED:",
+      "FIREROASTED/GRILLED:",
       "Place the drained boiled crab on large sizzler pan.",
       "Coat generously with garlic spread and old bay,",
       "Then place in oven for 2 to 3 minutes or until seasoning is golden brown.",
@@ -31979,8 +31981,7 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Alligator_Bites_(All_stores)_0.jpg",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Alligator_Bites_(All_stores)_1.jpg"
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/cds-app_Alligator_Bites_(All_stores)_0.jpg"
     ]
   },
   {
@@ -32606,7 +32607,6 @@
     ],
     "notes": "",
     "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2bp0zsy8gaai.png",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw2by2sz7ddsia.png"
     ]
   },
@@ -33245,7 +33245,7 @@
   {
     "id": "dm-pl-45",
     "masterId": "dm-pl-45-m",
-    "name": "Boom-Boom Lobster Tacos",
+    "name": "Boom-Boom Lobster Tacos 2",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Tacos / Bowls",
@@ -33951,7 +33951,7 @@
   {
     "id": "dm-pl-58",
     "masterId": "dm-pl-58-m",
-    "name": "Bairdi 3/4# & Ribs",
+    "name": "Bairdi 3/4 & Ribs",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34018,7 +34018,7 @@
   {
     "id": "dm-pl-59",
     "masterId": "dm-pl-59-m",
-    "name": "Bairdi 3/4# & Shrimp",
+    "name": "Bairdi 3/4 & Shrimp",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34111,7 +34111,7 @@
   {
     "id": "dm-pl-60",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi 3/4# & Filet Mignon",
+    "name": "Bairdi 3/4 & Filet Mignon",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34187,7 +34187,7 @@
   {
     "id": "dm-pl-61",
     "masterId": "dm-pl-61-m",
-    "name": "Bairdi 3/4# & Ribeye",
+    "name": "Bairdi 3/4 & Ribeye",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34391,7 +34391,7 @@
   {
     "id": "dm-pl-64",
     "masterId": "dm-pl-64-m",
-    "name": "Bairdi 3/4# & Fresh Catch",
+    "name": "Bairdi 3/4 & Fresh Catch",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -34671,7 +34671,7 @@
   {
     "id": "dm-pl-70",
     "masterId": "dm-pl-70-m",
-    "name": "Cilantro Rice",
+    "name": "Coconut Rice side",
     "location": "Palm",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -34680,20 +34680,26 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Cilantro Rice",
+        "name": "Coconut Rice",
         "qty": "1",
         "unit": "Ivory Scoop"
+      },
+      {
+        "qty": "Sprinkle ",
+        "qty2": "",
+        "unit": "On Top ",
+        "name": "Toasted Coconut Flakes"
       }
     ],
     "steps": [
       "Plateware:",
       "Side -Place directly on the plate",
-      "Premium Side - Small Blue bowl"
+      "Premium Side - Small Blue bowl",
+      "Expo:",
+      "Sprinkle Toasted Coconut flakes on top "
     ],
     "notes": "",
-    "images": [
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw28tqklppoahs.png"
-    ]
+    "images": []
   },
   {
     "id": "dm-pl-71",
@@ -35788,10 +35794,12 @@
       "Expo:",
       "Tortilla Chips, spoon",
       "Plateware:",
-      "8oz rarebit / Lined Round basket / Spoon"
+      "8oz rarebit / See Plate Chart / Spoon"
     ],
     "notes": "",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mw52li904yzies.png"
+    ]
   },
   {
     "id": "dm-cbg-22",
@@ -57842,7 +57850,7 @@
     "smallware": "",
     "ingredients": [
       {
-        "name": "Texas Toast",
+        "name": "Bread Choice",
         "qty": "2",
         "unit": "Slices"
       },
@@ -57878,7 +57886,7 @@
       }
     ],
     "steps": [
-      "Butter the Texas Toast, place it on the flattop",
+      "Butter the choice of Bread, place it on the flattop",
       "Toast on both sides,",
       "Brush an 8\" egg pan with butter",
       "Cook eggs as requested",
@@ -63334,7 +63342,7 @@
   {
     "id": "bm-si-14",
     "masterId": "bm-si-14-m",
-    "name": "Benedict Crab",
+    "name": "Benedict Crabby",
     "location": "Salty's Island",
     "category": "Breakfast Menu",
     "submenu": "Breakfast Entrees",
@@ -70121,7 +70129,7 @@
   {
     "id": "dm-cds-48",
     "masterId": "dm-cds-48-m",
-    "name": "Bairdi 3/4# & Scallops",
+    "name": "Bairdi 3/4 & Scallops",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70178,7 +70186,7 @@
   {
     "id": "dm-cds-49",
     "masterId": "dm-cds-49-m",
-    "name": "Bairdi 3/4# & Grouper 5.5oz",
+    "name": "Bairdi 3/4 & Grouper Sandw",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70244,7 +70252,7 @@
   {
     "id": "dm-cds-50",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi 3/4# & Filet Mignon",
+    "name": "Bairdi 3/4 & Filet Mignon",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70320,7 +70328,7 @@
   {
     "id": "dm-cds-51",
     "masterId": "dm-cds-51-m",
-    "name": "Bairdi 3/4# & EZ Peel 3/4#",
+    "name": "Bairdi 3/4 & EZ Peel 3/4",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -70396,7 +70404,7 @@
   {
     "id": "dm-cds-52",
     "masterId": "dm-cds-52-m",
-    "name": "Bairdi 3/4# & Crab Cake",
+    "name": "Bairdi 3/4 & Crab Cake",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73040,7 +73048,7 @@
   {
     "id": "dm-cbg-72",
     "masterId": "dm-cds-48-m",
-    "name": "Bairdi 3/4# & Scallops",
+    "name": "Bairdi 3/4 & Scallops",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73097,7 +73105,7 @@
   {
     "id": "dm-cbg-73",
     "masterId": "dm-cds-49-m",
-    "name": "Bairdi 3/4# & Grouper 5.5oz",
+    "name": "Bairdi 3/4 & Grouper Sandw",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73163,7 +73171,7 @@
   {
     "id": "dm-cbg-74",
     "masterId": "dm-pl-60-m",
-    "name": "Bairdi 3/4# & Filet Mignon",
+    "name": "Bairdi 3/4 & Filet Mignon",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73239,7 +73247,7 @@
   {
     "id": "dm-cbg-75",
     "masterId": "dm-cbg-75-m",
-    "name": "Bairdi 3/4# & EZ Peel 1/2#",
+    "name": "Bairdi 3/4 & EZ Peel 1/2",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -73294,7 +73302,7 @@
   {
     "id": "dm-cbg-76",
     "masterId": "dm-cbg-76-m",
-    "name": "Bairdi 3/4# & Crab Cake",
+    "name": "Bairdi 3/4 & Crab Cake",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Combos",
@@ -75125,7 +75133,7 @@
   {
     "id": "dm-cds-80",
     "masterId": "dm-cds-80-m",
-    "name": "Brussels Roasted side",
+    "name": "Brussels Roasted Side",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -75142,7 +75150,8 @@
     "steps": [
       "Take a yellow spoodle and place them directly on the plate, or into a monkey dish",
       "Plateware:",
-      "Entrée - directly on plate, Solo - Small Bowl"
+      "Entrée - directly on plate",
+      "Solo - Small Bowl"
     ],
     "notes": "",
     "images": [
@@ -75332,7 +75341,7 @@
   {
     "id": "dm-cds-87",
     "masterId": "dm-cds-87-m",
-    "name": "Coconut Rice",
+    "name": "Coconut Rice Side",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -75352,7 +75361,8 @@
       "Expo:",
       "Toasted coconut",
       "Plateware:",
-      "Entrée - directly on plate, Solo - Small Bowl"
+      "Entrée - directly on plate",
+      " Solo - Small Bowl"
     ],
     "notes": "",
     "images": [
@@ -75853,7 +75863,7 @@
   {
     "id": "dm-cds-99",
     "masterId": "dm-bairdi-crab-1-5-m",
-    "name": "Bairdi Crab 1.5#",
+    "name": "Bairdi 1.5",
     "location": "CDS",
     "category": "Dinner Menu",
     "submenu": "Offshore",
@@ -77443,7 +77453,6 @@
     "notes": "",
     "images": [
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtqx7cgpx3ga0.png",
-      "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtqxnxjnqo0ov.jpg",
       "https://raw.githubusercontent.com/Lw00d/crabbys-recipe-hub/main/images/mvtqzog5lzzi3t.png"
     ]
   },
@@ -77919,7 +77928,7 @@
   {
     "id": "dm-cbg-121",
     "masterId": "dm-cbg-121-m",
-    "name": "Black Beans/Rice",
+    "name": "Black Beans & Rice",
     "location": "CBG",
     "category": "Dinner Menu",
     "submenu": "Sides",
@@ -80121,15 +80130,17 @@
       }
     ],
     "steps": [
-      "Steamed: Place crab portions into a boiling pot or steamer.",
+      "Steamed:",
+      "Place crab portions into a boiling pot or steamer.",
       "Cook for approximately 5 minutes.",
-      "Drain before plating onto a 1/4 lined tray",
-      "Grilled: Place drained boiled crab on a large sizzler pan.",
+      "Drain well before plating onto a 1/4 lined tray",
+      "Grilled/Fire Roasted:",
+      " Place the drained boiled crab on a large sizzler-pan.",
       "Coat generously with garlic spread and Old Bay,",
       "Place in a salamander or 450°F oven for 2 to 3 minutes or until seasoning is golden brown.",
       "Place the crab on the lined 1/4 tray",
       "Expo:",
-      "Lemon wedge, 4oz of butter",
+      "Sides, Lemon wedge, 4oz of butter",
       "Plateware:",
       "Lined 1/4 Aluminum sheet tray"
     ],
