@@ -5592,13 +5592,23 @@
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "Each per order",
+        "name": "Chicken Sausage Pre-Cooked "
+      }
+    ],
     "steps": [
-      "With Entrée 2 ea.",
-      "As Solo side 2 ea.",
+      "*Microwave Cooking*",
       "Cook in a turbo micro for 10 seconds",
-      "Remove from microwave, or place on the Char grill for 3-5 minutes while turning,",
+      "Remove from the microwave, or place on the Char grill for 3-5 minutes while turning. ",
       "Just long enough to put some grill marks on them",
+      "*Oven Cooking*",
+      "These should be cooked to order",
+      "Place the amount needed in a 350-degree oven for 4-5 minutes ",
+      "Place them on the plate along the main item ",
       "Plateware:",
       "Entrée -on the plate",
       "Solo Side-on App plate"
@@ -58833,7 +58843,7 @@
   {
     "id": "bm-pl-22",
     "masterId": "bm-pl-22-m",
-    "name": "Side Chicken Sausage",
+    "name": "Chicken Sausage Side ",
     "location": "Palm",
     "category": "Breakfast Menu",
     "submenu": "Sides",
@@ -58848,8 +58858,17 @@
       }
     ],
     "steps": [
-      "With entrée - 2 pieces on the plate",
-      "Solo side - 2 pieces on App Plate"
+      "*Oven Cooking*",
+      "These should be cooked to order",
+      "Place them in an oven at 350 degrees for 4-5 minutes ",
+      "Place them on the plate along the main item ",
+      "*Microwave Cooking*",
+      "Place the amount needed into the Turbo Microwave for 10 seconds",
+      "Remove from the microwave, or place on the Char grill for 3-5 minutes while turning. Just long enough to put some grill marks on them",
+      "Place them on the plate along the main item ",
+      "*Plateware*",
+      "With entrée - on the plate",
+      "Solo side - on an App Plate"
     ],
     "notes": "",
     "images": [
@@ -65135,13 +65154,23 @@
     "yield": "",
     "shelfLife": "",
     "smallware": "",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "qty": "2",
+        "qty2": "",
+        "unit": "Each per order",
+        "name": "Chicken Sausage Pre-Cooked "
+      }
+    ],
     "steps": [
-      "With Entrée 2 ea.",
-      "As Solo side 2 ea.",
+      "*Microwave Cooking*",
       "Cook in a turbo micro for 10 seconds",
-      "Remove from microwave, or place on the Char grill for 3-5 minutes while turning,",
+      "Remove from the microwave, or place on the Char grill for 3-5 minutes while turning. ",
       "Just long enough to put some grill marks on them",
+      "*Oven Cooking*",
+      "These should be cooked to order",
+      "Place the amount needed in a 350-degree oven for 4-5 minutes ",
+      "Place them on the plate along the main item ",
       "Plateware:",
       "Entrée -on the plate",
       "Solo Side-on App plate"
